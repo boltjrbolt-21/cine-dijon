@@ -1,0 +1,3 @@
+# Caches Python produits a l'execution du collecteur
+__pycache__/
+*.pyc

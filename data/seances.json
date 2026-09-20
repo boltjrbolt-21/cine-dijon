@@ -1,5 +1,5 @@
 {
- "genere_le": "2026-09-20T22:27:45+00:00",
+ "genere_le": "2026-09-20T23:50:47+00:00",
  "source": "AlloCiné",
  "ville": "Dijon et agglomération",
  "jours": [
@@ -17,6 +17,7 @@
  "salles": [
   {
    "code": "P2788",
+   "reservation": "https://dijon.cineville.fr/",
    "nom": "Cinéville Dijon",
    "alias": "ex-Olympia",
    "ville": "Dijon",
@@ -38,6 +39,7 @@
   },
   {
    "code": "W2101",
+   "reservation": "https://www.pathe.fr/cinemas/cinema-pathe-dijon",
    "nom": "Pathé Dijon",
    "alias": "",
    "ville": "Dijon",
@@ -56,6 +58,7 @@
   },
   {
    "code": "P0771",
+   "reservation": "https://www.pathe.fr/cinemas/cinema-cine-cap-vert",
    "nom": "Ciné Cap Vert",
    "alias": "",
    "ville": "Quetigny",
@@ -77,6 +80,7 @@
   },
   {
    "code": "P0120",
+   "reservation": "https://www.ticketingcine.com/cine/XPH3YLKO.html",
    "nom": "Le Darcy",
    "alias": "",
    "ville": "Dijon",
@@ -96,6 +100,7 @@
   },
   {
    "code": "P0121",
+   "reservation": "https://www.ticketingcine.com/cine/8LR6XUG6.html",
    "nom": "Eldorado",
    "alias": "",
    "ville": "Dijon",
@@ -117,6 +122,7 @@
   },
   {
    "code": "W2100",
+   "reservation": "",
    "nom": "Cinémathèque Jean Douchet",
    "alias": "Cinémathèque régionale de Bourgogne",
    "ville": "Dijon",
@@ -183,7 +189,7 @@
      "version": "VF",
      "sme": false,
      "avant_premiere": false,
-     "billetterie": "https://relay.mvtx.us/ticketing/dbz?code_theater=P2788&gid_entity=movie.movie._.1000018854&tags=Localization.Language.French,Showtime.Accessibility.Dubbed,Format.Projection.Digital,Showtime.Accessibility.Accessible&perfd=20260921&perft=13:45"
+     "billetterie": null
     },
     {
      "salle": "W2101",
@@ -207,7 +213,7 @@
      "version": "VF",
      "sme": false,
      "avant_premiere": false,
-     "billetterie": "https://relay.mvtx.us/ticketing/dbz?code_theater=P2788&gid_entity=movie.movie._.1000018854&tags=Localization.Language.French,Showtime.Accessibility.Dubbed,Format.Projection.Digital,Showtime.Accessibility.Accessible&perfd=20260921&perft=16:00"
+     "billetterie": null
     },
     {
      "salle": "W2101",
@@ -247,7 +253,7 @@
      "version": "VF",
      "sme": false,
      "avant_premiere": false,
-     "billetterie": "https://relay.mvtx.us/ticketing/dbz?code_theater=P2788&gid_entity=movie.movie._.1000018854&tags=Localization.Language.French,Showtime.Accessibility.Dubbed,Format.Projection.Digital,Showtime.Accessibility.Accessible&perfd=20260921&perft=20:30"
+     "billetterie": null
     },
     {
      "salle": "W2101",
@@ -287,7 +293,7 @@
      "version": "VF",
      "sme": false,
      "avant_premiere": false,
-     "billetterie": "https://relay.mvtx.us/ticketing/dbz?code_theater=P2788&gid_entity=movie.movie._.1000018854&tags=Localization.Language.French,Showtime.Accessibility.Dubbed,Format.Projection.Digital,Showtime.Accessibility.Accessible&perfd=20260922&perft=13:45"
+     "billetterie": null
     },
     {
      "salle": "W2101",
@@ -311,7 +317,7 @@
      "version": "VF",
      "sme": false,
      "avant_premiere": false,
-     "billetterie": "https://relay.mvtx.us/ticketing/dbz?code_theater=P2788&gid_entity=movie.movie._.1000018854&tags=Localization.Language.French,Showtime.Accessibility.Dubbed,Format.Projection.Digital,Showtime.Accessibility.Accessible&perfd=20260922&perft=16:00"
+     "billetterie": null
     },
     {
      "salle": "W2101",
@@ -351,7 +357,7 @@
      "version": "VO",
      "sme": false,
      "avant_premiere": false,
-     "billetterie": "https://relay.mvtx.us/ticketing/dbz?code_theater=P2788&gid_entity=movie.movie._.1000018854&tags=Localization.Version.Original,Format.Projection.Digital,Showtime.Accessibility.Accessible&perfd=20260922&perft=20:15"
+     "billetterie": null
     },
     {
      "salle": "W2101",
@@ -407,7 +413,7 @@
      "version": "VF",
      "sme": false,
      "avant_premiere": false,
-     "billetterie": "https://relay.mvtx.us/ticketing/dbz?code_theater=P2788&gid_entity=movie.movie._.317219&tags=Localization.Language.French,Showtime.Accessibility.Dubbed,Format.Projection.Digital,Showtime.Accessibility.Accessible&perfd=20260921&perft=14:00"
+     "billetterie": null
     },
     {
      "salle": "W2101",
@@ -431,7 +437,7 @@
      "version": "VF",
      "sme": false,
      "avant_premiere": false,
-     "billetterie": "https://relay.mvtx.us/ticketing/dbz?code_theater=P2788&gid_entity=movie.movie._.317219&tags=Localization.Language.French,Showtime.Accessibility.Dubbed,Format.Projection.Digital,Showtime.Accessibility.Accessible&perfd=20260921&perft=16:15"
+     "billetterie": null
     },
     {
      "salle": "W2101",
@@ -471,7 +477,7 @@
      "version": "VO",
      "sme": false,
      "avant_premiere": false,
-     "billetterie": "https://relay.mvtx.us/ticketing/dbz?code_theater=P2788&gid_entity=movie.movie._.317219&tags=Localization.Version.Original,Format.Projection.Digital,Showtime.Accessibility.Accessible&perfd=20260921&perft=20:45"
+     "billetterie": null
     },
     {
      "salle": "P0771",
@@ -495,7 +501,7 @@
      "version": "VO",
      "sme": false,
      "avant_premiere": false,
-     "billetterie": "https://relay.mvtx.us/ticketing/dbz?code_theater=P2788&gid_entity=movie.movie._.317219&tags=Localization.Version.Original,Format.Projection.Digital,Showtime.Accessibility.Accessible&perfd=20260922&perft=14:00"
+     "billetterie": null
     },
     {
      "salle": "W2101",
@@ -519,7 +525,7 @@
      "version": "VF",
      "sme": false,
      "avant_premiere": false,
-     "billetterie": "https://relay.mvtx.us/ticketing/dbz?code_theater=P2788&gid_entity=movie.movie._.317219&tags=Localization.Language.French,Showtime.Accessibility.Dubbed,Format.Projection.Digital,Showtime.Accessibility.Accessible&perfd=20260922&perft=16:15"
+     "billetterie": null
     },
     {
      "salle": "W2101",
@@ -559,7 +565,7 @@
      "version": "VO",
      "sme": false,
      "avant_premiere": false,
-     "billetterie": "https://relay.mvtx.us/ticketing/dbz?code_theater=P2788&gid_entity=movie.movie._.317219&tags=Localization.Version.Original,Format.Projection.Digital,Showtime.Accessibility.Accessible&perfd=20260922&perft=20:45"
+     "billetterie": null
     },
     {
      "salle": "P0771",
@@ -642,7 +648,7 @@
      "version": "VF",
      "sme": false,
      "avant_premiere": false,
-     "billetterie": "https://relay.mvtx.us/ticketing/dbz?code_theater=P2788&gid_entity=movie.movie._.1000004458&tags=Localization.Language.French,Showtime.Accessibility.Dubbed,Format.Projection.Digital,Showtime.Accessibility.Accessible&perfd=20260921&perft=16:00"
+     "billetterie": null
     },
     {
      "salle": "P0771",
@@ -658,7 +664,7 @@
      "version": "VF",
      "sme": false,
      "avant_premiere": false,
-     "billetterie": "https://relay.mvtx.us/ticketing/dbz?code_theater=P2788&gid_entity=movie.movie._.1000004458&tags=Localization.Language.French,Showtime.Accessibility.Dubbed,Format.Projection.Digital,Showtime.Accessibility.Accessible&perfd=20260921&perft=18:15"
+     "billetterie": null
     },
     {
      "salle": "P0771",
@@ -722,7 +728,7 @@
      "version": "VF",
      "sme": false,
      "avant_premiere": false,
-     "billetterie": "https://relay.mvtx.us/ticketing/dbz?code_theater=P2788&gid_entity=movie.movie._.1000004458&tags=Localization.Language.French,Showtime.Accessibility.Dubbed,Format.Projection.Digital,Showtime.Accessibility.Accessible&perfd=20260922&perft=16:00"
+     "billetterie": null
     },
     {
      "salle": "P0771",
@@ -738,7 +744,7 @@
      "version": "VF",
      "sme": false,
      "avant_premiere": false,
-     "billetterie": "https://relay.mvtx.us/ticketing/dbz?code_theater=P2788&gid_entity=movie.movie._.1000004458&tags=Localization.Language.French,Showtime.Accessibility.Dubbed,Format.Projection.Digital,Showtime.Accessibility.Accessible&perfd=20260922&perft=18:15"
+     "billetterie": null
     },
     {
      "salle": "P0771",
@@ -762,7 +768,7 @@
      "version": "VF",
      "sme": false,
      "avant_premiere": false,
-     "billetterie": "https://relay.mvtx.us/ticketing/dbz?code_theater=P2788&gid_entity=movie.movie._.1000004458&tags=Localization.Language.French,Showtime.Accessibility.Dubbed,Format.Projection.Digital,Showtime.Accessibility.Accessible&perfd=20260922&perft=20:30"
+     "billetterie": null
     },
     {
      "salle": "P0771",
@@ -835,7 +841,7 @@
      "version": "VF",
      "sme": false,
      "avant_premiere": false,
-     "billetterie": "https://relay.mvtx.us/ticketing/dbz?code_theater=P2788&gid_entity=movie.movie._.1000032856&tags=Localization.Language.French,Format.Projection.Digital,Showtime.Accessibility.Accessible&perfd=20260921&perft=14:15"
+     "billetterie": null
     },
     {
      "salle": "P0771",
@@ -851,7 +857,7 @@
      "version": "VF",
      "sme": true,
      "avant_premiere": false,
-     "billetterie": "https://relay.mvtx.us/ticketing/dbz?code_theater=P2788&gid_entity=movie.movie._.1000032856&tags=Localization.Language.French,Format.Projection.Digital,Showtime.Accessibility.Accessible,Showtime.Accessibility.OpenCaption&perfd=20260921&perft=16:15"
+     "billetterie": null
     },
     {
      "salle": "P0771",
@@ -883,7 +889,7 @@
      "version": "VF",
      "sme": false,
      "avant_premiere": false,
-     "billetterie": "https://relay.mvtx.us/ticketing/dbz?code_theater=P2788&gid_entity=movie.movie._.1000032856&tags=Localization.Language.French,Format.Projection.Digital,Showtime.Accessibility.Accessible&perfd=20260921&perft=20:45"
+     "billetterie": null
     },
     {
      "salle": "W2101",
@@ -907,7 +913,7 @@
      "version": "VF",
      "sme": false,
      "avant_premiere": false,
-     "billetterie": "https://relay.mvtx.us/ticketing/dbz?code_theater=P2788&gid_entity=movie.movie._.1000032856&tags=Localization.Language.French,Format.Projection.Digital,Showtime.Accessibility.Accessible&perfd=20260922&perft=14:15"
+     "billetterie": null
     },
     {
      "salle": "W2101",
@@ -931,7 +937,7 @@
      "version": "VF",
      "sme": false,
      "avant_premiere": false,
-     "billetterie": "https://relay.mvtx.us/ticketing/dbz?code_theater=P2788&gid_entity=movie.movie._.1000032856&tags=Localization.Language.French,Format.Projection.Digital,Showtime.Accessibility.Accessible&perfd=20260922&perft=16:15"
+     "billetterie": null
     },
     {
      "salle": "P0771",
@@ -963,7 +969,7 @@
      "version": "VF",
      "sme": false,
      "avant_premiere": false,
-     "billetterie": "https://relay.mvtx.us/ticketing/dbz?code_theater=P2788&gid_entity=movie.movie._.1000032856&tags=Localization.Language.French,Format.Projection.Digital,Showtime.Accessibility.Accessible&perfd=20260922&perft=20:45"
+     "billetterie": null
     }
    ]
   },
@@ -1006,7 +1012,7 @@
      "version": "VO",
      "sme": false,
      "avant_premiere": false,
-     "billetterie": "https://relay.mvtx.us/ticketing/dbz?code_theater=P2788&gid_entity=movie.movie._.276608&tags=Localization.Version.Original,Format.Projection.Digital,Format.Projection.Laser,Showtime.Accessibility.Accessible&perfd=20260921&perft=13:45"
+     "billetterie": null
     },
     {
      "salle": "W2101",
@@ -1030,7 +1036,7 @@
      "version": "VF",
      "sme": false,
      "avant_premiere": false,
-     "billetterie": "https://relay.mvtx.us/ticketing/dbz?code_theater=P2788&gid_entity=movie.movie._.276608&tags=Localization.Language.French,Showtime.Accessibility.Dubbed,Format.Projection.Digital,Format.Projection.Laser,Showtime.Accessibility.Accessible&perfd=20260921&perft=17:00"
+     "billetterie": null
     },
     {
      "salle": "P0771",
@@ -1054,7 +1060,7 @@
      "version": "VF",
      "sme": false,
      "avant_premiere": false,
-     "billetterie": "https://relay.mvtx.us/ticketing/dbz?code_theater=P2788&gid_entity=movie.movie._.276608&tags=Localization.Language.French,Showtime.Accessibility.Dubbed,Format.Projection.Digital,Format.Projection.Laser,Showtime.Accessibility.Accessible&perfd=20260921&perft=20:15"
+     "billetterie": null
     },
     {
      "salle": "P0771",
@@ -1078,7 +1084,7 @@
      "version": "VF",
      "sme": false,
      "avant_premiere": false,
-     "billetterie": "https://relay.mvtx.us/ticketing/dbz?code_theater=P2788&gid_entity=movie.movie._.276608&tags=Localization.Language.French,Showtime.Accessibility.Dubbed,Format.Projection.Digital,Format.Projection.Laser,Showtime.Accessibility.Accessible&perfd=20260922&perft=13:45"
+     "billetterie": null
     },
     {
      "salle": "W2101",
@@ -1102,7 +1108,7 @@
      "version": "VF",
      "sme": false,
      "avant_premiere": false,
-     "billetterie": "https://relay.mvtx.us/ticketing/dbz?code_theater=P2788&gid_entity=movie.movie._.276608&tags=Localization.Language.French,Showtime.Accessibility.Dubbed,Format.Projection.Digital,Format.Projection.Laser,Showtime.Accessibility.Accessible&perfd=20260922&perft=17:15"
+     "billetterie": null
     },
     {
      "salle": "P0771",
@@ -1134,7 +1140,7 @@
      "version": "VF",
      "sme": false,
      "avant_premiere": false,
-     "billetterie": "https://relay.mvtx.us/ticketing/dbz?code_theater=P2788&gid_entity=movie.movie._.276608&tags=Localization.Language.French,Showtime.Accessibility.Dubbed,Format.Projection.Digital,Showtime.Accessibility.Accessible&perfd=20260922&perft=20:30"
+     "billetterie": null
     },
     {
      "salle": "P0771",
@@ -1183,7 +1189,7 @@
      "version": "VF",
      "sme": false,
      "avant_premiere": false,
-     "billetterie": "https://relay.mvtx.us/ticketing/dbz?code_theater=P2788&gid_entity=movie.movie._.1000013045&tags=Localization.Language.French,Showtime.Accessibility.Dubbed,Format.Projection.Digital,Showtime.Accessibility.Accessible&perfd=20260921&perft=14:00"
+     "billetterie": null
     },
     {
      "salle": "W2101",
@@ -1207,7 +1213,7 @@
      "version": "VF",
      "sme": false,
      "avant_premiere": false,
-     "billetterie": "https://relay.mvtx.us/ticketing/dbz?code_theater=P2788&gid_entity=movie.movie._.1000013045&tags=Localization.Language.French,Showtime.Accessibility.Dubbed,Format.Projection.Digital,Showtime.Accessibility.Accessible&perfd=20260921&perft=16:30"
+     "billetterie": null
     },
     {
      "salle": "P0771",
@@ -1223,7 +1229,7 @@
      "version": "VO",
      "sme": false,
      "avant_premiere": false,
-     "billetterie": "https://relay.mvtx.us/ticketing/dbz?code_theater=P2788&gid_entity=movie.movie._.1000013045&tags=Localization.Version.Original,Format.Projection.Digital,Showtime.Accessibility.Accessible&perfd=20260921&perft=20:00"
+     "billetterie": null
     },
     {
      "salle": "W2101",
@@ -1247,7 +1253,7 @@
      "version": "VO",
      "sme": false,
      "avant_premiere": false,
-     "billetterie": "https://relay.mvtx.us/ticketing/dbz?code_theater=P2788&gid_entity=movie.movie._.1000013045&tags=Localization.Version.Original,Format.Projection.Digital,Showtime.Accessibility.Accessible&perfd=20260922&perft=14:00"
+     "billetterie": null
     },
     {
      "salle": "W2101",
@@ -1271,7 +1277,7 @@
      "version": "VF",
      "sme": false,
      "avant_premiere": false,
-     "billetterie": "https://relay.mvtx.us/ticketing/dbz?code_theater=P2788&gid_entity=movie.movie._.1000013045&tags=Localization.Language.French,Showtime.Accessibility.Dubbed,Format.Projection.Digital,Showtime.Accessibility.Accessible&perfd=20260922&perft=16:30"
+     "billetterie": null
     },
     {
      "salle": "P0771",
@@ -1287,7 +1293,7 @@
      "version": "VF",
      "sme": false,
      "avant_premiere": false,
-     "billetterie": "https://relay.mvtx.us/ticketing/dbz?code_theater=P2788&gid_entity=movie.movie._.1000013045&tags=Localization.Language.French,Showtime.Accessibility.Dubbed,Format.Projection.Digital,Showtime.Accessibility.Accessible&perfd=20260922&perft=20:00"
+     "billetterie": null
     },
     {
      "salle": "W2101",
@@ -1344,7 +1350,7 @@
      "version": "VO",
      "sme": false,
      "avant_premiere": false,
-     "billetterie": "https://relay.mvtx.us/ticketing/dbz?code_theater=P0120&gid_entity=movie.movie._.188280&tags=Localization.Version.Original,Format.Projection.Digital&perfd=20260921&perft=13:45"
+     "billetterie": "https://www.cines-dijon.com/le-darcy/reserver/r/12535"
     },
     {
      "salle": "P0121",
@@ -1352,7 +1358,7 @@
      "version": "VOST",
      "sme": false,
      "avant_premiere": false,
-     "billetterie": "https://relay.mvtx.us/ticketing/dbz?code_theater=P0121&gid_entity=movie.movie._.188280&tags=Showtime.Accessibility.Subtitled,Localization.Version.Original,Format.Projection.Digital&perfd=20260921&perft=14:00&code=VO; SUBTITLE"
+     "billetterie": "https://eldorado.ticketingcine.com#showsession?id=emsx002700038928&ps=webedia"
     },
     {
      "salle": "W2101",
@@ -1368,7 +1374,7 @@
      "version": "VO",
      "sme": false,
      "avant_premiere": false,
-     "billetterie": "https://relay.mvtx.us/ticketing/dbz?code_theater=P0120&gid_entity=movie.movie._.188280&tags=Localization.Version.Original,Format.Projection.Digital&perfd=20260921&perft=20:00"
+     "billetterie": "https://www.cines-dijon.com/le-darcy/reserver/r/12536"
     },
     {
      "salle": "P0120",
@@ -1376,7 +1382,7 @@
      "version": "VO",
      "sme": false,
      "avant_premiere": false,
-     "billetterie": "https://relay.mvtx.us/ticketing/dbz?code_theater=P0120&gid_entity=movie.movie._.188280&tags=Localization.Version.Original,Format.Projection.Digital&perfd=20260922&perft=16:15"
+     "billetterie": "https://www.cines-dijon.com/le-darcy/reserver/r/12556"
     },
     {
      "salle": "W2101",
@@ -1392,7 +1398,7 @@
      "version": "VO",
      "sme": false,
      "avant_premiere": false,
-     "billetterie": "https://relay.mvtx.us/ticketing/dbz?code_theater=P0120&gid_entity=movie.movie._.188280&tags=Localization.Version.Original,Format.Projection.Digital&perfd=20260922&perft=20:00"
+     "billetterie": "https://www.cines-dijon.com/le-darcy/reserver/r/12557"
     },
     {
      "salle": "P0121",
@@ -1400,7 +1406,7 @@
      "version": "VOST",
      "sme": false,
      "avant_premiere": false,
-     "billetterie": "https://relay.mvtx.us/ticketing/dbz?code_theater=P0121&gid_entity=movie.movie._.188280&tags=Showtime.Accessibility.Subtitled,Localization.Version.Original,Format.Projection.Digital&perfd=20260922&perft=20:00&code=VO; SUBTITLE"
+     "billetterie": "https://eldorado.ticketingcine.com#showsession?id=emsx002700038930&ps=webedia"
     },
     {
      "salle": "P0121",
@@ -1408,7 +1414,7 @@
      "version": "VOST",
      "sme": false,
      "avant_premiere": false,
-     "billetterie": "https://relay.mvtx.us/ticketing/dbz?code_theater=P0121&gid_entity=movie.movie._.188280&tags=Showtime.Accessibility.Subtitled,Localization.Version.Original,Format.Projection.Digital&perfd=20260923&perft=17:45&code=VO; SUBTITLE"
+     "billetterie": "https://eldorado.ticketingcine.com#showsession?id=emsx002700038844&ps=webedia"
     },
     {
      "salle": "P0771",
@@ -1424,7 +1430,7 @@
      "version": "VOST",
      "sme": false,
      "avant_premiere": false,
-     "billetterie": "https://relay.mvtx.us/ticketing/dbz?code_theater=P0121&gid_entity=movie.movie._.188280&tags=Showtime.Accessibility.Subtitled,Localization.Version.Original,Format.Projection.Digital&perfd=20260924&perft=17:45&code=VO; SUBTITLE"
+     "billetterie": "https://eldorado.ticketingcine.com#showsession?id=emsx002700038857&ps=webedia"
     },
     {
      "salle": "P0121",
@@ -1432,7 +1438,7 @@
      "version": "VOST",
      "sme": false,
      "avant_premiere": false,
-     "billetterie": "https://relay.mvtx.us/ticketing/dbz?code_theater=P0121&gid_entity=movie.movie._.188280&tags=Showtime.Accessibility.Subtitled,Localization.Version.Original,Format.Projection.Digital&perfd=20260926&perft=17:45&code=VO; SUBTITLE"
+     "billetterie": "https://eldorado.ticketingcine.com#showsession?id=emsx002700038883&ps=webedia"
     },
     {
      "salle": "P0771",
@@ -1505,7 +1511,7 @@
      "version": "VF",
      "sme": false,
      "avant_premiere": false,
-     "billetterie": "https://relay.mvtx.us/ticketing/dbz?code_theater=P2788&gid_entity=movie.movie._.323826&tags=Localization.Language.French,Format.Projection.Digital,Showtime.Accessibility.Accessible&perfd=20260921&perft=14:00"
+     "billetterie": null
     },
     {
      "salle": "P0771",
@@ -1521,7 +1527,7 @@
      "version": "VF",
      "sme": false,
      "avant_premiere": false,
-     "billetterie": "https://relay.mvtx.us/ticketing/dbz?code_theater=P2788&gid_entity=movie.movie._.323826&tags=Localization.Language.French,Format.Projection.Digital,Showtime.Accessibility.Accessible&perfd=20260921&perft=16:15"
+     "billetterie": null
     },
     {
      "salle": "P0771",
@@ -1537,7 +1543,7 @@
      "version": "VF",
      "sme": false,
      "avant_premiere": false,
-     "billetterie": "https://relay.mvtx.us/ticketing/dbz?code_theater=P2788&gid_entity=movie.movie._.323826&tags=Localization.Language.French,Format.Projection.Digital,Showtime.Accessibility.Accessible&perfd=20260921&perft=18:30"
+     "billetterie": null
     },
     {
      "salle": "W2101",
@@ -1553,7 +1559,7 @@
      "version": "VF",
      "sme": false,
      "avant_premiere": false,
-     "billetterie": "https://relay.mvtx.us/ticketing/dbz?code_theater=P2788&gid_entity=movie.movie._.323826&tags=Localization.Language.French,Format.Projection.Digital,Showtime.Accessibility.Accessible&perfd=20260921&perft=20:15"
+     "billetterie": null
     },
     {
      "salle": "W2101",
@@ -1569,7 +1575,7 @@
      "version": "VF",
      "sme": false,
      "avant_premiere": false,
-     "billetterie": "https://relay.mvtx.us/ticketing/dbz?code_theater=P2788&gid_entity=movie.movie._.323826&tags=Localization.Language.French,Format.Projection.Digital,Showtime.Accessibility.Accessible&perfd=20260922&perft=14:00"
+     "billetterie": null
     },
     {
      "salle": "P0771",
@@ -1585,7 +1591,7 @@
      "version": "VF",
      "sme": false,
      "avant_premiere": false,
-     "billetterie": "https://relay.mvtx.us/ticketing/dbz?code_theater=P2788&gid_entity=movie.movie._.323826&tags=Localization.Language.French,Format.Projection.Digital,Showtime.Accessibility.Accessible&perfd=20260922&perft=16:15"
+     "billetterie": null
     },
     {
      "salle": "P0771",
@@ -1601,7 +1607,7 @@
      "version": "VF",
      "sme": false,
      "avant_premiere": false,
-     "billetterie": "https://relay.mvtx.us/ticketing/dbz?code_theater=P2788&gid_entity=movie.movie._.323826&tags=Localization.Language.French,Format.Projection.Digital,Showtime.Accessibility.Accessible&perfd=20260922&perft=18:30"
+     "billetterie": null
     },
     {
      "salle": "W2101",
@@ -1658,7 +1664,7 @@
      "version": "VF",
      "sme": false,
      "avant_premiere": false,
-     "billetterie": "https://relay.mvtx.us/ticketing/dbz?code_theater=P0120&gid_entity=movie.movie._.1000043221&tags=Localization.Language.French,Format.Projection.Digital&perfd=20260921&perft=14:15"
+     "billetterie": "https://www.cines-dijon.com/le-darcy/reserver/r/12520"
     },
     {
      "salle": "P0120",
@@ -1666,7 +1672,7 @@
      "version": "VF",
      "sme": false,
      "avant_premiere": false,
-     "billetterie": "https://relay.mvtx.us/ticketing/dbz?code_theater=P0120&gid_entity=movie.movie._.1000043221&tags=Localization.Language.French,Format.Projection.Digital&perfd=20260921&perft=16:15"
+     "billetterie": "https://www.cines-dijon.com/le-darcy/reserver/r/12521"
     },
     {
      "salle": "P0771",
@@ -1690,7 +1696,7 @@
      "version": "VF",
      "sme": false,
      "avant_premiere": false,
-     "billetterie": "https://relay.mvtx.us/ticketing/dbz?code_theater=P0120&gid_entity=movie.movie._.1000043221&tags=Localization.Language.French,Format.Projection.Digital&perfd=20260921&perft=20:30"
+     "billetterie": "https://www.cines-dijon.com/le-darcy/reserver/r/12522"
     },
     {
      "salle": "P0771",
@@ -1714,7 +1720,7 @@
      "version": "VF",
      "sme": false,
      "avant_premiere": false,
-     "billetterie": "https://relay.mvtx.us/ticketing/dbz?code_theater=P0120&gid_entity=movie.movie._.1000043221&tags=Localization.Language.French,Format.Projection.Digital&perfd=20260922&perft=14:15"
+     "billetterie": "https://www.cines-dijon.com/le-darcy/reserver/r/12541"
     },
     {
      "salle": "P0771",
@@ -1730,7 +1736,7 @@
      "version": "VF",
      "sme": false,
      "avant_premiere": false,
-     "billetterie": "https://relay.mvtx.us/ticketing/dbz?code_theater=P0120&gid_entity=movie.movie._.1000043221&tags=Localization.Language.French,Format.Projection.Digital&perfd=20260922&perft=16:30"
+     "billetterie": "https://www.cines-dijon.com/le-darcy/reserver/r/12542"
     },
     {
      "salle": "P0771",
@@ -1746,7 +1752,7 @@
      "version": "VF",
      "sme": false,
      "avant_premiere": false,
-     "billetterie": "https://relay.mvtx.us/ticketing/dbz?code_theater=P0120&gid_entity=movie.movie._.1000043221&tags=Localization.Language.French,Format.Projection.Digital&perfd=20260922&perft=20:30"
+     "billetterie": "https://www.cines-dijon.com/le-darcy/reserver/r/12543"
     },
     {
      "salle": "P0771",
@@ -1811,7 +1817,7 @@
      "version": "VF",
      "sme": false,
      "avant_premiere": false,
-     "billetterie": "https://relay.mvtx.us/ticketing/dbz?code_theater=P0120&gid_entity=movie.movie._.327941&tags=Localization.Language.French,Format.Projection.Digital&perfd=20260921&perft=16:00"
+     "billetterie": "https://www.cines-dijon.com/le-darcy/reserver/r/12533"
     },
     {
      "salle": "W2101",
@@ -1827,7 +1833,7 @@
      "version": "VF",
      "sme": false,
      "avant_premiere": false,
-     "billetterie": "https://relay.mvtx.us/ticketing/dbz?code_theater=P0120&gid_entity=movie.movie._.327941&tags=Localization.Language.French,Format.Projection.Digital&perfd=20260921&perft=18:15"
+     "billetterie": "https://www.cines-dijon.com/le-darcy/reserver/r/12532"
     },
     {
      "salle": "W2101",
@@ -1843,7 +1849,7 @@
      "version": "VF",
      "sme": false,
      "avant_premiere": false,
-     "billetterie": "https://relay.mvtx.us/ticketing/dbz?code_theater=P0120&gid_entity=movie.movie._.327941&tags=Localization.Language.French,Format.Projection.Digital&perfd=20260921&perft=20:30"
+     "billetterie": "https://www.cines-dijon.com/le-darcy/reserver/r/12534"
     },
     {
      "salle": "W2101",
@@ -1859,7 +1865,7 @@
      "version": "VF",
      "sme": false,
      "avant_premiere": false,
-     "billetterie": "https://relay.mvtx.us/ticketing/dbz?code_theater=P0120&gid_entity=movie.movie._.327941&tags=Localization.Language.French,Format.Projection.Digital&perfd=20260922&perft=14:15"
+     "billetterie": "https://www.cines-dijon.com/le-darcy/reserver/r/12554"
     },
     {
      "salle": "W2101",
@@ -1875,7 +1881,7 @@
      "version": "VF",
      "sme": false,
      "avant_premiere": false,
-     "billetterie": "https://relay.mvtx.us/ticketing/dbz?code_theater=P0120&gid_entity=movie.movie._.327941&tags=Localization.Language.French,Format.Projection.Digital&perfd=20260922&perft=16:30"
+     "billetterie": "https://www.cines-dijon.com/le-darcy/reserver/r/12553"
     },
     {
      "salle": "W2101",
@@ -1899,7 +1905,7 @@
      "version": "VF",
      "sme": false,
      "avant_premiere": false,
-     "billetterie": "https://relay.mvtx.us/ticketing/dbz?code_theater=P0120&gid_entity=movie.movie._.327941&tags=Localization.Language.French,Format.Projection.Digital&perfd=20260922&perft=20:30"
+     "billetterie": "https://www.cines-dijon.com/le-darcy/reserver/r/12555"
     }
    ]
   },
@@ -1941,7 +1947,7 @@
      "version": "VF",
      "sme": false,
      "avant_premiere": false,
-     "billetterie": "https://relay.mvtx.us/ticketing/dbz?code_theater=P0120&gid_entity=movie.movie._.324014&tags=Localization.Language.French,Format.Projection.Digital&perfd=20260921&perft=14:00"
+     "billetterie": "https://www.cines-dijon.com/le-darcy/reserver/r/12523"
     },
     {
      "salle": "W2101",
@@ -1965,7 +1971,7 @@
      "version": "VF",
      "sme": false,
      "avant_premiere": false,
-     "billetterie": "https://relay.mvtx.us/ticketing/dbz?code_theater=P0120&gid_entity=movie.movie._.324014&tags=Localization.Language.French,Format.Projection.Digital&perfd=20260921&perft=16:45"
+     "billetterie": "https://www.cines-dijon.com/le-darcy/reserver/r/12524"
     },
     {
      "salle": "W2101",
@@ -1981,7 +1987,7 @@
      "version": "VF",
      "sme": false,
      "avant_premiere": false,
-     "billetterie": "https://relay.mvtx.us/ticketing/dbz?code_theater=P0120&gid_entity=movie.movie._.324014&tags=Localization.Language.French,Format.Projection.Digital&perfd=20260921&perft=20:15"
+     "billetterie": "https://www.cines-dijon.com/le-darcy/reserver/r/12525"
     },
     {
      "salle": "W2101",
@@ -1997,7 +2003,7 @@
      "version": "VF",
      "sme": false,
      "avant_premiere": false,
-     "billetterie": "https://relay.mvtx.us/ticketing/dbz?code_theater=P0120&gid_entity=movie.movie._.324014&tags=Localization.Language.French,Format.Projection.Digital&perfd=20260922&perft=14:00"
+     "billetterie": "https://www.cines-dijon.com/le-darcy/reserver/r/12544"
     },
     {
      "salle": "W2101",
@@ -2021,7 +2027,7 @@
      "version": "VF",
      "sme": false,
      "avant_premiere": false,
-     "billetterie": "https://relay.mvtx.us/ticketing/dbz?code_theater=P0120&gid_entity=movie.movie._.324014&tags=Localization.Language.French,Format.Projection.Digital&perfd=20260922&perft=16:45"
+     "billetterie": "https://www.cines-dijon.com/le-darcy/reserver/r/12545"
     },
     {
      "salle": "W2101",
@@ -2037,7 +2043,7 @@
      "version": "VF",
      "sme": false,
      "avant_premiere": false,
-     "billetterie": "https://relay.mvtx.us/ticketing/dbz?code_theater=P0120&gid_entity=movie.movie._.324014&tags=Localization.Language.French,Format.Projection.Digital&perfd=20260922&perft=20:15"
+     "billetterie": "https://www.cines-dijon.com/le-darcy/reserver/r/12546"
     },
     {
      "salle": "W2101",
@@ -2087,7 +2093,7 @@
      "version": "VF",
      "sme": false,
      "avant_premiere": false,
-     "billetterie": "https://relay.mvtx.us/ticketing/dbz?code_theater=P2788&gid_entity=movie.movie._.1000019874&tags=Localization.Language.French,Showtime.Accessibility.Dubbed,Format.Projection.Digital,Showtime.Accessibility.Accessible&perfd=20260921&perft=13:45"
+     "billetterie": null
     },
     {
      "salle": "P0771",
@@ -2111,7 +2117,7 @@
      "version": "VF",
      "sme": false,
      "avant_premiere": false,
-     "billetterie": "https://relay.mvtx.us/ticketing/dbz?code_theater=P2788&gid_entity=movie.movie._.1000019874&tags=Localization.Language.French,Showtime.Accessibility.Dubbed,Format.Projection.Digital,Showtime.Accessibility.Accessible&perfd=20260921&perft=17:30"
+     "billetterie": null
     },
     {
      "salle": "P0771",
@@ -2127,7 +2133,7 @@
      "version": "VF",
      "sme": false,
      "avant_premiere": false,
-     "billetterie": "https://relay.mvtx.us/ticketing/dbz?code_theater=P2788&gid_entity=movie.movie._.1000019874&tags=Localization.Language.French,Showtime.Accessibility.Dubbed,Format.Projection.Digital,Showtime.Accessibility.Accessible&perfd=20260921&perft=20:45"
+     "billetterie": null
     },
     {
      "salle": "P0771",
@@ -2143,7 +2149,7 @@
      "version": "VO",
      "sme": false,
      "avant_premiere": false,
-     "billetterie": "https://relay.mvtx.us/ticketing/dbz?code_theater=P2788&gid_entity=movie.movie._.1000019874&tags=Localization.Version.Original,Format.Projection.Digital,Showtime.Accessibility.Accessible&perfd=20260922&perft=14:00"
+     "billetterie": null
     },
     {
      "salle": "P0771",
@@ -2167,7 +2173,7 @@
      "version": "VF",
      "sme": false,
      "avant_premiere": false,
-     "billetterie": "https://relay.mvtx.us/ticketing/dbz?code_theater=P2788&gid_entity=movie.movie._.1000019874&tags=Localization.Language.French,Showtime.Accessibility.Dubbed,Format.Projection.Digital,Showtime.Accessibility.Accessible&perfd=20260922&perft=17:30"
+     "billetterie": null
     },
     {
      "salle": "P0771",
@@ -2183,7 +2189,7 @@
      "version": "VF",
      "sme": false,
      "avant_premiere": false,
-     "billetterie": "https://relay.mvtx.us/ticketing/dbz?code_theater=P2788&gid_entity=movie.movie._.1000019874&tags=Localization.Language.French,Showtime.Accessibility.Dubbed,Format.Projection.Digital,Showtime.Accessibility.Accessible&perfd=20260922&perft=20:15"
+     "billetterie": null
     },
     {
      "salle": "P0771",
@@ -2248,7 +2254,7 @@
      "version": "VF",
      "sme": false,
      "avant_premiere": false,
-     "billetterie": "https://relay.mvtx.us/ticketing/dbz?code_theater=P2788&gid_entity=movie.movie._.1000004679&tags=Localization.Language.French,Showtime.Accessibility.Dubbed,Format.Projection.Digital,Showtime.Accessibility.Accessible&perfd=20260921&perft=16:45"
+     "billetterie": null
     },
     {
      "salle": "P0771",
@@ -2264,7 +2270,7 @@
      "version": "VO",
      "sme": false,
      "avant_premiere": false,
-     "billetterie": "https://relay.mvtx.us/ticketing/dbz?code_theater=P2788&gid_entity=movie.movie._.1000004679&tags=Localization.Version.Original,Format.Projection.Digital,Showtime.Accessibility.Accessible&perfd=20260921&perft=20:15"
+     "billetterie": null
     },
     {
      "salle": "P0771",
@@ -2304,7 +2310,7 @@
      "version": "VF",
      "sme": false,
      "avant_premiere": false,
-     "billetterie": "https://relay.mvtx.us/ticketing/dbz?code_theater=P2788&gid_entity=movie.movie._.1000004679&tags=Localization.Language.French,Showtime.Accessibility.Dubbed,Format.Projection.Digital,Showtime.Accessibility.Accessible&perfd=20260922&perft=16:45"
+     "billetterie": null
     },
     {
      "salle": "P0771",
@@ -2320,7 +2326,7 @@
      "version": "VF",
      "sme": false,
      "avant_premiere": false,
-     "billetterie": "https://relay.mvtx.us/ticketing/dbz?code_theater=P2788&gid_entity=movie.movie._.1000004679&tags=Localization.Language.French,Showtime.Accessibility.Dubbed,Format.Projection.Digital,Showtime.Accessibility.Accessible&perfd=20260922&perft=20:15"
+     "billetterie": null
     },
     {
      "salle": "P0771",
@@ -2377,7 +2383,7 @@
      "version": "VF",
      "sme": false,
      "avant_premiere": false,
-     "billetterie": "https://relay.mvtx.us/ticketing/dbz?code_theater=P0121&gid_entity=movie.movie._.1000026039&tags=Localization.Language.French,Format.Projection.Digital&perfd=20260923&perft=14:00&code=VF"
+     "billetterie": "https://eldorado.ticketingcine.com#showsession?id=emsx002700038832&ps=webedia"
     },
     {
      "salle": "P0121",
@@ -2385,7 +2391,7 @@
      "version": "VF",
      "sme": false,
      "avant_premiere": false,
-     "billetterie": "https://relay.mvtx.us/ticketing/dbz?code_theater=P0121&gid_entity=movie.movie._.1000026039&tags=Localization.Language.French,Format.Projection.Digital&perfd=20260923&perft=20:45&code=VF"
+     "billetterie": "https://eldorado.ticketingcine.com#showsession?id=emsx002700038835&ps=webedia"
     },
     {
      "salle": "P0121",
@@ -2393,7 +2399,7 @@
      "version": "VF",
      "sme": false,
      "avant_premiere": false,
-     "billetterie": "https://relay.mvtx.us/ticketing/dbz?code_theater=P0121&gid_entity=movie.movie._.1000026039&tags=Localization.Language.French,Format.Projection.Digital&perfd=20260924&perft=14:00&code=VF"
+     "billetterie": "https://eldorado.ticketingcine.com#showsession?id=emsx002700038846&ps=webedia"
     },
     {
      "salle": "P0121",
@@ -2401,7 +2407,7 @@
      "version": "VF",
      "sme": false,
      "avant_premiere": false,
-     "billetterie": "https://relay.mvtx.us/ticketing/dbz?code_theater=P0121&gid_entity=movie.movie._.1000026039&tags=Localization.Language.French,Format.Projection.Digital&perfd=20260924&perft=20:45&code=VF"
+     "billetterie": "https://eldorado.ticketingcine.com#showsession?id=emsx002700038849&ps=webedia"
     },
     {
      "salle": "P0121",
@@ -2409,7 +2415,7 @@
      "version": "VF",
      "sme": false,
      "avant_premiere": false,
-     "billetterie": "https://relay.mvtx.us/ticketing/dbz?code_theater=P0121&gid_entity=movie.movie._.1000026039&tags=Localization.Language.French,Format.Projection.Digital&perfd=20260925&perft=14:00&code=VF"
+     "billetterie": "https://eldorado.ticketingcine.com#showsession?id=emsx002700038859&ps=webedia"
     },
     {
      "salle": "P0121",
@@ -2417,7 +2423,7 @@
      "version": "VF",
      "sme": false,
      "avant_premiere": false,
-     "billetterie": "https://relay.mvtx.us/ticketing/dbz?code_theater=P0121&gid_entity=movie.movie._.1000026039&tags=Localization.Language.French,Format.Projection.Digital&perfd=20260925&perft=20:45&code=VF"
+     "billetterie": "https://eldorado.ticketingcine.com#showsession?id=emsx002700038862&ps=webedia"
     },
     {
      "salle": "P0121",
@@ -2425,7 +2431,7 @@
      "version": "VF",
      "sme": false,
      "avant_premiere": false,
-     "billetterie": "https://relay.mvtx.us/ticketing/dbz?code_theater=P0121&gid_entity=movie.movie._.1000026039&tags=Localization.Language.French,Format.Projection.Digital&perfd=20260926&perft=14:00&code=VF"
+     "billetterie": "https://eldorado.ticketingcine.com#showsession?id=emsx002700038871&ps=webedia"
     },
     {
      "salle": "P0121",
@@ -2433,7 +2439,7 @@
      "version": "VF",
      "sme": false,
      "avant_premiere": false,
-     "billetterie": "https://relay.mvtx.us/ticketing/dbz?code_theater=P0121&gid_entity=movie.movie._.1000026039&tags=Localization.Language.French,Format.Projection.Digital&perfd=20260926&perft=20:45&code=VF"
+     "billetterie": "https://eldorado.ticketingcine.com#showsession?id=emsx002700038874&ps=webedia"
     },
     {
      "salle": "P0121",
@@ -2441,7 +2447,7 @@
      "version": "VF",
      "sme": false,
      "avant_premiere": false,
-     "billetterie": "https://relay.mvtx.us/ticketing/dbz?code_theater=P0121&gid_entity=movie.movie._.1000026039&tags=Localization.Language.French,Format.Projection.Digital&perfd=20260927&perft=14:00&code=VF"
+     "billetterie": "https://eldorado.ticketingcine.com#showsession?id=emsx002700038886&ps=webedia"
     },
     {
      "salle": "P0121",
@@ -2449,7 +2455,7 @@
      "version": "VF",
      "sme": false,
      "avant_premiere": false,
-     "billetterie": "https://relay.mvtx.us/ticketing/dbz?code_theater=P0121&gid_entity=movie.movie._.1000026039&tags=Localization.Language.French,Format.Projection.Digital&perfd=20260927&perft=20:45&code=VF"
+     "billetterie": "https://eldorado.ticketingcine.com#showsession?id=emsx002700038893&ps=webedia"
     },
     {
      "salle": "P0121",
@@ -2457,7 +2463,7 @@
      "version": "VF",
      "sme": false,
      "avant_premiere": false,
-     "billetterie": "https://relay.mvtx.us/ticketing/dbz?code_theater=P0121&gid_entity=movie.movie._.1000026039&tags=Localization.Language.French,Format.Projection.Digital&perfd=20260928&perft=14:00&code=VF"
+     "billetterie": "https://eldorado.ticketingcine.com#showsession?id=emsx002700038904&ps=webedia"
     },
     {
      "salle": "P0121",
@@ -2465,7 +2471,7 @@
      "version": "VF",
      "sme": false,
      "avant_premiere": false,
-     "billetterie": "https://relay.mvtx.us/ticketing/dbz?code_theater=P0121&gid_entity=movie.movie._.1000026039&tags=Localization.Language.French,Format.Projection.Digital&perfd=20260928&perft=20:45&code=VF"
+     "billetterie": "https://eldorado.ticketingcine.com#showsession?id=emsx002700038914&ps=webedia"
     },
     {
      "salle": "P0121",
@@ -2473,7 +2479,7 @@
      "version": "VF",
      "sme": false,
      "avant_premiere": false,
-     "billetterie": "https://relay.mvtx.us/ticketing/dbz?code_theater=P0121&gid_entity=movie.movie._.1000026039&tags=Localization.Language.French,Format.Projection.Digital&perfd=20260929&perft=14:00&code=VF"
+     "billetterie": "https://eldorado.ticketingcine.com#showsession?id=emsx002700038915&ps=webedia"
     },
     {
      "salle": "P0121",
@@ -2481,7 +2487,7 @@
      "version": "VF",
      "sme": false,
      "avant_premiere": false,
-     "billetterie": "https://relay.mvtx.us/ticketing/dbz?code_theater=P0121&gid_entity=movie.movie._.1000026039&tags=Localization.Language.French,Format.Projection.Digital&perfd=20260929&perft=20:45&code=VF"
+     "billetterie": "https://eldorado.ticketingcine.com#showsession?id=emsx002700038925&ps=webedia"
     }
    ]
   },
@@ -2523,7 +2529,7 @@
      "version": "VF",
      "sme": false,
      "avant_premiere": false,
-     "billetterie": "https://relay.mvtx.us/ticketing/dbz?code_theater=P0121&gid_entity=movie.movie._.326989&tags=Localization.Language.French,Format.Projection.Digital&perfd=20260923&perft=14:00&code=VF"
+     "billetterie": "https://eldorado.ticketingcine.com#showsession?id=emsx002700038842&ps=webedia"
     },
     {
      "salle": "P0121",
@@ -2531,7 +2537,7 @@
      "version": "VF",
      "sme": false,
      "avant_premiere": false,
-     "billetterie": "https://relay.mvtx.us/ticketing/dbz?code_theater=P0121&gid_entity=movie.movie._.326989&tags=Localization.Language.French,Format.Projection.Digital&perfd=20260923&perft=20:30&code=VF"
+     "billetterie": "https://eldorado.ticketingcine.com#showsession?id=emsx002700038845&ps=webedia"
     },
     {
      "salle": "P0121",
@@ -2539,7 +2545,7 @@
      "version": "VF",
      "sme": false,
      "avant_premiere": false,
-     "billetterie": "https://relay.mvtx.us/ticketing/dbz?code_theater=P0121&gid_entity=movie.movie._.326989&tags=Localization.Language.French,Format.Projection.Digital&perfd=20260924&perft=14:00&code=VF"
+     "billetterie": "https://eldorado.ticketingcine.com#showsession?id=emsx002700038855&ps=webedia"
     },
     {
      "salle": "P0121",
@@ -2547,7 +2553,7 @@
      "version": "VF",
      "sme": false,
      "avant_premiere": false,
-     "billetterie": "https://relay.mvtx.us/ticketing/dbz?code_theater=P0121&gid_entity=movie.movie._.326989&tags=Localization.Language.French,Format.Projection.Digital&perfd=20260924&perft=20:30&code=VF"
+     "billetterie": "https://eldorado.ticketingcine.com#showsession?id=emsx002700038858&ps=webedia"
     },
     {
      "salle": "P0121",
@@ -2555,7 +2561,7 @@
      "version": "VF",
      "sme": false,
      "avant_premiere": false,
-     "billetterie": "https://relay.mvtx.us/ticketing/dbz?code_theater=P0121&gid_entity=movie.movie._.326989&tags=Localization.Language.French,Format.Projection.Digital&perfd=20260925&perft=14:00&code=VF"
+     "billetterie": "https://eldorado.ticketingcine.com#showsession?id=emsx002700038868&ps=webedia"
     },
     {
      "salle": "P0121",
@@ -2563,7 +2569,7 @@
      "version": "VF",
      "sme": false,
      "avant_premiere": false,
-     "billetterie": "https://relay.mvtx.us/ticketing/dbz?code_theater=P0121&gid_entity=movie.movie._.326989&tags=Localization.Language.French,Format.Projection.Digital&perfd=20260925&perft=20:50&code=VF"
+     "billetterie": "https://eldorado.ticketingcine.com#showsession?id=emsx002700038867&ps=webedia"
     },
     {
      "salle": "P0121",
@@ -2571,7 +2577,7 @@
      "version": "VF",
      "sme": false,
      "avant_premiere": false,
-     "billetterie": "https://relay.mvtx.us/ticketing/dbz?code_theater=P0121&gid_entity=movie.movie._.326989&tags=Localization.Language.French,Format.Projection.Digital&perfd=20260926&perft=14:00&code=VF"
+     "billetterie": "https://eldorado.ticketingcine.com#showsession?id=emsx002700038881&ps=webedia"
     },
     {
      "salle": "P0121",
@@ -2579,7 +2585,7 @@
      "version": "VF",
      "sme": false,
      "avant_premiere": false,
-     "billetterie": "https://relay.mvtx.us/ticketing/dbz?code_theater=P0121&gid_entity=movie.movie._.326989&tags=Localization.Language.French,Format.Projection.Digital&perfd=20260926&perft=20:30&code=VF"
+     "billetterie": "https://eldorado.ticketingcine.com#showsession?id=emsx002700038884&ps=webedia"
     },
     {
      "salle": "P0121",
@@ -2587,7 +2593,7 @@
      "version": "VF",
      "sme": false,
      "avant_premiere": false,
-     "billetterie": "https://relay.mvtx.us/ticketing/dbz?code_theater=P0121&gid_entity=movie.movie._.326989&tags=Localization.Language.French,Format.Projection.Digital&perfd=20260927&perft=14:00&code=VF"
+     "billetterie": "https://eldorado.ticketingcine.com#showsession?id=emsx002700038900&ps=webedia"
     },
     {
      "salle": "P0121",
@@ -2595,7 +2601,7 @@
      "version": "VF",
      "sme": false,
      "avant_premiere": false,
-     "billetterie": "https://relay.mvtx.us/ticketing/dbz?code_theater=P0121&gid_entity=movie.movie._.326989&tags=Localization.Language.French,Format.Projection.Digital&perfd=20260927&perft=20:50&code=VF"
+     "billetterie": "https://eldorado.ticketingcine.com#showsession?id=emsx002700038903&ps=webedia"
     },
     {
      "salle": "P0121",
@@ -2603,7 +2609,7 @@
      "version": "VF",
      "sme": false,
      "avant_premiere": false,
-     "billetterie": "https://relay.mvtx.us/ticketing/dbz?code_theater=P0121&gid_entity=movie.movie._.326989&tags=Localization.Language.French,Format.Projection.Digital&perfd=20260928&perft=14:00&code=VF"
+     "billetterie": "https://eldorado.ticketingcine.com#showsession?id=emsx002700038911&ps=webedia"
     },
     {
      "salle": "P0121",
@@ -2611,7 +2617,7 @@
      "version": "VF",
      "sme": false,
      "avant_premiere": false,
-     "billetterie": "https://relay.mvtx.us/ticketing/dbz?code_theater=P0121&gid_entity=movie.movie._.326989&tags=Localization.Language.French,Format.Projection.Digital&perfd=20260928&perft=20:50&code=VF"
+     "billetterie": "https://eldorado.ticketingcine.com#showsession?id=emsx002700038910&ps=webedia"
     },
     {
      "salle": "P0121",
@@ -2619,7 +2625,7 @@
      "version": "VF",
      "sme": false,
      "avant_premiere": false,
-     "billetterie": "https://relay.mvtx.us/ticketing/dbz?code_theater=P0121&gid_entity=movie.movie._.326989&tags=Localization.Language.French,Format.Projection.Digital&perfd=20260929&perft=14:00&code=VF"
+     "billetterie": "https://eldorado.ticketingcine.com#showsession?id=emsx002700038922&ps=webedia"
     },
     {
      "salle": "P0121",
@@ -2627,7 +2633,7 @@
      "version": "VF",
      "sme": false,
      "avant_premiere": false,
-     "billetterie": "https://relay.mvtx.us/ticketing/dbz?code_theater=P0121&gid_entity=movie.movie._.326989&tags=Localization.Language.French,Format.Projection.Digital&perfd=20260929&perft=20:50&code=VF"
+     "billetterie": "https://eldorado.ticketingcine.com#showsession?id=emsx002700038921&ps=webedia"
     }
    ]
   },
@@ -2668,7 +2674,7 @@
      "version": "VOST",
      "sme": false,
      "avant_premiere": false,
-     "billetterie": "https://relay.mvtx.us/ticketing/dbz?code_theater=P0121&gid_entity=movie.movie._.1000042927&tags=Showtime.Accessibility.Subtitled,Localization.Version.Original,Format.Projection.Digital&perfd=20260923&perft=15:45&code=VO; SUBTITLE"
+     "billetterie": "https://eldorado.ticketingcine.com#showsession?id=emsx002700038843&ps=webedia"
     },
     {
      "salle": "P0121",
@@ -2676,7 +2682,7 @@
      "version": "VOST",
      "sme": false,
      "avant_premiere": false,
-     "billetterie": "https://relay.mvtx.us/ticketing/dbz?code_theater=P0121&gid_entity=movie.movie._.1000042927&tags=Showtime.Accessibility.Subtitled,Localization.Version.Original,Format.Projection.Digital&perfd=20260923&perft=19:00&code=VO; SUBTITLE"
+     "billetterie": "https://eldorado.ticketingcine.com#showsession?id=emsx002700038839&ps=webedia"
     },
     {
      "salle": "P0121",
@@ -2684,7 +2690,7 @@
      "version": "VOST",
      "sme": false,
      "avant_premiere": false,
-     "billetterie": "https://relay.mvtx.us/ticketing/dbz?code_theater=P0121&gid_entity=movie.movie._.1000042927&tags=Showtime.Accessibility.Subtitled,Localization.Version.Original,Format.Projection.Digital&perfd=20260924&perft=15:45&code=VO; SUBTITLE"
+     "billetterie": "https://eldorado.ticketingcine.com#showsession?id=emsx002700038856&ps=webedia"
     },
     {
      "salle": "P0121",
@@ -2692,7 +2698,7 @@
      "version": "VOST",
      "sme": false,
      "avant_premiere": false,
-     "billetterie": "https://relay.mvtx.us/ticketing/dbz?code_theater=P0121&gid_entity=movie.movie._.1000042927&tags=Showtime.Accessibility.Subtitled,Localization.Version.Original,Format.Projection.Digital&perfd=20260924&perft=19:00&code=VO; SUBTITLE"
+     "billetterie": "https://eldorado.ticketingcine.com#showsession?id=emsx002700038853&ps=webedia"
     },
     {
      "salle": "P0121",
@@ -2700,7 +2706,7 @@
      "version": "VOST",
      "sme": false,
      "avant_premiere": false,
-     "billetterie": "https://relay.mvtx.us/ticketing/dbz?code_theater=P0121&gid_entity=movie.movie._.1000042927&tags=Showtime.Accessibility.Subtitled,Localization.Version.Original,Format.Projection.Digital&perfd=20260925&perft=16:00&code=VO; SUBTITLE"
+     "billetterie": "https://eldorado.ticketingcine.com#showsession?id=emsx002700038936&ps=webedia"
     },
     {
      "salle": "P0121",
@@ -2708,7 +2714,7 @@
      "version": "VOST",
      "sme": false,
      "avant_premiere": false,
-     "billetterie": "https://relay.mvtx.us/ticketing/dbz?code_theater=P0121&gid_entity=movie.movie._.1000042927&tags=Showtime.Accessibility.Subtitled,Localization.Version.Original,Format.Projection.Digital&perfd=20260925&perft=19:00&code=VO; SUBTITLE"
+     "billetterie": "https://eldorado.ticketingcine.com#showsession?id=emsx002700038866&ps=webedia"
     },
     {
      "salle": "P0121",
@@ -2716,7 +2722,7 @@
      "version": "VOST",
      "sme": false,
      "avant_premiere": false,
-     "billetterie": "https://relay.mvtx.us/ticketing/dbz?code_theater=P0121&gid_entity=movie.movie._.1000042927&tags=Showtime.Accessibility.Subtitled,Localization.Version.Original,Format.Projection.Digital&perfd=20260926&perft=15:45&code=VO; SUBTITLE"
+     "billetterie": "https://eldorado.ticketingcine.com#showsession?id=emsx002700038882&ps=webedia"
     },
     {
      "salle": "P0121",
@@ -2724,7 +2730,7 @@
      "version": "VOST",
      "sme": false,
      "avant_premiere": false,
-     "billetterie": "https://relay.mvtx.us/ticketing/dbz?code_theater=P0121&gid_entity=movie.movie._.1000042927&tags=Showtime.Accessibility.Subtitled,Localization.Version.Original,Format.Projection.Digital&perfd=20260926&perft=19:00&code=VO; SUBTITLE"
+     "billetterie": "https://eldorado.ticketingcine.com#showsession?id=emsx002700038878&ps=webedia"
     },
     {
      "salle": "P0121",
@@ -2732,7 +2738,7 @@
      "version": "VOST",
      "sme": false,
      "avant_premiere": false,
-     "billetterie": "https://relay.mvtx.us/ticketing/dbz?code_theater=P0121&gid_entity=movie.movie._.1000042927&tags=Showtime.Accessibility.Subtitled,Localization.Version.Original,Format.Projection.Digital&perfd=20260927&perft=15:45&code=VO; SUBTITLE"
+     "billetterie": "https://eldorado.ticketingcine.com#showsession?id=emsx002700038901&ps=webedia"
     },
     {
      "salle": "P0121",
@@ -2740,7 +2746,7 @@
      "version": "VOST",
      "sme": false,
      "avant_premiere": false,
-     "billetterie": "https://relay.mvtx.us/ticketing/dbz?code_theater=P0121&gid_entity=movie.movie._.1000042927&tags=Showtime.Accessibility.Subtitled,Localization.Version.Original,Format.Projection.Digital&perfd=20260927&perft=19:00&code=VO; SUBTITLE"
+     "billetterie": "https://eldorado.ticketingcine.com#showsession?id=emsx002700038897&ps=webedia"
     },
     {
      "salle": "P0121",
@@ -2748,7 +2754,7 @@
      "version": "VOST",
      "sme": false,
      "avant_premiere": false,
-     "billetterie": "https://relay.mvtx.us/ticketing/dbz?code_theater=P0121&gid_entity=movie.movie._.1000042927&tags=Showtime.Accessibility.Subtitled,Localization.Version.Original,Format.Projection.Digital&perfd=20260928&perft=16:00&code=VO; SUBTITLE"
+     "billetterie": "https://eldorado.ticketingcine.com#showsession?id=emsx002700038939&ps=webedia"
     },
     {
      "salle": "P0121",
@@ -2756,7 +2762,7 @@
      "version": "VOST",
      "sme": false,
      "avant_premiere": false,
-     "billetterie": "https://relay.mvtx.us/ticketing/dbz?code_theater=P0121&gid_entity=movie.movie._.1000042927&tags=Showtime.Accessibility.Subtitled,Localization.Version.Original,Format.Projection.Digital&perfd=20260928&perft=19:00&code=VO; SUBTITLE"
+     "billetterie": "https://eldorado.ticketingcine.com#showsession?id=emsx002700038909&ps=webedia"
     },
     {
      "salle": "P0121",
@@ -2764,7 +2770,7 @@
      "version": "VOST",
      "sme": false,
      "avant_premiere": false,
-     "billetterie": "https://relay.mvtx.us/ticketing/dbz?code_theater=P0121&gid_entity=movie.movie._.1000042927&tags=Showtime.Accessibility.Subtitled,Localization.Version.Original,Format.Projection.Digital&perfd=20260929&perft=16:00&code=VO; SUBTITLE"
+     "billetterie": "https://eldorado.ticketingcine.com#showsession?id=emsx002700038940&ps=webedia"
     },
     {
      "salle": "P0121",
@@ -2772,7 +2778,7 @@
      "version": "VOST",
      "sme": false,
      "avant_premiere": false,
-     "billetterie": "https://relay.mvtx.us/ticketing/dbz?code_theater=P0121&gid_entity=movie.movie._.1000042927&tags=Showtime.Accessibility.Subtitled,Localization.Version.Original,Format.Projection.Digital&perfd=20260929&perft=19:00&code=VO; SUBTITLE"
+     "billetterie": "https://eldorado.ticketingcine.com#showsession?id=emsx002700038920&ps=webedia"
     }
    ]
   },
@@ -2808,7 +2814,7 @@
      "version": "VOST",
      "sme": false,
      "avant_premiere": false,
-     "billetterie": "https://relay.mvtx.us/ticketing/dbz?code_theater=P0121&gid_entity=movie.movie._.318226&tags=Showtime.Accessibility.Subtitled,Localization.Version.Original,Format.Projection.Digital&perfd=20260921&perft=13:30&code=VO; SUBTITLE"
+     "billetterie": "https://eldorado.ticketingcine.com#showsession?id=emsx002700038815&ps=webedia"
     },
     {
      "salle": "P0121",
@@ -2816,7 +2822,7 @@
      "version": "VOST",
      "sme": false,
      "avant_premiere": false,
-     "billetterie": "https://relay.mvtx.us/ticketing/dbz?code_theater=P0121&gid_entity=movie.movie._.318226&tags=Showtime.Accessibility.Subtitled,Localization.Version.Original,Format.Projection.Digital&perfd=20260921&perft=20:45&code=VO; SUBTITLE"
+     "billetterie": "https://eldorado.ticketingcine.com#showsession?id=emsx002700038814&ps=webedia"
     },
     {
      "salle": "P0121",
@@ -2824,7 +2830,7 @@
      "version": "VOST",
      "sme": false,
      "avant_premiere": false,
-     "billetterie": "https://relay.mvtx.us/ticketing/dbz?code_theater=P0121&gid_entity=movie.movie._.318226&tags=Showtime.Accessibility.Subtitled,Localization.Version.Original,Format.Projection.Digital&perfd=20260922&perft=14:00&code=VO; SUBTITLE"
+     "billetterie": "https://eldorado.ticketingcine.com#showsession?id=emsx002700038827&ps=webedia"
     },
     {
      "salle": "P0121",
@@ -2832,7 +2838,7 @@
      "version": "VOST",
      "sme": false,
      "avant_premiere": false,
-     "billetterie": "https://relay.mvtx.us/ticketing/dbz?code_theater=P0121&gid_entity=movie.movie._.318226&tags=Showtime.Accessibility.Subtitled,Localization.Version.Original,Format.Projection.Digital&perfd=20260922&perft=18:15&code=VO; SUBTITLE"
+     "billetterie": "https://eldorado.ticketingcine.com#showsession?id=emsx002700038825&ps=webedia"
     },
     {
      "salle": "P0121",
@@ -2840,7 +2846,7 @@
      "version": "VOST",
      "sme": false,
      "avant_premiere": false,
-     "billetterie": "https://relay.mvtx.us/ticketing/dbz?code_theater=P0121&gid_entity=movie.movie._.318226&tags=Showtime.Accessibility.Subtitled,Localization.Version.Original,Format.Projection.Digital&perfd=20260923&perft=17:15&code=VO; SUBTITLE"
+     "billetterie": "https://eldorado.ticketingcine.com#showsession?id=emsx002700038838&ps=webedia"
     },
     {
      "salle": "P0121",
@@ -2848,7 +2854,7 @@
      "version": "VOST",
      "sme": false,
      "avant_premiere": false,
-     "billetterie": "https://relay.mvtx.us/ticketing/dbz?code_theater=P0121&gid_entity=movie.movie._.318226&tags=Showtime.Accessibility.Subtitled,Localization.Version.Original,Format.Projection.Digital&perfd=20260924&perft=13:15&code=VO; SUBTITLE"
+     "billetterie": "https://eldorado.ticketingcine.com#showsession?id=emsx002700038934&ps=webedia"
     },
     {
      "salle": "P0121",
@@ -2856,7 +2862,7 @@
      "version": "VOST",
      "sme": false,
      "avant_premiere": false,
-     "billetterie": "https://relay.mvtx.us/ticketing/dbz?code_theater=P0121&gid_entity=movie.movie._.318226&tags=Showtime.Accessibility.Subtitled,Localization.Version.Original,Format.Projection.Digital&perfd=20260925&perft=17:15&code=VO; SUBTITLE"
+     "billetterie": "https://eldorado.ticketingcine.com#showsession?id=emsx002700038865&ps=webedia"
     },
     {
      "salle": "P0121",
@@ -2864,7 +2870,7 @@
      "version": "VOST",
      "sme": false,
      "avant_premiere": false,
-     "billetterie": "https://relay.mvtx.us/ticketing/dbz?code_theater=P0121&gid_entity=movie.movie._.318226&tags=Showtime.Accessibility.Subtitled,Localization.Version.Original,Format.Projection.Digital&perfd=20260926&perft=17:15&code=VO; SUBTITLE"
+     "billetterie": "https://eldorado.ticketingcine.com#showsession?id=emsx002700038877&ps=webedia"
     },
     {
      "salle": "P0121",
@@ -2872,7 +2878,7 @@
      "version": "VOST",
      "sme": false,
      "avant_premiere": false,
-     "billetterie": "https://relay.mvtx.us/ticketing/dbz?code_theater=P0121&gid_entity=movie.movie._.318226&tags=Showtime.Accessibility.Subtitled,Localization.Version.Original,Format.Projection.Digital&perfd=20260927&perft=17:15&code=VO; SUBTITLE"
+     "billetterie": "https://eldorado.ticketingcine.com#showsession?id=emsx002700038896&ps=webedia"
     },
     {
      "salle": "P0121",
@@ -2880,7 +2886,7 @@
      "version": "VOST",
      "sme": false,
      "avant_premiere": false,
-     "billetterie": "https://relay.mvtx.us/ticketing/dbz?code_theater=P0121&gid_entity=movie.movie._.318226&tags=Showtime.Accessibility.Subtitled,Localization.Version.Original,Format.Projection.Digital&perfd=20260928&perft=13:15&code=VO; SUBTITLE"
+     "billetterie": "https://eldorado.ticketingcine.com#showsession?id=emsx002700038937&ps=webedia"
     },
     {
      "salle": "P0121",
@@ -2888,7 +2894,7 @@
      "version": "VOST",
      "sme": false,
      "avant_premiere": false,
-     "billetterie": "https://relay.mvtx.us/ticketing/dbz?code_theater=P0121&gid_entity=movie.movie._.318226&tags=Showtime.Accessibility.Subtitled,Localization.Version.Original,Format.Projection.Digital&perfd=20260929&perft=17:15&code=VO; SUBTITLE"
+     "billetterie": "https://eldorado.ticketingcine.com#showsession?id=emsx002700038919&ps=webedia"
     }
    ]
   },
@@ -2929,7 +2935,7 @@
      "version": "VF",
      "sme": false,
      "avant_premiere": false,
-     "billetterie": "https://relay.mvtx.us/ticketing/dbz?code_theater=P0121&gid_entity=movie.movie._.1000012310&tags=Localization.Language.French,Format.Projection.Digital&perfd=20260921&perft=16:45&code=VF"
+     "billetterie": "https://eldorado.ticketingcine.com#showsession?id=emsx002700038812&ps=webedia"
     },
     {
      "salle": "P0121",
@@ -2937,7 +2943,7 @@
      "version": "VF",
      "sme": false,
      "avant_premiere": false,
-     "billetterie": "https://relay.mvtx.us/ticketing/dbz?code_theater=P0121&gid_entity=movie.movie._.1000012310&tags=Localization.Language.French,Format.Projection.Digital&perfd=20260921&perft=20:45&code=VF"
+     "billetterie": "https://eldorado.ticketingcine.com#showsession?id=emsx002700038810&ps=webedia"
     },
     {
      "salle": "P0121",
@@ -2945,7 +2951,7 @@
      "version": "VF",
      "sme": false,
      "avant_premiere": false,
-     "billetterie": "https://relay.mvtx.us/ticketing/dbz?code_theater=P0121&gid_entity=movie.movie._.1000012310&tags=Localization.Language.French,Format.Projection.Digital&perfd=20260922&perft=16:30&code=VF"
+     "billetterie": "https://eldorado.ticketingcine.com#showsession?id=emsx002700038824&ps=webedia"
     },
     {
      "salle": "P0121",
@@ -2953,7 +2959,7 @@
      "version": "VF",
      "sme": false,
      "avant_premiere": false,
-     "billetterie": "https://relay.mvtx.us/ticketing/dbz?code_theater=P0121&gid_entity=movie.movie._.1000012310&tags=Localization.Language.French,Format.Projection.Digital&perfd=20260922&perft=19:00&code=VF"
+     "billetterie": "https://eldorado.ticketingcine.com#showsession?id=emsx002700038931&ps=webedia"
     },
     {
      "salle": "P0121",
@@ -2961,7 +2967,7 @@
      "version": "VF",
      "sme": false,
      "avant_premiere": false,
-     "billetterie": "https://relay.mvtx.us/ticketing/dbz?code_theater=P0121&gid_entity=movie.movie._.1000012310&tags=Localization.Language.French,Format.Projection.Digital&perfd=20260923&perft=15:30&code=VF"
+     "billetterie": "https://eldorado.ticketingcine.com#showsession?id=emsx002700038837&ps=webedia"
     },
     {
      "salle": "P0121",
@@ -2969,7 +2975,7 @@
      "version": "VF",
      "sme": false,
      "avant_premiere": false,
-     "billetterie": "https://relay.mvtx.us/ticketing/dbz?code_theater=P0121&gid_entity=movie.movie._.1000012310&tags=Localization.Language.French,Format.Projection.Digital&perfd=20260924&perft=15:00&code=VF"
+     "billetterie": "https://eldorado.ticketingcine.com#showsession?id=emsx002700038851&ps=webedia"
     },
     {
      "salle": "P0121",
@@ -2977,7 +2983,7 @@
      "version": "VF",
      "sme": false,
      "avant_premiere": false,
-     "billetterie": "https://relay.mvtx.us/ticketing/dbz?code_theater=P0121&gid_entity=movie.movie._.1000012310&tags=Localization.Language.French,Format.Projection.Digital&perfd=20260925&perft=15:30&code=VF"
+     "billetterie": "https://eldorado.ticketingcine.com#showsession?id=emsx002700038864&ps=webedia"
     },
     {
      "salle": "P0121",
@@ -2985,7 +2991,7 @@
      "version": "VF",
      "sme": false,
      "avant_premiere": false,
-     "billetterie": "https://relay.mvtx.us/ticketing/dbz?code_theater=P0121&gid_entity=movie.movie._.1000012310&tags=Localization.Language.French,Format.Projection.Digital&perfd=20260926&perft=15:30&code=VF"
+     "billetterie": "https://eldorado.ticketingcine.com#showsession?id=emsx002700038876&ps=webedia"
     },
     {
      "salle": "P0121",
@@ -2993,7 +2999,7 @@
      "version": "VF",
      "sme": false,
      "avant_premiere": false,
-     "billetterie": "https://relay.mvtx.us/ticketing/dbz?code_theater=P0121&gid_entity=movie.movie._.1000012310&tags=Localization.Language.French,Format.Projection.Digital&perfd=20260927&perft=15:30&code=VF"
+     "billetterie": "https://eldorado.ticketingcine.com#showsession?id=emsx002700038895&ps=webedia"
     },
     {
      "salle": "P0121",
@@ -3001,7 +3007,7 @@
      "version": "VF",
      "sme": false,
      "avant_premiere": false,
-     "billetterie": "https://relay.mvtx.us/ticketing/dbz?code_theater=P0121&gid_entity=movie.movie._.1000012310&tags=Localization.Language.French,Format.Projection.Digital&perfd=20260928&perft=15:00&code=VF"
+     "billetterie": "https://eldorado.ticketingcine.com#showsession?id=emsx002700038907&ps=webedia"
     },
     {
      "salle": "P0121",
@@ -3009,7 +3015,7 @@
      "version": "VF",
      "sme": false,
      "avant_premiere": false,
-     "billetterie": "https://relay.mvtx.us/ticketing/dbz?code_theater=P0121&gid_entity=movie.movie._.1000012310&tags=Localization.Language.French,Format.Projection.Digital&perfd=20260929&perft=15:30&code=VF"
+     "billetterie": "https://eldorado.ticketingcine.com#showsession?id=emsx002700038918&ps=webedia"
     }
    ]
   },
@@ -3051,7 +3057,7 @@
      "version": "VOST",
      "sme": false,
      "avant_premiere": false,
-     "billetterie": "https://relay.mvtx.us/ticketing/dbz?code_theater=P0121&gid_entity=movie.movie._.319893&tags=Showtime.Accessibility.Subtitled,Localization.Version.Original,Format.Projection.Digital&perfd=20260921&perft=13:45&code=VO; SUBTITLE"
+     "billetterie": "https://eldorado.ticketingcine.com#showsession?id=emsx002700038807&ps=webedia"
     },
     {
      "salle": "P0121",
@@ -3059,7 +3065,7 @@
      "version": "VOST",
      "sme": false,
      "avant_premiere": false,
-     "billetterie": "https://relay.mvtx.us/ticketing/dbz?code_theater=P0121&gid_entity=movie.movie._.319893&tags=Showtime.Accessibility.Subtitled,Localization.Version.Original,Format.Projection.Digital&perfd=20260921&perft=19:00&code=VO; SUBTITLE"
+     "billetterie": "https://eldorado.ticketingcine.com#showsession?id=emsx002700038809&ps=webedia"
     },
     {
      "salle": "P0121",
@@ -3067,7 +3073,7 @@
      "version": "VOST",
      "sme": false,
      "avant_premiere": false,
-     "billetterie": "https://relay.mvtx.us/ticketing/dbz?code_theater=P0121&gid_entity=movie.movie._.319893&tags=Showtime.Accessibility.Subtitled,Localization.Version.Original,Format.Projection.Digital&perfd=20260922&perft=13:45&code=VO; SUBTITLE"
+     "billetterie": "https://eldorado.ticketingcine.com#showsession?id=emsx002700038819&ps=webedia"
     },
     {
      "salle": "P0121",
@@ -3075,7 +3081,7 @@
      "version": "VOST",
      "sme": false,
      "avant_premiere": false,
-     "billetterie": "https://relay.mvtx.us/ticketing/dbz?code_theater=P0121&gid_entity=movie.movie._.319893&tags=Showtime.Accessibility.Subtitled,Localization.Version.Original,Format.Projection.Digital&perfd=20260922&perft=18:15&code=VO; SUBTITLE"
+     "billetterie": "https://eldorado.ticketingcine.com#showsession?id=emsx002700038929&ps=webedia"
     },
     {
      "salle": "P0121",
@@ -3083,7 +3089,7 @@
      "version": "VOST",
      "sme": false,
      "avant_premiere": false,
-     "billetterie": "https://relay.mvtx.us/ticketing/dbz?code_theater=P0121&gid_entity=movie.movie._.319893&tags=Showtime.Accessibility.Subtitled,Localization.Version.Original,Format.Projection.Digital&perfd=20260923&perft=19:00&code=VO; SUBTITLE"
+     "billetterie": "https://eldorado.ticketingcine.com#showsession?id=emsx002700038834&ps=webedia"
     },
     {
      "salle": "P0121",
@@ -3091,7 +3097,7 @@
      "version": "VOST",
      "sme": false,
      "avant_premiere": false,
-     "billetterie": "https://relay.mvtx.us/ticketing/dbz?code_theater=P0121&gid_entity=movie.movie._.319893&tags=Showtime.Accessibility.Subtitled,Localization.Version.Original,Format.Projection.Digital&perfd=20260924&perft=19:00&code=VO; SUBTITLE"
+     "billetterie": "https://eldorado.ticketingcine.com#showsession?id=emsx002700038848&ps=webedia"
     },
     {
      "salle": "P0121",
@@ -3099,7 +3105,7 @@
      "version": "VOST",
      "sme": false,
      "avant_premiere": false,
-     "billetterie": "https://relay.mvtx.us/ticketing/dbz?code_theater=P0121&gid_entity=movie.movie._.319893&tags=Showtime.Accessibility.Subtitled,Localization.Version.Original,Format.Projection.Digital&perfd=20260925&perft=19:00&code=VO; SUBTITLE"
+     "billetterie": "https://eldorado.ticketingcine.com#showsession?id=emsx002700038861&ps=webedia"
     },
     {
      "salle": "P0121",
@@ -3107,7 +3113,7 @@
      "version": "VOST",
      "sme": false,
      "avant_premiere": false,
-     "billetterie": "https://relay.mvtx.us/ticketing/dbz?code_theater=P0121&gid_entity=movie.movie._.319893&tags=Showtime.Accessibility.Subtitled,Localization.Version.Original,Format.Projection.Digital&perfd=20260926&perft=19:00&code=VO; SUBTITLE"
+     "billetterie": "https://eldorado.ticketingcine.com#showsession?id=emsx002700038873&ps=webedia"
     },
     {
      "salle": "P0121",
@@ -3115,7 +3121,7 @@
      "version": "VOST",
      "sme": false,
      "avant_premiere": false,
-     "billetterie": "https://relay.mvtx.us/ticketing/dbz?code_theater=P0121&gid_entity=movie.movie._.319893&tags=Showtime.Accessibility.Subtitled,Localization.Version.Original,Format.Projection.Digital&perfd=20260927&perft=19:00&code=VO; SUBTITLE"
+     "billetterie": "https://eldorado.ticketingcine.com#showsession?id=emsx002700038888&ps=webedia"
     },
     {
      "salle": "P0121",
@@ -3123,7 +3129,7 @@
      "version": "VOST",
      "sme": false,
      "avant_premiere": false,
-     "billetterie": "https://relay.mvtx.us/ticketing/dbz?code_theater=P0121&gid_entity=movie.movie._.319893&tags=Showtime.Accessibility.Subtitled,Localization.Version.Original,Format.Projection.Digital&perfd=20260928&perft=19:00&code=VO; SUBTITLE"
+     "billetterie": "https://eldorado.ticketingcine.com#showsession?id=emsx002700038913&ps=webedia"
     },
     {
      "salle": "P0121",
@@ -3131,7 +3137,7 @@
      "version": "VOST",
      "sme": false,
      "avant_premiere": false,
-     "billetterie": "https://relay.mvtx.us/ticketing/dbz?code_theater=P0121&gid_entity=movie.movie._.319893&tags=Showtime.Accessibility.Subtitled,Localization.Version.Original,Format.Projection.Digital&perfd=20260929&perft=19:00&code=VO; SUBTITLE"
+     "billetterie": "https://eldorado.ticketingcine.com#showsession?id=emsx002700038924&ps=webedia"
     }
    ]
   },
@@ -3173,7 +3179,7 @@
      "version": "VF",
      "sme": false,
      "avant_premiere": false,
-     "billetterie": "https://relay.mvtx.us/ticketing/dbz?code_theater=P0121&gid_entity=movie.movie._.1000048319&tags=Localization.Language.French,Format.Projection.Digital&perfd=20260923&perft=17:00&code=VF"
+     "billetterie": "https://eldorado.ticketingcine.com#showsession?id=emsx002700038833&ps=webedia"
     },
     {
      "salle": "P0121",
@@ -3181,7 +3187,7 @@
      "version": "VF",
      "sme": false,
      "avant_premiere": false,
-     "billetterie": "https://relay.mvtx.us/ticketing/dbz?code_theater=P0121&gid_entity=movie.movie._.1000048319&tags=Localization.Language.French,Format.Projection.Digital&perfd=20260923&perft=20:50&code=VF"
+     "billetterie": "https://eldorado.ticketingcine.com#showsession?id=emsx002700038840&ps=webedia"
     },
     {
      "salle": "P0121",
@@ -3189,7 +3195,7 @@
      "version": "VF",
      "sme": false,
      "avant_premiere": false,
-     "billetterie": "https://relay.mvtx.us/ticketing/dbz?code_theater=P0121&gid_entity=movie.movie._.1000048319&tags=Localization.Language.French,Format.Projection.Digital&perfd=20260924&perft=17:00&code=VF"
+     "billetterie": "https://eldorado.ticketingcine.com#showsession?id=emsx002700038847&ps=webedia"
     },
     {
      "salle": "P0121",
@@ -3197,7 +3203,7 @@
      "version": "VF",
      "sme": false,
      "avant_premiere": false,
-     "billetterie": "https://relay.mvtx.us/ticketing/dbz?code_theater=P0121&gid_entity=movie.movie._.1000048319&tags=Localization.Language.French,Format.Projection.Digital&perfd=20260924&perft=20:50&code=VF"
+     "billetterie": "https://eldorado.ticketingcine.com#showsession?id=emsx002700038854&ps=webedia"
     },
     {
      "salle": "P0121",
@@ -3205,7 +3211,7 @@
      "version": "VF",
      "sme": false,
      "avant_premiere": false,
-     "billetterie": "https://relay.mvtx.us/ticketing/dbz?code_theater=P0121&gid_entity=movie.movie._.1000048319&tags=Localization.Language.French,Format.Projection.Digital&perfd=20260925&perft=17:00&code=VF"
+     "billetterie": "https://eldorado.ticketingcine.com#showsession?id=emsx002700038860&ps=webedia"
     },
     {
      "salle": "P0121",
@@ -3213,7 +3219,7 @@
      "version": "VF",
      "sme": false,
      "avant_premiere": false,
-     "billetterie": "https://relay.mvtx.us/ticketing/dbz?code_theater=P0121&gid_entity=movie.movie._.1000048319&tags=Localization.Language.French,Format.Projection.Digital&perfd=20260926&perft=17:00&code=VF"
+     "billetterie": "https://eldorado.ticketingcine.com#showsession?id=emsx002700038872&ps=webedia"
     },
     {
      "salle": "P0121",
@@ -3221,7 +3227,7 @@
      "version": "VF",
      "sme": false,
      "avant_premiere": false,
-     "billetterie": "https://relay.mvtx.us/ticketing/dbz?code_theater=P0121&gid_entity=movie.movie._.1000048319&tags=Localization.Language.French,Format.Projection.Digital&perfd=20260926&perft=20:50&code=VF"
+     "billetterie": "https://eldorado.ticketingcine.com#showsession?id=emsx002700038879&ps=webedia"
     },
     {
      "salle": "P0121",
@@ -3229,7 +3235,7 @@
      "version": "VF",
      "sme": false,
      "avant_premiere": false,
-     "billetterie": "https://relay.mvtx.us/ticketing/dbz?code_theater=P0121&gid_entity=movie.movie._.1000048319&tags=Localization.Language.French,Format.Projection.Digital&perfd=20260927&perft=17:00&code=VF"
+     "billetterie": "https://eldorado.ticketingcine.com#showsession?id=emsx002700038887&ps=webedia"
     },
     {
      "salle": "P0121",
@@ -3237,7 +3243,7 @@
      "version": "VF",
      "sme": false,
      "avant_premiere": false,
-     "billetterie": "https://relay.mvtx.us/ticketing/dbz?code_theater=P0121&gid_entity=movie.movie._.1000048319&tags=Localization.Language.French,Format.Projection.Digital&perfd=20260927&perft=20:50&code=VF"
+     "billetterie": "https://eldorado.ticketingcine.com#showsession?id=emsx002700038898&ps=webedia"
     },
     {
      "salle": "P0121",
@@ -3245,7 +3251,7 @@
      "version": "VF",
      "sme": false,
      "avant_premiere": false,
-     "billetterie": "https://relay.mvtx.us/ticketing/dbz?code_theater=P0121&gid_entity=movie.movie._.1000048319&tags=Localization.Language.French,Format.Projection.Digital&perfd=20260928&perft=16:00&code=VF"
+     "billetterie": "https://eldorado.ticketingcine.com#showsession?id=emsx002700038905&ps=webedia"
     },
     {
      "salle": "P0121",
@@ -3253,7 +3259,7 @@
      "version": "VF",
      "sme": false,
      "avant_premiere": false,
-     "billetterie": "https://relay.mvtx.us/ticketing/dbz?code_theater=P0121&gid_entity=movie.movie._.1000048319&tags=Localization.Language.French,Format.Projection.Digital&perfd=20260929&perft=16:00&code=VF"
+     "billetterie": "https://eldorado.ticketingcine.com#showsession?id=emsx002700038916&ps=webedia"
     }
    ]
   },
@@ -3293,7 +3299,7 @@
      "version": "VO",
      "sme": false,
      "avant_premiere": false,
-     "billetterie": "https://relay.mvtx.us/ticketing/dbz?code_theater=P2788&gid_entity=movie.movie._.1000016503&tags=Localization.Version.Original,Format.Projection.Digital,Showtime.Accessibility.Accessible&perfd=20260921&perft=14:15"
+     "billetterie": null
     },
     {
      "salle": "P2788",
@@ -3301,7 +3307,7 @@
      "version": "VF",
      "sme": false,
      "avant_premiere": false,
-     "billetterie": "https://relay.mvtx.us/ticketing/dbz?code_theater=P2788&gid_entity=movie.movie._.1000016503&tags=Localization.Language.French,Showtime.Accessibility.Dubbed,Format.Projection.Digital,Showtime.Accessibility.Accessible&perfd=20260921&perft=18:15"
+     "billetterie": null
     },
     {
      "salle": "P0771",
@@ -3317,7 +3323,7 @@
      "version": "VF",
      "sme": false,
      "avant_premiere": false,
-     "billetterie": "https://relay.mvtx.us/ticketing/dbz?code_theater=P2788&gid_entity=movie.movie._.1000016503&tags=Localization.Language.French,Showtime.Accessibility.Dubbed,Format.Projection.Digital,Showtime.Accessibility.Accessible&perfd=20260921&perft=20:30"
+     "billetterie": null
     },
     {
      "salle": "P0771",
@@ -3333,7 +3339,7 @@
      "version": "VF",
      "sme": false,
      "avant_premiere": false,
-     "billetterie": "https://relay.mvtx.us/ticketing/dbz?code_theater=P2788&gid_entity=movie.movie._.1000016503&tags=Localization.Language.French,Showtime.Accessibility.Dubbed,Format.Projection.Digital,Showtime.Accessibility.Accessible&perfd=20260922&perft=13:45"
+     "billetterie": null
     },
     {
      "salle": "P2788",
@@ -3341,7 +3347,7 @@
      "version": "VF",
      "sme": false,
      "avant_premiere": false,
-     "billetterie": "https://relay.mvtx.us/ticketing/dbz?code_theater=P2788&gid_entity=movie.movie._.1000016503&tags=Localization.Language.French,Showtime.Accessibility.Dubbed,Format.Projection.Digital,Showtime.Accessibility.Accessible&perfd=20260922&perft=18:15"
+     "billetterie": null
     },
     {
      "salle": "P0771",
@@ -3357,7 +3363,7 @@
      "version": "VF",
      "sme": false,
      "avant_premiere": false,
-     "billetterie": "https://relay.mvtx.us/ticketing/dbz?code_theater=P2788&gid_entity=movie.movie._.1000016503&tags=Localization.Language.French,Showtime.Accessibility.Dubbed,Format.Projection.Digital,Showtime.Accessibility.Accessible&perfd=20260922&perft=20:45"
+     "billetterie": null
     },
     {
      "salle": "P0771",
@@ -3402,7 +3408,7 @@
      "version": "VF",
      "sme": false,
      "avant_premiere": false,
-     "billetterie": "https://relay.mvtx.us/ticketing/dbz?code_theater=P0121&gid_entity=movie.movie._.325076&tags=Localization.Language.French,Format.Projection.Digital&perfd=20260921&perft=18:30&code=VF"
+     "billetterie": "https://eldorado.ticketingcine.com#showsession?id=emsx002700038811&ps=webedia"
     },
     {
      "salle": "P0121",
@@ -3410,7 +3416,7 @@
      "version": "VF",
      "sme": false,
      "avant_premiere": false,
-     "billetterie": "https://relay.mvtx.us/ticketing/dbz?code_theater=P0121&gid_entity=movie.movie._.325076&tags=Localization.Language.French,Format.Projection.Digital&perfd=20260922&perft=14:15&code=VF"
+     "billetterie": "https://eldorado.ticketingcine.com#showsession?id=emsx002700038823&ps=webedia"
     },
     {
      "salle": "P0121",
@@ -3418,7 +3424,7 @@
      "version": "VF",
      "sme": false,
      "avant_premiere": false,
-     "billetterie": "https://relay.mvtx.us/ticketing/dbz?code_theater=P0121&gid_entity=movie.movie._.325076&tags=Localization.Language.French,Format.Projection.Digital&perfd=20260923&perft=13:15&code=VF"
+     "billetterie": "https://eldorado.ticketingcine.com#showsession?id=emsx002700038836&ps=webedia"
     },
     {
      "salle": "P0121",
@@ -3426,7 +3432,7 @@
      "version": "VF",
      "sme": false,
      "avant_premiere": false,
-     "billetterie": "https://relay.mvtx.us/ticketing/dbz?code_theater=P0121&gid_entity=movie.movie._.325076&tags=Localization.Language.French,Format.Projection.Digital&perfd=20260924&perft=16:45&code=VF"
+     "billetterie": "https://eldorado.ticketingcine.com#showsession?id=emsx002700038935&ps=webedia"
     },
     {
      "salle": "P0121",
@@ -3434,7 +3440,7 @@
      "version": "VF",
      "sme": false,
      "avant_premiere": false,
-     "billetterie": "https://relay.mvtx.us/ticketing/dbz?code_theater=P0121&gid_entity=movie.movie._.325076&tags=Localization.Language.French,Format.Projection.Digital&perfd=20260925&perft=13:15&code=VF"
+     "billetterie": "https://eldorado.ticketingcine.com#showsession?id=emsx002700038863&ps=webedia"
     },
     {
      "salle": "P0121",
@@ -3442,7 +3448,7 @@
      "version": "VF",
      "sme": false,
      "avant_premiere": false,
-     "billetterie": "https://relay.mvtx.us/ticketing/dbz?code_theater=P0121&gid_entity=movie.movie._.325076&tags=Localization.Language.French,Format.Projection.Digital&perfd=20260926&perft=13:15&code=VF"
+     "billetterie": "https://eldorado.ticketingcine.com#showsession?id=emsx002700038875&ps=webedia"
     },
     {
      "salle": "P0121",
@@ -3450,7 +3456,7 @@
      "version": "VF",
      "sme": false,
      "avant_premiere": false,
-     "billetterie": "https://relay.mvtx.us/ticketing/dbz?code_theater=P0121&gid_entity=movie.movie._.325076&tags=Localization.Language.French,Format.Projection.Digital&perfd=20260927&perft=13:15&code=VF"
+     "billetterie": "https://eldorado.ticketingcine.com#showsession?id=emsx002700038894&ps=webedia"
     },
     {
      "salle": "P0121",
@@ -3458,7 +3464,7 @@
      "version": "VF",
      "sme": false,
      "avant_premiere": false,
-     "billetterie": "https://relay.mvtx.us/ticketing/dbz?code_theater=P0121&gid_entity=movie.movie._.325076&tags=Localization.Language.French,Format.Projection.Digital&perfd=20260928&perft=16:45&code=VF"
+     "billetterie": "https://eldorado.ticketingcine.com#showsession?id=emsx002700038938&ps=webedia"
     },
     {
      "salle": "P0121",
@@ -3466,7 +3472,7 @@
      "version": "VF",
      "sme": false,
      "avant_premiere": false,
-     "billetterie": "https://relay.mvtx.us/ticketing/dbz?code_theater=P0121&gid_entity=movie.movie._.325076&tags=Localization.Language.French,Format.Projection.Digital&perfd=20260929&perft=13:15&code=VF"
+     "billetterie": "https://eldorado.ticketingcine.com#showsession?id=emsx002700038917&ps=webedia"
     }
    ]
   },
@@ -3509,7 +3515,7 @@
      "version": "VF",
      "sme": false,
      "avant_premiere": false,
-     "billetterie": "https://relay.mvtx.us/ticketing/dbz?code_theater=P2788&gid_entity=movie.movie._.1000036867&tags=Localization.Language.French,Showtime.Accessibility.Dubbed,Format.Projection.Digital,Format.Projection.Laser,Showtime.Accessibility.Accessible&perfd=20260923&perft=20:00"
+     "billetterie": null
     },
     {
      "salle": "W2101",
@@ -3533,7 +3539,7 @@
      "version": "VO",
      "sme": false,
      "avant_premiere": false,
-     "billetterie": "https://relay.mvtx.us/ticketing/dbz?code_theater=P2788&gid_entity=movie.movie._.1000036867&tags=Localization.Version.Original,Format.Projection.Digital,Showtime.Accessibility.Accessible&perfd=20260924&perft=20:00"
+     "billetterie": null
     },
     {
      "salle": "P2788",
@@ -3541,7 +3547,7 @@
      "version": "VF",
      "sme": false,
      "avant_premiere": false,
-     "billetterie": "https://relay.mvtx.us/ticketing/dbz?code_theater=P2788&gid_entity=movie.movie._.1000036867&tags=Localization.Language.French,Showtime.Accessibility.Dubbed,Format.Projection.3d,Format.Projection.Digital,Format.Projection.Laser,Showtime.Accessibility.Accessible&perfd=20260925&perft=20:30"
+     "billetterie": null
     },
     {
      "salle": "P2788",
@@ -3549,7 +3555,7 @@
      "version": "VF",
      "sme": false,
      "avant_premiere": false,
-     "billetterie": "https://relay.mvtx.us/ticketing/dbz?code_theater=P2788&gid_entity=movie.movie._.1000036867&tags=Localization.Language.French,Showtime.Accessibility.Dubbed,Format.Projection.Digital,Format.Projection.Laser,Showtime.Accessibility.Accessible&perfd=20260926&perft=20:30"
+     "billetterie": null
     },
     {
      "salle": "P2788",
@@ -3557,7 +3563,7 @@
      "version": "VF",
      "sme": false,
      "avant_premiere": false,
-     "billetterie": "https://relay.mvtx.us/ticketing/dbz?code_theater=P2788&gid_entity=movie.movie._.1000036867&tags=Localization.Language.French,Showtime.Accessibility.Dubbed,Format.Projection.3d,Format.Projection.Digital,Format.Projection.Laser,Showtime.Accessibility.Accessible&perfd=20260927&perft=20:00"
+     "billetterie": null
     },
     {
      "salle": "P2788",
@@ -3565,7 +3571,7 @@
      "version": "VF",
      "sme": false,
      "avant_premiere": false,
-     "billetterie": "https://relay.mvtx.us/ticketing/dbz?code_theater=P2788&gid_entity=movie.movie._.1000036867&tags=Localization.Language.French,Showtime.Accessibility.Dubbed,Format.Projection.Digital,Showtime.Accessibility.Accessible&perfd=20260928&perft=20:00"
+     "billetterie": null
     },
     {
      "salle": "P2788",
@@ -3573,7 +3579,7 @@
      "version": "VO",
      "sme": false,
      "avant_premiere": false,
-     "billetterie": "https://relay.mvtx.us/ticketing/dbz?code_theater=P2788&gid_entity=movie.movie._.1000036867&tags=Localization.Version.Original,Format.Projection.Digital,Format.Projection.Laser,Showtime.Accessibility.Accessible&perfd=20260929&perft=20:00"
+     "billetterie": null
     }
    ]
   },
@@ -3615,7 +3621,7 @@
      "version": "VO",
      "sme": false,
      "avant_premiere": false,
-     "billetterie": "https://relay.mvtx.us/ticketing/dbz?code_theater=P2788&gid_entity=movie.movie._.1000014969&tags=Localization.Version.Original,Format.Projection.Digital,Showtime.Accessibility.Accessible&perfd=20260921&perft=18:15"
+     "billetterie": null
     },
     {
      "salle": "W2101",
@@ -3639,7 +3645,7 @@
      "version": "VF",
      "sme": false,
      "avant_premiere": false,
-     "billetterie": "https://relay.mvtx.us/ticketing/dbz?code_theater=P2788&gid_entity=movie.movie._.1000014969&tags=Localization.Language.French,Showtime.Accessibility.Dubbed,Format.Projection.Digital,Showtime.Accessibility.Accessible&perfd=20260922&perft=14:15"
+     "billetterie": null
     },
     {
      "salle": "W2101",
@@ -3655,7 +3661,7 @@
      "version": "VF",
      "sme": false,
      "avant_premiere": false,
-     "billetterie": "https://relay.mvtx.us/ticketing/dbz?code_theater=P2788&gid_entity=movie.movie._.1000014969&tags=Localization.Language.French,Showtime.Accessibility.Dubbed,Format.Projection.Digital,Showtime.Accessibility.Accessible&perfd=20260922&perft=18:15"
+     "billetterie": null
     },
     {
      "salle": "P0771",
@@ -3713,7 +3719,7 @@
      "version": "VF",
      "sme": false,
      "avant_premiere": false,
-     "billetterie": "https://relay.mvtx.us/ticketing/dbz?code_theater=P2788&gid_entity=movie.movie._.294281&tags=Localization.Language.French,Format.Projection.Digital,Showtime.Accessibility.Accessible&perfd=20260921&perft=17:00"
+     "billetterie": null
     },
     {
      "salle": "P0771",
@@ -3729,7 +3735,7 @@
      "version": "VF",
      "sme": false,
      "avant_premiere": false,
-     "billetterie": "https://relay.mvtx.us/ticketing/dbz?code_theater=P2788&gid_entity=movie.movie._.294281&tags=Localization.Language.French,Format.Projection.Digital,Showtime.Accessibility.Accessible&perfd=20260922&perft=13:45"
+     "billetterie": null
     },
     {
      "salle": "P0771",
@@ -3787,7 +3793,7 @@
      "version": "VF",
      "sme": false,
      "avant_premiere": false,
-     "billetterie": "https://relay.mvtx.us/ticketing/dbz?code_theater=P2788&gid_entity=movie.movie._.294280&tags=Localization.Language.French,Format.Projection.Digital,Showtime.Accessibility.Accessible&perfd=20260921&perft=13:45"
+     "billetterie": null
     },
     {
      "salle": "P0771",
@@ -3819,7 +3825,7 @@
      "version": "VF",
      "sme": false,
      "avant_premiere": false,
-     "billetterie": "https://relay.mvtx.us/ticketing/dbz?code_theater=P2788&gid_entity=movie.movie._.294280&tags=Localization.Language.French,Format.Projection.Digital,Showtime.Accessibility.Accessible&perfd=20260922&perft=17:00"
+     "billetterie": null
     }
    ]
   },
@@ -3859,7 +3865,7 @@
      "version": "VF",
      "sme": false,
      "avant_premiere": false,
-     "billetterie": "https://relay.mvtx.us/ticketing/dbz?code_theater=P0121&gid_entity=movie.movie._.314290&tags=Localization.Language.French,Format.Projection.Digital&perfd=20260921&perft=17:30&code=VF"
+     "billetterie": "https://eldorado.ticketingcine.com#showsession?id=emsx002700038817&ps=webedia"
     },
     {
      "salle": "P0121",
@@ -3867,7 +3873,7 @@
      "version": "VF",
      "sme": false,
      "avant_premiere": false,
-     "billetterie": "https://relay.mvtx.us/ticketing/dbz?code_theater=P0121&gid_entity=movie.movie._.314290&tags=Localization.Language.French,Format.Projection.Digital&perfd=20260922&perft=20:45&code=VF"
+     "billetterie": "https://eldorado.ticketingcine.com#showsession?id=emsx002700038932&ps=webedia"
     },
     {
      "salle": "P0121",
@@ -3875,7 +3881,7 @@
      "version": "VF",
      "sme": false,
      "avant_premiere": false,
-     "billetterie": "https://relay.mvtx.us/ticketing/dbz?code_theater=P0121&gid_entity=movie.movie._.314290&tags=Localization.Language.French,Format.Projection.Digital&perfd=20260923&perft=12:00&code=VF"
+     "billetterie": "https://eldorado.ticketingcine.com#showsession?id=emsx002700038831&ps=webedia"
     },
     {
      "salle": "P0121",
@@ -3883,7 +3889,7 @@
      "version": "VF",
      "sme": false,
      "avant_premiere": false,
-     "billetterie": "https://relay.mvtx.us/ticketing/dbz?code_theater=P0121&gid_entity=movie.movie._.314290&tags=Localization.Language.French,Format.Projection.Digital&perfd=20260926&perft=12:00&code=VF"
+     "billetterie": "https://eldorado.ticketingcine.com#showsession?id=emsx002700038870&ps=webedia"
     },
     {
      "salle": "P0121",
@@ -3891,7 +3897,7 @@
      "version": "VF",
      "sme": false,
      "avant_premiere": false,
-     "billetterie": "https://relay.mvtx.us/ticketing/dbz?code_theater=P0121&gid_entity=movie.movie._.314290&tags=Localization.Language.French,Format.Projection.Digital&perfd=20260927&perft=12:00&code=VF"
+     "billetterie": "https://eldorado.ticketingcine.com#showsession?id=emsx002700038885&ps=webedia"
     }
    ]
   },
@@ -3932,7 +3938,7 @@
      "version": "VOST",
      "sme": false,
      "avant_premiere": false,
-     "billetterie": "https://relay.mvtx.us/ticketing/dbz?code_theater=P0121&gid_entity=movie.movie._.1000022260&tags=Showtime.Accessibility.Subtitled,Localization.Version.Original,Format.Projection.Digital&perfd=20260921&perft=15:15&code=VO; SUBTITLE"
+     "billetterie": "https://eldorado.ticketingcine.com#showsession?id=emsx002700038816&ps=webedia"
     },
     {
      "salle": "P0121",
@@ -3940,7 +3946,7 @@
      "version": "VOST",
      "sme": false,
      "avant_premiere": false,
-     "billetterie": "https://relay.mvtx.us/ticketing/dbz?code_theater=P0121&gid_entity=movie.movie._.1000022260&tags=Showtime.Accessibility.Subtitled,Localization.Version.Original,Format.Projection.Digital&perfd=20260922&perft=20:15&code=VO; SUBTITLE"
+     "billetterie": "https://eldorado.ticketingcine.com#showsession?id=emsx002700038829&ps=webedia"
     },
     {
      "salle": "P0121",
@@ -3948,7 +3954,7 @@
      "version": "VOST",
      "sme": false,
      "avant_premiere": false,
-     "billetterie": "https://relay.mvtx.us/ticketing/dbz?code_theater=P0121&gid_entity=movie.movie._.1000022260&tags=Showtime.Accessibility.Subtitled,Localization.Version.Original,Format.Projection.Digital&perfd=20260923&perft=11:45&code=VO; SUBTITLE"
+     "billetterie": "https://eldorado.ticketingcine.com#showsession?id=emsx002700038841&ps=webedia"
     },
     {
      "salle": "P0121",
@@ -3956,7 +3962,7 @@
      "version": "VOST",
      "sme": false,
      "avant_premiere": false,
-     "billetterie": "https://relay.mvtx.us/ticketing/dbz?code_theater=P0121&gid_entity=movie.movie._.1000022260&tags=Showtime.Accessibility.Subtitled,Localization.Version.Original,Format.Projection.Digital&perfd=20260926&perft=11:45&code=VO; SUBTITLE"
+     "billetterie": "https://eldorado.ticketingcine.com#showsession?id=emsx002700038880&ps=webedia"
     },
     {
      "salle": "P0121",
@@ -3964,7 +3970,7 @@
      "version": "VOST",
      "sme": false,
      "avant_premiere": false,
-     "billetterie": "https://relay.mvtx.us/ticketing/dbz?code_theater=P0121&gid_entity=movie.movie._.1000022260&tags=Showtime.Accessibility.Subtitled,Localization.Version.Original,Format.Projection.Digital&perfd=20260927&perft=11:45&code=VO; SUBTITLE"
+     "billetterie": "https://eldorado.ticketingcine.com#showsession?id=emsx002700038899&ps=webedia"
     }
    ]
   },
@@ -4005,7 +4011,7 @@
      "version": "VO",
      "sme": false,
      "avant_premiere": false,
-     "billetterie": "https://relay.mvtx.us/ticketing/dbz?code_theater=P0120&gid_entity=movie.movie._.1000014638&tags=Localization.Version.Original,Format.Projection.Digital&perfd=20260921&perft=13:45"
+     "billetterie": "https://www.cines-dijon.com/le-darcy/reserver/r/12527"
     },
     {
      "salle": "P0120",
@@ -4013,7 +4019,7 @@
      "version": "VO",
      "sme": false,
      "avant_premiere": false,
-     "billetterie": "https://relay.mvtx.us/ticketing/dbz?code_theater=P0120&gid_entity=movie.movie._.1000014638&tags=Localization.Version.Original,Format.Projection.Digital&perfd=20260921&perft=20:00"
+     "billetterie": "https://www.cines-dijon.com/le-darcy/reserver/r/12528"
     },
     {
      "salle": "P0120",
@@ -4021,7 +4027,7 @@
      "version": "VO",
      "sme": false,
      "avant_premiere": false,
-     "billetterie": "https://relay.mvtx.us/ticketing/dbz?code_theater=P0120&gid_entity=movie.movie._.1000014638&tags=Localization.Version.Original,Format.Projection.Digital&perfd=20260922&perft=14:00"
+     "billetterie": "https://www.cines-dijon.com/le-darcy/reserver/r/12548"
     },
     {
      "salle": "P0120",
@@ -4029,7 +4035,7 @@
      "version": "VO",
      "sme": false,
      "avant_premiere": false,
-     "billetterie": "https://relay.mvtx.us/ticketing/dbz?code_theater=P0120&gid_entity=movie.movie._.1000014638&tags=Localization.Version.Original,Format.Projection.Digital&perfd=20260922&perft=20:00"
+     "billetterie": "https://www.cines-dijon.com/le-darcy/reserver/r/12549"
     }
    ]
   },
@@ -4068,7 +4074,7 @@
      "version": "VO",
      "sme": false,
      "avant_premiere": false,
-     "billetterie": "https://relay.mvtx.us/ticketing/dbz?code_theater=P0120&gid_entity=movie.movie._.6429&tags=Localization.Version.Original,Format.Projection.Digital&perfd=20260921&perft=20:15"
+     "billetterie": "https://www.cines-dijon.com/le-darcy/reserver/r/12529"
     },
     {
      "salle": "W2101",
@@ -4084,7 +4090,7 @@
      "version": "VO",
      "sme": false,
      "avant_premiere": false,
-     "billetterie": "https://relay.mvtx.us/ticketing/dbz?code_theater=P0120&gid_entity=movie.movie._.6429&tags=Localization.Version.Original,Format.Projection.Digital&perfd=20260922&perft=18:00"
+     "billetterie": "https://www.cines-dijon.com/le-darcy/reserver/r/12550"
     },
     {
      "salle": "W2101",
@@ -4128,7 +4134,7 @@
      "version": "VF",
      "sme": false,
      "avant_premiere": false,
-     "billetterie": "https://relay.mvtx.us/ticketing/dbz?code_theater=P0120&gid_entity=movie.movie._.1000042891&tags=Localization.Language.French,Format.Projection.Digital&perfd=20260921&perft=14:30"
+     "billetterie": "https://www.cines-dijon.com/le-darcy/reserver/r/12616"
     },
     {
      "salle": "P0120",
@@ -4136,7 +4142,7 @@
      "version": "VF",
      "sme": false,
      "avant_premiere": false,
-     "billetterie": "https://relay.mvtx.us/ticketing/dbz?code_theater=P0120&gid_entity=movie.movie._.1000042891&tags=Localization.Language.French,Format.Projection.Digital&perfd=20260921&perft=18:30"
+     "billetterie": "https://www.cines-dijon.com/le-darcy/reserver/r/12617"
     },
     {
      "salle": "P0120",
@@ -4144,7 +4150,7 @@
      "version": "VF",
      "sme": false,
      "avant_premiere": false,
-     "billetterie": "https://relay.mvtx.us/ticketing/dbz?code_theater=P0120&gid_entity=movie.movie._.1000042891&tags=Localization.Language.French,Format.Projection.Digital&perfd=20260922&perft=16:45"
+     "billetterie": "https://www.cines-dijon.com/le-darcy/reserver/r/12618"
     },
     {
      "salle": "P0120",
@@ -4152,7 +4158,7 @@
      "version": "VF",
      "sme": false,
      "avant_premiere": false,
-     "billetterie": "https://relay.mvtx.us/ticketing/dbz?code_theater=P0120&gid_entity=movie.movie._.1000042891&tags=Localization.Language.French,Format.Projection.Digital&perfd=20260922&perft=18:30"
+     "billetterie": "https://www.cines-dijon.com/le-darcy/reserver/r/12619"
     }
    ]
   },
@@ -4193,7 +4199,7 @@
      "version": "VF",
      "sme": false,
      "avant_premiere": false,
-     "billetterie": "https://relay.mvtx.us/ticketing/dbz?code_theater=P0120&gid_entity=movie.movie._.1000037046&tags=Localization.Language.French,Format.Projection.Digital&perfd=20260921&perft=14:15"
+     "billetterie": "https://www.cines-dijon.com/le-darcy/reserver/r/12531"
     },
     {
      "salle": "P0120",
@@ -4201,7 +4207,7 @@
      "version": "VF",
      "sme": false,
      "avant_premiere": false,
-     "billetterie": "https://relay.mvtx.us/ticketing/dbz?code_theater=P0120&gid_entity=movie.movie._.1000037046&tags=Localization.Language.French,Format.Projection.Digital&perfd=20260921&perft=16:30"
+     "billetterie": "https://www.cines-dijon.com/le-darcy/reserver/r/12538"
     },
     {
      "salle": "P0120",
@@ -4209,7 +4215,7 @@
      "version": "VF",
      "sme": false,
      "avant_premiere": false,
-     "billetterie": "https://relay.mvtx.us/ticketing/dbz?code_theater=P0120&gid_entity=movie.movie._.1000037046&tags=Localization.Language.French,Format.Projection.Digital&perfd=20260921&perft=18:15"
+     "billetterie": "https://www.cines-dijon.com/le-darcy/reserver/r/12540"
     },
     {
      "salle": "P0120",
@@ -4217,7 +4223,7 @@
      "version": "VF",
      "sme": false,
      "avant_premiere": false,
-     "billetterie": "https://relay.mvtx.us/ticketing/dbz?code_theater=P0120&gid_entity=movie.movie._.1000037046&tags=Localization.Language.French,Format.Projection.Digital&perfd=20260922&perft=16:00"
+     "billetterie": "https://www.cines-dijon.com/le-darcy/reserver/r/12559"
     }
    ]
   },
@@ -4259,7 +4265,7 @@
      "version": "VF",
      "sme": false,
      "avant_premiere": false,
-     "billetterie": "https://relay.mvtx.us/ticketing/dbz?code_theater=P2788&gid_entity=movie.movie._.314503&tags=Localization.Language.French,Showtime.Accessibility.Dubbed,Format.Projection.Digital,Showtime.Accessibility.Accessible&perfd=20260921&perft=13:45"
+     "billetterie": null
     },
     {
      "salle": "P2788",
@@ -4267,7 +4273,7 @@
      "version": "VF",
      "sme": false,
      "avant_premiere": false,
-     "billetterie": "https://relay.mvtx.us/ticketing/dbz?code_theater=P2788&gid_entity=movie.movie._.314503&tags=Localization.Language.French,Showtime.Accessibility.Dubbed,Format.Projection.Digital,Showtime.Accessibility.Accessible&perfd=20260921&perft=18:30"
+     "billetterie": null
     },
     {
      "salle": "P2788",
@@ -4275,7 +4281,7 @@
      "version": "VF",
      "sme": false,
      "avant_premiere": false,
-     "billetterie": "https://relay.mvtx.us/ticketing/dbz?code_theater=P2788&gid_entity=movie.movie._.314503&tags=Localization.Language.French,Showtime.Accessibility.Dubbed,Format.Projection.Digital,Showtime.Accessibility.Accessible&perfd=20260922&perft=18:30"
+     "billetterie": null
     }
    ]
   },
@@ -4379,7 +4385,7 @@
      "version": "VF",
      "sme": false,
      "avant_premiere": false,
-     "billetterie": "https://relay.mvtx.us/ticketing/dbz?code_theater=P2788&gid_entity=movie.movie._.1000042175&tags=Localization.Language.French,BoostPos.XpEtLabels.Spectacles,Format.Projection.Digital,Format.Projection.Laser,Showtime.Accessibility.Accessible&perfd=20260924&perft=20:30"
+     "billetterie": null
     },
     {
      "salle": "P0771",
@@ -4436,7 +4442,7 @@
      "version": "VF",
      "sme": false,
      "avant_premiere": true,
-     "billetterie": "https://relay.mvtx.us/ticketing/dbz?code_theater=P2788&gid_entity=movie.movie._.1000000085&tags=Localization.Language.French,Showtime.Accessibility.Dubbed,BoostPos.XpEtLabels.Avantpremiere,Format.Projection.Digital,Format.Projection.Laser,Showtime.Accessibility.Accessible&perfd=20260922&perft=20:30"
+     "billetterie": null
     },
     {
      "salle": "P0771",
@@ -4481,7 +4487,7 @@
      "version": "VF",
      "sme": false,
      "avant_premiere": false,
-     "billetterie": "https://relay.mvtx.us/ticketing/dbz?code_theater=P0121&gid_entity=movie.movie._.1000045286&tags=Localization.Language.French,Format.Projection.Digital&perfd=20260923&perft=16:00&code=VF"
+     "billetterie": "https://eldorado.ticketingcine.com#showsession?id=emsx002700038890&ps=webedia"
     },
     {
      "salle": "P0121",
@@ -4489,7 +4495,7 @@
      "version": "VF",
      "sme": false,
      "avant_premiere": false,
-     "billetterie": "https://relay.mvtx.us/ticketing/dbz?code_theater=P0121&gid_entity=movie.movie._.1000045286&tags=Localization.Language.French,Format.Projection.Digital&perfd=20260926&perft=16:00&code=VF"
+     "billetterie": "https://eldorado.ticketingcine.com#showsession?id=emsx002700038891&ps=webedia"
     },
     {
      "salle": "P0121",
@@ -4497,7 +4503,7 @@
      "version": "VF",
      "sme": false,
      "avant_premiere": false,
-     "billetterie": "https://relay.mvtx.us/ticketing/dbz?code_theater=P0121&gid_entity=movie.movie._.1000045286&tags=Localization.Language.French,Format.Projection.Digital&perfd=20260927&perft=16:00&code=VF"
+     "billetterie": "https://eldorado.ticketingcine.com#showsession?id=emsx002700038892&ps=webedia"
     }
    ]
   },
@@ -4547,7 +4553,7 @@
      "version": "VF",
      "sme": false,
      "avant_premiere": true,
-     "billetterie": "https://relay.mvtx.us/ticketing/dbz?code_theater=P2788&gid_entity=movie.movie._.1000015739&tags=Localization.Language.French,Showtime.Accessibility.Dubbed,BoostPos.XpEtLabels.Avantpremiere,Format.Projection.Digital,Showtime.Accessibility.Accessible&perfd=20260929&perft=20:30"
+     "billetterie": null
     },
     {
      "salle": "P0771",
@@ -4646,7 +4652,7 @@
      "version": "VOST",
      "sme": false,
      "avant_premiere": false,
-     "billetterie": "https://relay.mvtx.us/ticketing/dbz?code_theater=P0121&gid_entity=movie.movie._.1000024105&tags=Showtime.Accessibility.Subtitled,Localization.Version.Original,Format.Projection.Digital&perfd=20260921&perft=15:30&code=VO; SUBTITLE"
+     "billetterie": "https://eldorado.ticketingcine.com#showsession?id=emsx002700038808&ps=webedia"
     },
     {
      "salle": "P0121",
@@ -4654,7 +4660,7 @@
      "version": "VOST",
      "sme": false,
      "avant_premiere": false,
-     "billetterie": "https://relay.mvtx.us/ticketing/dbz?code_theater=P0121&gid_entity=movie.movie._.1000024105&tags=Showtime.Accessibility.Subtitled,Localization.Version.Original,Format.Projection.Digital&perfd=20260922&perft=15:30&code=VO; SUBTITLE"
+     "billetterie": "https://eldorado.ticketingcine.com#showsession?id=emsx002700038820&ps=webedia"
     }
    ]
   },
@@ -4695,7 +4701,7 @@
      "version": "VO",
      "sme": false,
      "avant_premiere": false,
-     "billetterie": "https://relay.mvtx.us/ticketing/dbz?code_theater=P0120&gid_entity=movie.movie._.1000019852&tags=Localization.Version.Original,Format.Projection.Digital&perfd=20260921&perft=16:45"
+     "billetterie": "https://www.cines-dijon.com/le-darcy/reserver/r/12537"
     },
     {
      "salle": "P0120",
@@ -4703,7 +4709,7 @@
      "version": "VO",
      "sme": false,
      "avant_premiere": false,
-     "billetterie": "https://relay.mvtx.us/ticketing/dbz?code_theater=P0120&gid_entity=movie.movie._.1000019852&tags=Localization.Version.Original,Format.Projection.Digital&perfd=20260922&perft=13:45"
+     "billetterie": "https://www.cines-dijon.com/le-darcy/reserver/r/12558"
     }
    ]
   },
@@ -4840,7 +4846,7 @@
      "version": "VF",
      "sme": false,
      "avant_premiere": false,
-     "billetterie": "https://relay.mvtx.us/ticketing/dbz?code_theater=P0120&gid_entity=movie.movie._.1000021763&tags=Localization.Language.French,Format.Projection.Digital&perfd=20260921&perft=17:00"
+     "billetterie": "https://www.cines-dijon.com/le-darcy/reserver/r/12530"
     },
     {
      "salle": "P0120",
@@ -4848,7 +4854,7 @@
      "version": "VF",
      "sme": false,
      "avant_premiere": false,
-     "billetterie": "https://relay.mvtx.us/ticketing/dbz?code_theater=P0120&gid_entity=movie.movie._.1000021763&tags=Localization.Language.French,Format.Projection.Digital&perfd=20260922&perft=13:45"
+     "billetterie": "https://www.cines-dijon.com/le-darcy/reserver/r/12551"
     }
    ]
   },
@@ -4898,7 +4904,7 @@
      "version": "VF",
      "sme": false,
      "avant_premiere": true,
-     "billetterie": "https://relay.mvtx.us/ticketing/dbz?code_theater=P2788&gid_entity=movie.movie._.1000019249&tags=Localization.Language.French,BoostPos.XpEtLabels.Avantpremiere,Format.Projection.Digital,Showtime.Accessibility.Accessible&perfd=20260927&perft=18:00"
+     "billetterie": null
     }
    ]
   },
@@ -4939,7 +4945,7 @@
      "version": "VF",
      "sme": false,
      "avant_premiere": true,
-     "billetterie": "https://relay.mvtx.us/ticketing/dbz?code_theater=P2788&gid_entity=movie.movie._.1000032855&tags=Localization.Language.French,BoostPos.XpEtLabels.Avantpremiere,Format.Projection.Digital,Showtime.Accessibility.Accessible&perfd=20260925&perft=20:00"
+     "billetterie": null
     },
     {
      "salle": "P0771",
@@ -4989,7 +4995,7 @@
      "version": "VOST",
      "sme": false,
      "avant_premiere": false,
-     "billetterie": "https://relay.mvtx.us/ticketing/dbz?code_theater=P0121&gid_entity=movie.movie._.1941&tags=Showtime.Accessibility.Subtitled,Localization.Version.Original,Format.Projection.Digital&perfd=20260921&perft=19:30&code=VO; SUBTITLE"
+     "billetterie": "https://eldorado.ticketingcine.com#showsession?id=emsx002700038818&ps=webedia"
     }
    ]
   },
@@ -5025,7 +5031,7 @@
      "version": "VF",
      "sme": false,
      "avant_premiere": false,
-     "billetterie": "https://relay.mvtx.us/ticketing/dbz?code_theater=P0121&gid_entity=movie.movie._.311440&tags=Localization.Language.French,Showtime.Event.OnlySession,Showtime.Event.Headline,Format.Projection.Digital&perfd=20260925&perft=19:30&code=VF; ONLY SESSION; HEADLINE"
+     "billetterie": "https://eldorado.ticketingcine.com#showsession?id=emsx002700038550&ps=webedia"
     }
    ]
   },
@@ -5066,7 +5072,7 @@
      "version": "VO",
      "sme": false,
      "avant_premiere": false,
-     "billetterie": "https://relay.mvtx.us/ticketing/dbz?code_theater=P0120&gid_entity=movie.movie._.4749&tags=Localization.Version.Original,Format.Projection.Digital&perfd=20260922&perft=19:00"
+     "billetterie": "https://www.cines-dijon.com/le-darcy/reserver/r/9737"
     }
    ]
   },
@@ -5108,7 +5114,7 @@
      "version": "VF",
      "sme": false,
      "avant_premiere": false,
-     "billetterie": "https://relay.mvtx.us/ticketing/dbz?code_theater=P0120&gid_entity=movie.movie._.130368&tags=Localization.Language.French,Showtime.Accessibility.Dubbed,BoostPos.XpEtLabels.Ecranaventure,Format.Projection.Digital&perfd=20260930&perft=14:00"
+     "billetterie": "https://www.cines-dijon.com/le-darcy/reserver/r/12135"
     }
    ]
   },
@@ -5147,7 +5153,7 @@
      "version": "VO",
      "sme": false,
      "avant_premiere": false,
-     "billetterie": "https://relay.mvtx.us/ticketing/dbz?code_theater=P0120&gid_entity=movie.movie._.197176&tags=Localization.Version.Original,BoostPos.XpEtLabels.Ecranaventure,Format.Projection.Digital&perfd=20260930&perft=20:00"
+     "billetterie": "https://www.cines-dijon.com/le-darcy/reserver/r/12136"
     }
    ]
   },
@@ -5189,7 +5195,7 @@
      "version": "VF",
      "sme": false,
      "avant_premiere": false,
-     "billetterie": "https://relay.mvtx.us/ticketing/dbz?code_theater=P0120&gid_entity=movie.movie._.27063&tags=Localization.Language.French,Format.Projection.Digital&perfd=20260925&perft=20:30"
+     "billetterie": "https://www.cines-dijon.com/le-darcy/reserver/r/12431"
     }
    ]
   },
@@ -5225,7 +5231,7 @@
      "version": "VF",
      "sme": false,
      "avant_premiere": false,
-     "billetterie": "https://relay.mvtx.us/ticketing/dbz?code_theater=P0121&gid_entity=movie.movie._.264473&tags=Localization.Language.French,Showtime.Event.OnlySession,Showtime.Event.Headline,Format.Projection.Digital&perfd=20260929&perft=20:15&code=VF; ONLY SESSION; HEADLINE"
+     "billetterie": "https://eldorado.ticketingcine.com#showsession?id=emsx002700038927&ps=webedia"
     }
    ]
   },
@@ -5310,7 +5316,7 @@
      "version": "VO",
      "sme": false,
      "avant_premiere": false,
-     "billetterie": "https://relay.mvtx.us/ticketing/dbz?code_theater=P0120&gid_entity=movie.movie._.89979&tags=Localization.Version.Original,Format.Projection.Digital&perfd=20260929&perft=20:30"
+     "billetterie": "https://www.cines-dijon.com/le-darcy/reserver/r/9738"
     }
    ]
   },
@@ -5353,7 +5359,7 @@
      "version": "VOST",
      "sme": false,
      "avant_premiere": false,
-     "billetterie": "https://relay.mvtx.us/ticketing/dbz?code_theater=P0121&gid_entity=movie.movie._.96650&tags=Showtime.Accessibility.Subtitled,Localization.Version.Original,Format.Projection.Digital&perfd=20260922&perft=15:45&code=VO; SUBTITLE"
+     "billetterie": "https://eldorado.ticketingcine.com#showsession?id=emsx002700038830&ps=webedia"
     }
    ]
   },
@@ -5394,7 +5400,7 @@
      "version": "VF",
      "sme": false,
      "avant_premiere": false,
-     "billetterie": "https://relay.mvtx.us/ticketing/dbz?code_theater=P2788&gid_entity=movie.movie._.29173&tags=Localization.Language.French,Showtime.Accessibility.Dubbed,BoostPos.XpEtLabels.Cultissime,Format.Projection.Digital,Showtime.Accessibility.Accessible&perfd=20260921&perft=20:30"
+     "billetterie": null
     }
    ]
   },
@@ -5434,7 +5440,7 @@
      "version": "VF",
      "sme": false,
      "avant_premiere": true,
-     "billetterie": "https://relay.mvtx.us/ticketing/dbz?code_theater=P2788&gid_entity=movie.movie._.1000031247&tags=Localization.Language.French,BoostPos.XpEtLabels.Avantpremiere,Format.Projection.Digital,Format.Projection.Laser,Showtime.Accessibility.Accessible&perfd=20260927&perft=14:00"
+     "billetterie": null
     }
    ]
   },
@@ -5477,7 +5483,7 @@
      "version": "VF",
      "sme": false,
      "avant_premiere": true,
-     "billetterie": "https://relay.mvtx.us/ticketing/dbz?code_theater=P0120&gid_entity=movie.movie._.1000017168&tags=Localization.Language.French,BoostPos.XpEtLabels.Avantpremiere,BoostPos.XpEtLabels.ComplementTarifaire,Format.Projection.Digital&perfd=20260928&perft=20:00"
+     "billetterie": "https://www.cines-dijon.com/le-darcy/reserver/r/12450"
     }
    ]
   },
@@ -5517,7 +5523,7 @@
      "version": "VF",
      "sme": false,
      "avant_premiere": true,
-     "billetterie": "https://relay.mvtx.us/ticketing/dbz?code_theater=P0120&gid_entity=movie.movie._.1000023992&tags=Localization.Language.French,BoostPos.XpEtLabels.Avantpremiere,BoostPos.XpEtLabels.ComplementTarifaire,Format.Projection.Digital&perfd=20260924&perft=18:30"
+     "billetterie": "https://www.cines-dijon.com/le-darcy/reserver/r/12625"
     }
    ]
   },
@@ -5559,7 +5565,7 @@
      "version": "VF",
      "sme": false,
      "avant_premiere": true,
-     "billetterie": "https://relay.mvtx.us/ticketing/dbz?code_theater=P0121&gid_entity=movie.movie._.1000007388&tags=Localization.Language.French,Showtime.Event.Preview,Showtime.Event.Headline,Format.Projection.Digital&perfd=20260927&perft=17:45&code=VF; PREVIEW; HEADLINE"
+     "billetterie": "https://eldorado.ticketingcine.com#showsession?id=emsx002700038941&ps=webedia"
     }
    ]
   },
@@ -5600,7 +5606,7 @@
      "version": "VF",
      "sme": false,
      "avant_premiere": true,
-     "billetterie": "https://relay.mvtx.us/ticketing/dbz?code_theater=P0121&gid_entity=movie.movie._.1000026725&tags=Localization.Language.French,Showtime.Event.Preview,Showtime.Event.Headline,Format.Projection.Digital&perfd=20260928&perft=20:00&code=VF; PREVIEW; HEADLINE"
+     "billetterie": "https://eldorado.ticketingcine.com#showsession?id=emsx002700038926&ps=webedia"
     }
    ]
   }

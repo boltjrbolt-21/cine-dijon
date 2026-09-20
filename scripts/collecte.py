@@ -23,6 +23,7 @@ import re
 import sys
 import time
 import urllib.error
+import urllib.parse
 import urllib.request
 from datetime import date, datetime, timedelta, timezone
 from pathlib import Path
@@ -40,6 +41,7 @@ RACINE = Path(__file__).resolve().parent.parent
 CINEMAS = [
     {
         "code": "P2788",
+        "reservation": "https://dijon.cineville.fr/",
         "nom": "Cinéville Dijon",
         "alias": "ex-Olympia",
         "ville": "Dijon",
@@ -48,6 +50,7 @@ CINEMAS = [
     },
     {
         "code": "W2101",
+        "reservation": "https://www.pathe.fr/cinemas/cinema-pathe-dijon",
         "nom": "Pathé Dijon",
         "alias": "",
         "ville": "Dijon",
@@ -56,6 +59,7 @@ CINEMAS = [
     },
     {
         "code": "P0771",
+        "reservation": "https://www.pathe.fr/cinemas/cinema-cine-cap-vert",
         "nom": "Ciné Cap Vert",
         "alias": "",
         "ville": "Quetigny",
@@ -64,6 +68,7 @@ CINEMAS = [
     },
     {
         "code": "P0120",
+        "reservation": "https://www.ticketingcine.com/cine/XPH3YLKO.html",
         "nom": "Le Darcy",
         "alias": "",
         "ville": "Dijon",
@@ -72,6 +77,7 @@ CINEMAS = [
     },
     {
         "code": "P0121",
+        "reservation": "https://www.ticketingcine.com/cine/8LR6XUG6.html",
         "nom": "Eldorado",
         "alias": "",
         "ville": "Dijon",
@@ -80,6 +86,7 @@ CINEMAS = [
     },
     {
         "code": "W2100",
+        "reservation": "",
         "nom": "Cinémathèque Jean Douchet",
         "alias": "Cinémathèque régionale de Bourgogne",
         "ville": "Dijon",
@@ -320,11 +327,25 @@ def extrait_film(brut: dict) -> dict:
     }
 
 
+# Verifie le 2026-09-21, seance par seance et a plusieurs dates : le relais
+# d'AlloCine aboutit systematiquement sur "Sold Out, or Not Available Online"
+# pour Cineville, Le Darcy et l'Eldorado. Un lien qui promet une reservation et
+# ne mene nulle part est pire que pas de lien : on n'en garde aucun, la page
+# renvoie a la place vers la billetterie de la salle ("reservation" ci-dessus).
+HOTES_SANS_VENTE = {"relay.mvtx.us"}
+
+
 def lien_billetterie(seance: dict) -> str | None:
     for billetterie in ((seance.get("data") or {}).get("ticketing") or []):
-        urls = billetterie.get("urls") or []
-        if urls:
-            return urls[0]
+        for url in (billetterie.get("urls") or []):
+            if not url:
+                continue
+            hote = urllib.parse.urlsplit(url).netloc.lower()
+            if hote in HOTES_SANS_VENTE:
+                continue
+            # AlloCine laisse passer des espaces et des point-virgules bruts
+            # (…&code=VO; SUBTITLE) : non encodes, le lien casse la connexion.
+            return urllib.parse.quote(url, safe=":/?&=#%+,@!$'()*~")
     return None
 
 
