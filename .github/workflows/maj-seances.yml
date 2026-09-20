@@ -1,0 +1,45 @@
+name: Mise à jour des séances (Ciné Dijon)
+
+# Deux passages par jour : le matin, et l'après-midi (les nouveaux programmes
+# de la semaine sortent en général le mardi/mercredi).
+on:
+  schedule:
+    - cron: "10 5 * * *"    # 07h10 à Paris en été, 06h10 en hiver
+    - cron: "10 15 * * *"   # 17h10 à Paris en été, 16h10 en hiver
+  workflow_dispatch:        # bouton « Run workflow » dans l'onglet Actions
+
+permissions:
+  contents: write
+
+concurrency:
+  group: maj-seances
+  cancel-in-progress: false
+
+jobs:
+  collecte:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Récupérer le dépôt
+        uses: actions/checkout@v4
+
+      - name: Installer Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      # Si la collecte échoue, le script sort en erreur SANS réécrire le JSON :
+      # le site continue d'afficher les dernières séances connues.
+      - name: Collecter les séances
+        run: python scripts/collecte.py --jours 10
+
+      - name: Publier si quelque chose a changé
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/seances.json
+          if git diff --staged --quiet; then
+            echo "Aucun changement."
+          else
+            git commit -m "Séances mises à jour ($(date -u +%F))"
+            git push
+          fi

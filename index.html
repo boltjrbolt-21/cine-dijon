@@ -1,0 +1,562 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Ciné Dijon — les films à l'affiche</title>
+<meta name="description" content="Tous les films à l'affiche dans les cinémas de Dijon et son agglomération, résumés en une ligne, avec les horaires de chaque salle.">
+<link rel="canonical" href="https://boltjrbolt-21.github.io/cine-dijon/">
+
+<link rel="icon" href="icone.svg" type="image/svg+xml">
+<link rel="icon" href="icone-512.png" type="image/png" sizes="512x512">
+<link rel="apple-touch-icon" href="icone-180.png">
+<meta name="theme-color" content="#b4231f">
+
+<!-- Vignette affichée quand le lien est partagé (WhatsApp, SMS, Slack, réseaux). -->
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="Ciné Dijon">
+<meta property="og:locale" content="fr_FR">
+<meta property="og:title" content="Ciné Dijon — les films à l'affiche">
+<meta property="og:description" content="Tous les films à l'affiche dans les six salles de l'agglo dijonnaise, résumés en une ligne, avec les horaires de chaque salle.">
+<meta property="og:url" content="https://boltjrbolt-21.github.io/cine-dijon/">
+<meta property="og:image" content="https://boltjrbolt-21.github.io/cine-dijon/partage.png">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="630">
+<meta property="og:image:alt" content="Ciné Dijon — horaires des films dans les salles de l'agglo dijonnaise">
+<meta name="twitter:card" content="summary_large_image">
+<style>
+  :root{
+    --fond:#f6f5f3; --carte:#fff; --encre:#191714; --encre-douce:#6b6560;
+    --trait:#e2ded8; --accent:#b4231f; --accent-doux:#fdeceb;
+    --or:#c8961e; --ombre:0 1px 2px rgba(25,23,20,.06),0 8px 24px -12px rgba(25,23,20,.18);
+    --r:14px;
+  }
+  @media (prefers-color-scheme:dark){
+    :root{
+      --fond:#141311; --carte:#1e1c19; --encre:#f2efea; --encre-douce:#a19a92;
+      --trait:#332f2b; --accent:#ff6b5e; --accent-doux:#38201d;
+      --or:#e0b44a; --ombre:0 1px 2px rgba(0,0,0,.4),0 8px 24px -12px rgba(0,0,0,.6);
+    }
+  }
+  *{box-sizing:border-box}
+  html,body{margin:0}
+  body{
+    background:var(--fond); color:var(--encre); min-height:100vh;
+    font:16px/1.55 ui-sans-serif,system-ui,-apple-system,"Segoe UI",Roboto,"Helvetica Neue",sans-serif;
+    -webkit-font-smoothing:antialiased;
+  }
+  .page{max-width:940px;margin:0 auto;padding:0 16px 72px}
+
+  header{padding:28px 0 14px}
+  .entete{display:flex;align-items:center;justify-content:space-between;gap:14px}
+  h1{margin:0;font-size:clamp(26px,5vw,34px);letter-spacing:-.02em}
+  .partager{
+    flex:0 0 auto;border:1px solid var(--trait);background:var(--carte);color:var(--encre);
+    border-radius:999px;padding:7px 15px;font:inherit;font-size:13.5px;font-weight:600;
+    cursor:pointer;transition:.15s;
+  }
+  .partager:hover{border-color:var(--accent);color:var(--accent)}
+  h1 .pt{color:var(--accent)}
+  .sous{margin:6px 0 0;color:var(--encre-douce);font-size:15px}
+  .maj{margin:10px 0 0;font-size:12.5px;color:var(--encre-douce)}
+  .maj b{color:var(--encre);font-weight:600}
+  .perime{color:var(--accent);font-weight:600}
+
+  .barre{position:sticky;top:0;z-index:20;background:var(--fond);padding:10px 0 8px;margin-bottom:6px}
+  .barre::after{content:"";display:block;height:1px;background:var(--trait);margin-top:10px}
+  .jours{display:flex;gap:6px;overflow-x:auto;padding-bottom:2px;scrollbar-width:none}
+  .jours::-webkit-scrollbar{display:none}
+  .jour{
+    flex:0 0 auto;border:1px solid var(--trait);background:var(--carte);color:var(--encre);
+    border-radius:999px;padding:7px 14px;font-size:14px;font-weight:600;cursor:pointer;
+    white-space:nowrap;transition:.15s;
+  }
+  .jour:hover{border-color:var(--encre-douce)}
+  .jour[aria-pressed="true"]{background:var(--encre);color:var(--fond);border-color:var(--encre)}
+  .jour.ce-soir[aria-pressed="true"]{background:var(--accent);border-color:var(--accent);color:#fff}
+
+  .outils{display:flex;flex-wrap:wrap;gap:8px;align-items:center;margin-top:10px}
+  input[type=search],select{
+    font:inherit;font-size:14px;color:var(--encre);background:var(--carte);
+    border:1px solid var(--trait);border-radius:10px;padding:8px 11px;
+  }
+  input[type=search]{flex:1 1 200px;min-width:0}
+  input[type=search]:focus,select:focus{outline:2px solid var(--accent);outline-offset:1px}
+  .filtres{display:flex;flex-wrap:wrap;gap:6px;margin-top:8px}
+  .puce{
+    border:1px solid var(--trait);background:var(--carte);color:var(--encre-douce);
+    border-radius:999px;padding:5px 11px;font-size:13px;cursor:pointer;transition:.15s;
+  }
+  .puce:hover{color:var(--encre)}
+  .puce[aria-pressed="true"]{background:var(--accent);border-color:var(--accent);color:var(--fond);font-weight:600}
+  .puce.vide{opacity:.4;cursor:not-allowed}
+
+  .compte{margin:16px 0 12px;font-size:13.5px;color:var(--encre-douce)}
+
+  .film{
+    background:var(--carte);border:1px solid var(--trait);border-radius:var(--r);
+    padding:14px;margin-bottom:12px;box-shadow:var(--ombre);
+  }
+  .haut{display:flex;gap:14px}
+  .affiche{
+    flex:0 0 84px;width:84px;aspect-ratio:2/3;object-fit:cover;border-radius:8px;
+    background:var(--trait);
+  }
+  .infos{min-width:0;flex:1}
+  .titre{margin:0;font-size:18px;line-height:1.25;letter-spacing:-.01em}
+  .meta{margin:5px 0 0;font-size:13px;color:var(--encre-douce);display:flex;flex-wrap:wrap;gap:4px 8px;align-items:center}
+  .note{color:var(--or);font-weight:700;white-space:nowrap}
+  .note span{color:var(--encre-douce);font-weight:400}
+  .neuf{background:var(--accent-doux);color:var(--accent);border-radius:5px;padding:1px 6px;font-size:11.5px;font-weight:700;text-transform:uppercase;letter-spacing:.03em}
+  .resume{margin:9px 0 0;font-size:14.5px;color:var(--encre);opacity:.9}
+
+  .salles{margin-top:12px;border-top:1px dashed var(--trait);padding-top:10px;display:grid;gap:8px}
+  .salle{display:flex;flex-wrap:wrap;gap:6px;align-items:baseline}
+  .nom-salle{font-size:13px;font-weight:650;flex:0 0 auto;min-width:118px}
+  .nom-salle small{display:block;font-weight:400;color:var(--encre-douce);font-size:11.5px}
+  .heures{display:flex;flex-wrap:wrap;gap:5px}
+  .heure{
+    display:inline-flex;align-items:center;gap:4px;font-size:13px;font-weight:600;
+    border:1px solid var(--trait);border-radius:7px;padding:3px 8px;text-decoration:none;
+    color:var(--encre);background:transparent;transition:.15s;
+  }
+  a.heure:hover,button.heure:hover{border-color:var(--accent);color:var(--accent)}
+  button.heure{font-family:inherit;cursor:pointer}
+  button.heure:hover em{color:var(--accent)}
+  .heure.passee{opacity:.35}
+  .heure em{font-style:normal;font-size:10.5px;font-weight:700;color:var(--encre-douce);letter-spacing:.02em}
+  a.heure:hover em{color:var(--accent)}
+
+  .plus{
+    margin-top:10px;background:none;border:0;padding:0;color:var(--accent);
+    font:inherit;font-size:13.5px;font-weight:600;cursor:pointer;
+  }
+  .detail{margin-top:10px;font-size:14px;color:var(--encre-douce);display:grid;gap:5px}
+  .detail b{color:var(--encre);font-weight:600}
+  .detail .avert{color:var(--accent)}
+  .detail a{color:var(--accent)}
+
+  .rien{text-align:center;padding:48px 16px;color:var(--encre-douce)}
+  .rien b{display:block;color:var(--encre);font-size:17px;margin-bottom:6px}
+
+  .erreur{
+    background:var(--carte);border:1px solid var(--accent);border-radius:var(--r);
+    padding:18px;margin-top:20px;
+  }
+  .erreur h2{margin:0 0 8px;font-size:17px}
+  .erreur code{background:var(--fond);padding:2px 6px;border-radius:5px;font-size:13px}
+  .erreur p{margin:8px 0;font-size:14.5px;color:var(--encre-douce)}
+
+  footer{margin-top:34px;padding-top:16px;border-top:1px solid var(--trait);font-size:12.5px;color:var(--encre-douce)}
+  footer a{color:inherit}
+
+  @media (max-width:640px){
+    /* la barre complète mangerait la moitié de l'écran : on la laisse défiler */
+    .barre{position:static}
+  }
+  @media (max-width:480px){
+    .affiche{flex-basis:66px;width:66px}
+    .nom-salle{min-width:100%}
+  }
+</style>
+</head>
+<body>
+<div class="page">
+
+  <header>
+    <div class="entete">
+      <h1>Ciné <span class="pt">Dijon</span></h1>
+      <button class="partager" id="partager" type="button" hidden>Partager</button>
+    </div>
+    <p class="sous">Tout ce qui passe dans les salles de l'agglo, résumé en une ligne.</p>
+    <p class="maj" id="maj"></p>
+  </header>
+
+  <div class="barre" id="barre" hidden>
+    <div class="jours" id="jours"></div>
+    <div class="outils">
+      <input type="search" id="q" placeholder="Chercher un film, un réalisateur…" aria-label="Chercher">
+      <select id="tri" aria-label="Trier">
+        <option value="seances">Les plus programmés</option>
+        <option value="note">Les mieux notés</option>
+        <option value="prochaine">Prochaine séance</option>
+        <option value="nouveaute">Sorties récentes</option>
+        <option value="titre">Ordre alphabétique</option>
+      </select>
+    </div>
+    <div class="filtres" id="filtres-salles"></div>
+    <div class="filtres" id="filtres-version"></div>
+  </div>
+
+  <p class="compte" id="compte"></p>
+  <main id="liste"></main>
+
+  <footer id="pied" hidden>
+    <p>Données : horaires publiés par les salles via AlloCiné, rafraîchis une fois par jour.
+       Vérifiez toujours l'horaire sur le site de la salle avant de vous déplacer.</p>
+  </footer>
+</div>
+
+<script>
+(() => {
+  "use strict";
+
+  const $ = (s) => document.querySelector(s);
+  const JOURS_COURTS = ["dim","lun","mar","mer","jeu","ven","sam"];
+  const MOIS = ["janv.","févr.","mars","avr.","mai","juin","juil.","août","sept.","oct.","nov.","déc."];
+
+  let data = null;
+  const etat = {
+    jour: null,          // "AAAA-MM-JJ" ou "soir"
+    salles: new Set(),   // vide = toutes
+    versions: new Set(), // vide = toutes
+    q: "",
+    tri: "seances",
+    ouverts: new Set(),
+  };
+
+  // --- utilitaires ------------------------------------------------------
+  const dateLocale = (iso) => new Date(iso.length === 10 ? iso + "T00:00:00" : iso);
+
+  const jourLocal = (d) =>
+    `${d.getFullYear()}-${String(d.getMonth() + 1).padStart(2, "0")}-${String(d.getDate()).padStart(2, "0")}`;
+
+  // Les horaires des séances sont des heures de Paris sans fuseau ("20h45 à Dijon").
+  // Pour savoir ce qui est passé, on compare donc à l'heure de Paris, et pas à
+  // l'heure de l'appareil : la page reste juste depuis un autre fuseau, et entre
+  // minuit et 2h du matin où la date UTC est encore à la veille.
+  const FORMAT_PARIS = new Intl.DateTimeFormat("sv-SE", {
+    timeZone: "Europe/Paris", dateStyle: "short", timeStyle: "medium", hour12: false,
+  });
+  const maintenant = () => new Date(FORMAT_PARIS.format(new Date()).replace(" ", "T"));
+  // rafraîchie à chaque rendu, pour ne pas reformater l'heure à chaque film
+  let horloge = maintenant().getTime();
+  let dernierJour = null;
+
+  function libelleJour(iso) {
+    const d = dateLocale(iso), a = maintenant();
+    if (jourLocal(d) === jourLocal(a)) return "Aujourd'hui";
+    // on ajoute un jour au calendrier, pas 24 heures : les changements d'heure
+    // font des journées de 23 ou 25 heures.
+    const demain = new Date(a.getFullYear(), a.getMonth(), a.getDate() + 1);
+    if (jourLocal(d) === jourLocal(demain)) return "Demain";
+    return `${JOURS_COURTS[d.getDay()]} ${d.getDate()} ${MOIS[d.getMonth()]}`;
+  }
+
+  const heure = (iso) => iso.slice(11, 16).replace(":", "h");
+
+  function libelleCourt(iso) {
+    const d = dateLocale(iso);
+    return `${JOURS_COURTS[d.getDay()]} ${d.getDate()}`;
+  }
+
+  function dureeTexte(min) {
+    if (!min) return null;
+    const h = Math.floor(min / 60), m = min % 60;
+    return h ? `${h}h${String(m).padStart(2, "0")}` : `${m} min`;
+  }
+
+  const salleDe = (code) => data.salles.find((s) => s.code === code);
+
+  // --- filtrage ---------------------------------------------------------
+  function seancesRetenues(film) {
+    return film.seances.filter((s) => {
+      if (etat.jour === "soir") {
+        const t = dateLocale(s.debut).getTime();
+        if (t < horloge || t > horloge + 6 * 36e5) return false;
+      } else if (etat.jour === "semaine") {
+        // vue d'ensemble : tout ce qui reste à voir, séances déjà passées exclues
+        if (dateLocale(s.debut).getTime() < horloge) return false;
+      } else if (etat.jour && s.debut.slice(0, 10) !== etat.jour) return false;
+      if (etat.salles.size && !etat.salles.has(s.salle)) return false;
+      if (etat.versions.size) {
+        const groupe = s.version === "VF" ? "VF" : "VO";
+        if (!etat.versions.has(groupe)) return false;
+      }
+      return true;
+    });
+  }
+
+  function filmsRetenus() {
+    const q = etat.q.trim().toLowerCase();
+    const sortie = [];
+    for (const film of data.films) {
+      const seances = seancesRetenues(film);
+      if (!seances.length) continue;
+      if (q) {
+        const foin = [film.titre, film.titre_original, film.resume,
+                      (film.realisateurs || []).join(" "), (film.acteurs || []).join(" "),
+                      (film.genres || []).join(" ")].join(" ").toLowerCase();
+        if (!foin.includes(q)) continue;
+      }
+      sortie.push({ film, seances });
+    }
+    const recent = (f) => (f.sortie ? Date.parse(f.sortie) : 0);
+    const tris = {
+      seances: (a, b) => b.seances.length - a.seances.length || a.film.titre.localeCompare(b.film.titre, "fr"),
+      note: (a, b) => (b.film.note_spectateurs || 0) - (a.film.note_spectateurs || 0) || b.seances.length - a.seances.length,
+      prochaine: (a, b) => a.seances[0].debut.localeCompare(b.seances[0].debut),
+      nouveaute: (a, b) => recent(b.film) - recent(a.film),
+      titre: (a, b) => a.film.titre.localeCompare(b.film.titre, "fr"),
+    };
+    return sortie.sort(tris[etat.tri] || tris.seances);
+  }
+
+  // --- rendu ------------------------------------------------------------
+  function echappe(t) {
+    return String(t ?? "").replace(/[&<>"]/g, (c) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;" }[c]));
+  }
+
+  function carteFilm({ film, seances }) {
+    const el = document.createElement("article");
+    el.className = "film";
+
+    const duree = dureeTexte(film.duree_min);
+    const genres = (film.genres || []).slice(0, 3).join(", ");
+    const nouveau = film.sortie && (horloge - Date.parse(film.sortie)) < 12 * 864e5 && Date.parse(film.sortie) <= horloge;
+
+    const meta = [];
+    if (nouveau) meta.push('<span class="neuf">Nouveau</span>');
+    if (duree) meta.push(echappe(duree));
+    if (genres) meta.push(echappe(genres));
+    if (film.note_spectateurs) meta.push(`<span class="note">★ ${film.note_spectateurs.toFixed(1)}<span>/5</span></span>`);
+
+    // regroupement des séances par salle
+    const parSalle = new Map();
+    for (const s of seances) {
+      if (!parSalle.has(s.salle)) parSalle.set(s.salle, []);
+      parSalle.get(s.salle).push(s);
+    }
+    const ordre = data.salles.map((s) => s.code);
+    const blocs = [...parSalle.entries()]
+      .sort((a, b) => ordre.indexOf(a[0]) - ordre.indexOf(b[0]))
+      .map(([code, liste]) => {
+        const salle = salleDe(code) || { nom: code, ville: "" };
+
+        // Vue « toute la semaine » : on montre les jours où le film passe plutôt
+        // que cent horaires ; un clic sur un jour bascule dessus.
+        if (etat.jour === "semaine") {
+          const parJour = new Map();
+          liste.forEach((s) => {
+            const j = s.debut.slice(0, 10);
+            parJour.set(j, (parJour.get(j) || 0) + 1);
+          });
+          const badges = [...parJour.entries()].map(([j, n]) =>
+            `<button class="heure" type="button" data-aller="${j}"
+               title="${echappe(libelleJour(j))} — ${n} séance${n > 1 ? "s" : ""}">
+               ${echappe(libelleCourt(j))} <em>${n}</em></button>`).join("");
+          return `<div class="salle">
+              <div class="nom-salle">${echappe(salle.nom)}<small>${echappe(salle.ville)}</small></div>
+              <div class="heures">${badges}</div>
+            </div>`;
+        }
+
+        const heures = liste.map((s) => {
+          const passee = dateLocale(s.debut).getTime() < horloge;
+          const marque = [s.version !== "VF" ? s.version : "", s.sme ? "SME" : "", s.avant_premiere ? "AP" : ""]
+            .filter(Boolean).join(" ");
+          const dedans = `${heure(s.debut)}${marque ? ` <em>${marque}</em>` : ""}`;
+          const classe = `heure${passee ? " passee" : ""}`;
+          return s.billetterie && !passee
+            ? `<a class="${classe}" href="${echappe(s.billetterie)}" target="_blank" rel="noopener">${dedans}</a>`
+            : `<span class="${classe}">${dedans}</span>`;
+        }).join("");
+        return `<div class="salle">
+            <div class="nom-salle">${echappe(salle.nom)}<small>${echappe(salle.ville)}</small></div>
+            <div class="heures">${heures}</div>
+          </div>`;
+      }).join("");
+
+    const ouvert = etat.ouverts.has(film.id);
+    const detail = ouvert ? `<div class="detail">
+        ${film.realisateurs?.length ? `<div><b>De</b> ${echappe(film.realisateurs.join(", "))}</div>` : ""}
+        ${film.acteurs?.length ? `<div><b>Avec</b> ${echappe(film.acteurs.join(", "))}</div>` : ""}
+        ${film.sortie ? `<div><b>Sortie</b> ${echappe(new Intl.DateTimeFormat("fr-FR", { dateStyle: "long" }).format(dateLocale(film.sortie)))}${film.note_presse ? ` · presse ${film.note_presse.toFixed(1)}/5` : ""}</div>` : ""}
+        ${film.avertissement ? `<div class="avert">⚠ ${echappe(film.avertissement)}</div>` : ""}
+        ${film.url ? `<div><a href="${echappe(film.url)}" target="_blank" rel="noopener">Fiche complète et bande-annonce ↗</a></div>` : ""}
+      </div>` : "";
+
+    el.innerHTML = `
+      <div class="haut">
+        ${film.affiche ? `<img class="affiche" src="${echappe(film.affiche)}" alt="" loading="lazy" decoding="async">` : `<div class="affiche"></div>`}
+        <div class="infos">
+          <h2 class="titre">${echappe(film.titre)}</h2>
+          <p class="meta">${meta.join('<span aria-hidden="true">·</span>')}</p>
+          ${(ouvert ? film.synopsis : film.resume) ? `<p class="resume">${echappe(ouvert ? film.synopsis : film.resume)}</p>` : ""}
+        </div>
+      </div>
+      <div class="salles">${blocs}</div>
+      <button class="plus" type="button">${ouvert ? "Masquer les détails" : "Synopsis, casting, bande-annonce"}</button>
+      ${detail}`;
+
+    el.querySelector(".plus").addEventListener("click", () => {
+      etat.ouverts.has(film.id) ? etat.ouverts.delete(film.id) : etat.ouverts.add(film.id);
+      dessine();
+    });
+    el.addEventListener("click", (e) => {
+      const badge = e.target.closest("[data-aller]");
+      if (!badge) return;
+      etat.jour = badge.dataset.aller;
+      window.scrollTo({ top: 0, behavior: "smooth" });
+      dessine();
+    });
+    return el;
+  }
+
+  function dessine() {
+    horloge = maintenant().getTime();
+    const retenus = filmsRetenus();
+    const liste = $("#liste");
+    liste.innerHTML = "";
+
+    const nbSeances = retenus.reduce((n, r) => n + r.seances.length, 0);
+    const nbJours = new Set(retenus.flatMap((r) => r.seances.map((s) => s.debut.slice(0, 10)))).size;
+    $("#compte").textContent = retenus.length
+      ? `${retenus.length} film${retenus.length > 1 ? "s" : ""} · ${nbSeances} séance${nbSeances > 1 ? "s" : ""}` +
+        (etat.jour === "semaine" ? ` sur ${nbJours} jour${nbJours > 1 ? "s" : ""}` : "")
+      : "";
+
+    if (!retenus.length) {
+      liste.innerHTML = `<div class="rien"><b>Rien à cette heure-ci</b>
+        Essayez un autre jour, ou enlevez un filtre.</div>`;
+      return;
+    }
+    const fragment = document.createDocumentFragment();
+    retenus.forEach((r) => fragment.appendChild(carteFilm(r)));
+    liste.appendChild(fragment);
+
+    // met à jour l'état visuel des filtres
+    document.querySelectorAll("[data-salle]").forEach((b) =>
+      b.setAttribute("aria-pressed", etat.salles.has(b.dataset.salle)));
+    document.querySelectorAll("[data-version]").forEach((b) =>
+      b.setAttribute("aria-pressed", etat.versions.has(b.dataset.version)));
+    document.querySelectorAll("[data-jour]").forEach((b) =>
+      b.setAttribute("aria-pressed", etat.jour === b.dataset.jour));
+
+    // la rangée de jours déborde : on ramène l'onglet actif dans le champ de
+    // vision, mais seulement quand il vient de changer (pas à chaque frappe).
+    if (etat.jour !== dernierJour) {
+      dernierJour = etat.jour;
+      const actif = $("#jours").querySelector('[aria-pressed="true"]');
+      if (actif) actif.scrollIntoView({ block: "nearest", inline: "center", behavior: "smooth" });
+    }
+  }
+
+  // --- construction des contrôles --------------------------------------
+  function construis() {
+    horloge = maintenant().getTime();
+    const aujourdhui = jourLocal(maintenant());
+    const jours = data.jours.filter((j) => j >= aujourdhui);
+    // on ouvre sur le premier jour qui a encore des séances à venir : tard le soir,
+    // « aujourd'hui » n'a plus rien à proposer.
+    const aVenir = new Set(data.films.flatMap((f) => f.seances
+      .filter((s) => dateLocale(s.debut).getTime() >= horloge)
+      .map((s) => s.debut.slice(0, 10))));
+    etat.jour = jours.find((j) => aVenir.has(j)) || jours[0] || data.jours[0] || null;
+
+    const boutons = [];
+    const resteCeSoir = data.films.some((f) => f.seances.some((s) => {
+      const t = dateLocale(s.debut).getTime();
+      return t >= horloge && t <= horloge + 6 * 36e5;
+    }));
+    if (resteCeSoir) boutons.push(`<button class="jour ce-soir" data-jour="soir" aria-pressed="false">Maintenant</button>`);
+    jours.forEach((j) => boutons.push(`<button class="jour" data-jour="${j}" aria-pressed="false">${libelleJour(j)}</button>`));
+    if (jours.length > 1) boutons.push(`<button class="jour semaine" data-jour="semaine" aria-pressed="false">Toute la semaine</button>`);
+    $("#jours").innerHTML = boutons.join("");
+
+    const actives = new Set(data.films.flatMap((f) => f.seances.map((s) => s.salle)));
+    $("#filtres-salles").innerHTML = data.salles.map((s) => {
+      const vide = !actives.has(s.code);
+      // une salle en erreur n'a pas « rien à l'affiche » : sa collecte a échoué,
+      // il ne faut pas laisser croire qu'elle est fermée.
+      const raison = s.erreur ? "La collecte a échoué pour cette salle" : "Pas de séance publiée";
+      return `<button class="puce${vide ? " vide" : ""}" data-salle="${s.code}" aria-pressed="false"
+        ${vide ? `disabled title="${raison}"` : ""}>${echappe(s.nom)}${s.erreur ? " ⚠" : ""}</button>`;
+    }).join("");
+
+    $("#filtres-version").innerHTML = ["VF", "VO"].map((v) =>
+      `<button class="puce" data-version="${v}" aria-pressed="false">${v === "VO" ? "VO / VOST" : "VF"}</button>`).join("");
+
+    $("#jours").addEventListener("click", (e) => {
+      const b = e.target.closest("[data-jour]"); if (!b) return;
+      etat.jour = etat.jour === b.dataset.jour && b.dataset.jour === "soir" ? jours[0] : b.dataset.jour;
+      dessine();
+    });
+    const bascule = (ensemble, valeur) => { ensemble.has(valeur) ? ensemble.delete(valeur) : ensemble.add(valeur); dessine(); };
+    $("#filtres-salles").addEventListener("click", (e) => {
+      const b = e.target.closest("[data-salle]"); if (b && !b.disabled) bascule(etat.salles, b.dataset.salle);
+    });
+    $("#filtres-version").addEventListener("click", (e) => {
+      const b = e.target.closest("[data-version]"); if (b) bascule(etat.versions, b.dataset.version);
+    });
+    $("#q").addEventListener("input", (e) => { etat.q = e.target.value; dessine(); });
+    $("#tri").addEventListener("change", (e) => { etat.tri = e.target.value; dessine(); });
+
+    const genere = new Date(data.genere_le);
+    const ageHeures = (Date.now() - genere.getTime()) / 36e5;
+    const quand = new Intl.DateTimeFormat("fr-FR", {
+      dateStyle: "full", timeStyle: "short", timeZone: "Europe/Paris",
+    }).format(genere);
+    $("#maj").innerHTML = `Horaires relevés le <b>${echappe(quand)}</b>` +
+      (ageHeures > 30 ? ` — <span class="perime">données vieilles de plus d'un jour</span>` : "");
+
+    $("#barre").hidden = false;
+    $("#pied").hidden = false;
+    dessine();
+  }
+
+  // --- chargement -------------------------------------------------------
+  function echec(message) {
+    $("#liste").innerHTML = `<div class="erreur">
+        <h2>Impossible de charger les séances</h2>
+        <p>${echappe(message)}</p>
+        <p>Si vous avez ouvert ce fichier par un double-clic, le navigateur bloque la lecture
+           du fichier de données. Lancez un petit serveur local depuis le dossier du projet :</p>
+        <p><code>python -m http.server 8000</code> puis ouvrez <code>http://localhost:8000</code></p>
+        <p>Ou chargez le fichier à la main : <input type="file" id="fichier" accept=".json"></p>
+      </div>`;
+    $("#fichier").addEventListener("change", (e) => {
+      const f = e.target.files[0]; if (!f) return;
+      const lecteur = new FileReader();
+      lecteur.onload = () => { try { data = JSON.parse(lecteur.result); construis(); } catch (err) { echec(String(err)); } };
+      lecteur.readAsText(f, "utf-8");
+    });
+  }
+
+  // --- partage -----------------------------------------------------------
+  (() => {
+    const bouton = $("#partager");
+    const lien = location.href.split("#")[0];
+    const peutPartager = typeof navigator.share === "function";
+    const peutCopier = !!(navigator.clipboard && navigator.clipboard.writeText);
+    if (!peutPartager && !peutCopier) return; // ni partage natif ni presse-papier : on n'affiche rien
+
+    bouton.hidden = false;
+    bouton.addEventListener("click", async () => {
+      try {
+        if (peutPartager) {
+          await navigator.share({
+            title: "Ciné Dijon",
+            text: "Les films à l'affiche dans les salles de l'agglo dijonnaise.",
+            url: lien,
+          });
+        } else {
+          await navigator.clipboard.writeText(lien);
+          bouton.textContent = "Lien copié";
+          setTimeout(() => (bouton.textContent = "Partager"), 2000);
+        }
+      } catch (err) {
+        // l'utilisateur a simplement fermé la feuille de partage : rien à signaler
+        if (err && err.name !== "AbortError") bouton.textContent = "Copie impossible";
+      }
+    });
+  })();
+
+  fetch("data/seances.json", { cache: "no-cache" })
+    .then((r) => { if (!r.ok) throw new Error(`HTTP ${r.status}`); return r.json(); })
+    .then((json) => { data = json; construis(); })
+    .catch((err) => echec(err.message || String(err)));
+})();
+</script>
+</body>
+</html>
