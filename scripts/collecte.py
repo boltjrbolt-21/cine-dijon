@@ -22,6 +22,7 @@ import json
 import re
 import sys
 import time
+import unicodedata
 import urllib.error
 import urllib.parse
 import urllib.request
@@ -42,6 +43,11 @@ CINEMAS = [
     {
         "code": "P2788",
         "reservation": "https://dijon.cineville.fr/",
+        # Le groupe Cineville sert son programme dans le HTML de cette page
+        # (__NEXT_DATA__), avec les identifiants de reservation de chaque
+        # seance : on y pioche les liens qu'AlloCine ne donne pas.
+        "programme": "https://dijon.cineville.fr/programmes/dijon",
+        "vad": "https://dijon.cineville.fr/vad/",
         "nom": "Cinéville Dijon",
         "alias": "ex-Olympia",
         "ville": "Dijon",
@@ -73,6 +79,10 @@ CINEMAS = [
         # et tickets.allocine.fr renvoie 404. On n'en propose aucun.
         "liens_seance": False,
         "reservation": "https://www.ticketingcine.com/cine/XPH3YLKO.html",
+        # Le Darcy appartient au groupe Cineville et publie son programme sur
+        # katorza.fr, avec la meme structure que Cineville Dijon.
+        "programme": "https://www.katorza.fr/katorza/alaffiche/darcy",
+        "vad": "https://www.katorza.fr/vad/",
         "nom": "Le Darcy",
         "alias": "",
         "ville": "Dijon",
@@ -182,6 +192,97 @@ def recupere(url: str, essais: int = ESSAIS) -> dict | None:
             if tentative < essais:
                 time.sleep(2 * tentative)
     return None
+
+
+def recupere_html(url: str) -> str | None:
+    """GET d'une page HTML, memes egards que pour le JSON."""
+    try:
+        requete = urllib.request.Request(
+            url, headers={"User-Agent": UA, "Accept-Language": "fr-FR,fr;q=0.9"}
+        )
+        with urllib.request.urlopen(requete, timeout=DELAI) as reponse:
+            return reponse.read().decode("utf-8", "replace")
+    except Exception as err:
+        journal(f"    programme de la salle indisponible ({err})")
+        return None
+
+
+def compare(titre: str) -> str:
+    """Titre reduit a l'essentiel, pour rapprocher deux sources qui ne
+    l'ecrivent pas pareil (accents, ponctuation, mentions ajoutees)."""
+    titre = unicodedata.normalize("NFKD", titre or "").encode("ascii", "ignore").decode()
+    # "Partie 2" ici, "2" la : le mot saute, le numero reste, donc deux volets
+    # d'une meme saga ne peuvent pas etre confondus.
+    titre = re.sub(r"\b(au cinema|le film|version longue|partie|part)\b", " ", titre.lower())
+    return re.sub(r"[^a-z0-9]+", "", titre)
+
+
+def programme_vad(cinema: dict) -> dict[tuple[str, str], list[tuple[str, str]]]:
+    """Liens de reservation seance par seance des salles du groupe Cineville.
+
+    Leur programme est servi directement dans le HTML de la page, dans le
+    script __NEXT_DATA__, et chaque seance y porte les trois identifiants qui
+    composent l'URL de reservation : /vad/<cinema>/<seance>/<bordereau>.
+
+    Renvoie un index (date ISO, "HH:MM") -> [(titre comparable, lien), ...] ;
+    plusieurs films peuvent partager un horaire, d'ou la liste.
+    """
+    page, base = cinema.get("programme"), cinema.get("vad")
+    if not (page and base):
+        return {}
+
+    html = recupere_html(page)
+    if not html:
+        return {}
+    trouve = re.search(r'<script id="__NEXT_DATA__"[^>]*>(.*?)</script>', html, re.S)
+    if not trouve:
+        journal("    programme : structure inattendue, aucun lien direct")
+        return {}
+    try:
+        props = json.loads(trouve.group(1))["props"]["pageProps"]
+    except (json.JSONDecodeError, KeyError) as err:
+        journal(f"    programme illisible ({err})")
+        return {}
+
+    index: dict[tuple[str, str], list[tuple[str, str]]] = {}
+    for film in props.get("prog") or []:
+        donnees = film.get("movie_data") or [{}]
+        titre = compare(donnees[0].get("titre") or "")
+        for jour in film.get("dates") or []:
+            brut = str(jour.get("date") or "")
+            if len(brut) != 8:
+                continue
+            date = f"{brut[:4]}-{brut[4:6]}-{brut[6:]}"
+            for seance in jour.get("showtimes") or []:
+                heure = seance.get("heure")
+                trio = (seance.get("id_cinema"), seance.get("id_seance"),
+                        seance.get("id_bordereau"))
+                if not heure or not all(trio):
+                    continue
+                index.setdefault((date, heure), []).append(
+                    (titre, f"{base}{trio[0]}/{trio[1]}/{trio[2]}")
+                )
+    journal(f"    programme de la salle : {sum(len(v) for v in index.values())} lien(s) direct(s)")
+    return index
+
+
+def lien_vad(index: dict, debut: str, titre: str) -> str | None:
+    """Le lien correspondant a une seance d'AlloCine, s'il est identifiable
+    sans ambiguite : meme date, meme heure, et meme film."""
+    candidats = index.get((debut[:10], debut[11:16])) or []
+    if not candidats:
+        return None
+    if len(candidats) == 1:
+        return candidats[0][1]
+
+    cible = compare(titre)
+    for nom, lien in candidats:
+        if nom == cible:
+            return lien
+    for nom, lien in candidats:
+        if nom and cible and (nom.startswith(cible) or cible.startswith(nom)):
+            return lien
+    return None  # plusieurs films a cette heure, aucun ne correspond : on s'abstient
 
 
 def nettoie_texte(texte: str | None) -> str:
@@ -376,6 +477,7 @@ def collecte(jours: int) -> dict:
             break
         code = cinema["code"]
         journal(f"  {cinema['nom']} ({code})")
+        index_vad = programme_vad(cinema)
         total_seances = 0
         jours_avec_seances: set[str] = set()
         echecs = 0
@@ -425,8 +527,10 @@ def collecte(jours: int) -> dict:
                                     "sme": cle.endswith("_sme"),
                                     "avant_premiere": bool(seance.get("isPreview")),
                                     "billetterie": (
-                                        lien_billetterie(seance)
-                                        if cinema.get("liens_seance", True) else None
+                                        (lien_billetterie(seance)
+                                         if cinema.get("liens_seance", True) else None)
+                                        or lien_vad(index_vad, debut,
+                                                    films[identifiant]["titre"])
                                     ),
                                 }
                             )

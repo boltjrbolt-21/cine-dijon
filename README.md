@@ -36,41 +36,43 @@ modifiez la liste `CINEMAS` en haut de `scripts/collecte.py`.
 
 ## Réservation
 
-**AlloCiné donne plusieurs liens par séance, pas un seul.** Le premier de la liste est
-souvent `relay.mvtx.us`, qui aboutit systématiquement sur « Sold Out, or Not Available
-Online » — vérifié salle par salle et à plusieurs dates le 21/09/2026. Le collecteur
-écarte les hôtes défaillants (`HOTES_ECARTES`) et prend le lien suivant. Ne revenez
-pas à `urls[0]` : c'est ce qui masquait les vraies billetteries.
+**Chaque horaire affiché mène à sa propre séance** — 430 sur 430. C'est la règle à
+préserver : si un horaire est à l'écran, il est cliquable et ouvre la réservation de
+cette séance-là, pas l'accueil d'une billetterie. Les séances déjà commencées ne sont
+plus affichées du tout.
 
-État constaté au 21/09/2026 :
+Deux sources, parce qu'AlloCiné ne suffit pas :
 
-| Salle | Lien par séance | Vérifié |
+| Salle | Lien | Source |
 |---|---|---|
-| Pathé Dijon, Ciné Cap Vert | `s.pathe.fr` | oui, plan de salle et bonne date |
-| Eldorado | `eldorado.ticketingcine.com` | oui, page de paiement de la séance exacte |
-| Le Darcy | aucun | les **trois** liens d'AlloCiné sont morts → bouton **Réserver** vers TicketingCiné |
-| Cinéville Dijon | aucun | bouton **Réserver** vers `dijon.cineville.fr` |
+| Pathé Dijon, Ciné Cap Vert | `s.pathe.fr` | AlloCiné |
+| Eldorado | `eldorado.ticketingcine.com#showsession?id=…` | AlloCiné |
+| Cinéville Dijon | `dijon.cineville.fr/vad/…` | programme de la salle |
+| Le Darcy | `www.katorza.fr/vad/…` | programme de la salle |
 
-Le Darcy mérite un mot : AlloCiné en propose trois, tous cassés — `relay.mvtx.us` dit
-« Sold Out », `www.cines-dijon.com` **n'existe plus** (NXDOMAIN, le cinéma a changé de
-site) et `tickets.allocine.fr/portail-dijon/...` renvoie 404. La salle porte donc
-`"liens_seance": False` dans `CINEMAS`, qui coupe la recherche de lien pour elle.
+**AlloCiné donne plusieurs liens par séance et le premier est souvent mauvais.**
+`relay.mvtx.us` aboutit toujours sur « Sold Out, or Not Available Online ». Le
+collecteur écarte les hôtes défaillants (`HOTES_ECARTES`) et prend le suivant. Ne
+revenez pas à `urls[0]` : c'est ce qui masquait les vraies billetteries.
 
-**Tout horaire affiché est cliquable, sans exception** — c'est la règle à préserver.
-Les séances déjà commencées ne sont plus affichées du tout : les garder en grisé
-revenait à proposer un horaire sur lequel on ne peut pas appuyer.
+**Cinéville et Le Darcy n'ont aucun lien exploitable chez AlloCiné** — les trois
+proposés pour Le Darcy sont morts, dont `cines-dijon.com` qui n'existe plus. Mais les
+deux salles appartiennent au groupe Cinéville, dont les sites servent le programme
+dans le HTML de la page (script `__NEXT_DATA__`), chaque séance portant `id_cinema`,
+`id_seance` et `id_bordereau`. Ces trois nombres composent l'URL de réservation :
+`<vad>/<cinema>/<seance>/<bordereau>`. Les clés `programme` et `vad` de `CINEMAS`
+tiennent ces adresses.
 
-**Un seul geste dans la page :** on appuie sur l'horaire. Quand la salle ouvre sa
-billetterie séance par séance, on arrive sur la séance ; sinon, sur la billetterie de
-la salle, à l'adresse renseignée dans `CINEMAS` sous la clé `reservation`, et l'horaire
-est à resélectionner sur place. L'attribut `title` de chaque horaire dit où il mène.
+Le rapprochement entre les deux sources se fait sur **date + heure + titre**, jamais
+sur l'horaire seul : dans un multiplexe, plusieurs films démarrent à 20h30. Les titres
+sont comparés après normalisation (`compare()`), qui retire accents, ponctuation et
+mentions parasites — dont le mot « partie », qu'une source écrit et pas l'autre, en
+gardant le numéro pour ne pas confondre deux volets d'une saga. **En cas d'ambiguïté,
+le collecteur s'abstient** et la séance retombe sur `reservation` : mieux vaut un lien
+générique qu'un lien vers le mauvais film.
 
 Vérifiez toute nouvelle adresse en l'ouvrant : sur ce projet, un domaine était mort et
 un autre avait été racheté par un site de casino.
-
-Attention si vous modifiez ces adresses : `cinema-eldorado.fr` **n'appartient plus au
-cinéma** — le domaine sert aujourd'hui un site de casino en ligne. L'Eldorado et Le Darcy
-passent par TicketingCiné, Cinéville Dijon par `dijon.cineville.fr`.
 
 ## Partage
 
