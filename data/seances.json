@@ -1,5 +1,5 @@
 {
- "genere_le": "2026-09-20T23:50:47+00:00",
+ "genere_le": "2026-09-21T00:06:34+00:00",
  "source": "AlloCiné",
  "ville": "Dijon et agglomération",
  "jours": [
@@ -80,6 +80,7 @@
   },
   {
    "code": "P0120",
+   "liens_seance": false,
    "reservation": "https://www.ticketingcine.com/cine/XPH3YLKO.html",
    "nom": "Le Darcy",
    "alias": "",
@@ -1350,7 +1351,7 @@
      "version": "VO",
      "sme": false,
      "avant_premiere": false,
-     "billetterie": "https://www.cines-dijon.com/le-darcy/reserver/r/12535"
+     "billetterie": null
     },
     {
      "salle": "P0121",
@@ -1374,7 +1375,7 @@
      "version": "VO",
      "sme": false,
      "avant_premiere": false,
-     "billetterie": "https://www.cines-dijon.com/le-darcy/reserver/r/12536"
+     "billetterie": null
     },
     {
      "salle": "P0120",
@@ -1382,7 +1383,7 @@
      "version": "VO",
      "sme": false,
      "avant_premiere": false,
-     "billetterie": "https://www.cines-dijon.com/le-darcy/reserver/r/12556"
+     "billetterie": null
     },
     {
      "salle": "W2101",
@@ -1398,7 +1399,7 @@
      "version": "VO",
      "sme": false,
      "avant_premiere": false,
-     "billetterie": "https://www.cines-dijon.com/le-darcy/reserver/r/12557"
+     "billetterie": null
     },
     {
      "salle": "P0121",
@@ -1664,7 +1665,7 @@
      "version": "VF",
      "sme": false,
      "avant_premiere": false,
-     "billetterie": "https://www.cines-dijon.com/le-darcy/reserver/r/12520"
+     "billetterie": null
     },
     {
      "salle": "P0120",
@@ -1672,7 +1673,7 @@
      "version": "VF",
      "sme": false,
      "avant_premiere": false,
-     "billetterie": "https://www.cines-dijon.com/le-darcy/reserver/r/12521"
+     "billetterie": null
     },
     {
      "salle": "P0771",
@@ -1696,7 +1697,7 @@
      "version": "VF",
      "sme": false,
      "avant_premiere": false,
-     "billetterie": "https://www.cines-dijon.com/le-darcy/reserver/r/12522"
+     "billetterie": null
     },
     {
      "salle": "P0771",
@@ -1720,7 +1721,7 @@
      "version": "VF",
      "sme": false,
      "avant_premiere": false,
-     "billetterie": "https://www.cines-dijon.com/le-darcy/reserver/r/12541"
+     "billetterie": null
     },
     {
      "salle": "P0771",
@@ -1736,7 +1737,7 @@
      "version": "VF",
      "sme": false,
      "avant_premiere": false,
-     "billetterie": "https://www.cines-dijon.com/le-darcy/reserver/r/12542"
+     "billetterie": null
     },
     {
      "salle": "P0771",
@@ -1752,7 +1753,7 @@
      "version": "VF",
      "sme": false,
      "avant_premiere": false,
-     "billetterie": "https://www.cines-dijon.com/le-darcy/reserver/r/12543"
+     "billetterie": null
     },
     {
      "salle": "P0771",
@@ -1817,7 +1818,7 @@
      "version": "VF",
      "sme": false,
      "avant_premiere": false,
-     "billetterie": "https://www.cines-dijon.com/le-darcy/reserver/r/12533"
+     "billetterie": null
     },
     {
      "salle": "W2101",
@@ -1833,7 +1834,7 @@
      "version": "VF",
      "sme": false,
      "avant_premiere": false,
-     "billetterie": "https://www.cines-dijon.com/le-darcy/reserver/r/12532"
+     "billetterie": null
     },
     {
      "salle": "W2101",
@@ -1849,7 +1850,7 @@
      "version": "VF",
      "sme": false,
      "avant_premiere": false,
-     "billetterie": "https://www.cines-dijon.com/le-darcy/reserver/r/12534"
+     "billetterie": null
     },
     {
      "salle": "W2101",
@@ -1865,7 +1866,7 @@
      "version": "VF",
      "sme": false,
      "avant_premiere": false,
-     "billetterie": "https://www.cines-dijon.com/le-darcy/reserver/r/12554"
+     "billetterie": null
     },
     {
      "salle": "W2101",
@@ -1881,7 +1882,7 @@
      "version": "VF",
      "sme": false,
      "avant_premiere": false,
-     "billetterie": "https://www.cines-dijon.com/le-darcy/reserver/r/12553"
+     "billetterie": null
     },
     {
      "salle": "W2101",
@@ -1905,7 +1906,7 @@
      "version": "VF",
      "sme": false,
      "avant_premiere": false,
-     "billetterie": "https://www.cines-dijon.com/le-darcy/reserver/r/12555"
+     "billetterie": null
     }
    ]
   },
@@ -1947,7 +1948,7 @@
      "version": "VF",
      "sme": false,
      "avant_premiere": false,
-     "billetterie": "https://www.cines-dijon.com/le-darcy/reserver/r/12523"
+     "billetterie": null
     },
     {
      "salle": "W2101",
@@ -1971,7 +1972,7 @@
      "version": "VF",
      "sme": false,
      "avant_premiere": false,
-     "billetterie": "https://www.cines-dijon.com/le-darcy/reserver/r/12524"
+     "billetterie": null
     },
     {
      "salle": "W2101",
@@ -1987,7 +1988,7 @@
      "version": "VF",
      "sme": false,
      "avant_premiere": false,
-     "billetterie": "https://www.cines-dijon.com/le-darcy/reserver/r/12525"
+     "billetterie": null
     },
     {
      "salle": "W2101",
@@ -2003,7 +2004,7 @@
      "version": "VF",
      "sme": false,
      "avant_premiere": false,
-     "billetterie": "https://www.cines-dijon.com/le-darcy/reserver/r/12544"
+     "billetterie": null
     },
     {
      "salle": "W2101",
@@ -2027,7 +2028,7 @@
      "version": "VF",
      "sme": false,
      "avant_premiere": false,
-     "billetterie": "https://www.cines-dijon.com/le-darcy/reserver/r/12545"
+     "billetterie": null
     },
     {
      "salle": "W2101",
@@ -2043,7 +2044,7 @@
      "version": "VF",
      "sme": false,
      "avant_premiere": false,
-     "billetterie": "https://www.cines-dijon.com/le-darcy/reserver/r/12546"
+     "billetterie": null
     },
     {
      "salle": "W2101",
@@ -4011,7 +4012,7 @@
      "version": "VO",
      "sme": false,
      "avant_premiere": false,
-     "billetterie": "https://www.cines-dijon.com/le-darcy/reserver/r/12527"
+     "billetterie": null
     },
     {
      "salle": "P0120",
@@ -4019,7 +4020,7 @@
      "version": "VO",
      "sme": false,
      "avant_premiere": false,
-     "billetterie": "https://www.cines-dijon.com/le-darcy/reserver/r/12528"
+     "billetterie": null
     },
     {
      "salle": "P0120",
@@ -4027,7 +4028,7 @@
      "version": "VO",
      "sme": false,
      "avant_premiere": false,
-     "billetterie": "https://www.cines-dijon.com/le-darcy/reserver/r/12548"
+     "billetterie": null
     },
     {
      "salle": "P0120",
@@ -4035,7 +4036,7 @@
      "version": "VO",
      "sme": false,
      "avant_premiere": false,
-     "billetterie": "https://www.cines-dijon.com/le-darcy/reserver/r/12549"
+     "billetterie": null
     }
    ]
   },
@@ -4074,7 +4075,7 @@
      "version": "VO",
      "sme": false,
      "avant_premiere": false,
-     "billetterie": "https://www.cines-dijon.com/le-darcy/reserver/r/12529"
+     "billetterie": null
     },
     {
      "salle": "W2101",
@@ -4090,7 +4091,7 @@
      "version": "VO",
      "sme": false,
      "avant_premiere": false,
-     "billetterie": "https://www.cines-dijon.com/le-darcy/reserver/r/12550"
+     "billetterie": null
     },
     {
      "salle": "W2101",
@@ -4134,7 +4135,7 @@
      "version": "VF",
      "sme": false,
      "avant_premiere": false,
-     "billetterie": "https://www.cines-dijon.com/le-darcy/reserver/r/12616"
+     "billetterie": null
     },
     {
      "salle": "P0120",
@@ -4142,7 +4143,7 @@
      "version": "VF",
      "sme": false,
      "avant_premiere": false,
-     "billetterie": "https://www.cines-dijon.com/le-darcy/reserver/r/12617"
+     "billetterie": null
     },
     {
      "salle": "P0120",
@@ -4150,7 +4151,7 @@
      "version": "VF",
      "sme": false,
      "avant_premiere": false,
-     "billetterie": "https://www.cines-dijon.com/le-darcy/reserver/r/12618"
+     "billetterie": null
     },
     {
      "salle": "P0120",
@@ -4158,7 +4159,7 @@
      "version": "VF",
      "sme": false,
      "avant_premiere": false,
-     "billetterie": "https://www.cines-dijon.com/le-darcy/reserver/r/12619"
+     "billetterie": null
     }
    ]
   },
@@ -4199,7 +4200,7 @@
      "version": "VF",
      "sme": false,
      "avant_premiere": false,
-     "billetterie": "https://www.cines-dijon.com/le-darcy/reserver/r/12531"
+     "billetterie": null
     },
     {
      "salle": "P0120",
@@ -4207,7 +4208,7 @@
      "version": "VF",
      "sme": false,
      "avant_premiere": false,
-     "billetterie": "https://www.cines-dijon.com/le-darcy/reserver/r/12538"
+     "billetterie": null
     },
     {
      "salle": "P0120",
@@ -4215,7 +4216,7 @@
      "version": "VF",
      "sme": false,
      "avant_premiere": false,
-     "billetterie": "https://www.cines-dijon.com/le-darcy/reserver/r/12540"
+     "billetterie": null
     },
     {
      "salle": "P0120",
@@ -4223,7 +4224,7 @@
      "version": "VF",
      "sme": false,
      "avant_premiere": false,
-     "billetterie": "https://www.cines-dijon.com/le-darcy/reserver/r/12559"
+     "billetterie": null
     }
    ]
   },
@@ -4701,7 +4702,7 @@
      "version": "VO",
      "sme": false,
      "avant_premiere": false,
-     "billetterie": "https://www.cines-dijon.com/le-darcy/reserver/r/12537"
+     "billetterie": null
     },
     {
      "salle": "P0120",
@@ -4709,7 +4710,7 @@
      "version": "VO",
      "sme": false,
      "avant_premiere": false,
-     "billetterie": "https://www.cines-dijon.com/le-darcy/reserver/r/12558"
+     "billetterie": null
     }
    ]
   },
@@ -4846,7 +4847,7 @@
      "version": "VF",
      "sme": false,
      "avant_premiere": false,
-     "billetterie": "https://www.cines-dijon.com/le-darcy/reserver/r/12530"
+     "billetterie": null
     },
     {
      "salle": "P0120",
@@ -4854,7 +4855,7 @@
      "version": "VF",
      "sme": false,
      "avant_premiere": false,
-     "billetterie": "https://www.cines-dijon.com/le-darcy/reserver/r/12551"
+     "billetterie": null
     }
    ]
   },
@@ -5072,7 +5073,7 @@
      "version": "VO",
      "sme": false,
      "avant_premiere": false,
-     "billetterie": "https://www.cines-dijon.com/le-darcy/reserver/r/9737"
+     "billetterie": null
     }
    ]
   },
@@ -5114,7 +5115,7 @@
      "version": "VF",
      "sme": false,
      "avant_premiere": false,
-     "billetterie": "https://www.cines-dijon.com/le-darcy/reserver/r/12135"
+     "billetterie": null
     }
    ]
   },
@@ -5153,7 +5154,7 @@
      "version": "VO",
      "sme": false,
      "avant_premiere": false,
-     "billetterie": "https://www.cines-dijon.com/le-darcy/reserver/r/12136"
+     "billetterie": null
     }
    ]
   },
@@ -5195,7 +5196,7 @@
      "version": "VF",
      "sme": false,
      "avant_premiere": false,
-     "billetterie": "https://www.cines-dijon.com/le-darcy/reserver/r/12431"
+     "billetterie": null
     }
    ]
   },
@@ -5316,7 +5317,7 @@
      "version": "VO",
      "sme": false,
      "avant_premiere": false,
-     "billetterie": "https://www.cines-dijon.com/le-darcy/reserver/r/9738"
+     "billetterie": null
     }
    ]
   },
@@ -5483,7 +5484,7 @@
      "version": "VF",
      "sme": false,
      "avant_premiere": true,
-     "billetterie": "https://www.cines-dijon.com/le-darcy/reserver/r/12450"
+     "billetterie": null
     }
    ]
   },
@@ -5523,7 +5524,7 @@
      "version": "VF",
      "sme": false,
      "avant_premiere": true,
-     "billetterie": "https://www.cines-dijon.com/le-darcy/reserver/r/12625"
+     "billetterie": null
     }
    ]
   },

@@ -39,8 +39,8 @@ modifiez la liste `CINEMAS` en haut de `scripts/collecte.py`.
 **AlloCiné donne plusieurs liens par séance, pas un seul.** Le premier de la liste est
 souvent `relay.mvtx.us`, qui aboutit systématiquement sur « Sold Out, or Not Available
 Online » — vérifié salle par salle et à plusieurs dates le 21/09/2026. Le collecteur
-écarte cet hôte (`HOTES_SANS_VENTE`) et prend le lien suivant, qui est le bon. Ne
-revenez pas à `urls[0]` : c'est ce qui masquait les vraies billetteries.
+écarte les hôtes défaillants (`HOTES_ECARTES`) et prend le lien suivant. Ne revenez
+pas à `urls[0]` : c'est ce qui masquait les vraies billetteries.
 
 État constaté au 21/09/2026 :
 
@@ -48,11 +48,18 @@ revenez pas à `urls[0]` : c'est ce qui masquait les vraies billetteries.
 |---|---|---|
 | Pathé Dijon, Ciné Cap Vert | `s.pathe.fr` | oui, plan de salle et bonne date |
 | Eldorado | `eldorado.ticketingcine.com` | oui, page de paiement de la séance exacte |
-| Le Darcy | `www.cines-dijon.com` | **non testé** — DNS injoignable depuis la machine de développement |
+| Le Darcy | aucun | les **trois** liens d'AlloCiné sont morts → bouton **Réserver** vers TicketingCiné |
 | Cinéville Dijon | aucun | bouton **Réserver** vers `dijon.cineville.fr` |
 
+Le Darcy mérite un mot : AlloCiné en propose trois, tous cassés — `relay.mvtx.us` dit
+« Sold Out », `www.cines-dijon.com` **n'existe plus** (NXDOMAIN, le cinéma a changé de
+site) et `tickets.allocine.fr/portail-dijon/...` renvoie 404. La salle porte donc
+`"liens_seance": False` dans `CINEMAS`, qui coupe la recherche de lien pour elle.
+
 Quand une salle n'a aucun lien exploitable, la page affiche un bouton **Réserver** vers
-l'adresse renseignée dans `CINEMAS` sous la clé `reservation`.
+l'adresse renseignée dans `CINEMAS` sous la clé `reservation`. Vérifiez toute nouvelle
+adresse en l'ouvrant : sur ce projet, un domaine était mort et un autre avait été
+racheté par un site de casino.
 
 Attention si vous modifiez ces adresses : `cinema-eldorado.fr` **n'appartient plus au
 cinéma** — le domaine sert aujourd'hui un site de casino en ligne. L'Eldorado et Le Darcy

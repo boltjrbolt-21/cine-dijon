@@ -68,6 +68,10 @@ CINEMAS = [
     },
     {
         "code": "P0120",
+        # Aucun des trois liens fournis par AlloCine ne fonctionne (2026-09-21) :
+        # relay.mvtx.us dit "Sold Out", cines-dijon.com n'existe plus (NXDOMAIN)
+        # et tickets.allocine.fr renvoie 404. On n'en propose aucun.
+        "liens_seance": False,
         "reservation": "https://www.ticketingcine.com/cine/XPH3YLKO.html",
         "nom": "Le Darcy",
         "alias": "",
@@ -327,12 +331,15 @@ def extrait_film(brut: dict) -> dict:
     }
 
 
-# Verifie le 2026-09-21, seance par seance et a plusieurs dates : le relais
-# d'AlloCine aboutit systematiquement sur "Sold Out, or Not Available Online"
-# pour Cineville, Le Darcy et l'Eldorado. Un lien qui promet une reservation et
-# ne mene nulle part est pire que pas de lien : on n'en garde aucun, la page
-# renvoie a la place vers la billetterie de la salle ("reservation" ci-dessus).
-HOTES_SANS_VENTE = {"relay.mvtx.us"}
+# Hotes dont les liens ne menent a rien. Un lien qui promet une reservation et
+# echoue est pire que pas de lien : on les jette, et la page renvoie vers la
+# billetterie de la salle ("reservation" ci-dessus).
+#   relay.mvtx.us       relais d'AlloCine : aboutit toujours sur "Sold Out, or
+#                       Not Available Online", verifie salle par salle et a
+#                       plusieurs dates le 2026-09-21.
+#   www.cines-dijon.com liens par seance du Darcy : ne fonctionnent pas, teste
+#                       par Kevin le 2026-09-21 depuis son navigateur.
+HOTES_ECARTES = {"relay.mvtx.us", "www.cines-dijon.com", "cines-dijon.com"}
 
 
 def lien_billetterie(seance: dict) -> str | None:
@@ -341,7 +348,7 @@ def lien_billetterie(seance: dict) -> str | None:
             if not url:
                 continue
             hote = urllib.parse.urlsplit(url).netloc.lower()
-            if hote in HOTES_SANS_VENTE:
+            if hote in HOTES_ECARTES:
                 continue
             # AlloCine laisse passer des espaces et des point-virgules bruts
             # (…&code=VO; SUBTITLE) : non encodes, le lien casse la connexion.
@@ -402,7 +409,10 @@ def collecte(jours: int) -> dict:
                                     "version": version_lisible(cle, seance),
                                     "sme": cle.endswith("_sme"),
                                     "avant_premiere": bool(seance.get("isPreview")),
-                                    "billetterie": lien_billetterie(seance),
+                                    "billetterie": (
+                                        lien_billetterie(seance)
+                                        if cinema.get("liens_seance", True) else None
+                                    ),
                                 }
                             )
                             total_seances += 1
