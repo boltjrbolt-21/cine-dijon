@@ -18,6 +18,9 @@ concurrency:
 jobs:
   collecte:
     runs-on: ubuntu-latest
+    # Une collecte normale dure trois minutes. Sans cette borne, GitHub laisse
+    # tourner six heures un travail bloqué.
+    timeout-minutes: 25
     steps:
       - name: Récupérer le dépôt
         uses: actions/checkout@v4

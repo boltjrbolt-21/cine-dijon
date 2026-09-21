@@ -145,6 +145,12 @@ UA = (
 BASE = "https://www.allocine.fr/_/showtimes/theater-{code}/d-{jour}/p-{page}/"
 FICHE = "https://www.allocine.fr/film/fichefilm_gen_cfilm={id}.html"
 PAUSE = 1.2  # secondes entre deux requetes, pour rester poli
+DELAI = 20   # secondes avant d'abandonner une requete
+ESSAIS = 2   # tentatives par requete ; au-dela on perd plus de temps qu'on en gagne
+# Garde-fou : une collecte normale prend trois minutes. Si AlloCine ignore la
+# machine qui collecte, chaque requete expire et le travail s'eternise. Passe ce
+# delai on abandonne SANS rien ecrire, pour ne pas publier des donnees tronquees.
+DUREE_MAX = 15 * 60
 
 
 def aujourdhui_paris() -> date:
@@ -156,7 +162,7 @@ def journal(*args) -> None:
     print(*args, file=sys.stderr, flush=True)
 
 
-def recupere(url: str, essais: int = 3) -> dict | None:
+def recupere(url: str, essais: int = ESSAIS) -> dict | None:
     """GET JSON avec quelques tentatives. Renvoie None en cas d'echec definitif."""
     for tentative in range(1, essais + 1):
         try:
@@ -169,7 +175,7 @@ def recupere(url: str, essais: int = 3) -> dict | None:
                     "Referer": "https://www.allocine.fr/",
                 },
             )
-            with urllib.request.urlopen(requete, timeout=30) as reponse:
+            with urllib.request.urlopen(requete, timeout=DELAI) as reponse:
                 return json.loads(reponse.read().decode("utf-8"))
         except (urllib.error.URLError, json.JSONDecodeError, TimeoutError) as err:
             journal(f"    tentative {tentative}/{essais} échouée ({err})")
@@ -362,8 +368,12 @@ def collecte(jours: int) -> dict:
     etat_salles: list[dict] = []
 
     dates = [(aujourdhui_paris() + timedelta(days=n)).isoformat() for n in range(jours)]
+    depart = time.monotonic()
+    incomplet = False
 
     for cinema in CINEMAS:
+        if incomplet:
+            break
         code = cinema["code"]
         journal(f"  {cinema['nom']} ({code})")
         total_seances = 0
@@ -372,6 +382,11 @@ def collecte(jours: int) -> dict:
         echec = False
 
         for jour in dates:
+            if time.monotonic() - depart > DUREE_MAX:
+                journal(f"    ABANDON : {DUREE_MAX // 60} minutes dépassées, "
+                        f"la source ne répond pas normalement")
+                incomplet = True
+                break
             page = 1
             while True:
                 donnees = recupere(BASE.format(code=code, jour=jour, page=page))
@@ -423,7 +438,7 @@ def collecte(jours: int) -> dict:
                     break
                 page += 1
 
-            if echec:
+            if echec or incomplet:
                 break
 
         journal(f"    {total_seances} séance(s) sur {len(jours_avec_seances)} jour(s)")
@@ -447,6 +462,7 @@ def collecte(jours: int) -> dict:
     )
 
     return {
+        "incomplet": incomplet,
         "genere_le": maintenant.isoformat(timespec="seconds"),
         "source": "AlloCiné",
         "ville": "Dijon et agglomération",
@@ -474,6 +490,9 @@ def main() -> int:
     nb_seances = sum(len(f["seances"]) for f in resultat["films"])
     salles_ok = [s for s in resultat["salles"] if not s["erreur"]]
 
+    if resultat.pop("incomplet", False):
+        journal("ÉCHEC : collecte interrompue avant la fin, le fichier n'est pas réécrit.")
+        return 1
     if not salles_ok:
         journal("ÉCHEC : aucune salle n'a répondu, le fichier n'est pas réécrit.")
         return 1
