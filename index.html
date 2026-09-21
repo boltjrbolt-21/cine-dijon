@@ -123,7 +123,6 @@
   a.heure:hover,button.heure:hover{border-color:var(--accent);color:var(--accent)}
   button.heure{font-family:inherit;cursor:pointer}
   button.heure:hover em{color:var(--accent)}
-  .heure.passee{opacity:.35}
   .heure em{font-style:normal;font-size:10.5px;font-weight:700;color:var(--encre-douce);letter-spacing:.02em}
   a.heure:hover em{color:var(--accent)}
 
@@ -263,13 +262,15 @@
   // --- filtrage ---------------------------------------------------------
   function seancesRetenues(film) {
     return film.seances.filter((s) => {
+      // Une séance commencée ne se réserve plus : l'afficher en grisé ne sert
+      // qu'à proposer un horaire sur lequel on ne peut pas appuyer. Tout ce qui
+      // reste à l'écran est donc choisissable.
+      if (dateLocale(s.debut).getTime() < horloge) return false;
+
       if (etat.jour === "soir") {
-        const t = dateLocale(s.debut).getTime();
-        if (t < horloge || t > horloge + 6 * 36e5) return false;
-      } else if (etat.jour === "semaine") {
-        // vue d'ensemble : tout ce qui reste à voir, séances déjà passées exclues
-        if (dateLocale(s.debut).getTime() < horloge) return false;
-      } else if (etat.jour && s.debut.slice(0, 10) !== etat.jour) return false;
+        if (dateLocale(s.debut).getTime() > horloge + 6 * 36e5) return false;
+      } else if (etat.jour !== "semaine" && etat.jour
+                 && s.debut.slice(0, 10) !== etat.jour) return false;
       if (etat.salles.size && !etat.salles.has(s.salle)) return false;
       if (etat.versions.size) {
         const groupe = s.version === "VF" ? "VF" : "VO";
@@ -354,11 +355,9 @@
         }
 
         const heures = liste.map((s) => {
-          const passee = dateLocale(s.debut).getTime() < horloge;
           const marque = [s.version !== "VF" ? s.version : "", s.sme ? "SME" : "", s.avant_premiere ? "AP" : ""]
             .filter(Boolean).join(" ");
           const dedans = `${heure(s.debut)}${marque ? ` <em>${marque}</em>` : ""}`;
-          const classe = `heure${passee ? " passee" : ""}`;
 
           // Un seul geste : on appuie sur l'horaire et on arrive sur la
           // réservation. Quand la salle n'ouvre pas sa billetterie séance par
@@ -368,10 +367,10 @@
             ? `Réserver la séance de ${heure(s.debut)}`
             : `Réserver sur le site de ${salle.nom}`;
 
-          return cible && !passee
-            ? `<a class="${classe}" href="${echappe(cible)}" target="_blank" rel="noopener"
+          return cible
+            ? `<a class="heure" href="${echappe(cible)}" target="_blank" rel="noopener"
                   title="${echappe(intitule)}">${dedans}</a>`
-            : `<span class="${classe}">${dedans}</span>`;
+            : `<span class="heure">${dedans}</span>`;
         }).join("");
 
         return `<div class="salle">

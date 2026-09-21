@@ -56,6 +56,10 @@ Le Darcy mérite un mot : AlloCiné en propose trois, tous cassés — `relay.mv
 site) et `tickets.allocine.fr/portail-dijon/...` renvoie 404. La salle porte donc
 `"liens_seance": False` dans `CINEMAS`, qui coupe la recherche de lien pour elle.
 
+**Tout horaire affiché est cliquable, sans exception** — c'est la règle à préserver.
+Les séances déjà commencées ne sont plus affichées du tout : les garder en grisé
+revenait à proposer un horaire sur lequel on ne peut pas appuyer.
+
 **Un seul geste dans la page :** on appuie sur l'horaire. Quand la salle ouvre sa
 billetterie séance par séance, on arrive sur la séance ; sinon, sur la billetterie de
 la salle, à l'adresse renseignée dans `CINEMAS` sous la clé `reservation`, et l'horaire
