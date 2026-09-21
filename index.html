@@ -124,8 +124,6 @@
   button.heure{font-family:inherit;cursor:pointer}
   button.heure:hover em{color:var(--accent)}
   .heure.passee{opacity:.35}
-  .reserver{border-style:dashed;border-color:var(--accent);color:var(--accent);font-weight:600}
-  a.reserver:hover{background:var(--accent-doux)}
   .heure em{font-style:normal;font-size:10.5px;font-weight:700;color:var(--encre-douce);letter-spacing:.02em}
   a.heure:hover em{color:var(--accent)}
 
@@ -194,9 +192,8 @@
   <main id="liste"></main>
 
   <footer id="pied" hidden>
-    <p>Un horaire cliquable mène directement à la billetterie de cette séance. Quand une salle
-       n'ouvre pas sa billetterie ici, ses horaires restent en texte simple et le bouton
-       <b>Réserver</b> vous emmène sur la sienne.</p>
+    <p>Appuyez sur un horaire pour réserver. Vous arrivez directement sur la séance quand la
+       salle le permet, sinon sur sa billetterie, où l'horaire est à resélectionner.</p>
     <p>Données : horaires publiés par les salles via AlloCiné, rafraîchis deux fois par jour.
        Vérifiez toujours l'horaire sur le site de la salle avant de vous déplacer.</p>
   </footer>
@@ -362,21 +359,24 @@
             .filter(Boolean).join(" ");
           const dedans = `${heure(s.debut)}${marque ? ` <em>${marque}</em>` : ""}`;
           const classe = `heure${passee ? " passee" : ""}`;
-          return s.billetterie && !passee
-            ? `<a class="${classe}" href="${echappe(s.billetterie)}" target="_blank" rel="noopener">${dedans}</a>`
+
+          // Un seul geste : on appuie sur l'horaire et on arrive sur la
+          // réservation. Quand la salle n'ouvre pas sa billetterie séance par
+          // séance, on l'envoie sur la sienne plutôt que de ne rien proposer.
+          const cible = s.billetterie || salle.reservation;
+          const intitule = s.billetterie
+            ? `Réserver la séance de ${heure(s.debut)}`
+            : `Réserver sur le site de ${salle.nom}`;
+
+          return cible && !passee
+            ? `<a class="${classe}" href="${echappe(cible)}" target="_blank" rel="noopener"
+                  title="${echappe(intitule)}">${dedans}</a>`
             : `<span class="${classe}">${dedans}</span>`;
         }).join("");
-        // Pathé fournit un lien direct par séance ; les autres salles n'ouvrent
-        // pas leur billetterie à AlloCiné, on renvoie alors vers la leur.
-        const sansLien = liste.every((s) => !s.billetterie);
-        const reserver = sansLien && salle.reservation
-          ? `<a class="heure reserver" href="${echappe(salle.reservation)}" target="_blank"
-                rel="noopener" title="Réserver sur le site de ${echappe(salle.nom)}">Réserver ↗</a>`
-          : "";
 
         return `<div class="salle">
             <div class="nom-salle">${echappe(salle.nom)}<small>${echappe(salle.ville)}</small></div>
-            <div class="heures">${heures}${reserver}</div>
+            <div class="heures">${heures}</div>
           </div>`;
       }).join("");
 

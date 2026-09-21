@@ -56,10 +56,13 @@ Le Darcy mérite un mot : AlloCiné en propose trois, tous cassés — `relay.mv
 site) et `tickets.allocine.fr/portail-dijon/...` renvoie 404. La salle porte donc
 `"liens_seance": False` dans `CINEMAS`, qui coupe la recherche de lien pour elle.
 
-Quand une salle n'a aucun lien exploitable, la page affiche un bouton **Réserver** vers
-l'adresse renseignée dans `CINEMAS` sous la clé `reservation`. Vérifiez toute nouvelle
-adresse en l'ouvrant : sur ce projet, un domaine était mort et un autre avait été
-racheté par un site de casino.
+**Un seul geste dans la page :** on appuie sur l'horaire. Quand la salle ouvre sa
+billetterie séance par séance, on arrive sur la séance ; sinon, sur la billetterie de
+la salle, à l'adresse renseignée dans `CINEMAS` sous la clé `reservation`, et l'horaire
+est à resélectionner sur place. L'attribut `title` de chaque horaire dit où il mène.
+
+Vérifiez toute nouvelle adresse en l'ouvrant : sur ce projet, un domaine était mort et
+un autre avait été racheté par un site de casino.
 
 Attention si vous modifiez ces adresses : `cinema-eldorado.fr` **n'appartient plus au
 cinéma** — le domaine sert aujourd'hui un site de casino en ligne. L'Eldorado et Le Darcy
