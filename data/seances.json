@@ -1,5 +1,5 @@
 {
- "genere_le": "2026-09-21T00:49:21+00:00",
+ "genere_le": "2026-09-21T10:38:01+00:00",
  "source": "AlloCiné",
  "ville": "Dijon et agglomération",
  "jours": [
@@ -3544,7 +3544,7 @@
      "version": "VO",
      "sme": false,
      "avant_premiere": false,
-     "billetterie": "https://dijon.cineville.fr/vad/2714/25475/11558"
+     "billetterie": null
     },
     {
      "salle": "P2788",
@@ -3560,7 +3560,7 @@
      "version": "VF",
      "sme": false,
      "avant_premiere": false,
-     "billetterie": "https://dijon.cineville.fr/vad/2714/25477/11556"
+     "billetterie": null
     },
     {
      "salle": "P2788",
@@ -3568,7 +3568,7 @@
      "version": "VF",
      "sme": false,
      "avant_premiere": false,
-     "billetterie": "https://dijon.cineville.fr/vad/2714/25483/11559"
+     "billetterie": null
     },
     {
      "salle": "P2788",
@@ -3576,7 +3576,7 @@
      "version": "VF",
      "sme": false,
      "avant_premiere": false,
-     "billetterie": "https://dijon.cineville.fr/vad/2714/25482/11562"
+     "billetterie": null
     },
     {
      "salle": "P2788",
@@ -3584,7 +3584,7 @@
      "version": "VO",
      "sme": false,
      "avant_premiere": false,
-     "billetterie": "https://dijon.cineville.fr/vad/2714/25480/11560"
+     "billetterie": null
     }
    ]
   },
@@ -5200,7 +5200,7 @@
      "version": "VF",
      "sme": false,
      "avant_premiere": false,
-     "billetterie": "https://www.katorza.fr/vad/2704/12431/5417"
+     "billetterie": null
     }
    ]
   },
