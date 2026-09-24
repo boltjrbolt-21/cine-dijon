@@ -1,5 +1,5 @@
 {
- "genere_le": "2026-09-24T09:55:31+00:00",
+ "genere_le": "2026-09-24T19:08:07+00:00",
  "source": "AlloCiné",
  "ville": "Dijon et agglomération",
  "jours": [
@@ -194,7 +194,7 @@
      "version": "VF",
      "sme": false,
      "avant_premiere": false,
-     "billetterie": "https://dijon.cineville.fr/vad/2714/25819/11581"
+     "billetterie": null
     },
     {
      "salle": "W2101",
@@ -218,7 +218,7 @@
      "version": "VF",
      "sme": false,
      "avant_premiere": false,
-     "billetterie": "https://dijon.cineville.fr/vad/2714/25537/11581"
+     "billetterie": null
     },
     {
      "salle": "W2101",
@@ -258,7 +258,7 @@
      "version": "VF",
      "sme": false,
      "avant_premiere": false,
-     "billetterie": "https://dijon.cineville.fr/vad/2714/25812/11648"
+     "billetterie": null
     },
     {
      "salle": "W2101",
@@ -859,7 +859,7 @@
      "version": "VF",
      "sme": false,
      "avant_premiere": false,
-     "billetterie": "https://dijon.cineville.fr/vad/2714/25810/11579"
+     "billetterie": null
     },
     {
      "salle": "P0771",
@@ -883,7 +883,7 @@
      "version": "VF",
      "sme": false,
      "avant_premiere": false,
-     "billetterie": "https://dijon.cineville.fr/vad/2714/25532/11643"
+     "billetterie": null
     },
     {
      "salle": "P0771",
@@ -931,7 +931,7 @@
      "version": "VO",
      "sme": false,
      "avant_premiere": false,
-     "billetterie": "https://dijon.cineville.fr/vad/2714/25811/11750"
+     "billetterie": null
     },
     {
      "salle": "P0771",
@@ -1526,7 +1526,7 @@
      "version": "VF",
      "sme": false,
      "avant_premiere": false,
-     "billetterie": "https://dijon.cineville.fr/vad/2714/25563/11556"
+     "billetterie": null
     },
     {
      "salle": "W2101",
@@ -1550,7 +1550,7 @@
      "version": "VO",
      "sme": false,
      "avant_premiere": false,
-     "billetterie": "https://dijon.cineville.fr/vad/2714/25475/11558"
+     "billetterie": null
     },
     {
      "salle": "W2101",
@@ -1951,7 +1951,7 @@
      "version": "VF",
      "sme": false,
      "avant_premiere": false,
-     "billetterie": "https://dijon.cineville.fr/vad/2714/25534/11644"
+     "billetterie": null
     },
     {
      "salle": "P0771",
@@ -1983,7 +1983,7 @@
      "version": "VF",
      "sme": false,
      "avant_premiere": false,
-     "billetterie": "https://dijon.cineville.fr/vad/2714/25545/11639"
+     "billetterie": null
     },
     {
      "salle": "W2101",
@@ -2370,7 +2370,7 @@
      "version": "VF",
      "sme": false,
      "avant_premiere": false,
-     "billetterie": "https://dijon.cineville.fr/vad/2714/25549/11614"
+     "billetterie": null
     },
     {
      "salle": "W2101",
@@ -2386,7 +2386,7 @@
      "version": "VF",
      "sme": false,
      "avant_premiere": false,
-     "billetterie": "https://dijon.cineville.fr/vad/2714/25825/11614"
+     "billetterie": null
     },
     {
      "salle": "P0771",
@@ -2402,7 +2402,7 @@
      "version": "VF",
      "sme": false,
      "avant_premiere": false,
-     "billetterie": "https://dijon.cineville.fr/vad/2714/25551/11614"
+     "billetterie": null
     },
     {
      "salle": "P0771",
@@ -2780,7 +2780,7 @@
      "version": "VF",
      "sme": true,
      "avant_premiere": false,
-     "billetterie": "https://dijon.cineville.fr/vad/2714/25527/11633"
+     "billetterie": null
     },
     {
      "salle": "P2788",
@@ -2788,7 +2788,7 @@
      "version": "VF",
      "sme": false,
      "avant_premiere": false,
-     "billetterie": "https://dijon.cineville.fr/vad/2714/25528/11633"
+     "billetterie": null
     },
     {
      "salle": "P0771",
@@ -2812,7 +2812,7 @@
      "version": "VF",
      "sme": false,
      "avant_premiere": false,
-     "billetterie": "https://dijon.cineville.fr/vad/2714/25530/11633"
+     "billetterie": null
     },
     {
      "salle": "P0771",
@@ -3188,7 +3188,7 @@
      "version": "VF",
      "sme": false,
      "avant_premiere": false,
-     "billetterie": "https://dijon.cineville.fr/vad/2714/25540/11635"
+     "billetterie": null
     },
     {
      "salle": "W2101",
@@ -3204,7 +3204,7 @@
      "version": "VF",
      "sme": false,
      "avant_premiere": false,
-     "billetterie": "https://dijon.cineville.fr/vad/2714/25538/11651"
+     "billetterie": null
     },
     {
      "salle": "W2101",
@@ -3887,7 +3887,7 @@
      "version": "VF",
      "sme": false,
      "avant_premiere": false,
-     "billetterie": "https://dijon.cineville.fr/vad/2714/25541/11584"
+     "billetterie": null
     },
     {
      "salle": "P0771",
@@ -3911,7 +3911,7 @@
      "version": "VF",
      "sme": false,
      "avant_premiere": false,
-     "billetterie": "https://dijon.cineville.fr/vad/2714/25542/11584"
+     "billetterie": null
     },
     {
      "salle": "P0771",
@@ -4226,7 +4226,7 @@
      "version": "VO",
      "sme": false,
      "avant_premiere": false,
-     "billetterie": "https://www.katorza.fr/vad/2704/12668/5434"
+     "billetterie": null
     },
     {
      "salle": "W2101",
@@ -4242,7 +4242,7 @@
      "version": "VF",
      "sme": false,
      "avant_premiere": false,
-     "billetterie": "https://www.katorza.fr/vad/2704/12820/5471"
+     "billetterie": null
     },
     {
      "salle": "W2101",
@@ -4258,7 +4258,7 @@
      "version": "VO",
      "sme": false,
      "avant_premiere": false,
-     "billetterie": "https://www.katorza.fr/vad/2704/12670/5434"
+     "billetterie": null
     },
     {
      "salle": "W2101",
@@ -4579,7 +4579,7 @@
      "version": "VF",
      "sme": false,
      "avant_premiere": false,
-     "billetterie": "https://dijon.cineville.fr/vad/2714/25543/11646"
+     "billetterie": null
     },
     {
      "salle": "P2788",
@@ -4587,7 +4587,7 @@
      "version": "VO",
      "sme": false,
      "avant_premiere": false,
-     "billetterie": "https://dijon.cineville.fr/vad/2714/25797/11744"
+     "billetterie": null
     },
     {
      "salle": "P0771",
@@ -4908,7 +4908,7 @@
      "version": "VF",
      "sme": false,
      "avant_premiere": false,
-     "billetterie": "https://www.katorza.fr/vad/2704/12678/5415"
+     "billetterie": null
     },
     {
      "salle": "P0771",
@@ -4924,7 +4924,7 @@
      "version": "VF",
      "sme": false,
      "avant_premiere": false,
-     "billetterie": "https://www.katorza.fr/vad/2704/12691/5415"
+     "billetterie": null
     },
     {
      "salle": "P0120",
@@ -5230,7 +5230,7 @@
      "version": "VF",
      "sme": false,
      "avant_premiere": false,
-     "billetterie": "https://www.katorza.fr/vad/2704/12674/5437"
+     "billetterie": null
     },
     {
      "salle": "P0120",
@@ -5238,7 +5238,7 @@
      "version": "VF",
      "sme": false,
      "avant_premiere": false,
-     "billetterie": "https://www.katorza.fr/vad/2704/12675/5414"
+     "billetterie": null
     },
     {
      "salle": "W2101",
@@ -5254,7 +5254,7 @@
      "version": "VF",
      "sme": false,
      "avant_premiere": false,
-     "billetterie": "https://www.katorza.fr/vad/2704/12676/5421"
+     "billetterie": null
     },
     {
      "salle": "W2101",
@@ -5535,7 +5535,7 @@
      "version": "VF",
      "sme": false,
      "avant_premiere": false,
-     "billetterie": "https://www.katorza.fr/vad/2704/12685/5432"
+     "billetterie": null
     },
     {
      "salle": "P0120",
@@ -5543,7 +5543,7 @@
      "version": "VF",
      "sme": false,
      "avant_premiere": false,
-     "billetterie": "https://www.katorza.fr/vad/2704/12690/5432"
+     "billetterie": null
     },
     {
      "salle": "W2101",
@@ -5802,7 +5802,7 @@
      "version": "VF",
      "sme": false,
      "avant_premiere": false,
-     "billetterie": "https://dijon.cineville.fr/vad/2714/25564/11650"
+     "billetterie": null
     },
     {
      "salle": "W2101",
@@ -5826,7 +5826,7 @@
      "version": "VF",
      "sme": false,
      "avant_premiere": false,
-     "billetterie": "https://dijon.cineville.fr/vad/2714/25829/11634"
+     "billetterie": null
     },
     {
      "salle": "P0771",
@@ -6026,7 +6026,7 @@
      "version": "VF",
      "sme": false,
      "avant_premiere": false,
-     "billetterie": "https://dijon.cineville.fr/vad/2714/25544/11649"
+     "billetterie": null
     },
     {
      "salle": "P0771",
@@ -6042,7 +6042,7 @@
      "version": "VF",
      "sme": false,
      "avant_premiere": false,
-     "billetterie": "https://dijon.cineville.fr/vad/2714/25555/11629"
+     "billetterie": null
     },
     {
      "salle": "P2788",
@@ -6220,7 +6220,7 @@
      "version": "VF",
      "sme": false,
      "avant_premiere": false,
-     "billetterie": "https://dijon.cineville.fr/vad/2714/25546/11617"
+     "billetterie": null
     },
     {
      "salle": "P0771",
@@ -6397,7 +6397,7 @@
      "version": "VO",
      "sme": false,
      "avant_premiere": false,
-     "billetterie": "https://www.katorza.fr/vad/2704/12692/5431"
+     "billetterie": null
     },
     {
      "salle": "P0771",
@@ -6413,7 +6413,7 @@
      "version": "VO",
      "sme": false,
      "avant_premiere": false,
-     "billetterie": "https://www.katorza.fr/vad/2704/12686/5399"
+     "billetterie": null
     },
     {
      "salle": "P0121",
@@ -6574,7 +6574,7 @@
      "version": "VO",
      "sme": false,
      "avant_premiere": false,
-     "billetterie": "https://www.katorza.fr/vad/2704/12672/5409"
+     "billetterie": null
     },
     {
      "salle": "P0120",
@@ -6582,7 +6582,7 @@
      "version": "VO",
      "sme": false,
      "avant_premiere": false,
-     "billetterie": "https://www.katorza.fr/vad/2704/12671/5436"
+     "billetterie": null
     },
     {
      "salle": "P0120",
@@ -6752,7 +6752,7 @@
      "version": "VF",
      "sme": false,
      "avant_premiere": false,
-     "billetterie": "https://dijon.cineville.fr/vad/2714/25547/11618"
+     "billetterie": null
     },
     {
      "salle": "P0771",
@@ -6768,7 +6768,7 @@
      "version": "VF",
      "sme": false,
      "avant_premiere": false,
-     "billetterie": "https://dijon.cineville.fr/vad/2714/25560/11618"
+     "billetterie": null
     },
     {
      "salle": "P0771",
@@ -6913,7 +6913,7 @@
      "version": "VF",
      "sme": false,
      "avant_premiere": false,
-     "billetterie": "https://dijon.cineville.fr/vad/2714/25561/11641"
+     "billetterie": null
     },
     {
      "salle": "P0771",
@@ -6929,7 +6929,7 @@
      "version": "VF",
      "sme": false,
      "avant_premiere": false,
-     "billetterie": "https://dijon.cineville.fr/vad/2714/25553/11641"
+     "billetterie": null
     },
     {
      "salle": "P0771",
@@ -7687,7 +7687,7 @@
      "version": "VO",
      "sme": false,
      "avant_premiere": false,
-     "billetterie": "https://dijon.cineville.fr/vad/2714/25558/11645"
+     "billetterie": null
     },
     {
      "salle": "P2788",
@@ -8352,7 +8352,7 @@
      "version": "VO",
      "sme": false,
      "avant_premiere": false,
-     "billetterie": "https://www.katorza.fr/vad/2704/12688/5430"
+     "billetterie": null
     },
     {
      "salle": "P0120",
@@ -8420,7 +8420,7 @@
      "version": "VF",
      "sme": false,
      "avant_premiere": false,
-     "billetterie": "https://www.katorza.fr/vad/2704/12716/5439"
+     "billetterie": null
     },
     {
      "salle": "P0120",
@@ -8832,7 +8832,7 @@
      "version": "VF",
      "sme": false,
      "avant_premiere": false,
-     "billetterie": "https://www.katorza.fr/vad/2704/12717/5438"
+     "billetterie": null
     },
     {
      "salle": "P0120",
@@ -8952,7 +8952,7 @@
      "version": "VF",
      "sme": false,
      "avant_premiere": false,
-     "billetterie": "https://dijon.cineville.fr/vad/2714/21242/9969"
+     "billetterie": null
     },
     {
      "salle": "P0771",
@@ -10075,7 +10075,7 @@
      "version": "VF",
      "sme": false,
      "avant_premiere": true,
-     "billetterie": "https://www.katorza.fr/vad/2704/12625/5362"
+     "billetterie": null
     }
    ]
   },
