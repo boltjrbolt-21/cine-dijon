@@ -1,9 +1,8 @@
 {
- "genere_le": "2026-10-07T20:36:50+00:00",
+ "genere_le": "2026-10-08T11:58:04+00:00",
  "source": "AlloCiné",
  "ville": "Dijon et agglomération",
  "jours": [
-  "2026-10-07",
   "2026-10-08",
   "2026-10-09",
   "2026-10-10",
@@ -12,7 +11,8 @@
   "2026-10-13",
   "2026-10-14",
   "2026-10-15",
-  "2026-10-16"
+  "2026-10-16",
+  "2026-10-17"
  ],
  "salles": [
   {
@@ -25,9 +25,8 @@
    "ville": "Dijon",
    "adresse": "16 avenue Maréchal Foch, 21000 Dijon",
    "type": "multiplexe",
-   "seances_trouvees": 277,
+   "seances_trouvees": 241,
    "jours_couverts": [
-    "2026-10-07",
     "2026-10-08",
     "2026-10-09",
     "2026-10-10",
@@ -47,16 +46,16 @@
    "ville": "Dijon",
    "adresse": "10 avenue Albert 1er, 21000 Dijon",
    "type": "multiplexe",
-   "seances_trouvees": 248,
+   "seances_trouvees": 241,
    "jours_couverts": [
-    "2026-10-07",
     "2026-10-08",
     "2026-10-09",
     "2026-10-10",
     "2026-10-11",
     "2026-10-12",
     "2026-10-13",
-    "2026-10-15"
+    "2026-10-15",
+    "2026-10-17"
    ],
    "erreur": false
   },
@@ -68,9 +67,8 @@
    "ville": "Quetigny",
    "adresse": "ZA des Charrières, 21800 Quetigny",
    "type": "multiplexe",
-   "seances_trouvees": 317,
+   "seances_trouvees": 313,
    "jours_couverts": [
-    "2026-10-07",
     "2026-10-08",
     "2026-10-09",
     "2026-10-10",
@@ -92,9 +90,8 @@
    "ville": "Dijon",
    "adresse": "8 place Darcy, 21000 Dijon",
    "type": "art et essai",
-   "seances_trouvees": 152,
+   "seances_trouvees": 130,
    "jours_couverts": [
-    "2026-10-07",
     "2026-10-08",
     "2026-10-09",
     "2026-10-10",
@@ -113,9 +110,8 @@
    "ville": "Dijon",
    "adresse": "21 rue Alfred de Musset, 21000 Dijon",
    "type": "art et essai",
-   "seances_trouvees": 123,
+   "seances_trouvees": 136,
    "jours_couverts": [
-    "2026-10-07",
     "2026-10-08",
     "2026-10-09",
     "2026-10-10",
@@ -124,7 +120,8 @@
     "2026-10-13",
     "2026-10-14",
     "2026-10-15",
-    "2026-10-16"
+    "2026-10-16",
+    "2026-10-17"
    ],
    "erreur": false
   },
@@ -165,61 +162,13 @@
    "annee": 2026,
    "synopsis": "Un jeune couple pense avoir enfin trouvé la solution miracle pour devenir propriétaire : Un Viager, une maison sublime au bord du lac, une dame mourante, bref, le plan parfait. Mais une fois le contrat signé la dame va beaucoup mieux et va transformer leur rêve immobilier en véritable cauchemar.",
    "resume": "Un jeune couple pense avoir enfin trouvé la solution miracle pour devenir propriétaire : Un Viager, une maison sublime au bord du lac, une dame mourante, bref, le plan parfait.",
-   "note_spectateurs": 2.9,
+   "note_spectateurs": 3.3,
    "note_presse": 2,
    "sortie": "2026-10-07",
    "classification": "Tout public",
    "avertissement": "",
    "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000031247.html",
    "seances": [
-    {
-     "salle": "P2788",
-     "debut": "2026-10-07T14:15:00",
-     "version": "VF",
-     "sme": false,
-     "avant_premiere": false,
-     "billetterie": null
-    },
-    {
-     "salle": "P2788",
-     "debut": "2026-10-07T16:15:00",
-     "version": "VF",
-     "sme": false,
-     "avant_premiere": false,
-     "billetterie": null
-    },
-    {
-     "salle": "P2788",
-     "debut": "2026-10-07T18:15:00",
-     "version": "VF",
-     "sme": false,
-     "avant_premiere": false,
-     "billetterie": null
-    },
-    {
-     "salle": "P2788",
-     "debut": "2026-10-07T20:15:00",
-     "version": "VF",
-     "sme": false,
-     "avant_premiere": false,
-     "billetterie": null
-    },
-    {
-     "salle": "P0771",
-     "debut": "2026-10-07T21:55:00",
-     "version": "VF",
-     "sme": false,
-     "avant_premiere": false,
-     "billetterie": "https://s.pathe.fr/en/V3342S120161/booking?utm_source=allocine&utm_medium=allocine&utm_campaign=partenaire-allocine&partenaire=allocine"
-    },
-    {
-     "salle": "W2101",
-     "debut": "2026-10-07T22:20:00",
-     "version": "VF",
-     "sme": false,
-     "avant_premiere": false,
-     "billetterie": "https://s.pathe.fr/en/V3345S85698/booking?utm_source=allocine&utm_medium=allocine&utm_campaign=partenaire-allocine&partenaire=allocine"
-    },
     {
      "salle": "W2101",
      "debut": "2026-10-08T13:30:00",
@@ -944,60 +893,12 @@
    "synopsis": "L’homme le plus puissant au monde se lance dans une mission effrénée pour s'ériger en sauveur de l’humanité avant que la catastrophe, qu’il a lui-même déclenchée, n’anéantisse la planète.",
    "resume": "L’homme le plus puissant au monde se lance dans une mission effrénée pour s'ériger en sauveur de l’humanité avant que la catastrophe, qu’il a lui-même déclenchée, n’anéantisse la planète.",
    "note_spectateurs": 3.8,
-   "note_presse": 3.1,
+   "note_presse": 3.2,
    "sortie": "2026-09-30",
    "classification": "Tout public",
    "avertissement": "",
    "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=327174.html",
    "seances": [
-    {
-     "salle": "P2788",
-     "debut": "2026-10-07T14:00:00",
-     "version": "VO",
-     "sme": false,
-     "avant_premiere": false,
-     "billetterie": null
-    },
-    {
-     "salle": "P2788",
-     "debut": "2026-10-07T17:00:00",
-     "version": "VF",
-     "sme": false,
-     "avant_premiere": false,
-     "billetterie": null
-    },
-    {
-     "salle": "P2788",
-     "debut": "2026-10-07T20:00:00",
-     "version": "VF",
-     "sme": false,
-     "avant_premiere": false,
-     "billetterie": null
-    },
-    {
-     "salle": "P0121",
-     "debut": "2026-10-07T21:00:00",
-     "version": "VOST",
-     "sme": false,
-     "avant_premiere": false,
-     "billetterie": "https://eldorado.ticketingcine.com#showsession?id=emsx002700039056&ps=webedia"
-    },
-    {
-     "salle": "W2101",
-     "debut": "2026-10-07T21:40:00",
-     "version": "VF",
-     "sme": false,
-     "avant_premiere": false,
-     "billetterie": "https://s.pathe.fr/en/V3345S85688/booking?utm_source=allocine&utm_medium=allocine&utm_campaign=partenaire-allocine&partenaire=allocine"
-    },
-    {
-     "salle": "P0771",
-     "debut": "2026-10-07T21:55:00",
-     "version": "VF",
-     "sme": false,
-     "avant_premiere": false,
-     "billetterie": "https://s.pathe.fr/en/V3342S120152/booking?utm_source=allocine&utm_medium=allocine&utm_campaign=partenaire-allocine&partenaire=allocine"
-    },
     {
      "salle": "W2101",
      "debut": "2026-10-08T13:40:00",
@@ -1653,6 +1554,14 @@
      "sme": false,
      "avant_premiere": false,
      "billetterie": "https://eldorado.ticketingcine.com#showsession?id=emsx002700039186&ps=webedia"
+    },
+    {
+     "salle": "P0121",
+     "debut": "2026-10-17T18:30:00",
+     "version": "VOST",
+     "sme": false,
+     "avant_premiere": false,
+     "billetterie": "https://eldorado.ticketingcine.com#showsession?id=emsx002700039207&ps=webedia"
     }
    ]
   },
@@ -1688,46 +1597,6 @@
    "avertissement": "L'atmosphère inquiétante de ce film, et certaines scènes sensibles, peuvent heurter un jeune public.",
    "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000015739.html",
    "seances": [
-    {
-     "salle": "P2788",
-     "debut": "2026-10-07T14:15:00",
-     "version": "VF",
-     "sme": false,
-     "avant_premiere": false,
-     "billetterie": null
-    },
-    {
-     "salle": "P2788",
-     "debut": "2026-10-07T16:45:00",
-     "version": "VF",
-     "sme": false,
-     "avant_premiere": false,
-     "billetterie": null
-    },
-    {
-     "salle": "P2788",
-     "debut": "2026-10-07T20:15:00",
-     "version": "VF",
-     "sme": false,
-     "avant_premiere": false,
-     "billetterie": null
-    },
-    {
-     "salle": "P0771",
-     "debut": "2026-10-07T21:55:00",
-     "version": "VF",
-     "sme": false,
-     "avant_premiere": false,
-     "billetterie": "https://s.pathe.fr/en/V3342S120151/booking?utm_source=allocine&utm_medium=allocine&utm_campaign=partenaire-allocine&partenaire=allocine"
-    },
-    {
-     "salle": "W2101",
-     "debut": "2026-10-07T22:00:00",
-     "version": "VOST",
-     "sme": false,
-     "avant_premiere": false,
-     "billetterie": "https://s.pathe.fr/en/V3345S85691/booking?utm_source=allocine&utm_medium=allocine&utm_campaign=partenaire-allocine&partenaire=allocine"
-    },
     {
      "salle": "W2101",
      "debut": "2026-10-08T13:30:00",
@@ -2370,38 +2239,6 @@
    "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000000085.html",
    "seances": [
     {
-     "salle": "P2788",
-     "debut": "2026-10-07T14:10:00",
-     "version": "VF",
-     "sme": false,
-     "avant_premiere": false,
-     "billetterie": null
-    },
-    {
-     "salle": "P2788",
-     "debut": "2026-10-07T16:20:00",
-     "version": "VF",
-     "sme": false,
-     "avant_premiere": false,
-     "billetterie": null
-    },
-    {
-     "salle": "P2788",
-     "debut": "2026-10-07T20:45:00",
-     "version": "VO",
-     "sme": false,
-     "avant_premiere": false,
-     "billetterie": null
-    },
-    {
-     "salle": "W2101",
-     "debut": "2026-10-07T21:45:00",
-     "version": "VOST",
-     "sme": false,
-     "avant_premiere": false,
-     "billetterie": "https://s.pathe.fr/en/V3345S85689/booking?utm_source=allocine&utm_medium=allocine&utm_campaign=partenaire-allocine&partenaire=allocine"
-    },
-    {
      "salle": "P0771",
      "debut": "2026-10-08T13:40:00",
      "version": "VF",
@@ -2996,37 +2833,13 @@
    "annee": 2026,
    "synopsis": "C’est Halloween, et Ducobu revient pour une aventure pleine de rires et de mystères ! Le professeur Latouche et Mademoiselle Rateau emménagent dans une maison… hantée par le ​ fantôme d'Anatole, le plus grand cancre de l’histoire de l’école Saint-Potache.",
    "resume": "C’est Halloween, et Ducobu revient pour une aventure pleine de rires et de mystères !",
-   "note_spectateurs": 2.7,
+   "note_spectateurs": 2.8,
    "note_presse": 2.9,
    "sortie": "2026-10-07",
    "classification": "Tout public",
    "avertissement": "",
    "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000019249.html",
    "seances": [
-    {
-     "salle": "P2788",
-     "debut": "2026-10-07T14:30:00",
-     "version": "VF",
-     "sme": false,
-     "avant_premiere": false,
-     "billetterie": null
-    },
-    {
-     "salle": "P2788",
-     "debut": "2026-10-07T16:30:00",
-     "version": "VF",
-     "sme": false,
-     "avant_premiere": false,
-     "billetterie": null
-    },
-    {
-     "salle": "P2788",
-     "debut": "2026-10-07T18:30:00",
-     "version": "VF",
-     "sme": false,
-     "avant_premiere": false,
-     "billetterie": null
-    },
     {
      "salle": "W2101",
      "debut": "2026-10-08T13:20:00",
@@ -3583,44 +3396,12 @@
    "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000018854.html",
    "seances": [
     {
-     "salle": "P2788",
-     "debut": "2026-10-07T13:45:00",
-     "version": "VF",
-     "sme": false,
-     "avant_premiere": false,
-     "billetterie": null
-    },
-    {
-     "salle": "P2788",
-     "debut": "2026-10-07T18:30:00",
-     "version": "VF",
-     "sme": false,
-     "avant_premiere": false,
-     "billetterie": null
-    },
-    {
-     "salle": "P2788",
-     "debut": "2026-10-07T20:45:00",
-     "version": "VF",
-     "sme": false,
-     "avant_premiere": false,
-     "billetterie": null
-    },
-    {
-     "salle": "W2101",
-     "debut": "2026-10-07T22:10:00",
-     "version": "VF",
-     "sme": false,
-     "avant_premiere": false,
-     "billetterie": "https://s.pathe.fr/en/V3345S85692/booking?utm_source=allocine&utm_medium=allocine&utm_campaign=partenaire-allocine&partenaire=allocine"
-    },
-    {
      "salle": "P0771",
-     "debut": "2026-10-07T22:15:00",
+     "debut": "2026-10-08T13:35:00",
      "version": "VF",
      "sme": false,
      "avant_premiere": false,
-     "billetterie": "https://s.pathe.fr/en/V3342S120153/booking?utm_source=allocine&utm_medium=allocine&utm_campaign=partenaire-allocine&partenaire=allocine"
+     "billetterie": "https://s.pathe.fr/en/V3342S120605/booking?utm_source=allocine&utm_medium=allocine&utm_campaign=partenaire-allocine&partenaire=allocine"
     },
     {
      "salle": "P2788",
@@ -3629,6 +3410,14 @@
      "sme": false,
      "avant_premiere": false,
      "billetterie": "https://dijon.cineville.fr/vad/2714/26259/11989"
+    },
+    {
+     "salle": "P0771",
+     "debut": "2026-10-08T17:55:00",
+     "version": "VF",
+     "sme": false,
+     "avant_premiere": false,
+     "billetterie": "https://s.pathe.fr/en/V3342S120368/booking?utm_source=allocine&utm_medium=allocine&utm_campaign=partenaire-allocine&partenaire=allocine"
     },
     {
      "salle": "P0771",
@@ -3655,6 +3444,14 @@
      "billetterie": "https://s.pathe.fr/en/V3342S120376/booking?utm_source=allocine&utm_medium=allocine&utm_campaign=partenaire-allocine&partenaire=allocine"
     },
     {
+     "salle": "P0771",
+     "debut": "2026-10-08T20:05:00",
+     "version": "VF",
+     "sme": false,
+     "avant_premiere": false,
+     "billetterie": "https://s.pathe.fr/en/V3342S120376/booking?utm_source=allocine&utm_medium=allocine&utm_campaign=partenaire-allocine&partenaire=allocine"
+    },
+    {
      "salle": "P2788",
      "debut": "2026-10-08T20:30:00",
      "version": "VF",
@@ -3669,6 +3466,14 @@
      "sme": false,
      "avant_premiere": false,
      "billetterie": "https://s.pathe.fr/en/V3345S86045/booking?utm_source=allocine&utm_medium=allocine&utm_campaign=partenaire-allocine&partenaire=allocine"
+    },
+    {
+     "salle": "P0771",
+     "debut": "2026-10-08T22:15:00",
+     "version": "VF",
+     "sme": false,
+     "avant_premiere": false,
+     "billetterie": "https://s.pathe.fr/en/V3342S120387/booking?utm_source=allocine&utm_medium=allocine&utm_campaign=partenaire-allocine&partenaire=allocine"
     },
     {
      "salle": "P0771",
@@ -4039,45 +3844,13 @@
    "annee": 2026,
    "synopsis": "Le film s'inspire de l'histoire vraie d'une jeune ingénieure chez Facebook, qui sollicite l'aide d'un journaliste au Wall Street Journal. Ensemble, ils se lancent dans une enquête pour révéler les secrets les mieux gardés du puissant réseau social.",
    "resume": "Le film s'inspire de l'histoire vraie d'une jeune ingénieure chez Facebook, qui sollicite l'aide d'un journaliste au Wall Street Journal.",
-   "note_spectateurs": 3.5,
+   "note_spectateurs": 3.2,
    "note_presse": 3.1,
    "sortie": "2026-10-07",
    "classification": "",
    "avertissement": "",
    "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000026649.html",
    "seances": [
-    {
-     "salle": "P2788",
-     "debut": "2026-10-07T14:00:00",
-     "version": "VF",
-     "sme": false,
-     "avant_premiere": false,
-     "billetterie": null
-    },
-    {
-     "salle": "P2788",
-     "debut": "2026-10-07T16:30:00",
-     "version": "VF",
-     "sme": false,
-     "avant_premiere": false,
-     "billetterie": null
-    },
-    {
-     "salle": "P2788",
-     "debut": "2026-10-07T20:30:00",
-     "version": "VF",
-     "sme": false,
-     "avant_premiere": false,
-     "billetterie": null
-    },
-    {
-     "salle": "W2101",
-     "debut": "2026-10-07T22:05:00",
-     "version": "VOST",
-     "sme": false,
-     "avant_premiere": false,
-     "billetterie": "https://s.pathe.fr/en/V3345S85703/booking?utm_source=allocine&utm_medium=allocine&utm_campaign=partenaire-allocine&partenaire=allocine"
-    },
     {
      "salle": "P2788",
      "debut": "2026-10-08T14:00:00",
@@ -4479,45 +4252,13 @@
    "annee": 2026,
    "synopsis": "Corinne Maclou est figurante. Elle enchaîne les tournages avec l’espoir d’être remarquée et de décrocher enfin un vrai rôle. Lorsque son chemin croise celui de Sandrine Kiberlain et qu’une relation commence à se nouer entre les deux, Corinne espère concrétiser son rêve. Mais la célèbre actrice va-t-elle vraiment l’aider à se faire une place au sein de la grande famille du cinéma ?",
    "resume": "Corinne Maclou est figurante. Elle enchaîne les tournages avec l’espoir d’être remarquée et de décrocher enfin un vrai rôle.",
-   "note_spectateurs": 3.6,
+   "note_spectateurs": 3.7,
    "note_presse": 3.6,
    "sortie": "2026-10-07",
    "classification": "Tout public",
    "avertissement": "",
    "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000023992.html",
    "seances": [
-    {
-     "salle": "P0120",
-     "debut": "2026-10-07T14:00:00",
-     "version": "VF",
-     "sme": false,
-     "avant_premiere": false,
-     "billetterie": null
-    },
-    {
-     "salle": "P0120",
-     "debut": "2026-10-07T16:30:00",
-     "version": "VF",
-     "sme": false,
-     "avant_premiere": false,
-     "billetterie": null
-    },
-    {
-     "salle": "P0120",
-     "debut": "2026-10-07T20:00:00",
-     "version": "VF",
-     "sme": false,
-     "avant_premiere": false,
-     "billetterie": null
-    },
-    {
-     "salle": "W2101",
-     "debut": "2026-10-07T21:40:00",
-     "version": "VF",
-     "sme": false,
-     "avant_premiere": false,
-     "billetterie": "https://s.pathe.fr/en/V3345S85707/booking?utm_source=allocine&utm_medium=allocine&utm_campaign=partenaire-allocine&partenaire=allocine"
-    },
     {
      "salle": "W2101",
      "debut": "2026-10-08T13:45:00",
@@ -4896,45 +4637,13 @@
    "annee": 2025,
    "synopsis": "Lors de son ultime concert à Paris, un chef d’orchestre de renom est confronté à un admirateur insistant. Sous ses apparences de « Monsieur tout le monde », le « Fan » perturbe la soirée et force un face à face inattendu avec le chef d’orchestre.",
    "resume": "Lors de son ultime concert à Paris, un chef d’orchestre de renom est confronté à un admirateur insistant.",
-   "note_spectateurs": 2.7,
-   "note_presse": 2.3,
+   "note_spectateurs": 3.0,
+   "note_presse": 2.2,
    "sortie": "2026-10-07",
    "classification": "Tout public",
    "avertissement": "",
    "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000030290.html",
    "seances": [
-    {
-     "salle": "P2788",
-     "debut": "2026-10-07T13:45:00",
-     "version": "VF",
-     "sme": false,
-     "avant_premiere": false,
-     "billetterie": null
-    },
-    {
-     "salle": "P2788",
-     "debut": "2026-10-07T16:00:00",
-     "version": "VF",
-     "sme": false,
-     "avant_premiere": false,
-     "billetterie": null
-    },
-    {
-     "salle": "P2788",
-     "debut": "2026-10-07T20:00:00",
-     "version": "VF",
-     "sme": false,
-     "avant_premiere": false,
-     "billetterie": null
-    },
-    {
-     "salle": "P0771",
-     "debut": "2026-10-07T22:05:00",
-     "version": "VF",
-     "sme": false,
-     "avant_premiere": false,
-     "billetterie": "https://s.pathe.fr/en/V3342S120598/booking?utm_source=allocine&utm_medium=allocine&utm_campaign=partenaire-allocine&partenaire=allocine"
-    },
     {
      "salle": "P0771",
      "debut": "2026-10-08T13:30:00",
@@ -5306,14 +5015,6 @@
    "seances": [
     {
      "salle": "W2101",
-     "debut": "2026-10-07T22:00:00",
-     "version": "VF",
-     "sme": false,
-     "avant_premiere": false,
-     "billetterie": "https://s.pathe.fr/en/V3345S85715/booking?utm_source=allocine&utm_medium=allocine&utm_campaign=partenaire-allocine&partenaire=allocine"
-    },
-    {
-     "salle": "W2101",
      "debut": "2026-10-08T14:00:00",
      "version": "VF",
      "sme": false,
@@ -5615,6 +5316,14 @@
      "sme": false,
      "avant_premiere": false,
      "billetterie": "https://eldorado.ticketingcine.com#showsession?id=emsx002700039191&ps=webedia"
+    },
+    {
+     "salle": "P0121",
+     "debut": "2026-10-17T16:30:00",
+     "version": "VF",
+     "sme": false,
+     "avant_premiere": false,
+     "billetterie": "https://eldorado.ticketingcine.com#showsession?id=emsx002700039206&ps=webedia"
     }
    ]
   },
@@ -5649,14 +5358,6 @@
    "avertissement": "",
    "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000032856.html",
    "seances": [
-    {
-     "salle": "P2788",
-     "debut": "2026-10-07T18:00:00",
-     "version": "VF",
-     "sme": false,
-     "avant_premiere": false,
-     "billetterie": null
-    },
     {
      "salle": "P0771",
      "debut": "2026-10-08T13:55:00",
@@ -5900,281 +5601,6 @@
    ]
   },
   {
-   "id": 55774,
-   "titre": "Cars",
-   "titre_original": "Cars",
-   "affiche": "https://fr.web.img3.acsta.net/img/59/da/59da33b9de0e915a94ce75dcd407df2d.jpg",
-   "duree_min": 117,
-   "genres": [
-    "Animation",
-    "Comédie",
-    "Action",
-    "Fantastique"
-   ],
-   "realisateurs": [
-    "John Lasseter"
-   ],
-   "acteurs": [
-    "Guillaume Canet",
-    "Bernard-Pierre Donnadieu",
-    "Cécile de France"
-   ],
-   "pays": [
-    "U.S.A."
-   ],
-   "annee": 2006,
-   "synopsis": "\"Cars\" a pour héros quelques légendes de la route qui vont faire hurler de rire leur moteur sur la mythique route 66 qui traverse les Etats-Unis d'est en ouest...",
-   "resume": "\"Cars\" a pour héros quelques légendes de la route qui vont faire hurler de rire leur moteur sur la mythique route 66 qui traverse les Etats-Unis d'est en ouest...",
-   "note_spectateurs": 3.9,
-   "note_presse": 4,
-   "sortie": "2026-09-30",
-   "classification": "Tout public",
-   "avertissement": "",
-   "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=55774.html",
-   "seances": [
-    {
-     "salle": "P2788",
-     "debut": "2026-10-07T13:45:00",
-     "version": "VF",
-     "sme": false,
-     "avant_premiere": false,
-     "billetterie": null
-    },
-    {
-     "salle": "P2788",
-     "debut": "2026-10-07T16:00:00",
-     "version": "VF",
-     "sme": false,
-     "avant_premiere": false,
-     "billetterie": null
-    },
-    {
-     "salle": "P0771",
-     "debut": "2026-10-08T13:45:00",
-     "version": "VF",
-     "sme": false,
-     "avant_premiere": false,
-     "billetterie": "https://s.pathe.fr/en/V3342S120350/booking?utm_source=allocine&utm_medium=allocine&utm_campaign=partenaire-allocine&partenaire=allocine"
-    },
-    {
-     "salle": "P0771",
-     "debut": "2026-10-08T16:25:00",
-     "version": "VF",
-     "sme": false,
-     "avant_premiere": false,
-     "billetterie": "https://s.pathe.fr/en/V3342S120391/booking?utm_source=allocine&utm_medium=allocine&utm_campaign=partenaire-allocine&partenaire=allocine"
-    },
-    {
-     "salle": "P0771",
-     "debut": "2026-10-08T20:15:00",
-     "version": "VF",
-     "sme": false,
-     "avant_premiere": false,
-     "billetterie": "https://s.pathe.fr/en/V3342S120378/booking?utm_source=allocine&utm_medium=allocine&utm_campaign=partenaire-allocine&partenaire=allocine"
-    },
-    {
-     "salle": "P0771",
-     "debut": "2026-10-09T13:45:00",
-     "version": "VF",
-     "sme": false,
-     "avant_premiere": false,
-     "billetterie": "https://s.pathe.fr/en/V3342S120401/booking?utm_source=allocine&utm_medium=allocine&utm_campaign=partenaire-allocine&partenaire=allocine"
-    },
-    {
-     "salle": "P0771",
-     "debut": "2026-10-09T16:25:00",
-     "version": "VF",
-     "sme": false,
-     "avant_premiere": false,
-     "billetterie": "https://s.pathe.fr/en/V3342S120412/booking?utm_source=allocine&utm_medium=allocine&utm_campaign=partenaire-allocine&partenaire=allocine"
-    },
-    {
-     "salle": "P0771",
-     "debut": "2026-10-09T20:15:00",
-     "version": "VF",
-     "sme": false,
-     "avant_premiere": false,
-     "billetterie": "https://s.pathe.fr/en/V3342S120429/booking?utm_source=allocine&utm_medium=allocine&utm_campaign=partenaire-allocine&partenaire=allocine"
-    },
-    {
-     "salle": "W2101",
-     "debut": "2026-10-10T10:40:00",
-     "version": "VF",
-     "sme": false,
-     "avant_premiere": false,
-     "billetterie": "https://s.pathe.fr/en/V3345S85793/booking?utm_source=allocine&utm_medium=allocine&utm_campaign=partenaire-allocine&partenaire=allocine"
-    },
-    {
-     "salle": "P2788",
-     "debut": "2026-10-10T13:45:00",
-     "version": "VF",
-     "sme": false,
-     "avant_premiere": false,
-     "billetterie": "https://dijon.cineville.fr/vad/2714/26356/11999"
-    },
-    {
-     "salle": "P0771",
-     "debut": "2026-10-10T13:55:00",
-     "version": "VF",
-     "sme": false,
-     "avant_premiere": false,
-     "billetterie": "https://s.pathe.fr/en/V3342S120444/booking?utm_source=allocine&utm_medium=allocine&utm_campaign=partenaire-allocine&partenaire=allocine"
-    },
-    {
-     "salle": "W2101",
-     "debut": "2026-10-10T14:00:00",
-     "version": "VF",
-     "sme": false,
-     "avant_premiere": false,
-     "billetterie": "https://s.pathe.fr/en/V3345S85807/booking?utm_source=allocine&utm_medium=allocine&utm_campaign=partenaire-allocine&partenaire=allocine"
-    },
-    {
-     "salle": "P2788",
-     "debut": "2026-10-10T16:00:00",
-     "version": "VF",
-     "sme": false,
-     "avant_premiere": false,
-     "billetterie": "https://dijon.cineville.fr/vad/2714/26355/12105"
-    },
-    {
-     "salle": "P0771",
-     "debut": "2026-10-10T16:20:00",
-     "version": "VF",
-     "sme": false,
-     "avant_premiere": false,
-     "billetterie": "https://s.pathe.fr/en/V3342S120458/booking?utm_source=allocine&utm_medium=allocine&utm_campaign=partenaire-allocine&partenaire=allocine"
-    },
-    {
-     "salle": "P0771",
-     "debut": "2026-10-10T19:15:00",
-     "version": "VF",
-     "sme": false,
-     "avant_premiere": false,
-     "billetterie": "https://s.pathe.fr/en/V3342S120477/booking?utm_source=allocine&utm_medium=allocine&utm_campaign=partenaire-allocine&partenaire=allocine"
-    },
-    {
-     "salle": "W2101",
-     "debut": "2026-10-11T10:40:00",
-     "version": "VF",
-     "sme": false,
-     "avant_premiere": false,
-     "billetterie": "https://s.pathe.fr/en/V3345S85839/booking?utm_source=allocine&utm_medium=allocine&utm_campaign=partenaire-allocine&partenaire=allocine"
-    },
-    {
-     "salle": "P0771",
-     "debut": "2026-10-11T10:40:00",
-     "version": "VF",
-     "sme": false,
-     "avant_premiere": false,
-     "billetterie": "https://s.pathe.fr/en/V3342S120286/booking?utm_source=allocine&utm_medium=allocine&utm_campaign=partenaire-allocine&partenaire=allocine"
-    },
-    {
-     "salle": "P2788",
-     "debut": "2026-10-11T10:45:00",
-     "version": "VF",
-     "sme": false,
-     "avant_premiere": false,
-     "billetterie": "https://dijon.cineville.fr/vad/2714/26408/11999"
-    },
-    {
-     "salle": "P0771",
-     "debut": "2026-10-11T13:55:00",
-     "version": "VF",
-     "sme": false,
-     "avant_premiere": false,
-     "billetterie": "https://s.pathe.fr/en/V3342S120303/booking?utm_source=allocine&utm_medium=allocine&utm_campaign=partenaire-allocine&partenaire=allocine"
-    },
-    {
-     "salle": "P2788",
-     "debut": "2026-10-11T14:00:00",
-     "version": "VF",
-     "sme": false,
-     "avant_premiere": false,
-     "billetterie": "https://dijon.cineville.fr/vad/2714/26384/12120"
-    },
-    {
-     "salle": "W2101",
-     "debut": "2026-10-11T14:00:00",
-     "version": "VF",
-     "sme": false,
-     "avant_premiere": false,
-     "billetterie": "https://s.pathe.fr/en/V3345S85853/booking?utm_source=allocine&utm_medium=allocine&utm_campaign=partenaire-allocine&partenaire=allocine"
-    },
-    {
-     "salle": "P2788",
-     "debut": "2026-10-11T15:45:00",
-     "version": "VF",
-     "sme": false,
-     "avant_premiere": false,
-     "billetterie": "https://dijon.cineville.fr/vad/2714/26385/12114"
-    },
-    {
-     "salle": "P0771",
-     "debut": "2026-10-11T16:20:00",
-     "version": "VF",
-     "sme": false,
-     "avant_premiere": false,
-     "billetterie": "https://s.pathe.fr/en/V3342S120316/booking?utm_source=allocine&utm_medium=allocine&utm_campaign=partenaire-allocine&partenaire=allocine"
-    },
-    {
-     "salle": "P0771",
-     "debut": "2026-10-11T20:05:00",
-     "version": "VF",
-     "sme": false,
-     "avant_premiere": false,
-     "billetterie": "https://s.pathe.fr/en/V3342S120332/booking?utm_source=allocine&utm_medium=allocine&utm_campaign=partenaire-allocine&partenaire=allocine"
-    },
-    {
-     "salle": "P0771",
-     "debut": "2026-10-12T13:45:00",
-     "version": "VF",
-     "sme": false,
-     "avant_premiere": false,
-     "billetterie": "https://s.pathe.fr/en/V3342S120498/booking?utm_source=allocine&utm_medium=allocine&utm_campaign=partenaire-allocine&partenaire=allocine"
-    },
-    {
-     "salle": "P0771",
-     "debut": "2026-10-12T16:25:00",
-     "version": "VF",
-     "sme": false,
-     "avant_premiere": false,
-     "billetterie": "https://s.pathe.fr/en/V3342S120509/booking?utm_source=allocine&utm_medium=allocine&utm_campaign=partenaire-allocine&partenaire=allocine"
-    },
-    {
-     "salle": "P0771",
-     "debut": "2026-10-12T18:55:00",
-     "version": "VF",
-     "sme": false,
-     "avant_premiere": false,
-     "billetterie": "https://s.pathe.fr/en/V3342S120524/booking?utm_source=allocine&utm_medium=allocine&utm_campaign=partenaire-allocine&partenaire=allocine"
-    },
-    {
-     "salle": "P0771",
-     "debut": "2026-10-13T13:45:00",
-     "version": "VF",
-     "sme": false,
-     "avant_premiere": false,
-     "billetterie": "https://s.pathe.fr/en/V3342S120546/booking?utm_source=allocine&utm_medium=allocine&utm_campaign=partenaire-allocine&partenaire=allocine"
-    },
-    {
-     "salle": "P0771",
-     "debut": "2026-10-13T16:25:00",
-     "version": "VF",
-     "sme": false,
-     "avant_premiere": false,
-     "billetterie": "https://s.pathe.fr/en/V3342S120558/booking?utm_source=allocine&utm_medium=allocine&utm_campaign=partenaire-allocine&partenaire=allocine"
-    },
-    {
-     "salle": "P0771",
-     "debut": "2026-10-13T19:20:00",
-     "version": "VF",
-     "sme": false,
-     "avant_premiere": false,
-     "billetterie": "https://s.pathe.fr/en/V3342S120568/booking?utm_source=allocine&utm_medium=allocine&utm_campaign=partenaire-allocine&partenaire=allocine"
-    }
-   ]
-  },
-  {
    "id": 1000028944,
    "titre": "Justin le Juste",
    "titre_original": "Justin le Juste",
@@ -6206,14 +5632,6 @@
    "avertissement": "",
    "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000028944.html",
    "seances": [
-    {
-     "salle": "P2788",
-     "debut": "2026-10-07T16:15:00",
-     "version": "VF",
-     "sme": false,
-     "avant_premiere": false,
-     "billetterie": null
-    },
     {
      "salle": "P0771",
      "debut": "2026-10-08T13:35:00",
@@ -6449,219 +5867,261 @@
    ]
   },
   {
-   "id": 1000032855,
-   "titre": "Kraken",
-   "titre_original": "Kraken",
-   "affiche": "https://fr.web.img3.acsta.net/img/cc/22/cc222386da3f11bb9ae1dae2d1bc65bd.jpg",
-   "duree_min": null,
+   "id": 55774,
+   "titre": "Cars",
+   "titre_original": "Cars",
+   "affiche": "https://fr.web.img3.acsta.net/img/59/da/59da33b9de0e915a94ce75dcd407df2d.jpg",
+   "duree_min": 117,
    "genres": [
-    "Épouvante-horreur"
+    "Animation",
+    "Comédie",
+    "Action",
+    "Fantastique"
    ],
    "realisateurs": [
-    "Mohamed Chabane",
-    "Théo Jourdain Rhodes"
+    "John Lasseter"
    ],
    "acteurs": [
-    "Alassane Diong",
-    "Manon Bresch",
-    "Guillaume Gouix"
+    "Guillaume Canet",
+    "Bernard-Pierre Donnadieu",
+    "Cécile de France"
    ],
    "pays": [
-    "France"
+    "U.S.A."
    ],
-   "annee": 2026,
-   "synopsis": "Dans une cité, une tour abandonnée alimente les rumeurs. Alors que des disparitions étranges s'enchaînent, 5 jeunes n’ont plus le choix : y entrer à nouveau. Pris dans un piège mortel, ils vont bientôt comprendre que s'échapper leur sera impossible…",
-   "resume": "Dans une cité, une tour abandonnée alimente les rumeurs. Alors que des disparitions étranges s'enchaînent, 5 jeunes n’ont plus le choix : y entrer à nouveau.",
-   "note_spectateurs": 3.0,
-   "note_presse": 3.4,
+   "annee": 2006,
+   "synopsis": "\"Cars\" a pour héros quelques légendes de la route qui vont faire hurler de rire leur moteur sur la mythique route 66 qui traverse les Etats-Unis d'est en ouest...",
+   "resume": "\"Cars\" a pour héros quelques légendes de la route qui vont faire hurler de rire leur moteur sur la mythique route 66 qui traverse les Etats-Unis d'est en ouest...",
+   "note_spectateurs": 3.9,
+   "note_presse": 4,
    "sortie": "2026-09-30",
-   "classification": "Interdit - 16 ans",
+   "classification": "Tout public",
    "avertissement": "",
-   "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000032855.html",
+   "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=55774.html",
    "seances": [
     {
-     "salle": "P2788",
-     "debut": "2026-10-07T14:30:00",
+     "salle": "P0771",
+     "debut": "2026-10-08T13:45:00",
      "version": "VF",
      "sme": false,
      "avant_premiere": false,
-     "billetterie": null
+     "billetterie": "https://s.pathe.fr/en/V3342S120350/booking?utm_source=allocine&utm_medium=allocine&utm_campaign=partenaire-allocine&partenaire=allocine"
     },
     {
-     "salle": "P2788",
-     "debut": "2026-10-07T18:40:00",
+     "salle": "P0771",
+     "debut": "2026-10-08T16:25:00",
      "version": "VF",
      "sme": false,
      "avant_premiere": false,
-     "billetterie": null
+     "billetterie": "https://s.pathe.fr/en/V3342S120391/booking?utm_source=allocine&utm_medium=allocine&utm_campaign=partenaire-allocine&partenaire=allocine"
     },
     {
-     "salle": "P2788",
-     "debut": "2026-10-07T20:30:00",
-     "version": "VF",
-     "sme": false,
-     "avant_premiere": false,
-     "billetterie": null
-    },
-    {
-     "salle": "P2788",
-     "debut": "2026-10-08T16:00:00",
-     "version": "VF",
-     "sme": false,
-     "avant_premiere": false,
-     "billetterie": "https://dijon.cineville.fr/vad/2714/26265/12063"
-    },
-    {
-     "salle": "P2788",
-     "debut": "2026-10-08T18:30:00",
-     "version": "VF",
-     "sme": false,
-     "avant_premiere": false,
-     "billetterie": "https://dijon.cineville.fr/vad/2714/26253/12012"
-    },
-    {
-     "salle": "P2788",
+     "salle": "P0771",
      "debut": "2026-10-08T20:15:00",
      "version": "VF",
      "sme": false,
      "avant_premiere": false,
-     "billetterie": "https://dijon.cineville.fr/vad/2714/26254/12049"
+     "billetterie": "https://s.pathe.fr/en/V3342S120378/booking?utm_source=allocine&utm_medium=allocine&utm_campaign=partenaire-allocine&partenaire=allocine"
     },
     {
-     "salle": "P2788",
-     "debut": "2026-10-09T16:10:00",
+     "salle": "P0771",
+     "debut": "2026-10-09T13:45:00",
      "version": "VF",
      "sme": false,
      "avant_premiere": false,
-     "billetterie": "https://dijon.cineville.fr/vad/2714/26298/12063"
+     "billetterie": "https://s.pathe.fr/en/V3342S120401/booking?utm_source=allocine&utm_medium=allocine&utm_campaign=partenaire-allocine&partenaire=allocine"
     },
     {
-     "salle": "P2788",
-     "debut": "2026-10-09T18:00:00",
+     "salle": "P0771",
+     "debut": "2026-10-09T16:25:00",
      "version": "VF",
      "sme": false,
      "avant_premiere": false,
-     "billetterie": "https://dijon.cineville.fr/vad/2714/26299/12054"
+     "billetterie": "https://s.pathe.fr/en/V3342S120412/booking?utm_source=allocine&utm_medium=allocine&utm_campaign=partenaire-allocine&partenaire=allocine"
     },
     {
-     "salle": "P2788",
-     "debut": "2026-10-09T20:45:00",
+     "salle": "P0771",
+     "debut": "2026-10-09T20:15:00",
      "version": "VF",
      "sme": false,
      "avant_premiere": false,
-     "billetterie": "https://dijon.cineville.fr/vad/2714/26301/12098"
+     "billetterie": "https://s.pathe.fr/en/V3342S120429/booking?utm_source=allocine&utm_medium=allocine&utm_campaign=partenaire-allocine&partenaire=allocine"
     },
     {
-     "salle": "P2788",
-     "debut": "2026-10-09T22:15:00",
+     "salle": "W2101",
+     "debut": "2026-10-10T10:40:00",
      "version": "VF",
      "sme": false,
      "avant_premiere": false,
-     "billetterie": "https://dijon.cineville.fr/vad/2714/26300/12078"
+     "billetterie": "https://s.pathe.fr/en/V3345S85793/booking?utm_source=allocine&utm_medium=allocine&utm_campaign=partenaire-allocine&partenaire=allocine"
     },
     {
      "salle": "P2788",
+     "debut": "2026-10-10T13:45:00",
+     "version": "VF",
+     "sme": false,
+     "avant_premiere": false,
+     "billetterie": "https://dijon.cineville.fr/vad/2714/26356/11999"
+    },
+    {
+     "salle": "P0771",
+     "debut": "2026-10-10T13:55:00",
+     "version": "VF",
+     "sme": false,
+     "avant_premiere": false,
+     "billetterie": "https://s.pathe.fr/en/V3342S120444/booking?utm_source=allocine&utm_medium=allocine&utm_campaign=partenaire-allocine&partenaire=allocine"
+    },
+    {
+     "salle": "W2101",
      "debut": "2026-10-10T14:00:00",
      "version": "VF",
      "sme": false,
      "avant_premiere": false,
-     "billetterie": "https://dijon.cineville.fr/vad/2714/26354/12012"
+     "billetterie": "https://s.pathe.fr/en/V3345S85807/booking?utm_source=allocine&utm_medium=allocine&utm_campaign=partenaire-allocine&partenaire=allocine"
     },
     {
      "salle": "P2788",
-     "debut": "2026-10-10T18:30:00",
+     "debut": "2026-10-10T16:00:00",
      "version": "VF",
      "sme": false,
      "avant_premiere": false,
-     "billetterie": "https://dijon.cineville.fr/vad/2714/26341/12012"
+     "billetterie": "https://dijon.cineville.fr/vad/2714/26355/12105"
+    },
+    {
+     "salle": "P0771",
+     "debut": "2026-10-10T16:20:00",
+     "version": "VF",
+     "sme": false,
+     "avant_premiere": false,
+     "billetterie": "https://s.pathe.fr/en/V3342S120458/booking?utm_source=allocine&utm_medium=allocine&utm_campaign=partenaire-allocine&partenaire=allocine"
+    },
+    {
+     "salle": "P0771",
+     "debut": "2026-10-10T19:15:00",
+     "version": "VF",
+     "sme": false,
+     "avant_premiere": false,
+     "billetterie": "https://s.pathe.fr/en/V3342S120477/booking?utm_source=allocine&utm_medium=allocine&utm_campaign=partenaire-allocine&partenaire=allocine"
+    },
+    {
+     "salle": "W2101",
+     "debut": "2026-10-11T10:40:00",
+     "version": "VF",
+     "sme": false,
+     "avant_premiere": false,
+     "billetterie": "https://s.pathe.fr/en/V3345S85839/booking?utm_source=allocine&utm_medium=allocine&utm_campaign=partenaire-allocine&partenaire=allocine"
+    },
+    {
+     "salle": "P0771",
+     "debut": "2026-10-11T10:40:00",
+     "version": "VF",
+     "sme": false,
+     "avant_premiere": false,
+     "billetterie": "https://s.pathe.fr/en/V3342S120286/booking?utm_source=allocine&utm_medium=allocine&utm_campaign=partenaire-allocine&partenaire=allocine"
     },
     {
      "salle": "P2788",
-     "debut": "2026-10-10T20:45:00",
+     "debut": "2026-10-11T10:45:00",
      "version": "VF",
      "sme": false,
      "avant_premiere": false,
-     "billetterie": "https://dijon.cineville.fr/vad/2714/26343/12012"
+     "billetterie": "https://dijon.cineville.fr/vad/2714/26408/11999"
+    },
+    {
+     "salle": "P0771",
+     "debut": "2026-10-11T13:55:00",
+     "version": "VF",
+     "sme": false,
+     "avant_premiere": false,
+     "billetterie": "https://s.pathe.fr/en/V3342S120303/booking?utm_source=allocine&utm_medium=allocine&utm_campaign=partenaire-allocine&partenaire=allocine"
     },
     {
      "salle": "P2788",
-     "debut": "2026-10-10T22:15:00",
+     "debut": "2026-10-11T14:00:00",
      "version": "VF",
      "sme": false,
      "avant_premiere": false,
-     "billetterie": "https://dijon.cineville.fr/vad/2714/26342/12078"
+     "billetterie": "https://dijon.cineville.fr/vad/2714/26384/12120"
+    },
+    {
+     "salle": "W2101",
+     "debut": "2026-10-11T14:00:00",
+     "version": "VF",
+     "sme": false,
+     "avant_premiere": false,
+     "billetterie": "https://s.pathe.fr/en/V3345S85853/booking?utm_source=allocine&utm_medium=allocine&utm_campaign=partenaire-allocine&partenaire=allocine"
     },
     {
      "salle": "P2788",
-     "debut": "2026-10-11T13:45:00",
+     "debut": "2026-10-11T15:45:00",
      "version": "VF",
      "sme": false,
      "avant_premiere": false,
-     "billetterie": "https://dijon.cineville.fr/vad/2714/26374/12012"
+     "billetterie": "https://dijon.cineville.fr/vad/2714/26385/12114"
     },
     {
-     "salle": "P2788",
-     "debut": "2026-10-11T18:15:00",
+     "salle": "P0771",
+     "debut": "2026-10-11T16:20:00",
      "version": "VF",
      "sme": false,
      "avant_premiere": false,
-     "billetterie": "https://dijon.cineville.fr/vad/2714/26386/12012"
+     "billetterie": "https://s.pathe.fr/en/V3342S120316/booking?utm_source=allocine&utm_medium=allocine&utm_campaign=partenaire-allocine&partenaire=allocine"
     },
     {
-     "salle": "P2788",
-     "debut": "2026-10-11T20:30:00",
+     "salle": "P0771",
+     "debut": "2026-10-11T20:05:00",
      "version": "VF",
      "sme": false,
      "avant_premiere": false,
-     "billetterie": "https://dijon.cineville.fr/vad/2714/26387/12012"
+     "billetterie": "https://s.pathe.fr/en/V3342S120332/booking?utm_source=allocine&utm_medium=allocine&utm_campaign=partenaire-allocine&partenaire=allocine"
     },
     {
-     "salle": "P2788",
-     "debut": "2026-10-12T16:00:00",
+     "salle": "P0771",
+     "debut": "2026-10-12T13:45:00",
      "version": "VF",
      "sme": false,
      "avant_premiere": false,
-     "billetterie": "https://dijon.cineville.fr/vad/2714/26444/12063"
+     "billetterie": "https://s.pathe.fr/en/V3342S120498/booking?utm_source=allocine&utm_medium=allocine&utm_campaign=partenaire-allocine&partenaire=allocine"
     },
     {
-     "salle": "P2788",
-     "debut": "2026-10-12T18:30:00",
+     "salle": "P0771",
+     "debut": "2026-10-12T16:25:00",
      "version": "VF",
      "sme": false,
      "avant_premiere": false,
-     "billetterie": "https://dijon.cineville.fr/vad/2714/26433/12012"
+     "billetterie": "https://s.pathe.fr/en/V3342S120509/booking?utm_source=allocine&utm_medium=allocine&utm_campaign=partenaire-allocine&partenaire=allocine"
     },
     {
-     "salle": "P2788",
-     "debut": "2026-10-12T20:15:00",
+     "salle": "P0771",
+     "debut": "2026-10-12T18:55:00",
      "version": "VF",
      "sme": false,
      "avant_premiere": false,
-     "billetterie": "https://dijon.cineville.fr/vad/2714/26434/12049"
+     "billetterie": "https://s.pathe.fr/en/V3342S120524/booking?utm_source=allocine&utm_medium=allocine&utm_campaign=partenaire-allocine&partenaire=allocine"
     },
     {
-     "salle": "P2788",
-     "debut": "2026-10-13T16:00:00",
+     "salle": "P0771",
+     "debut": "2026-10-13T13:45:00",
      "version": "VF",
      "sme": false,
      "avant_premiere": false,
-     "billetterie": "https://dijon.cineville.fr/vad/2714/26480/12063"
+     "billetterie": "https://s.pathe.fr/en/V3342S120546/booking?utm_source=allocine&utm_medium=allocine&utm_campaign=partenaire-allocine&partenaire=allocine"
     },
     {
-     "salle": "P2788",
-     "debut": "2026-10-13T18:30:00",
+     "salle": "P0771",
+     "debut": "2026-10-13T16:25:00",
      "version": "VF",
      "sme": false,
      "avant_premiere": false,
-     "billetterie": "https://dijon.cineville.fr/vad/2714/26470/12012"
+     "billetterie": "https://s.pathe.fr/en/V3342S120558/booking?utm_source=allocine&utm_medium=allocine&utm_campaign=partenaire-allocine&partenaire=allocine"
     },
     {
-     "salle": "P2788",
-     "debut": "2026-10-13T20:15:00",
+     "salle": "P0771",
+     "debut": "2026-10-13T19:20:00",
      "version": "VF",
      "sme": false,
      "avant_premiere": false,
-     "billetterie": "https://dijon.cineville.fr/vad/2714/26471/12049"
+     "billetterie": "https://s.pathe.fr/en/V3342S120568/booking?utm_source=allocine&utm_medium=allocine&utm_campaign=partenaire-allocine&partenaire=allocine"
     }
    ]
   },
@@ -6698,14 +6158,6 @@
    "avertissement": "",
    "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000036867.html",
    "seances": [
-    {
-     "salle": "P2788",
-     "debut": "2026-10-07T20:00:00",
-     "version": "VF",
-     "sme": false,
-     "avant_premiere": false,
-     "billetterie": null
-    },
     {
      "salle": "P0771",
      "debut": "2026-10-08T13:35:00",
@@ -6843,14 +6295,6 @@
      "billetterie": "https://dijon.cineville.fr/vad/2714/26447/12051"
     },
     {
-     "salle": "P0771",
-     "debut": "2026-10-12T20:35:00",
-     "version": "VF",
-     "sme": false,
-     "avant_premiere": false,
-     "billetterie": "https://s.pathe.fr/en/V3342S120596/booking?utm_source=allocine&utm_medium=allocine&utm_campaign=partenaire-allocine&partenaire=allocine"
-    },
-    {
      "salle": "W2101",
      "debut": "2026-10-12T20:45:00",
      "version": "VF",
@@ -6907,22 +6351,6 @@
    "avertissement": "",
    "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000043221.html",
    "seances": [
-    {
-     "salle": "P0120",
-     "debut": "2026-10-07T16:15:00",
-     "version": "VF",
-     "sme": false,
-     "avant_premiere": false,
-     "billetterie": null
-    },
-    {
-     "salle": "P0120",
-     "debut": "2026-10-07T20:30:00",
-     "version": "VF",
-     "sme": false,
-     "avant_premiere": false,
-     "billetterie": null
-    },
     {
      "salle": "P0120",
      "debut": "2026-10-08T14:00:00",
@@ -7086,6 +6514,570 @@
    ]
   },
   {
+   "id": 1000007388,
+   "titre": "Notre salut",
+   "titre_original": "Notre salut",
+   "affiche": "https://fr.web.img4.acsta.net/img/b7/ac/b7acc48dac20e8329866a199e0ff78e8.jpg",
+   "duree_min": 159,
+   "genres": [
+    "Drame",
+    "Historique"
+   ],
+   "realisateurs": [
+    "Emmanuel Marre"
+   ],
+   "acteurs": [
+    "Swann Arlaud",
+    "Sandrine Blancke",
+    "Harpo Guit"
+   ],
+   "pays": [
+    "France",
+    "Belgique"
+   ],
+   "annee": 2026,
+   "synopsis": "Septembre 1940, le régime de Pétain se met en place. Henri Marre, 49 ans, débarque à Vichy sans le sou, sans contact, loin de sa femme et ses enfants. Il voit dans la nouvelle administration l’opportunité de trouver enfin la place qu’il mérite. Dans sa valise, son traité politique édité à compte d’auteur, Notre Salut, où il défend ses convictions patriotiques et ses méthodes d'ingénieur. Son credo : « gagner en efficacité » pour relever la France de la débâcle. Mais peut-être qu’Henri cherche avant tout à fuir sa propre débâcle…",
+   "resume": "Septembre 1940, le régime de Pétain se met en place. Henri Marre, 49 ans, débarque à Vichy sans le sou, sans contact, loin de sa femme et ses enfants.",
+   "note_spectateurs": 3.7,
+   "note_presse": 4.5,
+   "sortie": "2026-09-30",
+   "classification": "Tout public",
+   "avertissement": "",
+   "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000007388.html",
+   "seances": [
+    {
+     "salle": "P0121",
+     "debut": "2026-10-08T16:00:00",
+     "version": "VF",
+     "sme": false,
+     "avant_premiere": false,
+     "billetterie": "https://eldorado.ticketingcine.com#showsession?id=emsx002700039068&ps=webedia"
+    },
+    {
+     "salle": "P0121",
+     "debut": "2026-10-08T20:15:00",
+     "version": "VF",
+     "sme": false,
+     "avant_premiere": false,
+     "billetterie": "https://eldorado.ticketingcine.com#showsession?id=emsx002700039078&ps=webedia"
+    },
+    {
+     "salle": "P0121",
+     "debut": "2026-10-09T16:00:00",
+     "version": "VF",
+     "sme": false,
+     "avant_premiere": false,
+     "billetterie": "https://eldorado.ticketingcine.com#showsession?id=emsx002700039080&ps=webedia"
+    },
+    {
+     "salle": "P0121",
+     "debut": "2026-10-09T20:15:00",
+     "version": "VF",
+     "sme": false,
+     "avant_premiere": false,
+     "billetterie": "https://eldorado.ticketingcine.com#showsession?id=emsx002700039091&ps=webedia"
+    },
+    {
+     "salle": "P0121",
+     "debut": "2026-10-10T14:00:00",
+     "version": "VF",
+     "sme": false,
+     "avant_premiere": false,
+     "billetterie": "https://eldorado.ticketingcine.com#showsession?id=emsx002700039093&ps=webedia"
+    },
+    {
+     "salle": "P0121",
+     "debut": "2026-10-10T20:15:00",
+     "version": "VF",
+     "sme": false,
+     "avant_premiere": false,
+     "billetterie": "https://eldorado.ticketingcine.com#showsession?id=emsx002700039107&ps=webedia"
+    },
+    {
+     "salle": "P0121",
+     "debut": "2026-10-11T16:00:00",
+     "version": "VF",
+     "sme": false,
+     "avant_premiere": false,
+     "billetterie": "https://eldorado.ticketingcine.com#showsession?id=emsx002700039109&ps=webedia"
+    },
+    {
+     "salle": "P0121",
+     "debut": "2026-10-11T20:15:00",
+     "version": "VF",
+     "sme": false,
+     "avant_premiere": false,
+     "billetterie": "https://eldorado.ticketingcine.com#showsession?id=emsx002700039121&ps=webedia"
+    },
+    {
+     "salle": "P0121",
+     "debut": "2026-10-12T14:00:00",
+     "version": "VF",
+     "sme": false,
+     "avant_premiere": false,
+     "billetterie": "https://eldorado.ticketingcine.com#showsession?id=emsx002700039122&ps=webedia"
+    },
+    {
+     "salle": "P0121",
+     "debut": "2026-10-12T18:10:00",
+     "version": "VF",
+     "sme": false,
+     "avant_premiere": false,
+     "billetterie": "https://eldorado.ticketingcine.com#showsession?id=emsx002700039133&ps=webedia"
+    },
+    {
+     "salle": "P0121",
+     "debut": "2026-10-13T16:00:00",
+     "version": "VF",
+     "sme": false,
+     "avant_premiere": false,
+     "billetterie": "https://eldorado.ticketingcine.com#showsession?id=emsx002700039136&ps=webedia"
+    },
+    {
+     "salle": "P0121",
+     "debut": "2026-10-13T20:15:00",
+     "version": "VF",
+     "sme": false,
+     "avant_premiere": false,
+     "billetterie": "https://eldorado.ticketingcine.com#showsession?id=emsx002700039146&ps=webedia"
+    },
+    {
+     "salle": "P0121",
+     "debut": "2026-10-14T15:40:00",
+     "version": "VF",
+     "sme": false,
+     "avant_premiere": false,
+     "billetterie": "https://eldorado.ticketingcine.com#showsession?id=emsx002700039155&ps=webedia"
+    },
+    {
+     "salle": "P0121",
+     "debut": "2026-10-14T20:15:00",
+     "version": "VF",
+     "sme": false,
+     "avant_premiere": false,
+     "billetterie": "https://eldorado.ticketingcine.com#showsession?id=emsx002700039168&ps=webedia"
+    },
+    {
+     "salle": "P0121",
+     "debut": "2026-10-15T14:00:00",
+     "version": "VF",
+     "sme": false,
+     "avant_premiere": false,
+     "billetterie": "https://eldorado.ticketingcine.com#showsession?id=emsx002700039169&ps=webedia"
+    },
+    {
+     "salle": "P0121",
+     "debut": "2026-10-15T20:50:00",
+     "version": "VF",
+     "sme": false,
+     "avant_premiere": false,
+     "billetterie": "https://eldorado.ticketingcine.com#showsession?id=emsx002700039176&ps=webedia"
+    },
+    {
+     "salle": "P0121",
+     "debut": "2026-10-16T15:40:00",
+     "version": "VF",
+     "sme": false,
+     "avant_premiere": false,
+     "billetterie": "https://eldorado.ticketingcine.com#showsession?id=emsx002700039182&ps=webedia"
+    },
+    {
+     "salle": "P0121",
+     "debut": "2026-10-16T20:15:00",
+     "version": "VF",
+     "sme": false,
+     "avant_premiere": false,
+     "billetterie": "https://eldorado.ticketingcine.com#showsession?id=emsx002700039184&ps=webedia"
+    },
+    {
+     "salle": "P0121",
+     "debut": "2026-10-17T15:40:00",
+     "version": "VF",
+     "sme": false,
+     "avant_premiere": false,
+     "billetterie": "https://eldorado.ticketingcine.com#showsession?id=emsx002700039200&ps=webedia"
+    },
+    {
+     "salle": "P0121",
+     "debut": "2026-10-17T20:15:00",
+     "version": "VF",
+     "sme": false,
+     "avant_premiere": false,
+     "billetterie": "https://eldorado.ticketingcine.com#showsession?id=emsx002700039202&ps=webedia"
+    }
+   ]
+  },
+  {
+   "id": 1000032855,
+   "titre": "Kraken",
+   "titre_original": "Kraken",
+   "affiche": "https://fr.web.img3.acsta.net/img/cc/22/cc222386da3f11bb9ae1dae2d1bc65bd.jpg",
+   "duree_min": null,
+   "genres": [
+    "Épouvante-horreur"
+   ],
+   "realisateurs": [
+    "Mohamed Chabane",
+    "Théo Jourdain Rhodes"
+   ],
+   "acteurs": [
+    "Alassane Diong",
+    "Manon Bresch",
+    "Guillaume Gouix"
+   ],
+   "pays": [
+    "France"
+   ],
+   "annee": 2026,
+   "synopsis": "Dans une cité, une tour abandonnée alimente les rumeurs. Alors que des disparitions étranges s'enchaînent, 5 jeunes n’ont plus le choix : y entrer à nouveau. Pris dans un piège mortel, ils vont bientôt comprendre que s'échapper leur sera impossible…",
+   "resume": "Dans une cité, une tour abandonnée alimente les rumeurs. Alors que des disparitions étranges s'enchaînent, 5 jeunes n’ont plus le choix : y entrer à nouveau.",
+   "note_spectateurs": 3.1,
+   "note_presse": 3.4,
+   "sortie": "2026-09-30",
+   "classification": "Interdit - 16 ans",
+   "avertissement": "",
+   "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000032855.html",
+   "seances": [
+    {
+     "salle": "P2788",
+     "debut": "2026-10-08T16:00:00",
+     "version": "VF",
+     "sme": false,
+     "avant_premiere": false,
+     "billetterie": "https://dijon.cineville.fr/vad/2714/26265/12063"
+    },
+    {
+     "salle": "P2788",
+     "debut": "2026-10-08T18:30:00",
+     "version": "VF",
+     "sme": false,
+     "avant_premiere": false,
+     "billetterie": "https://dijon.cineville.fr/vad/2714/26253/12012"
+    },
+    {
+     "salle": "P2788",
+     "debut": "2026-10-08T20:15:00",
+     "version": "VF",
+     "sme": false,
+     "avant_premiere": false,
+     "billetterie": "https://dijon.cineville.fr/vad/2714/26254/12049"
+    },
+    {
+     "salle": "P2788",
+     "debut": "2026-10-09T16:10:00",
+     "version": "VF",
+     "sme": false,
+     "avant_premiere": false,
+     "billetterie": "https://dijon.cineville.fr/vad/2714/26298/12063"
+    },
+    {
+     "salle": "P2788",
+     "debut": "2026-10-09T18:00:00",
+     "version": "VF",
+     "sme": false,
+     "avant_premiere": false,
+     "billetterie": "https://dijon.cineville.fr/vad/2714/26299/12054"
+    },
+    {
+     "salle": "P2788",
+     "debut": "2026-10-09T20:45:00",
+     "version": "VF",
+     "sme": false,
+     "avant_premiere": false,
+     "billetterie": "https://dijon.cineville.fr/vad/2714/26301/12098"
+    },
+    {
+     "salle": "P2788",
+     "debut": "2026-10-09T22:15:00",
+     "version": "VF",
+     "sme": false,
+     "avant_premiere": false,
+     "billetterie": "https://dijon.cineville.fr/vad/2714/26300/12078"
+    },
+    {
+     "salle": "P2788",
+     "debut": "2026-10-10T14:00:00",
+     "version": "VF",
+     "sme": false,
+     "avant_premiere": false,
+     "billetterie": "https://dijon.cineville.fr/vad/2714/26354/12012"
+    },
+    {
+     "salle": "P2788",
+     "debut": "2026-10-10T18:30:00",
+     "version": "VF",
+     "sme": false,
+     "avant_premiere": false,
+     "billetterie": "https://dijon.cineville.fr/vad/2714/26341/12012"
+    },
+    {
+     "salle": "P2788",
+     "debut": "2026-10-10T20:45:00",
+     "version": "VF",
+     "sme": false,
+     "avant_premiere": false,
+     "billetterie": "https://dijon.cineville.fr/vad/2714/26343/12012"
+    },
+    {
+     "salle": "P2788",
+     "debut": "2026-10-10T22:15:00",
+     "version": "VF",
+     "sme": false,
+     "avant_premiere": false,
+     "billetterie": "https://dijon.cineville.fr/vad/2714/26342/12078"
+    },
+    {
+     "salle": "P2788",
+     "debut": "2026-10-11T13:45:00",
+     "version": "VF",
+     "sme": false,
+     "avant_premiere": false,
+     "billetterie": "https://dijon.cineville.fr/vad/2714/26374/12012"
+    },
+    {
+     "salle": "P2788",
+     "debut": "2026-10-11T18:15:00",
+     "version": "VF",
+     "sme": false,
+     "avant_premiere": false,
+     "billetterie": "https://dijon.cineville.fr/vad/2714/26386/12012"
+    },
+    {
+     "salle": "P2788",
+     "debut": "2026-10-11T20:30:00",
+     "version": "VF",
+     "sme": false,
+     "avant_premiere": false,
+     "billetterie": "https://dijon.cineville.fr/vad/2714/26387/12012"
+    },
+    {
+     "salle": "P2788",
+     "debut": "2026-10-12T16:00:00",
+     "version": "VF",
+     "sme": false,
+     "avant_premiere": false,
+     "billetterie": "https://dijon.cineville.fr/vad/2714/26444/12063"
+    },
+    {
+     "salle": "P2788",
+     "debut": "2026-10-12T18:30:00",
+     "version": "VF",
+     "sme": false,
+     "avant_premiere": false,
+     "billetterie": "https://dijon.cineville.fr/vad/2714/26433/12012"
+    },
+    {
+     "salle": "P2788",
+     "debut": "2026-10-12T20:15:00",
+     "version": "VF",
+     "sme": false,
+     "avant_premiere": false,
+     "billetterie": "https://dijon.cineville.fr/vad/2714/26434/12049"
+    },
+    {
+     "salle": "P2788",
+     "debut": "2026-10-13T16:00:00",
+     "version": "VF",
+     "sme": false,
+     "avant_premiere": false,
+     "billetterie": "https://dijon.cineville.fr/vad/2714/26480/12063"
+    },
+    {
+     "salle": "P2788",
+     "debut": "2026-10-13T18:30:00",
+     "version": "VF",
+     "sme": false,
+     "avant_premiere": false,
+     "billetterie": "https://dijon.cineville.fr/vad/2714/26470/12012"
+    },
+    {
+     "salle": "P2788",
+     "debut": "2026-10-13T20:15:00",
+     "version": "VF",
+     "sme": false,
+     "avant_premiere": false,
+     "billetterie": "https://dijon.cineville.fr/vad/2714/26471/12049"
+    }
+   ]
+  },
+  {
+   "id": 327941,
+   "titre": "La Vie d'une femme",
+   "titre_original": "La Vie d'une femme",
+   "affiche": "https://fr.web.img6.acsta.net/img/46/d4/46d4170eaca90b7bd1dae27db18ed739.jpg",
+   "duree_min": 98,
+   "genres": [
+    "Comédie dramatique"
+   ],
+   "realisateurs": [
+    "Charline Bourgeois-Tacquet"
+   ],
+   "acteurs": [
+    "Léa Drucker",
+    "Mélanie Thierry",
+    "Charles Berling"
+   ],
+   "pays": [
+    "France",
+    "Belgique"
+   ],
+   "annee": 2026,
+   "synopsis": "Gabrielle se consacre corps et âme à son métier. Chirurgienne et cheffe de service dans un hôpital public, elle court et se démultiplie, assaillie de responsabilités. Il lui reste peu de temps pour sa vie privée — un mari qui l’aime et une mère dont elle doit s’occuper. Lorsqu'une romancière vient passer quelques semaines dans son service pour les besoins d’un livre, son équilibre vacille. Dans le quotidien que Gabrielle s’est construit, y a-t-il de la place pour l’inattendu ?",
+   "resume": "Gabrielle se consacre corps et âme à son métier. Chirurgienne et cheffe de service dans un hôpital public, elle court et se démultiplie, assaillie de responsabilités.",
+   "note_spectateurs": 3.7,
+   "note_presse": 3.7,
+   "sortie": "2026-09-09",
+   "classification": "Tout public",
+   "avertissement": "",
+   "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=327941.html",
+   "seances": [
+    {
+     "salle": "P0771",
+     "debut": "2026-10-08T16:00:00",
+     "version": "VF",
+     "sme": false,
+     "avant_premiere": false,
+     "billetterie": "https://s.pathe.fr/en/V3342S120183/booking?utm_source=allocine&utm_medium=allocine&utm_campaign=partenaire-allocine&partenaire=allocine"
+    },
+    {
+     "salle": "P0120",
+     "debut": "2026-10-08T16:00:00",
+     "version": "VF",
+     "sme": false,
+     "avant_premiere": false,
+     "billetterie": "https://www.katorza.fr/vad/2704/13099/5583"
+    },
+    {
+     "salle": "P0120",
+     "debut": "2026-10-08T20:45:00",
+     "version": "VF",
+     "sme": false,
+     "avant_premiere": false,
+     "billetterie": "https://www.katorza.fr/vad/2704/13091/5583"
+    },
+    {
+     "salle": "P0120",
+     "debut": "2026-10-09T13:45:00",
+     "version": "VF",
+     "sme": false,
+     "avant_premiere": false,
+     "billetterie": "https://www.katorza.fr/vad/2704/13116/5580"
+    },
+    {
+     "salle": "P0120",
+     "debut": "2026-10-09T16:15:00",
+     "version": "VF",
+     "sme": false,
+     "avant_premiere": false,
+     "billetterie": "https://www.katorza.fr/vad/2704/13125/5573"
+    },
+    {
+     "salle": "P0120",
+     "debut": "2026-10-09T20:30:00",
+     "version": "VF",
+     "sme": false,
+     "avant_premiere": false,
+     "billetterie": "https://www.katorza.fr/vad/2704/13118/5573"
+    },
+    {
+     "salle": "P0120",
+     "debut": "2026-10-10T16:00:00",
+     "version": "VF",
+     "sme": false,
+     "avant_premiere": false,
+     "billetterie": "https://www.katorza.fr/vad/2704/13144/5610"
+    },
+    {
+     "salle": "P0120",
+     "debut": "2026-10-10T20:45:00",
+     "version": "VF",
+     "sme": false,
+     "avant_premiere": false,
+     "billetterie": "https://www.katorza.fr/vad/2704/13142/5610"
+    },
+    {
+     "salle": "P0120",
+     "debut": "2026-10-11T14:15:00",
+     "version": "VF",
+     "sme": false,
+     "avant_premiere": false,
+     "billetterie": "https://www.katorza.fr/vad/2704/13165/5610"
+    },
+    {
+     "salle": "P0120",
+     "debut": "2026-10-11T17:45:00",
+     "version": "VF",
+     "sme": false,
+     "avant_premiere": false,
+     "billetterie": "https://www.katorza.fr/vad/2704/13179/5610"
+    },
+    {
+     "salle": "P0771",
+     "debut": "2026-10-11T20:30:00",
+     "version": "VF",
+     "sme": false,
+     "avant_premiere": false,
+     "billetterie": "https://s.pathe.fr/en/V3342S120184/booking?utm_source=allocine&utm_medium=allocine&utm_campaign=partenaire-allocine&partenaire=allocine"
+    },
+    {
+     "salle": "P0120",
+     "debut": "2026-10-12T16:15:00",
+     "version": "VF",
+     "sme": false,
+     "avant_premiere": false,
+     "billetterie": "https://www.katorza.fr/vad/2704/13196/5580"
+    },
+    {
+     "salle": "P0771",
+     "debut": "2026-10-12T18:05:00",
+     "version": "VF",
+     "sme": false,
+     "avant_premiere": false,
+     "billetterie": "https://s.pathe.fr/en/V3342S120185/booking?utm_source=allocine&utm_medium=allocine&utm_campaign=partenaire-allocine&partenaire=allocine"
+    },
+    {
+     "salle": "P0120",
+     "debut": "2026-10-12T20:30:00",
+     "version": "VF",
+     "sme": false,
+     "avant_premiere": false,
+     "billetterie": "https://www.katorza.fr/vad/2704/13194/5583"
+    },
+    {
+     "salle": "P0120",
+     "debut": "2026-10-13T13:45:00",
+     "version": "VF",
+     "sme": false,
+     "avant_premiere": false,
+     "billetterie": "https://www.katorza.fr/vad/2704/13216/5605"
+    },
+    {
+     "salle": "P0771",
+     "debut": "2026-10-13T13:50:00",
+     "version": "VF",
+     "sme": false,
+     "avant_premiere": false,
+     "billetterie": "https://s.pathe.fr/en/V3342S120186/booking?utm_source=allocine&utm_medium=allocine&utm_campaign=partenaire-allocine&partenaire=allocine"
+    },
+    {
+     "salle": "P0120",
+     "debut": "2026-10-13T16:15:00",
+     "version": "VF",
+     "sme": false,
+     "avant_premiere": false,
+     "billetterie": "https://www.katorza.fr/vad/2704/13223/5573"
+    },
+    {
+     "salle": "P0120",
+     "debut": "2026-10-13T20:45:00",
+     "version": "VF",
+     "sme": false,
+     "avant_premiere": false,
+     "billetterie": "https://www.katorza.fr/vad/2704/13217/5583"
+    }
+   ]
+  },
+  {
    "id": 285141,
    "titre": "L'Espèce explosive",
    "titre_original": "L'Espèce explosive",
@@ -7109,37 +7101,13 @@
    "annee": 2026,
    "synopsis": "Dans la campagne du Nord-Est de la France. Les sangliers qui ravagent les cultures provoquent une guerre ouverte entre chasseurs et agriculteurs. Brun, céréalier en faillite, lutte pour maintenir sa ferme à flot. Quand un notable du coin le pousse à bout, il déraille et disparaît. Un an plus tard, Fulda, un gendarme corse muté dans la région pour raisons disciplinaires, mène l’enquête. Entre intuitions fulgurantes et ratés spectaculaires, ses méthodes approximatives le mènent sur la piste des Attilas, des sangliers aux dimensions hors normes. Mais sa récente rupture amoureuse et la vodka dans laquelle flotte son cerveau n’aident pas. Heureusement, il y a Stéphane, la nouvelle psy de la gendarmerie : elle est là pour mettre un peu d’ordre dans son chaos — à moins que ce ne soit l’inverse ?",
    "resume": "Dans la campagne du Nord-Est de la France. Les sangliers qui ravagent les cultures provoquent une guerre ouverte entre chasseurs et agriculteurs.",
-   "note_spectateurs": 3.4,
-   "note_presse": 3.5,
+   "note_spectateurs": 3.5,
+   "note_presse": 3.2,
    "sortie": "2026-10-07",
    "classification": "Tout public avec avertissement",
    "avertissement": "Plusieurs scènes sanglantes dans un climat général anxiogène peuvent heurter la sensibilité du jeune public.",
    "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=285141.html",
    "seances": [
-    {
-     "salle": "P0120",
-     "debut": "2026-10-07T14:00:00",
-     "version": "VF",
-     "sme": false,
-     "avant_premiere": false,
-     "billetterie": null
-    },
-    {
-     "salle": "P0120",
-     "debut": "2026-10-07T16:00:00",
-     "version": "VF",
-     "sme": false,
-     "avant_premiere": false,
-     "billetterie": null
-    },
-    {
-     "salle": "P0120",
-     "debut": "2026-10-07T20:30:00",
-     "version": "VF",
-     "sme": false,
-     "avant_premiere": false,
-     "billetterie": null
-    },
     {
      "salle": "P0120",
      "debut": "2026-10-08T16:30:00",
@@ -7311,36 +7279,12 @@
    "synopsis": "En 2006, Chris Hansen, le présentateur de l'émission To Catch a Predator, entreprend de marquer l’histoire de la télévision.",
    "resume": "En 2006, Chris Hansen, le présentateur de l'émission To Catch a Predator, entreprend de marquer l’histoire de la télévision.",
    "note_spectateurs": 3.1,
-   "note_presse": 3.2,
+   "note_presse": 3.3,
    "sortie": "2026-09-23",
    "classification": "Interdit - 12 ans",
    "avertissement": "",
    "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000013908.html",
    "seances": [
-    {
-     "salle": "P0120",
-     "debut": "2026-10-07T16:00:00",
-     "version": "VO",
-     "sme": false,
-     "avant_premiere": false,
-     "billetterie": null
-    },
-    {
-     "salle": "P0120",
-     "debut": "2026-10-07T18:15:00",
-     "version": "VO",
-     "sme": false,
-     "avant_premiere": false,
-     "billetterie": null
-    },
-    {
-     "salle": "P0120",
-     "debut": "2026-10-07T20:30:00",
-     "version": "VO",
-     "sme": false,
-     "avant_premiere": false,
-     "billetterie": null
-    },
     {
      "salle": "P0120",
      "debut": "2026-10-08T13:45:00",
@@ -7488,385 +7432,6 @@
    ]
   },
   {
-   "id": 327941,
-   "titre": "La Vie d'une femme",
-   "titre_original": "La Vie d'une femme",
-   "affiche": "https://fr.web.img6.acsta.net/img/46/d4/46d4170eaca90b7bd1dae27db18ed739.jpg",
-   "duree_min": 98,
-   "genres": [
-    "Comédie dramatique"
-   ],
-   "realisateurs": [
-    "Charline Bourgeois-Tacquet"
-   ],
-   "acteurs": [
-    "Léa Drucker",
-    "Mélanie Thierry",
-    "Charles Berling"
-   ],
-   "pays": [
-    "France",
-    "Belgique"
-   ],
-   "annee": 2026,
-   "synopsis": "Gabrielle se consacre corps et âme à son métier. Chirurgienne et cheffe de service dans un hôpital public, elle court et se démultiplie, assaillie de responsabilités. Il lui reste peu de temps pour sa vie privée — un mari qui l’aime et une mère dont elle doit s’occuper. Lorsqu'une romancière vient passer quelques semaines dans son service pour les besoins d’un livre, son équilibre vacille. Dans le quotidien que Gabrielle s’est construit, y a-t-il de la place pour l’inattendu ?",
-   "resume": "Gabrielle se consacre corps et âme à son métier. Chirurgienne et cheffe de service dans un hôpital public, elle court et se démultiplie, assaillie de responsabilités.",
-   "note_spectateurs": 3.7,
-   "note_presse": 3.7,
-   "sortie": "2026-09-09",
-   "classification": "Tout public",
-   "avertissement": "",
-   "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=327941.html",
-   "seances": [
-    {
-     "salle": "P0120",
-     "debut": "2026-10-07T13:45:00",
-     "version": "VF",
-     "sme": false,
-     "avant_premiere": false,
-     "billetterie": null
-    },
-    {
-     "salle": "P0120",
-     "debut": "2026-10-07T20:15:00",
-     "version": "VF",
-     "sme": false,
-     "avant_premiere": false,
-     "billetterie": null
-    },
-    {
-     "salle": "P0771",
-     "debut": "2026-10-08T16:00:00",
-     "version": "VF",
-     "sme": false,
-     "avant_premiere": false,
-     "billetterie": "https://s.pathe.fr/en/V3342S120183/booking?utm_source=allocine&utm_medium=allocine&utm_campaign=partenaire-allocine&partenaire=allocine"
-    },
-    {
-     "salle": "P0120",
-     "debut": "2026-10-08T16:00:00",
-     "version": "VF",
-     "sme": false,
-     "avant_premiere": false,
-     "billetterie": "https://www.katorza.fr/vad/2704/13099/5583"
-    },
-    {
-     "salle": "P0120",
-     "debut": "2026-10-08T20:45:00",
-     "version": "VF",
-     "sme": false,
-     "avant_premiere": false,
-     "billetterie": "https://www.katorza.fr/vad/2704/13091/5583"
-    },
-    {
-     "salle": "P0120",
-     "debut": "2026-10-09T13:45:00",
-     "version": "VF",
-     "sme": false,
-     "avant_premiere": false,
-     "billetterie": "https://www.katorza.fr/vad/2704/13116/5580"
-    },
-    {
-     "salle": "P0120",
-     "debut": "2026-10-09T16:15:00",
-     "version": "VF",
-     "sme": false,
-     "avant_premiere": false,
-     "billetterie": "https://www.katorza.fr/vad/2704/13125/5573"
-    },
-    {
-     "salle": "P0120",
-     "debut": "2026-10-09T20:30:00",
-     "version": "VF",
-     "sme": false,
-     "avant_premiere": false,
-     "billetterie": "https://www.katorza.fr/vad/2704/13118/5573"
-    },
-    {
-     "salle": "P0120",
-     "debut": "2026-10-10T16:00:00",
-     "version": "VF",
-     "sme": false,
-     "avant_premiere": false,
-     "billetterie": "https://www.katorza.fr/vad/2704/13144/5610"
-    },
-    {
-     "salle": "P0120",
-     "debut": "2026-10-10T20:45:00",
-     "version": "VF",
-     "sme": false,
-     "avant_premiere": false,
-     "billetterie": "https://www.katorza.fr/vad/2704/13142/5610"
-    },
-    {
-     "salle": "P0120",
-     "debut": "2026-10-11T14:15:00",
-     "version": "VF",
-     "sme": false,
-     "avant_premiere": false,
-     "billetterie": "https://www.katorza.fr/vad/2704/13165/5610"
-    },
-    {
-     "salle": "P0120",
-     "debut": "2026-10-11T17:45:00",
-     "version": "VF",
-     "sme": false,
-     "avant_premiere": false,
-     "billetterie": "https://www.katorza.fr/vad/2704/13179/5610"
-    },
-    {
-     "salle": "P0771",
-     "debut": "2026-10-11T20:30:00",
-     "version": "VF",
-     "sme": false,
-     "avant_premiere": false,
-     "billetterie": "https://s.pathe.fr/en/V3342S120184/booking?utm_source=allocine&utm_medium=allocine&utm_campaign=partenaire-allocine&partenaire=allocine"
-    },
-    {
-     "salle": "P0120",
-     "debut": "2026-10-12T16:15:00",
-     "version": "VF",
-     "sme": false,
-     "avant_premiere": false,
-     "billetterie": "https://www.katorza.fr/vad/2704/13196/5580"
-    },
-    {
-     "salle": "P0771",
-     "debut": "2026-10-12T18:05:00",
-     "version": "VF",
-     "sme": false,
-     "avant_premiere": false,
-     "billetterie": "https://s.pathe.fr/en/V3342S120185/booking?utm_source=allocine&utm_medium=allocine&utm_campaign=partenaire-allocine&partenaire=allocine"
-    },
-    {
-     "salle": "P0120",
-     "debut": "2026-10-12T20:30:00",
-     "version": "VF",
-     "sme": false,
-     "avant_premiere": false,
-     "billetterie": "https://www.katorza.fr/vad/2704/13194/5583"
-    },
-    {
-     "salle": "P0120",
-     "debut": "2026-10-13T13:45:00",
-     "version": "VF",
-     "sme": false,
-     "avant_premiere": false,
-     "billetterie": "https://www.katorza.fr/vad/2704/13216/5605"
-    },
-    {
-     "salle": "P0771",
-     "debut": "2026-10-13T13:50:00",
-     "version": "VF",
-     "sme": false,
-     "avant_premiere": false,
-     "billetterie": "https://s.pathe.fr/en/V3342S120186/booking?utm_source=allocine&utm_medium=allocine&utm_campaign=partenaire-allocine&partenaire=allocine"
-    },
-    {
-     "salle": "P0120",
-     "debut": "2026-10-13T16:15:00",
-     "version": "VF",
-     "sme": false,
-     "avant_premiere": false,
-     "billetterie": "https://www.katorza.fr/vad/2704/13223/5573"
-    },
-    {
-     "salle": "P0120",
-     "debut": "2026-10-13T20:45:00",
-     "version": "VF",
-     "sme": false,
-     "avant_premiere": false,
-     "billetterie": "https://www.katorza.fr/vad/2704/13217/5583"
-    }
-   ]
-  },
-  {
-   "id": 1000007388,
-   "titre": "Notre salut",
-   "titre_original": "Notre salut",
-   "affiche": "https://fr.web.img4.acsta.net/img/b7/ac/b7acc48dac20e8329866a199e0ff78e8.jpg",
-   "duree_min": 159,
-   "genres": [
-    "Drame",
-    "Historique"
-   ],
-   "realisateurs": [
-    "Emmanuel Marre"
-   ],
-   "acteurs": [
-    "Swann Arlaud",
-    "Sandrine Blancke",
-    "Harpo Guit"
-   ],
-   "pays": [
-    "France",
-    "Belgique"
-   ],
-   "annee": 2026,
-   "synopsis": "Septembre 1940, le régime de Pétain se met en place. Henri Marre, 49 ans, débarque à Vichy sans le sou, sans contact, loin de sa femme et ses enfants. Il voit dans la nouvelle administration l’opportunité de trouver enfin la place qu’il mérite. Dans sa valise, son traité politique édité à compte d’auteur, Notre Salut, où il défend ses convictions patriotiques et ses méthodes d'ingénieur. Son credo : « gagner en efficacité » pour relever la France de la débâcle. Mais peut-être qu’Henri cherche avant tout à fuir sa propre débâcle…",
-   "resume": "Septembre 1940, le régime de Pétain se met en place. Henri Marre, 49 ans, débarque à Vichy sans le sou, sans contact, loin de sa femme et ses enfants.",
-   "note_spectateurs": 3.7,
-   "note_presse": 4.5,
-   "sortie": "2026-09-30",
-   "classification": "Tout public",
-   "avertissement": "",
-   "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000007388.html",
-   "seances": [
-    {
-     "salle": "P0121",
-     "debut": "2026-10-07T20:15:00",
-     "version": "VF",
-     "sme": false,
-     "avant_premiere": false,
-     "billetterie": "https://eldorado.ticketingcine.com#showsession?id=emsx002700039066&ps=webedia"
-    },
-    {
-     "salle": "P0121",
-     "debut": "2026-10-08T16:00:00",
-     "version": "VF",
-     "sme": false,
-     "avant_premiere": false,
-     "billetterie": "https://eldorado.ticketingcine.com#showsession?id=emsx002700039068&ps=webedia"
-    },
-    {
-     "salle": "P0121",
-     "debut": "2026-10-08T20:15:00",
-     "version": "VF",
-     "sme": false,
-     "avant_premiere": false,
-     "billetterie": "https://eldorado.ticketingcine.com#showsession?id=emsx002700039078&ps=webedia"
-    },
-    {
-     "salle": "P0121",
-     "debut": "2026-10-09T16:00:00",
-     "version": "VF",
-     "sme": false,
-     "avant_premiere": false,
-     "billetterie": "https://eldorado.ticketingcine.com#showsession?id=emsx002700039080&ps=webedia"
-    },
-    {
-     "salle": "P0121",
-     "debut": "2026-10-09T20:15:00",
-     "version": "VF",
-     "sme": false,
-     "avant_premiere": false,
-     "billetterie": "https://eldorado.ticketingcine.com#showsession?id=emsx002700039091&ps=webedia"
-    },
-    {
-     "salle": "P0121",
-     "debut": "2026-10-10T14:00:00",
-     "version": "VF",
-     "sme": false,
-     "avant_premiere": false,
-     "billetterie": "https://eldorado.ticketingcine.com#showsession?id=emsx002700039093&ps=webedia"
-    },
-    {
-     "salle": "P0121",
-     "debut": "2026-10-10T20:15:00",
-     "version": "VF",
-     "sme": false,
-     "avant_premiere": false,
-     "billetterie": "https://eldorado.ticketingcine.com#showsession?id=emsx002700039107&ps=webedia"
-    },
-    {
-     "salle": "P0121",
-     "debut": "2026-10-11T16:00:00",
-     "version": "VF",
-     "sme": false,
-     "avant_premiere": false,
-     "billetterie": "https://eldorado.ticketingcine.com#showsession?id=emsx002700039109&ps=webedia"
-    },
-    {
-     "salle": "P0121",
-     "debut": "2026-10-11T20:15:00",
-     "version": "VF",
-     "sme": false,
-     "avant_premiere": false,
-     "billetterie": "https://eldorado.ticketingcine.com#showsession?id=emsx002700039121&ps=webedia"
-    },
-    {
-     "salle": "P0121",
-     "debut": "2026-10-12T14:00:00",
-     "version": "VF",
-     "sme": false,
-     "avant_premiere": false,
-     "billetterie": "https://eldorado.ticketingcine.com#showsession?id=emsx002700039122&ps=webedia"
-    },
-    {
-     "salle": "P0121",
-     "debut": "2026-10-12T18:10:00",
-     "version": "VF",
-     "sme": false,
-     "avant_premiere": false,
-     "billetterie": "https://eldorado.ticketingcine.com#showsession?id=emsx002700039133&ps=webedia"
-    },
-    {
-     "salle": "P0121",
-     "debut": "2026-10-13T16:00:00",
-     "version": "VF",
-     "sme": false,
-     "avant_premiere": false,
-     "billetterie": "https://eldorado.ticketingcine.com#showsession?id=emsx002700039136&ps=webedia"
-    },
-    {
-     "salle": "P0121",
-     "debut": "2026-10-13T20:15:00",
-     "version": "VF",
-     "sme": false,
-     "avant_premiere": false,
-     "billetterie": "https://eldorado.ticketingcine.com#showsession?id=emsx002700039146&ps=webedia"
-    },
-    {
-     "salle": "P0121",
-     "debut": "2026-10-14T15:40:00",
-     "version": "VF",
-     "sme": false,
-     "avant_premiere": false,
-     "billetterie": "https://eldorado.ticketingcine.com#showsession?id=emsx002700039155&ps=webedia"
-    },
-    {
-     "salle": "P0121",
-     "debut": "2026-10-14T20:15:00",
-     "version": "VF",
-     "sme": false,
-     "avant_premiere": false,
-     "billetterie": "https://eldorado.ticketingcine.com#showsession?id=emsx002700039168&ps=webedia"
-    },
-    {
-     "salle": "P0121",
-     "debut": "2026-10-15T14:00:00",
-     "version": "VF",
-     "sme": false,
-     "avant_premiere": false,
-     "billetterie": "https://eldorado.ticketingcine.com#showsession?id=emsx002700039169&ps=webedia"
-    },
-    {
-     "salle": "P0121",
-     "debut": "2026-10-15T20:50:00",
-     "version": "VF",
-     "sme": false,
-     "avant_premiere": false,
-     "billetterie": "https://eldorado.ticketingcine.com#showsession?id=emsx002700039176&ps=webedia"
-    },
-    {
-     "salle": "P0121",
-     "debut": "2026-10-16T15:40:00",
-     "version": "VF",
-     "sme": false,
-     "avant_premiere": false,
-     "billetterie": "https://eldorado.ticketingcine.com#showsession?id=emsx002700039182&ps=webedia"
-    },
-    {
-     "salle": "P0121",
-     "debut": "2026-10-16T20:15:00",
-     "version": "VF",
-     "sme": false,
-     "avant_premiere": false,
-     "billetterie": "https://eldorado.ticketingcine.com#showsession?id=emsx002700039184&ps=webedia"
-    }
-   ]
-  },
-  {
    "id": 1000026622,
    "titre": "Raison et sentiments",
    "titre_original": "Sense and Sensibility",
@@ -7899,22 +7464,6 @@
    "avertissement": "",
    "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000026622.html",
    "seances": [
-    {
-     "salle": "P0120",
-     "debut": "2026-10-07T14:15:00",
-     "version": "VF",
-     "sme": false,
-     "avant_premiere": false,
-     "billetterie": null
-    },
-    {
-     "salle": "P0120",
-     "debut": "2026-10-07T20:00:00",
-     "version": "VO",
-     "sme": false,
-     "avant_premiere": false,
-     "billetterie": null
-    },
     {
      "salle": "P0120",
      "debut": "2026-10-08T16:45:00",
@@ -8061,21 +7610,13 @@
    "annee": 2026,
    "synopsis": "Dans le New Jersey, un adolescent de 16 ans partage son temps entre les tapis de lutte et le petit restaurant tcherkesse de sa famille, au bord de la faillite. Mais une décision impulsive de son père, éternel opportuniste, vient bouleverser sa trajectoire.",
    "resume": "Dans le New Jersey, un adolescent de 16 ans partage son temps entre les tapis de lutte et le petit restaurant tcherkesse de sa famille, au bord de la faillite.",
-   "note_spectateurs": 3.5,
+   "note_spectateurs": 3.3,
    "note_presse": 3,
    "sortie": "2026-10-07",
    "classification": "Interdit - 12 ans",
    "avertissement": "",
    "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=313150.html",
    "seances": [
-    {
-     "salle": "P0121",
-     "debut": "2026-10-07T20:50:00",
-     "version": "VOST",
-     "sme": false,
-     "avant_premiere": false,
-     "billetterie": "https://eldorado.ticketingcine.com#showsession?id=emsx002700039062&ps=webedia"
-    },
     {
      "salle": "P0121",
      "debut": "2026-10-08T15:00:00",
@@ -8179,6 +7720,22 @@
      "sme": false,
      "avant_premiere": false,
      "billetterie": "https://eldorado.ticketingcine.com#showsession?id=emsx002700039188&ps=webedia"
+    },
+    {
+     "salle": "P0121",
+     "debut": "2026-10-17T12:00:00",
+     "version": "VOST",
+     "sme": false,
+     "avant_premiere": false,
+     "billetterie": "https://eldorado.ticketingcine.com#showsession?id=emsx002700039194&ps=webedia"
+    },
+    {
+     "salle": "P0121",
+     "debut": "2026-10-17T18:30:00",
+     "version": "VOST",
+     "sme": false,
+     "avant_premiere": false,
+     "billetterie": "https://eldorado.ticketingcine.com#showsession?id=emsx002700039201&ps=webedia"
     }
    ]
   },
@@ -8324,6 +7881,14 @@
      "sme": false,
      "avant_premiere": false,
      "billetterie": "https://eldorado.ticketingcine.com#showsession?id=emsx002700039187&ps=webedia"
+    },
+    {
+     "salle": "P0121",
+     "debut": "2026-10-17T13:40:00",
+     "version": "VOST",
+     "sme": false,
+     "avant_premiere": false,
+     "billetterie": "https://eldorado.ticketingcine.com#showsession?id=emsx002700039199&ps=webedia"
     }
    ]
   },
@@ -8358,22 +7923,6 @@
    "avertissement": "Plusieurs scènes d'une grande violence exercées contre de jeunes adolescents homosexuels peuvent choquer un public non averti.",
    "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000037443.html",
    "seances": [
-    {
-     "salle": "P2788",
-     "debut": "2026-10-07T18:45:00",
-     "version": "VF",
-     "sme": false,
-     "avant_premiere": false,
-     "billetterie": null
-    },
-    {
-     "salle": "P2788",
-     "debut": "2026-10-07T20:45:00",
-     "version": "VF",
-     "sme": false,
-     "avant_premiere": false,
-     "billetterie": null
-    },
     {
      "salle": "P2788",
      "debut": "2026-10-08T18:45:00",
@@ -8465,115 +8014,119 @@
    ]
   },
   {
-   "id": 1000026296,
-   "titre": "Mémoire de fille",
-   "titre_original": "Mémoire de fille",
-   "affiche": "https://fr.web.img5.acsta.net/img/a6/80/a68035287b2d9e0818ce43dd84822074.jpg",
-   "duree_min": 117,
+   "id": 321790,
+   "titre": "Le Corset",
+   "titre_original": "Le Corset",
+   "affiche": "https://fr.web.img3.acsta.net/img/a7/96/a796a67caa5bdab1508d9207abaf5284.jpg",
+   "duree_min": 90,
    "genres": [
-    "Drame"
+    "Animation"
    ],
    "realisateurs": [
-    "Judith Godrèche"
+    "Louis Clichy"
    ],
-   "acteurs": [
-    "Tess Barthélemy",
-    "Valérie Dréville",
-    "Maïwène Barthèlemy"
-   ],
+   "acteurs": [],
    "pays": [
     "France",
     "Belgique"
    ],
    "annee": 2026,
-   "synopsis": "Annie Ernaux est sollicitée pour une signature de son dernier ouvrage dans la ville de son enfance, Rouen. Alors qu'elle s'y rend, elle est prise d'un vertige et replonge dans le souvenir de l'été 1958, celui de sa première nuit avec un homme.",
-   "resume": "Annie Ernaux est sollicitée pour une signature de son dernier ouvrage dans la ville de son enfance, Rouen.",
-   "note_spectateurs": 3.3,
-   "note_presse": 3.2,
-   "sortie": "2026-09-30",
-   "classification": "Tout public avec avertissement",
-   "avertissement": "Les rapports de soumission et une sexualité imposée à une très jeune fille sont susceptibles d'impressionner un public jeune et non averti.",
-   "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000026296.html",
+   "synopsis": "Dans une ferme au cœur de la Beauce, Christophe, 11 ans, règle ses pas sur ceux de son père. Mais à l’école, à la maison, sur le tracteur, Christophe penche... et tombe. Il est obligé de porter un corset pour filer droit.",
+   "resume": "Dans une ferme au cœur de la Beauce, Christophe, 11 ans, règle ses pas sur ceux de son père.",
+   "note_spectateurs": null,
+   "note_presse": null,
+   "sortie": "2026-10-14",
+   "classification": "Tout public",
+   "avertissement": "",
+   "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=321790.html",
    "seances": [
     {
      "salle": "P0120",
-     "debut": "2026-10-07T13:45:00",
+     "debut": "2026-10-11T14:00:00",
+     "version": "VF",
+     "sme": false,
+     "avant_premiere": true,
+     "billetterie": "https://www.katorza.fr/vad/2704/12280/5591"
+    },
+    {
+     "salle": "P0121",
+     "debut": "2026-10-11T16:30:00",
+     "version": "VF",
+     "sme": false,
+     "avant_premiere": true,
+     "billetterie": "https://eldorado.ticketingcine.com#showsession?id=emsx002700039150&ps=webedia"
+    },
+    {
+     "salle": "P0121",
+     "debut": "2026-10-14T14:00:00",
      "version": "VF",
      "sme": false,
      "avant_premiere": false,
-     "billetterie": null
+     "billetterie": "https://eldorado.ticketingcine.com#showsession?id=emsx002700039154&ps=webedia"
+    },
+    {
+     "salle": "P0121",
+     "debut": "2026-10-14T18:30:00",
+     "version": "VF",
+     "sme": false,
+     "avant_premiere": false,
+     "billetterie": "https://eldorado.ticketingcine.com#showsession?id=emsx002700039156&ps=webedia"
+    },
+    {
+     "salle": "P0121",
+     "debut": "2026-10-15T16:45:00",
+     "version": "VF",
+     "sme": false,
+     "avant_premiere": false,
+     "billetterie": "https://eldorado.ticketingcine.com#showsession?id=emsx002700039170&ps=webedia"
     },
     {
      "salle": "P0120",
-     "debut": "2026-10-07T18:00:00",
+     "debut": "2026-10-15T20:00:00",
      "version": "VF",
      "sme": false,
      "avant_premiere": false,
-     "billetterie": null
+     "billetterie": "https://www.katorza.fr/vad/2704/12831/5475"
     },
     {
-     "salle": "P0120",
-     "debut": "2026-10-08T14:00:00",
+     "salle": "P0121",
+     "debut": "2026-10-15T20:00:00",
      "version": "VF",
      "sme": false,
      "avant_premiere": false,
-     "billetterie": "https://www.katorza.fr/vad/2704/13150/5569"
+     "billetterie": "https://eldorado.ticketingcine.com#showsession?id=emsx002700039180&ps=webedia"
     },
     {
-     "salle": "P0120",
-     "debut": "2026-10-09T13:45:00",
+     "salle": "P0121",
+     "debut": "2026-10-16T14:00:00",
      "version": "VF",
      "sme": false,
      "avant_premiere": false,
-     "billetterie": "https://www.katorza.fr/vad/2704/13124/5579"
+     "billetterie": "https://eldorado.ticketingcine.com#showsession?id=emsx002700039181&ps=webedia"
     },
     {
-     "salle": "P0120",
-     "debut": "2026-10-09T18:00:00",
+     "salle": "P0121",
+     "debut": "2026-10-16T18:30:00",
      "version": "VF",
      "sme": false,
      "avant_premiere": false,
-     "billetterie": "https://www.katorza.fr/vad/2704/13108/5569"
+     "billetterie": "https://eldorado.ticketingcine.com#showsession?id=emsx002700039183&ps=webedia"
     },
     {
-     "salle": "P0120",
-     "debut": "2026-10-10T14:00:00",
+     "salle": "P0121",
+     "debut": "2026-10-17T14:00:00",
      "version": "VF",
      "sme": false,
      "avant_premiere": false,
-     "billetterie": "https://www.katorza.fr/vad/2704/13151/5608"
+     "billetterie": "https://eldorado.ticketingcine.com#showsession?id=emsx002700039195&ps=webedia"
     },
     {
-     "salle": "P0120",
-     "debut": "2026-10-11T18:00:00",
+     "salle": "P0121",
+     "debut": "2026-10-17T16:00:00",
      "version": "VF",
      "sme": false,
      "avant_premiere": false,
-     "billetterie": "https://www.katorza.fr/vad/2704/13157/5608"
-    },
-    {
-     "salle": "P0120",
-     "debut": "2026-10-12T13:45:00",
-     "version": "VF",
-     "sme": false,
-     "avant_premiere": false,
-     "billetterie": "https://www.katorza.fr/vad/2704/13201/5588"
-    },
-    {
-     "salle": "P0120",
-     "debut": "2026-10-12T18:00:00",
-     "version": "VF",
-     "sme": false,
-     "avant_premiere": false,
-     "billetterie": "https://www.katorza.fr/vad/2704/13200/5569"
-    },
-    {
-     "salle": "P0120",
-     "debut": "2026-10-13T14:00:00",
-     "version": "VF",
-     "sme": false,
-     "avant_premiere": false,
-     "billetterie": "https://www.katorza.fr/vad/2704/13229/5588"
+     "billetterie": "https://eldorado.ticketingcine.com#showsession?id=emsx002700039196&ps=webedia"
     }
    ]
   },
@@ -8685,103 +8238,318 @@
    ]
   },
   {
-   "id": 321790,
-   "titre": "Le Corset",
-   "titre_original": "Le Corset",
-   "affiche": "https://fr.web.img3.acsta.net/img/a7/96/a796a67caa5bdab1508d9207abaf5284.jpg",
-   "duree_min": 90,
+   "id": 1000042927,
+   "titre": "Les Éléphants dans la brume",
+   "titre_original": "Elephants in the Fog",
+   "affiche": "https://fr.web.img2.acsta.net/img/00/94/00949f4ef8372d0da903da48aa36c1bf.jpg",
+   "duree_min": 107,
    "genres": [
-    "Animation"
+    "Comédie dramatique"
    ],
    "realisateurs": [
-    "Louis Clichy"
+    "Abinash Bikram Shah"
    ],
-   "acteurs": [],
+   "acteurs": [
+    "Pushpa Thing Lama",
+    "Deepika Yadav",
+    "Jasmin Bishwokarma"
+   ],
    "pays": [
-    "France",
-    "Belgique"
+    "Népal",
+    "France"
    ],
    "annee": 2026,
-   "synopsis": "Dans une ferme au cœur de la Beauce, Christophe, 11 ans, règle ses pas sur ceux de son père. Mais à l’école, à la maison, sur le tracteur, Christophe penche... et tombe. Il est obligé de porter un corset pour filer droit.",
-   "resume": "Dans une ferme au cœur de la Beauce, Christophe, 11 ans, règle ses pas sur ceux de son père.",
+   "synopsis": "Dans un village népalais niché au cœur d’une forêt peuplée d’éléphants sauvages vit une communauté kinnar aussi vénérée que crainte pour ses pouvoirs de bénédiction et de malédiction. Pirati, l'une des mères de la communauté, rêve de s’échapper avec l’homme qu’elle aime. Mais lorsqu’une de ses filles disparaît, elle se doit mener l'enquête et choisir entre son désir de liberté et ses responsabilités envers sa communauté.",
+   "resume": "Dans un village népalais niché au cœur d’une forêt peuplée d’éléphants sauvages vit une communauté kinnar aussi vénérée que crainte pour ses pouvoirs de bénédiction et de malédiction.",
+   "note_spectateurs": 3.8,
+   "note_presse": 3.7,
+   "sortie": "2026-09-23",
+   "classification": "Tout public",
+   "avertissement": "",
+   "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000042927.html",
+   "seances": [
+    {
+     "salle": "P0121",
+     "debut": "2026-10-08T17:00:00",
+     "version": "VOST",
+     "sme": false,
+     "avant_premiere": false,
+     "billetterie": "https://eldorado.ticketingcine.com#showsession?id=emsx002700039072&ps=webedia"
+    },
+    {
+     "salle": "P0121",
+     "debut": "2026-10-09T17:00:00",
+     "version": "VOST",
+     "sme": false,
+     "avant_premiere": false,
+     "billetterie": "https://eldorado.ticketingcine.com#showsession?id=emsx002700039085&ps=webedia"
+    },
+    {
+     "salle": "P0121",
+     "debut": "2026-10-10T19:00:00",
+     "version": "VOST",
+     "sme": false,
+     "avant_premiere": false,
+     "billetterie": "https://eldorado.ticketingcine.com#showsession?id=emsx002700039386&ps=webedia"
+    },
+    {
+     "salle": "P0121",
+     "debut": "2026-10-11T12:00:00",
+     "version": "VOST",
+     "sme": false,
+     "avant_premiere": false,
+     "billetterie": "https://eldorado.ticketingcine.com#showsession?id=emsx002700039112&ps=webedia"
+    },
+    {
+     "salle": "P0121",
+     "debut": "2026-10-12T17:00:00",
+     "version": "VOST",
+     "sme": false,
+     "avant_premiere": false,
+     "billetterie": "https://eldorado.ticketingcine.com#showsession?id=emsx002700039128&ps=webedia"
+    },
+    {
+     "salle": "P0121",
+     "debut": "2026-10-13T17:00:00",
+     "version": "VOST",
+     "sme": false,
+     "avant_premiere": false,
+     "billetterie": "https://eldorado.ticketingcine.com#showsession?id=emsx002700039140&ps=webedia"
+    },
+    {
+     "salle": "P0121",
+     "debut": "2026-10-14T12:00:00",
+     "version": "VOST",
+     "sme": false,
+     "avant_premiere": false,
+     "billetterie": "https://eldorado.ticketingcine.com#showsession?id=emsx002700039153&ps=webedia"
+    },
+    {
+     "salle": "P0121",
+     "debut": "2026-10-16T16:00:00",
+     "version": "VOST",
+     "sme": false,
+     "avant_premiere": false,
+     "billetterie": "https://eldorado.ticketingcine.com#showsession?id=emsx002700039256&ps=webedia"
+    },
+    {
+     "salle": "P0121",
+     "debut": "2026-10-17T12:00:00",
+     "version": "VOST",
+     "sme": false,
+     "avant_premiere": false,
+     "billetterie": "https://eldorado.ticketingcine.com#showsession?id=emsx002700039204&ps=webedia"
+    }
+   ]
+  },
+  {
+   "id": 326989,
+   "titre": "Les Roches Rouges",
+   "titre_original": "Les Roches Rouges",
+   "affiche": "https://fr.web.img6.acsta.net/img/98/2b/982b47b607f4719bc457f81b5ee8c510.jpg",
+   "duree_min": 90,
+   "genres": [
+    "Romance",
+    "Drame"
+   ],
+   "realisateurs": [
+    "Bruno Dumont"
+   ],
+   "acteurs": [
+    "Kaylon Lancel",
+    "Kelsie Verdeilles",
+    "Louise Podolski"
+   ],
+   "pays": [
+    "Portugal",
+    "France"
+   ],
+   "annee": 2026,
+   "synopsis": "Sur la Côte d’Azur, deux bandes d’enfants s’affrontent à leur jeu favori : sauter des rochers rouges de la Méditerranée. Géo, 5 ans à peine, découvre le temps d’un été un monde où l’amitié se mêle à la rivalité, et où les premiers élans du cœur deviennent source de tensions.",
+   "resume": "Sur la Côte d’Azur, deux bandes d’enfants s’affrontent à leur jeu favori : sauter des rochers rouges de la Méditerranée.",
+   "note_spectateurs": 2.7,
+   "note_presse": 3.7,
+   "sortie": "2026-09-23",
+   "classification": "Tout public avec avertissement",
+   "avertissement": "Le climat général de ce film, ainsi que certaines scènes violentes, peuvent perturber un jeune public.",
+   "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=326989.html",
+   "seances": [
+    {
+     "salle": "P0121",
+     "debut": "2026-10-08T16:30:00",
+     "version": "VF",
+     "sme": false,
+     "avant_premiere": false,
+     "billetterie": "https://eldorado.ticketingcine.com#showsession?id=emsx002700039076&ps=webedia"
+    },
+    {
+     "salle": "P0121",
+     "debut": "2026-10-09T16:30:00",
+     "version": "VF",
+     "sme": false,
+     "avant_premiere": false,
+     "billetterie": "https://eldorado.ticketingcine.com#showsession?id=emsx002700039089&ps=webedia"
+    },
+    {
+     "salle": "P0121",
+     "debut": "2026-10-10T18:00:00",
+     "version": "VF",
+     "sme": false,
+     "avant_premiere": false,
+     "billetterie": "https://eldorado.ticketingcine.com#showsession?id=emsx002700039106&ps=webedia"
+    },
+    {
+     "salle": "P0121",
+     "debut": "2026-10-11T18:15:00",
+     "version": "VF",
+     "sme": false,
+     "avant_premiere": false,
+     "billetterie": "https://eldorado.ticketingcine.com#showsession?id=emsx002700039120&ps=webedia"
+    },
+    {
+     "salle": "P0121",
+     "debut": "2026-10-12T16:30:00",
+     "version": "VF",
+     "sme": false,
+     "avant_premiere": false,
+     "billetterie": "https://eldorado.ticketingcine.com#showsession?id=emsx002700039132&ps=webedia"
+    },
+    {
+     "salle": "P0121",
+     "debut": "2026-10-13T16:30:00",
+     "version": "VF",
+     "sme": false,
+     "avant_premiere": false,
+     "billetterie": "https://eldorado.ticketingcine.com#showsession?id=emsx002700039144&ps=webedia"
+    },
+    {
+     "salle": "P0121",
+     "debut": "2026-10-14T12:00:00",
+     "version": "VF",
+     "sme": false,
+     "avant_premiere": false,
+     "billetterie": "https://eldorado.ticketingcine.com#showsession?id=emsx002700039164&ps=webedia"
+    },
+    {
+     "salle": "P0121",
+     "debut": "2026-10-15T16:15:00",
+     "version": "VF",
+     "sme": false,
+     "avant_premiere": false,
+     "billetterie": "https://eldorado.ticketingcine.com#showsession?id=emsx002700039257&ps=webedia"
+    },
+    {
+     "salle": "P0121",
+     "debut": "2026-10-17T12:00:00",
+     "version": "VF",
+     "sme": false,
+     "avant_premiere": false,
+     "billetterie": "https://eldorado.ticketingcine.com#showsession?id=emsx002700039198&ps=webedia"
+    }
+   ]
+  },
+  {
+   "id": 1000022205,
+   "titre": "Minotaure",
+   "titre_original": "Minotaur",
+   "affiche": "https://fr.web.img6.acsta.net/img/f9/db/f9dbbc962b3358af6569ec1739edfa54.jpg",
+   "duree_min": 140,
+   "genres": [
+    "Drame"
+   ],
+   "realisateurs": [
+    "Andreï Zviaguintsev"
+   ],
+   "acteurs": [
+    "Dmitri Mazourov",
+    "Iris Lebedeva",
+    "Boris Koudrine"
+   ],
+   "pays": [
+    "France",
+    "Allemagne"
+   ],
+   "annee": 2026,
+   "synopsis": "Russie, 2022. Gleb, chef d’entreprise prospère, vit avec sa femme Galina et leur fils dans une ville de province. Il se retrouve confronté à des problèmes professionnels croissants, dans un monde de plus en plus instable.",
+   "resume": "Russie, 2022. Gleb, chef d’entreprise prospère, vit avec sa femme Galina et leur fils dans une ville de province.",
    "note_spectateurs": null,
    "note_presse": null,
    "sortie": "2026-10-14",
    "classification": "Tout public",
    "avertissement": "",
-   "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=321790.html",
+   "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000022205.html",
    "seances": [
     {
      "salle": "P0120",
-     "debut": "2026-10-11T14:00:00",
-     "version": "VF",
+     "debut": "2026-10-12T20:00:00",
+     "version": "VO",
      "sme": false,
      "avant_premiere": true,
-     "billetterie": "https://www.katorza.fr/vad/2704/12280/5591"
-    },
-    {
-     "salle": "P0121",
-     "debut": "2026-10-11T16:30:00",
-     "version": "VF",
-     "sme": false,
-     "avant_premiere": true,
-     "billetterie": "https://eldorado.ticketingcine.com#showsession?id=emsx002700039150&ps=webedia"
+     "billetterie": "https://www.katorza.fr/vad/2704/12449/5294"
     },
     {
      "salle": "P0121",
      "debut": "2026-10-14T14:00:00",
-     "version": "VF",
+     "version": "VOST",
      "sme": false,
      "avant_premiere": false,
-     "billetterie": "https://eldorado.ticketingcine.com#showsession?id=emsx002700039154&ps=webedia"
+     "billetterie": "https://eldorado.ticketingcine.com#showsession?id=emsx002700039165&ps=webedia"
     },
     {
      "salle": "P0121",
-     "debut": "2026-10-14T18:30:00",
-     "version": "VF",
+     "debut": "2026-10-14T20:15:00",
+     "version": "VOST",
      "sme": false,
      "avant_premiere": false,
-     "billetterie": "https://eldorado.ticketingcine.com#showsession?id=emsx002700039156&ps=webedia"
+     "billetterie": "https://eldorado.ticketingcine.com#showsession?id=emsx002700039157&ps=webedia"
     },
     {
      "salle": "P0121",
-     "debut": "2026-10-15T16:45:00",
-     "version": "VF",
+     "debut": "2026-10-15T13:30:00",
+     "version": "VOST",
      "sme": false,
      "avant_premiere": false,
-     "billetterie": "https://eldorado.ticketingcine.com#showsession?id=emsx002700039170&ps=webedia"
-    },
-    {
-     "salle": "P0120",
-     "debut": "2026-10-15T20:00:00",
-     "version": "VF",
-     "sme": false,
-     "avant_premiere": false,
-     "billetterie": "https://www.katorza.fr/vad/2704/12831/5475"
+     "billetterie": "https://eldorado.ticketingcine.com#showsession?id=emsx002700039177&ps=webedia"
     },
     {
      "salle": "P0121",
-     "debut": "2026-10-15T20:00:00",
-     "version": "VF",
+     "debut": "2026-10-15T20:15:00",
+     "version": "VOST",
      "sme": false,
      "avant_premiere": false,
-     "billetterie": "https://eldorado.ticketingcine.com#showsession?id=emsx002700039180&ps=webedia"
+     "billetterie": "https://eldorado.ticketingcine.com#showsession?id=emsx002700039172&ps=webedia"
     },
     {
      "salle": "P0121",
-     "debut": "2026-10-16T14:00:00",
-     "version": "VF",
+     "debut": "2026-10-16T13:30:00",
+     "version": "VOST",
      "sme": false,
      "avant_premiere": false,
-     "billetterie": "https://eldorado.ticketingcine.com#showsession?id=emsx002700039181&ps=webedia"
+     "billetterie": "https://eldorado.ticketingcine.com#showsession?id=emsx002700039189&ps=webedia"
     },
     {
      "salle": "P0121",
-     "debut": "2026-10-16T18:30:00",
-     "version": "VF",
+     "debut": "2026-10-16T20:00:00",
+     "version": "VOST",
      "sme": false,
      "avant_premiere": false,
-     "billetterie": "https://eldorado.ticketingcine.com#showsession?id=emsx002700039183&ps=webedia"
+     "billetterie": "https://eldorado.ticketingcine.com#showsession?id=emsx002700039192&ps=webedia"
+    },
+    {
+     "salle": "P0121",
+     "debut": "2026-10-17T14:00:00",
+     "version": "VOST",
+     "sme": false,
+     "avant_premiere": false,
+     "billetterie": "https://eldorado.ticketingcine.com#showsession?id=emsx002700039205&ps=webedia"
+    },
+    {
+     "salle": "P0121",
+     "debut": "2026-10-17T21:00:00",
+     "version": "VOST",
+     "sme": false,
+     "avant_premiere": false,
+     "billetterie": "https://eldorado.ticketingcine.com#showsession?id=emsx002700039208&ps=webedia"
     }
    ]
   },
@@ -8981,197 +8749,99 @@
    ]
   },
   {
-   "id": 1000042927,
-   "titre": "Les Éléphants dans la brume",
-   "titre_original": "Elephants in the Fog",
-   "affiche": "https://fr.web.img2.acsta.net/img/00/94/00949f4ef8372d0da903da48aa36c1bf.jpg",
-   "duree_min": 107,
+   "id": 1000026296,
+   "titre": "Mémoire de fille",
+   "titre_original": "Mémoire de fille",
+   "affiche": "https://fr.web.img5.acsta.net/img/a6/80/a68035287b2d9e0818ce43dd84822074.jpg",
+   "duree_min": 117,
    "genres": [
-    "Comédie dramatique"
-   ],
-   "realisateurs": [
-    "Abinash Bikram Shah"
-   ],
-   "acteurs": [
-    "Pushpa Thing Lama",
-    "Deepika Yadav",
-    "Jasmin Bishwokarma"
-   ],
-   "pays": [
-    "Népal",
-    "France"
-   ],
-   "annee": 2026,
-   "synopsis": "Dans un village népalais niché au cœur d’une forêt peuplée d’éléphants sauvages vit une communauté kinnar aussi vénérée que crainte pour ses pouvoirs de bénédiction et de malédiction. Pirati, l'une des mères de la communauté, rêve de s’échapper avec l’homme qu’elle aime. Mais lorsqu’une de ses filles disparaît, elle se doit mener l'enquête et choisir entre son désir de liberté et ses responsabilités envers sa communauté.",
-   "resume": "Dans un village népalais niché au cœur d’une forêt peuplée d’éléphants sauvages vit une communauté kinnar aussi vénérée que crainte pour ses pouvoirs de bénédiction et de malédiction.",
-   "note_spectateurs": 3.8,
-   "note_presse": 3.7,
-   "sortie": "2026-09-23",
-   "classification": "Tout public",
-   "avertissement": "",
-   "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000042927.html",
-   "seances": [
-    {
-     "salle": "P0121",
-     "debut": "2026-10-08T17:00:00",
-     "version": "VOST",
-     "sme": false,
-     "avant_premiere": false,
-     "billetterie": "https://eldorado.ticketingcine.com#showsession?id=emsx002700039072&ps=webedia"
-    },
-    {
-     "salle": "P0121",
-     "debut": "2026-10-09T17:00:00",
-     "version": "VOST",
-     "sme": false,
-     "avant_premiere": false,
-     "billetterie": "https://eldorado.ticketingcine.com#showsession?id=emsx002700039085&ps=webedia"
-    },
-    {
-     "salle": "P0121",
-     "debut": "2026-10-10T19:00:00",
-     "version": "VOST",
-     "sme": false,
-     "avant_premiere": false,
-     "billetterie": "https://eldorado.ticketingcine.com#showsession?id=emsx002700039386&ps=webedia"
-    },
-    {
-     "salle": "P0121",
-     "debut": "2026-10-11T12:00:00",
-     "version": "VOST",
-     "sme": false,
-     "avant_premiere": false,
-     "billetterie": "https://eldorado.ticketingcine.com#showsession?id=emsx002700039112&ps=webedia"
-    },
-    {
-     "salle": "P0121",
-     "debut": "2026-10-12T17:00:00",
-     "version": "VOST",
-     "sme": false,
-     "avant_premiere": false,
-     "billetterie": "https://eldorado.ticketingcine.com#showsession?id=emsx002700039128&ps=webedia"
-    },
-    {
-     "salle": "P0121",
-     "debut": "2026-10-13T17:00:00",
-     "version": "VOST",
-     "sme": false,
-     "avant_premiere": false,
-     "billetterie": "https://eldorado.ticketingcine.com#showsession?id=emsx002700039140&ps=webedia"
-    },
-    {
-     "salle": "P0121",
-     "debut": "2026-10-14T12:00:00",
-     "version": "VOST",
-     "sme": false,
-     "avant_premiere": false,
-     "billetterie": "https://eldorado.ticketingcine.com#showsession?id=emsx002700039153&ps=webedia"
-    },
-    {
-     "salle": "P0121",
-     "debut": "2026-10-16T16:00:00",
-     "version": "VOST",
-     "sme": false,
-     "avant_premiere": false,
-     "billetterie": "https://eldorado.ticketingcine.com#showsession?id=emsx002700039256&ps=webedia"
-    }
-   ]
-  },
-  {
-   "id": 326989,
-   "titre": "Les Roches Rouges",
-   "titre_original": "Les Roches Rouges",
-   "affiche": "https://fr.web.img6.acsta.net/img/98/2b/982b47b607f4719bc457f81b5ee8c510.jpg",
-   "duree_min": 90,
-   "genres": [
-    "Romance",
     "Drame"
    ],
    "realisateurs": [
-    "Bruno Dumont"
+    "Judith Godrèche"
    ],
    "acteurs": [
-    "Kaylon Lancel",
-    "Kelsie Verdeilles",
-    "Louise Podolski"
+    "Tess Barthélemy",
+    "Valérie Dréville",
+    "Maïwène Barthèlemy"
    ],
    "pays": [
-    "Portugal",
-    "France"
+    "France",
+    "Belgique"
    ],
    "annee": 2026,
-   "synopsis": "Sur la Côte d’Azur, deux bandes d’enfants s’affrontent à leur jeu favori : sauter des rochers rouges de la Méditerranée. Géo, 5 ans à peine, découvre le temps d’un été un monde où l’amitié se mêle à la rivalité, et où les premiers élans du cœur deviennent source de tensions.",
-   "resume": "Sur la Côte d’Azur, deux bandes d’enfants s’affrontent à leur jeu favori : sauter des rochers rouges de la Méditerranée.",
-   "note_spectateurs": 2.7,
-   "note_presse": 3.7,
-   "sortie": "2026-09-23",
+   "synopsis": "Annie Ernaux est sollicitée pour une signature de son dernier ouvrage dans la ville de son enfance, Rouen. Alors qu'elle s'y rend, elle est prise d'un vertige et replonge dans le souvenir de l'été 1958, celui de sa première nuit avec un homme.",
+   "resume": "Annie Ernaux est sollicitée pour une signature de son dernier ouvrage dans la ville de son enfance, Rouen.",
+   "note_spectateurs": 3.2,
+   "note_presse": 3.2,
+   "sortie": "2026-09-30",
    "classification": "Tout public avec avertissement",
-   "avertissement": "Le climat général de ce film, ainsi que certaines scènes violentes, peuvent perturber un jeune public.",
-   "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=326989.html",
+   "avertissement": "Les rapports de soumission et une sexualité imposée à une très jeune fille sont susceptibles d'impressionner un public jeune et non averti.",
+   "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000026296.html",
    "seances": [
     {
-     "salle": "P0121",
-     "debut": "2026-10-08T16:30:00",
+     "salle": "P0120",
+     "debut": "2026-10-08T14:00:00",
      "version": "VF",
      "sme": false,
      "avant_premiere": false,
-     "billetterie": "https://eldorado.ticketingcine.com#showsession?id=emsx002700039076&ps=webedia"
+     "billetterie": "https://www.katorza.fr/vad/2704/13150/5569"
     },
     {
-     "salle": "P0121",
-     "debut": "2026-10-09T16:30:00",
+     "salle": "P0120",
+     "debut": "2026-10-09T13:45:00",
      "version": "VF",
      "sme": false,
      "avant_premiere": false,
-     "billetterie": "https://eldorado.ticketingcine.com#showsession?id=emsx002700039089&ps=webedia"
+     "billetterie": "https://www.katorza.fr/vad/2704/13124/5579"
     },
     {
-     "salle": "P0121",
-     "debut": "2026-10-10T18:00:00",
+     "salle": "P0120",
+     "debut": "2026-10-09T18:00:00",
      "version": "VF",
      "sme": false,
      "avant_premiere": false,
-     "billetterie": "https://eldorado.ticketingcine.com#showsession?id=emsx002700039106&ps=webedia"
+     "billetterie": "https://www.katorza.fr/vad/2704/13108/5569"
     },
     {
-     "salle": "P0121",
-     "debut": "2026-10-11T18:15:00",
+     "salle": "P0120",
+     "debut": "2026-10-10T14:00:00",
      "version": "VF",
      "sme": false,
      "avant_premiere": false,
-     "billetterie": "https://eldorado.ticketingcine.com#showsession?id=emsx002700039120&ps=webedia"
+     "billetterie": "https://www.katorza.fr/vad/2704/13151/5608"
     },
     {
-     "salle": "P0121",
-     "debut": "2026-10-12T16:30:00",
+     "salle": "P0120",
+     "debut": "2026-10-11T18:00:00",
      "version": "VF",
      "sme": false,
      "avant_premiere": false,
-     "billetterie": "https://eldorado.ticketingcine.com#showsession?id=emsx002700039132&ps=webedia"
+     "billetterie": "https://www.katorza.fr/vad/2704/13157/5608"
     },
     {
-     "salle": "P0121",
-     "debut": "2026-10-13T16:30:00",
+     "salle": "P0120",
+     "debut": "2026-10-12T13:45:00",
      "version": "VF",
      "sme": false,
      "avant_premiere": false,
-     "billetterie": "https://eldorado.ticketingcine.com#showsession?id=emsx002700039144&ps=webedia"
+     "billetterie": "https://www.katorza.fr/vad/2704/13201/5588"
     },
     {
-     "salle": "P0121",
-     "debut": "2026-10-14T12:00:00",
+     "salle": "P0120",
+     "debut": "2026-10-12T18:00:00",
      "version": "VF",
      "sme": false,
      "avant_premiere": false,
-     "billetterie": "https://eldorado.ticketingcine.com#showsession?id=emsx002700039164&ps=webedia"
+     "billetterie": "https://www.katorza.fr/vad/2704/13200/5569"
     },
     {
-     "salle": "P0121",
-     "debut": "2026-10-15T16:15:00",
+     "salle": "P0120",
+     "debut": "2026-10-13T14:00:00",
      "version": "VF",
      "sme": false,
      "avant_premiere": false,
-     "billetterie": "https://eldorado.ticketingcine.com#showsession?id=emsx002700039257&ps=webedia"
+     "billetterie": "https://www.katorza.fr/vad/2704/13229/5588"
     }
    ]
   },
@@ -9206,14 +8876,6 @@
    "avertissement": "",
    "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=188280.html",
    "seances": [
-    {
-     "salle": "P0120",
-     "debut": "2026-10-07T17:00:00",
-     "version": "VO",
-     "sme": false,
-     "avant_premiere": false,
-     "billetterie": null
-    },
     {
      "salle": "P0120",
      "debut": "2026-10-08T13:45:00",
@@ -9265,91 +8927,76 @@
    ]
   },
   {
-   "id": 1000022205,
-   "titre": "Minotaure",
-   "titre_original": "Minotaur",
-   "affiche": "https://fr.web.img6.acsta.net/img/f9/db/f9dbbc962b3358af6569ec1739edfa54.jpg",
-   "duree_min": 140,
+   "id": 1000048319,
+   "titre": "Fini de rire ! L'humour politique au garde-à-vous ?",
+   "titre_original": "Fini de rire ! L'humour politique au garde-à-vous ?",
+   "affiche": "https://fr.web.img4.acsta.net/img/e5/a1/e5a1946e5fd253382f636dc7a26252db.jpg",
+   "duree_min": 97,
    "genres": [
-    "Drame"
+    "Documentaire"
    ],
    "realisateurs": [
-    "Andreï Zviaguintsev"
+    "Matéo Larroque",
+    "Clara Menais",
+    "Mila Branco"
    ],
    "acteurs": [
-    "Dmitri Mazourov",
-    "Iris Lebedeva",
-    "Boris Koudrine"
+    "Guillaume Meurice",
+    "Lionel Dutemple",
+    "Sandrine Alexi"
    ],
    "pays": [
-    "France",
-    "Allemagne"
+    "France"
    ],
    "annee": 2026,
-   "synopsis": "Russie, 2022. Gleb, chef d’entreprise prospère, vit avec sa femme Galina et leur fils dans une ville de province. Il se retrouve confronté à des problèmes professionnels croissants, dans un monde de plus en plus instable.",
-   "resume": "Russie, 2022. Gleb, chef d’entreprise prospère, vit avec sa femme Galina et leur fils dans une ville de province.",
-   "note_spectateurs": null,
-   "note_presse": null,
-   "sortie": "2026-10-14",
+   "synopsis": "En France, rire des puissants est devenu un sport à risque. En trente ans, les humoristes les plus libres de la télévision et de la radio ont été méthodiquement neutralisés, marginalisés, censurés, voire virés. Ce documentaire retrace la mécanique d'une mise au silence.",
+   "resume": "En France, rire des puissants est devenu un sport à risque.",
+   "note_spectateurs": 4.2,
+   "note_presse": 2.7,
+   "sortie": "2026-09-23",
    "classification": "Tout public",
    "avertissement": "",
-   "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000022205.html",
+   "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000048319.html",
    "seances": [
     {
-     "salle": "P0120",
-     "debut": "2026-10-12T20:00:00",
-     "version": "VO",
+     "salle": "P0121",
+     "debut": "2026-10-08T13:00:00",
+     "version": "VF",
      "sme": false,
-     "avant_premiere": true,
-     "billetterie": "https://www.katorza.fr/vad/2704/12449/5294"
+     "avant_premiere": false,
+     "billetterie": "https://eldorado.ticketingcine.com#showsession?id=emsx002700039070&ps=webedia"
     },
     {
      "salle": "P0121",
-     "debut": "2026-10-14T14:00:00",
-     "version": "VOST",
+     "debut": "2026-10-10T12:00:00",
+     "version": "VF",
      "sme": false,
      "avant_premiere": false,
-     "billetterie": "https://eldorado.ticketingcine.com#showsession?id=emsx002700039165&ps=webedia"
+     "billetterie": "https://eldorado.ticketingcine.com#showsession?id=emsx002700039092&ps=webedia"
     },
     {
      "salle": "P0121",
-     "debut": "2026-10-14T20:15:00",
-     "version": "VOST",
+     "debut": "2026-10-11T17:15:00",
+     "version": "VF",
      "sme": false,
      "avant_premiere": false,
-     "billetterie": "https://eldorado.ticketingcine.com#showsession?id=emsx002700039157&ps=webedia"
+     "billetterie": "https://eldorado.ticketingcine.com#showsession?id=emsx002700039115&ps=webedia"
     },
     {
      "salle": "P0121",
-     "debut": "2026-10-15T13:30:00",
-     "version": "VOST",
+     "debut": "2026-10-13T13:00:00",
+     "version": "VF",
      "sme": false,
      "avant_premiere": false,
-     "billetterie": "https://eldorado.ticketingcine.com#showsession?id=emsx002700039177&ps=webedia"
+     "billetterie": "https://eldorado.ticketingcine.com#showsession?id=emsx002700039138&ps=webedia"
     },
     {
      "salle": "P0121",
-     "debut": "2026-10-15T20:15:00",
-     "version": "VOST",
+     "debut": "2026-10-14T11:15:00",
+     "version": "VF",
      "sme": false,
      "avant_premiere": false,
-     "billetterie": "https://eldorado.ticketingcine.com#showsession?id=emsx002700039172&ps=webedia"
-    },
-    {
-     "salle": "P0121",
-     "debut": "2026-10-16T13:30:00",
-     "version": "VOST",
-     "sme": false,
-     "avant_premiere": false,
-     "billetterie": "https://eldorado.ticketingcine.com#showsession?id=emsx002700039189&ps=webedia"
-    },
-    {
-     "salle": "P0121",
-     "debut": "2026-10-16T20:00:00",
-     "version": "VOST",
-     "sme": false,
-     "avant_premiere": false,
-     "billetterie": "https://eldorado.ticketingcine.com#showsession?id=emsx002700039192&ps=webedia"
+     "billetterie": "https://eldorado.ticketingcine.com#showsession?id=emsx002700039158&ps=webedia"
     }
    ]
   },
@@ -9383,14 +9030,6 @@
    "avertissement": "",
    "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000028234.html",
    "seances": [
-    {
-     "salle": "P0771",
-     "debut": "2026-10-07T22:20:00",
-     "version": "VF",
-     "sme": false,
-     "avant_premiere": false,
-     "billetterie": "https://s.pathe.fr/en/V3342S120168/booking?utm_source=allocine&utm_medium=allocine&utm_campaign=partenaire-allocine&partenaire=allocine"
-    },
     {
      "salle": "P0771",
      "debut": "2026-10-08T22:20:00",
@@ -9466,14 +9105,6 @@
    "seances": [
     {
      "salle": "P0120",
-     "debut": "2026-10-07T18:15:00",
-     "version": "VO",
-     "sme": false,
-     "avant_premiere": false,
-     "billetterie": null
-    },
-    {
-     "salle": "P0120",
      "debut": "2026-10-08T13:45:00",
      "version": "VO",
      "sme": false,
@@ -9546,14 +9177,6 @@
    "avertissement": "La cellule familiale au cœur de la violence et plusieurs scènes de meurtre sont susceptibles de perturber un public sensible.",
    "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=324014.html",
    "seances": [
-    {
-     "salle": "P0120",
-     "debut": "2026-10-07T14:00:00",
-     "version": "VF",
-     "sme": false,
-     "avant_premiere": false,
-     "billetterie": null
-    },
     {
      "salle": "P0120",
      "debut": "2026-10-08T18:15:00",
@@ -9659,159 +9282,6 @@
      "sme": false,
      "avant_premiere": false,
      "billetterie": "https://s.pathe.fr/en/V3345S85843/booking?utm_source=allocine&utm_medium=allocine&utm_campaign=partenaire-allocine&partenaire=allocine"
-    },
-    {
-     "salle": "P0771",
-     "debut": "2026-10-12T16:10:00",
-     "version": "VF",
-     "sme": false,
-     "avant_premiere": false,
-     "billetterie": "https://s.pathe.fr/en/V3342S120497/booking?utm_source=allocine&utm_medium=allocine&utm_campaign=partenaire-allocine&partenaire=allocine"
-    }
-   ]
-  },
-  {
-   "id": 1000048319,
-   "titre": "Fini de rire ! L'humour politique au garde-à-vous ?",
-   "titre_original": "Fini de rire ! L'humour politique au garde-à-vous ?",
-   "affiche": "https://fr.web.img4.acsta.net/img/e5/a1/e5a1946e5fd253382f636dc7a26252db.jpg",
-   "duree_min": 97,
-   "genres": [
-    "Documentaire"
-   ],
-   "realisateurs": [
-    "Matéo Larroque",
-    "Clara Menais",
-    "Mila Branco"
-   ],
-   "acteurs": [
-    "Guillaume Meurice",
-    "Lionel Dutemple",
-    "Sandrine Alexi"
-   ],
-   "pays": [
-    "France"
-   ],
-   "annee": 2026,
-   "synopsis": "En France, rire des puissants est devenu un sport à risque. En trente ans, les humoristes les plus libres de la télévision et de la radio ont été méthodiquement neutralisés, marginalisés, censurés, voire virés. Ce documentaire retrace la mécanique d'une mise au silence.",
-   "resume": "En France, rire des puissants est devenu un sport à risque.",
-   "note_spectateurs": 4.2,
-   "note_presse": 2.7,
-   "sortie": "2026-09-23",
-   "classification": "Tout public",
-   "avertissement": "",
-   "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000048319.html",
-   "seances": [
-    {
-     "salle": "P0121",
-     "debut": "2026-10-08T13:00:00",
-     "version": "VF",
-     "sme": false,
-     "avant_premiere": false,
-     "billetterie": "https://eldorado.ticketingcine.com#showsession?id=emsx002700039070&ps=webedia"
-    },
-    {
-     "salle": "P0121",
-     "debut": "2026-10-10T12:00:00",
-     "version": "VF",
-     "sme": false,
-     "avant_premiere": false,
-     "billetterie": "https://eldorado.ticketingcine.com#showsession?id=emsx002700039092&ps=webedia"
-    },
-    {
-     "salle": "P0121",
-     "debut": "2026-10-11T17:15:00",
-     "version": "VF",
-     "sme": false,
-     "avant_premiere": false,
-     "billetterie": "https://eldorado.ticketingcine.com#showsession?id=emsx002700039115&ps=webedia"
-    },
-    {
-     "salle": "P0121",
-     "debut": "2026-10-13T13:00:00",
-     "version": "VF",
-     "sme": false,
-     "avant_premiere": false,
-     "billetterie": "https://eldorado.ticketingcine.com#showsession?id=emsx002700039138&ps=webedia"
-    },
-    {
-     "salle": "P0121",
-     "debut": "2026-10-14T11:15:00",
-     "version": "VF",
-     "sme": false,
-     "avant_premiere": false,
-     "billetterie": "https://eldorado.ticketingcine.com#showsession?id=emsx002700039158&ps=webedia"
-    }
-   ]
-  },
-  {
-   "id": 320681,
-   "titre": "La Pat' Patrouille : Le film mission Dino",
-   "titre_original": "PAW Patrol: The Dino Movie",
-   "affiche": "https://fr.web.img6.acsta.net/img/bb/35/bb358019448f4fcd5c37b0d19c04fd0d.jpg",
-   "duree_min": 88,
-   "genres": [
-    "Animation",
-    "Aventure",
-    "Famille",
-    "Comédie"
-   ],
-   "realisateurs": [
-    "Cal Brunker"
-   ],
-   "acteurs": [],
-   "pays": [
-    "U.S.A."
-   ],
-   "annee": 2026,
-   "synopsis": "Lorsqu’une mystérieuse tempête surprend leur navire, la Pat’ Patrouille s’échoue sur une île tropicale encore inexplorée… et peuplée de dinosaures !",
-   "resume": "Lorsqu’une mystérieuse tempête surprend leur navire, la Pat’ Patrouille s’échoue sur une île tropicale encore inexplorée… et peuplée de dinosaures !",
-   "note_spectateurs": 3.1,
-   "note_presse": 3.1,
-   "sortie": "2026-12-17",
-   "classification": "Tout public",
-   "avertissement": "",
-   "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=320681.html",
-   "seances": [
-    {
-     "salle": "P0771",
-     "debut": "2026-10-08T13:40:00",
-     "version": "VF",
-     "sme": false,
-     "avant_premiere": false,
-     "billetterie": "https://s.pathe.fr/en/V3342S120347/booking?utm_source=allocine&utm_medium=allocine&utm_campaign=partenaire-allocine&partenaire=allocine"
-    },
-    {
-     "salle": "P0771",
-     "debut": "2026-10-09T13:40:00",
-     "version": "VF",
-     "sme": false,
-     "avant_premiere": false,
-     "billetterie": "https://s.pathe.fr/en/V3342S120397/booking?utm_source=allocine&utm_medium=allocine&utm_campaign=partenaire-allocine&partenaire=allocine"
-    },
-    {
-     "salle": "P0771",
-     "debut": "2026-10-10T13:40:00",
-     "version": "VF",
-     "sme": false,
-     "avant_premiere": false,
-     "billetterie": "https://s.pathe.fr/en/V3342S120441/booking?utm_source=allocine&utm_medium=allocine&utm_campaign=partenaire-allocine&partenaire=allocine"
-    },
-    {
-     "salle": "P0771",
-     "debut": "2026-10-11T11:10:00",
-     "version": "VF",
-     "sme": false,
-     "avant_premiere": false,
-     "billetterie": "https://s.pathe.fr/en/V3342S120295/booking?utm_source=allocine&utm_medium=allocine&utm_campaign=partenaire-allocine&partenaire=allocine"
-    },
-    {
-     "salle": "P0771",
-     "debut": "2026-10-11T13:40:00",
-     "version": "VF",
-     "sme": false,
-     "avant_premiere": false,
-     "billetterie": "https://s.pathe.fr/en/V3342S120298/booking?utm_source=allocine&utm_medium=allocine&utm_campaign=partenaire-allocine&partenaire=allocine"
     }
    ]
   },
@@ -10012,74 +9482,6 @@
    ]
   },
   {
-   "id": 1000040606,
-   "titre": "Doraemon et le Château sous-marin",
-   "titre_original": "Eiga Doraemon Shin Nobita no Kaiteiki Ganjô",
-   "affiche": "https://fr.web.img6.acsta.net/img/12/07/120736d4c8daa5a98e6d413e236ea509.jpg",
-   "duree_min": 101,
-   "genres": [
-    "Animation",
-    "Aventure",
-    "Drame",
-    "Famille",
-    "Fantastique"
-   ],
-   "realisateurs": [
-    "Tetsuo Yajima"
-   ],
-   "acteurs": [
-    "Emmanuel Curtil",
-    "Brigitte Lecordier",
-    "Jehanne Thellier"
-   ],
-   "pays": [
-    "Japon"
-   ],
-   "annee": 2026,
-   "synopsis": "Doraemon est un chat-robot bleu qui vient du futur. Il vit avec Nobita, un petit garçon maladroit, et ses parents. Grâce à ses gadgets secrets, Doraemon aide souvent Nobita à s’amuser ou à résoudre ses problèmes. Un été d’ennui, Doraemon propose à Nobita et leurs amis d’aller faire du camping sous la mer. En explorant les fonds marins, la bande découvre une épave et fait la rencontre des Thalassiens. C’est alors qu’une annonce très inquiétante survient : « Le Château sous-marin s’est réveillé ! ». Nobita et ses amis doivent se lancer dans une bataille qui décidera du sort de la Terre !",
-   "resume": "Doraemon est un chat-robot bleu qui vient du futur. Il vit avec Nobita, un petit garçon maladroit, et ses parents.",
-   "note_spectateurs": 3.6,
-   "note_presse": 3.2,
-   "sortie": "2026-10-07",
-   "classification": "Tout public",
-   "avertissement": "",
-   "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000040606.html",
-   "seances": [
-    {
-     "salle": "P2788",
-     "debut": "2026-10-07T16:45:00",
-     "version": "VF",
-     "sme": false,
-     "avant_premiere": false,
-     "billetterie": null
-    },
-    {
-     "salle": "P2788",
-     "debut": "2026-10-10T16:00:00",
-     "version": "VF",
-     "sme": false,
-     "avant_premiere": false,
-     "billetterie": "https://dijon.cineville.fr/vad/2714/26353/12034"
-    },
-    {
-     "salle": "P2788",
-     "debut": "2026-10-11T10:45:00",
-     "version": "VF",
-     "sme": false,
-     "avant_premiere": false,
-     "billetterie": "https://dijon.cineville.fr/vad/2714/26405/12034"
-    },
-    {
-     "salle": "P2788",
-     "debut": "2026-10-11T16:45:00",
-     "version": "VF",
-     "sme": false,
-     "avant_premiere": false,
-     "billetterie": "https://dijon.cineville.fr/vad/2714/26375/12034"
-    }
-   ]
-  },
-  {
    "id": 257425,
    "titre": "Tad l'explorateur et la lampe magique",
    "titre_original": "Tadeo Jones y la lámpara maravillosa",
@@ -10139,6 +9541,132 @@
      "sme": false,
      "avant_premiere": false,
      "billetterie": "https://s.pathe.fr/en/V3342S120300/booking?utm_source=allocine&utm_medium=allocine&utm_campaign=partenaire-allocine&partenaire=allocine"
+    }
+   ]
+  },
+  {
+   "id": 302738,
+   "titre": "Joyeuse Jungle !",
+   "titre_original": "Laimīgie",
+   "affiche": "https://fr.web.img6.acsta.net/img/e8/6c/e86c9876fe8dc5abacfaacbd1bcd1cb3.jpg",
+   "duree_min": 76,
+   "genres": [
+    "Animation",
+    "Famille",
+    "Aventure"
+   ],
+   "realisateurs": [
+    "Edmunds Jansons"
+   ],
+   "acteurs": [],
+   "pays": [
+    "Lettonie",
+    "Pologne"
+   ],
+   "annee": 2026,
+   "synopsis": "Pendant les vacances scolaires, Ilze, neuf ans, rejoint sa famille dans la forêt tropicale où ils vivent avec la tribu Pemón, près de la montagne du Diable. Lorsqu'à la suite d'un accident, maman doit emmener papa à l'hôpital, Ilze se porte volontaire pour s'occuper de son frère Alex, âgé de trois ans. Cependant, au lieu de faire attention à son frère, Ilze a le nez plongé dans un livre. Lorsqu'Ilze lève enfin les yeux, elle découvre qu'Alex a disparu. Tout indique qu'il s'est égaré dans la jungle. Ilze doit le ramener à la maison avant le retour de leurs parents...",
+   "resume": "Pendant les vacances scolaires, Ilze, neuf ans, rejoint sa famille dans la forêt tropicale où ils vivent avec la tribu Pemón, près de la montagne du Diable.",
+   "note_spectateurs": 3.1,
+   "note_presse": 3.4,
+   "sortie": "2026-10-07",
+   "classification": "Tout public",
+   "avertissement": "",
+   "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=302738.html",
+   "seances": [
+    {
+     "salle": "P0121",
+     "debut": "2026-10-10T16:40:00",
+     "version": "VF",
+     "sme": false,
+     "avant_premiere": false,
+     "billetterie": "https://eldorado.ticketingcine.com#showsession?id=emsx002700039105&ps=webedia"
+    },
+    {
+     "salle": "P0121",
+     "debut": "2026-10-11T16:00:00",
+     "version": "VF",
+     "sme": false,
+     "avant_premiere": false,
+     "billetterie": "https://eldorado.ticketingcine.com#showsession?id=emsx002700039114&ps=webedia"
+    },
+    {
+     "salle": "P0121",
+     "debut": "2026-10-14T16:30:00",
+     "version": "VF",
+     "sme": false,
+     "avant_premiere": false,
+     "billetterie": "https://eldorado.ticketingcine.com#showsession?id=emsx002700039166&ps=webedia"
+    },
+    {
+     "salle": "P0121",
+     "debut": "2026-10-17T10:30:00",
+     "version": "VF",
+     "sme": false,
+     "avant_premiere": false,
+     "billetterie": "https://eldorado.ticketingcine.com#showsession?id=emsx002700039203&ps=webedia"
+    }
+   ]
+  },
+  {
+   "id": 320681,
+   "titre": "La Pat' Patrouille : Le film mission Dino",
+   "titre_original": "PAW Patrol: The Dino Movie",
+   "affiche": "https://fr.web.img6.acsta.net/img/bb/35/bb358019448f4fcd5c37b0d19c04fd0d.jpg",
+   "duree_min": 88,
+   "genres": [
+    "Animation",
+    "Aventure",
+    "Famille",
+    "Comédie"
+   ],
+   "realisateurs": [
+    "Cal Brunker"
+   ],
+   "acteurs": [],
+   "pays": [
+    "U.S.A."
+   ],
+   "annee": 2026,
+   "synopsis": "Lorsqu’une mystérieuse tempête surprend leur navire, la Pat’ Patrouille s’échoue sur une île tropicale encore inexplorée… et peuplée de dinosaures !",
+   "resume": "Lorsqu’une mystérieuse tempête surprend leur navire, la Pat’ Patrouille s’échoue sur une île tropicale encore inexplorée… et peuplée de dinosaures !",
+   "note_spectateurs": 3.1,
+   "note_presse": 3.1,
+   "sortie": "2026-12-17",
+   "classification": "Tout public",
+   "avertissement": "",
+   "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=320681.html",
+   "seances": [
+    {
+     "salle": "P0771",
+     "debut": "2026-10-09T13:40:00",
+     "version": "VF",
+     "sme": false,
+     "avant_premiere": false,
+     "billetterie": "https://s.pathe.fr/en/V3342S120397/booking?utm_source=allocine&utm_medium=allocine&utm_campaign=partenaire-allocine&partenaire=allocine"
+    },
+    {
+     "salle": "P0771",
+     "debut": "2026-10-10T13:30:00",
+     "version": "VF",
+     "sme": false,
+     "avant_premiere": false,
+     "billetterie": "https://s.pathe.fr/en/V3342S120441/booking?utm_source=allocine&utm_medium=allocine&utm_campaign=partenaire-allocine&partenaire=allocine"
+    },
+    {
+     "salle": "P0771",
+     "debut": "2026-10-11T11:10:00",
+     "version": "VF",
+     "sme": false,
+     "avant_premiere": false,
+     "billetterie": "https://s.pathe.fr/en/V3342S120295/booking?utm_source=allocine&utm_medium=allocine&utm_campaign=partenaire-allocine&partenaire=allocine"
+    },
+    {
+     "salle": "P0771",
+     "debut": "2026-10-11T13:40:00",
+     "version": "VF",
+     "sme": false,
+     "avant_premiere": false,
+     "billetterie": "https://s.pathe.fr/en/V3342S120298/booking?utm_source=allocine&utm_medium=allocine&utm_campaign=partenaire-allocine&partenaire=allocine"
     }
    ]
   },
@@ -10306,7 +9834,7 @@
      "version": "VF",
      "sme": false,
      "avant_premiere": false,
-     "billetterie": "https://s.pathe.fr/en/V3342S120597/booking?utm_source=allocine&utm_medium=allocine&utm_campaign=partenaire-allocine&partenaire=allocine"
+     "billetterie": "https://s.pathe.fr/en/V3342S118316/booking?utm_source=allocine&utm_medium=allocine&utm_campaign=partenaire-allocine&partenaire=allocine"
     },
     {
      "salle": "W2101",
@@ -10319,169 +9847,118 @@
    ]
   },
   {
-   "id": 1000045582,
-   "titre": "Le Monde à l'envers",
-   "titre_original": "Le Monde à l'envers",
-   "affiche": "https://fr.web.img4.acsta.net/img/69/54/695460e78e996175a81de234a0603f87.jpg",
-   "duree_min": 45,
+   "id": 1000040606,
+   "titre": "Doraemon et le Château sous-marin",
+   "titre_original": "Eiga Doraemon Shin Nobita no Kaiteiki Ganjô",
+   "affiche": "https://fr.web.img6.acsta.net/img/12/07/120736d4c8daa5a98e6d413e236ea509.jpg",
+   "duree_min": 101,
    "genres": [
     "Animation",
-    "Famille"
+    "Aventure",
+    "Drame",
+    "Famille",
+    "Fantastique"
    ],
    "realisateurs": [
-    "Arnaud Demuynck",
-    "Noé Garcia",
-    "Erwann Hette"
-   ],
-   "acteurs": [],
-   "pays": [
-    "France",
-    "Belgique"
-   ],
-   "annee": 2026,
-   "synopsis": "Plongez dans un univers où la différence devient poésie à travers six récits touchants. De Rémi, le souriceau vivant la tête en bas, à Sacha et son parcours inclusif à l’école, de Lina qui s'envole avec un pull, à Lily qui fait éternuer la lune... Ce programme explore avec tendresse les perceptions singulières de l’enfance. Entre tricot de nuages, cités sous-marines et métamorphoses fantastiques du quotidien, ces films nous invitent à voir le monde avec les yeux de ceux et celles qui rêvent et vivent à un rythme différent, parfois juste « en décalé ».",
-   "resume": "Plongez dans un univers où la différence devient poésie à travers six récits touchants.",
-   "note_spectateurs": 3.0,
-   "note_presse": null,
-   "sortie": "2026-10-07",
-   "classification": "",
-   "avertissement": "",
-   "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000045582.html",
-   "seances": [
-    {
-     "salle": "P0120",
-     "debut": "2026-10-07T16:30:00",
-     "version": "VF",
-     "sme": false,
-     "avant_premiere": false,
-     "billetterie": null
-    },
-    {
-     "salle": "P0120",
-     "debut": "2026-10-10T16:30:00",
-     "version": "VF",
-     "sme": false,
-     "avant_premiere": false,
-     "billetterie": "https://www.katorza.fr/vad/2704/13149/5586"
-    },
-    {
-     "salle": "P0120",
-     "debut": "2026-10-11T16:30:00",
-     "version": "VF",
-     "sme": false,
-     "avant_premiere": false,
-     "billetterie": "https://www.katorza.fr/vad/2704/13178/5611"
-    }
-   ]
-  },
-  {
-   "id": 1000045261,
-   "titre": "Melpomène",
-   "titre_original": "Melpomène",
-   "affiche": "https://fr.web.img6.acsta.net/img/25/d7/25d723442a7e7a1a1da9bf1c99143438.jpg",
-   "duree_min": 88,
-   "genres": [
-    "Drame"
-   ],
-   "realisateurs": [
-    "Charlotte Dauphin"
+    "Tetsuo Yajima"
    ],
    "acteurs": [
-    "Charlotte Dauphin",
-    "Pascal Greggory",
-    "Andie MacDowell"
+    "Emmanuel Curtil",
+    "Brigitte Lecordier",
+    "Jehanne Thellier"
    ],
    "pays": [
-    "France"
+    "Japon"
    ],
    "annee": 2026,
-   "synopsis": "Trente ans après la mort mystérieuse de sa mère, Marthe revient dans le sud de la France pour faire éclater la vérité. Mais plus elle s'approche de son passé, plus le réel semble lui échapper.",
-   "resume": "Trente ans après la mort mystérieuse de sa mère, Marthe revient dans le sud de la France pour faire éclater la vérité.",
-   "note_spectateurs": 2.9,
-   "note_presse": 2.8,
-   "sortie": "2026-09-30",
+   "synopsis": "Doraemon est un chat-robot bleu qui vient du futur. Il vit avec Nobita, un petit garçon maladroit, et ses parents. Grâce à ses gadgets secrets, Doraemon aide souvent Nobita à s’amuser ou à résoudre ses problèmes. Un été d’ennui, Doraemon propose à Nobita et leurs amis d’aller faire du camping sous la mer. En explorant les fonds marins, la bande découvre une épave et fait la rencontre des Thalassiens. C’est alors qu’une annonce très inquiétante survient : « Le Château sous-marin s’est réveillé ! ». Nobita et ses amis doivent se lancer dans une bataille qui décidera du sort de la Terre !",
+   "resume": "Doraemon est un chat-robot bleu qui vient du futur. Il vit avec Nobita, un petit garçon maladroit, et ses parents.",
+   "note_spectateurs": 3.6,
+   "note_presse": 3.2,
+   "sortie": "2026-10-07",
    "classification": "Tout public",
    "avertissement": "",
-   "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000045261.html",
+   "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000040606.html",
    "seances": [
     {
-     "salle": "P0120",
-     "debut": "2026-10-07T18:00:00",
+     "salle": "P2788",
+     "debut": "2026-10-10T16:00:00",
      "version": "VF",
      "sme": false,
      "avant_premiere": false,
-     "billetterie": null
+     "billetterie": "https://dijon.cineville.fr/vad/2714/26353/12034"
     },
     {
-     "salle": "P0120",
-     "debut": "2026-10-09T18:30:00",
+     "salle": "P2788",
+     "debut": "2026-10-11T10:45:00",
      "version": "VF",
      "sme": false,
      "avant_premiere": false,
-     "billetterie": "https://www.katorza.fr/vad/2704/13123/5577"
+     "billetterie": "https://dijon.cineville.fr/vad/2714/26405/12034"
     },
     {
-     "salle": "P0120",
-     "debut": "2026-10-13T16:30:00",
+     "salle": "P2788",
+     "debut": "2026-10-11T16:45:00",
      "version": "VF",
      "sme": false,
      "avant_premiere": false,
-     "billetterie": "https://www.katorza.fr/vad/2704/13230/5604"
+     "billetterie": "https://dijon.cineville.fr/vad/2714/26375/12034"
     }
    ]
   },
   {
-   "id": 302738,
-   "titre": "Joyeuse Jungle !",
-   "titre_original": "Laimīgie",
-   "affiche": "https://fr.web.img6.acsta.net/img/e8/6c/e86c9876fe8dc5abacfaacbd1bcd1cb3.jpg",
-   "duree_min": 76,
+   "id": 1000050836,
+   "titre": "Queen Budapest",
+   "titre_original": "Queen Budapest",
+   "affiche": "https://fr.web.img2.acsta.net/img/3d/08/3d08569d1fdf7d73865321da84d9eefd.jpg",
+   "duree_min": 92,
    "genres": [
-    "Animation",
-    "Famille",
-    "Aventure"
+    "Concert"
    ],
    "realisateurs": [
-    "Edmunds Jansons"
+    "János Zsombolyai"
    ],
-   "acteurs": [],
+   "acteurs": [
+    "Queen",
+    "Freddie Mercury",
+    "Brian May"
+   ],
    "pays": [
-    "Lettonie",
-    "Pologne"
+    "U.S.A."
    ],
    "annee": 2026,
-   "synopsis": "Pendant les vacances scolaires, Ilze, neuf ans, rejoint sa famille dans la forêt tropicale où ils vivent avec la tribu Pemón, près de la montagne du Diable. Lorsqu'à la suite d'un accident, maman doit emmener papa à l'hôpital, Ilze se porte volontaire pour s'occuper de son frère Alex, âgé de trois ans. Cependant, au lieu de faire attention à son frère, Ilze a le nez plongé dans un livre. Lorsqu'Ilze lève enfin les yeux, elle découvre qu'Alex a disparu. Tout indique qu'il s'est égaré dans la jungle. Ilze doit le ramener à la maison avant le retour de leurs parents...",
-   "resume": "Pendant les vacances scolaires, Ilze, neuf ans, rejoint sa famille dans la forêt tropicale où ils vivent avec la tribu Pemón, près de la montagne du Diable.",
-   "note_spectateurs": null,
-   "note_presse": 3.4,
-   "sortie": "2026-10-07",
-   "classification": "Tout public",
+   "synopsis": "Le 27 juillet 1986, Queen a donné le plus grand concert jamais organisé dans un stade en Hongrie, au Népstadion de Budapest, devant 80 000 fans en délire. Ce concert faisait partie de la célèbre tournée Magic Tour, qui fut la dernière de Queen avec son chanteur emblématique Freddie Mercury.",
+   "resume": "Le 27 juillet 1986, Queen a donné le plus grand concert jamais organisé dans un stade en Hongrie, au Népstadion de Budapest, devant 80 000 fans en délire.",
+   "note_spectateurs": 3.3,
+   "note_presse": null,
+   "sortie": "2026-10-08",
+   "classification": "",
    "avertissement": "",
-   "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=302738.html",
+   "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000050836.html",
    "seances": [
     {
-     "salle": "P0121",
-     "debut": "2026-10-10T16:40:00",
-     "version": "VF",
+     "salle": "W2101",
+     "debut": "2026-10-08T20:00:00",
+     "version": "VOST",
      "sme": false,
      "avant_premiere": false,
-     "billetterie": "https://eldorado.ticketingcine.com#showsession?id=emsx002700039105&ps=webedia"
+     "billetterie": "https://s.pathe.fr/en/V3345S83836/booking?utm_source=allocine&utm_medium=allocine&utm_campaign=partenaire-allocine&partenaire=allocine"
     },
     {
-     "salle": "P0121",
-     "debut": "2026-10-11T16:00:00",
-     "version": "VF",
+     "salle": "P0771",
+     "debut": "2026-10-08T20:35:00",
+     "version": "VOST",
      "sme": false,
      "avant_premiere": false,
-     "billetterie": "https://eldorado.ticketingcine.com#showsession?id=emsx002700039114&ps=webedia"
+     "billetterie": "https://s.pathe.fr/en/V3342S118253/booking?utm_source=allocine&utm_medium=allocine&utm_campaign=partenaire-allocine&partenaire=allocine"
     },
     {
-     "salle": "P0121",
-     "debut": "2026-10-14T16:30:00",
-     "version": "VF",
+     "salle": "P0771",
+     "debut": "2026-10-12T20:35:00",
+     "version": "VOST",
      "sme": false,
      "avant_premiere": false,
-     "billetterie": "https://eldorado.ticketingcine.com#showsession?id=emsx002700039166&ps=webedia"
+     "billetterie": "https://s.pathe.fr/en/V3342S120527/booking?utm_source=allocine&utm_medium=allocine&utm_campaign=partenaire-allocine&partenaire=allocine"
     }
    ]
   },
@@ -10641,6 +10118,102 @@
    ]
   },
   {
+   "id": 1000045582,
+   "titre": "Le Monde à l'envers",
+   "titre_original": "Le Monde à l'envers",
+   "affiche": "https://fr.web.img4.acsta.net/img/69/54/695460e78e996175a81de234a0603f87.jpg",
+   "duree_min": 45,
+   "genres": [
+    "Animation",
+    "Famille"
+   ],
+   "realisateurs": [
+    "Arnaud Demuynck",
+    "Noé Garcia",
+    "Erwann Hette"
+   ],
+   "acteurs": [],
+   "pays": [
+    "France",
+    "Belgique"
+   ],
+   "annee": 2026,
+   "synopsis": "Plongez dans un univers où la différence devient poésie à travers six récits touchants. De Rémi, le souriceau vivant la tête en bas, à Sacha et son parcours inclusif à l’école, de Lina qui s'envole avec un pull, à Lily qui fait éternuer la lune... Ce programme explore avec tendresse les perceptions singulières de l’enfance. Entre tricot de nuages, cités sous-marines et métamorphoses fantastiques du quotidien, ces films nous invitent à voir le monde avec les yeux de ceux et celles qui rêvent et vivent à un rythme différent, parfois juste « en décalé ».",
+   "resume": "Plongez dans un univers où la différence devient poésie à travers six récits touchants.",
+   "note_spectateurs": 3.0,
+   "note_presse": null,
+   "sortie": "2026-10-07",
+   "classification": "",
+   "avertissement": "",
+   "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000045582.html",
+   "seances": [
+    {
+     "salle": "P0120",
+     "debut": "2026-10-10T16:30:00",
+     "version": "VF",
+     "sme": false,
+     "avant_premiere": false,
+     "billetterie": "https://www.katorza.fr/vad/2704/13149/5586"
+    },
+    {
+     "salle": "P0120",
+     "debut": "2026-10-11T16:30:00",
+     "version": "VF",
+     "sme": false,
+     "avant_premiere": false,
+     "billetterie": "https://www.katorza.fr/vad/2704/13178/5611"
+    }
+   ]
+  },
+  {
+   "id": 1000045261,
+   "titre": "Melpomène",
+   "titre_original": "Melpomène",
+   "affiche": "https://fr.web.img6.acsta.net/img/25/d7/25d723442a7e7a1a1da9bf1c99143438.jpg",
+   "duree_min": 88,
+   "genres": [
+    "Drame"
+   ],
+   "realisateurs": [
+    "Charlotte Dauphin"
+   ],
+   "acteurs": [
+    "Charlotte Dauphin",
+    "Pascal Greggory",
+    "Andie MacDowell"
+   ],
+   "pays": [
+    "France"
+   ],
+   "annee": 2026,
+   "synopsis": "Trente ans après la mort mystérieuse de sa mère, Marthe revient dans le sud de la France pour faire éclater la vérité. Mais plus elle s'approche de son passé, plus le réel semble lui échapper.",
+   "resume": "Trente ans après la mort mystérieuse de sa mère, Marthe revient dans le sud de la France pour faire éclater la vérité.",
+   "note_spectateurs": 2.9,
+   "note_presse": 2.8,
+   "sortie": "2026-09-30",
+   "classification": "Tout public",
+   "avertissement": "",
+   "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000045261.html",
+   "seances": [
+    {
+     "salle": "P0120",
+     "debut": "2026-10-09T18:30:00",
+     "version": "VF",
+     "sme": false,
+     "avant_premiere": false,
+     "billetterie": "https://www.katorza.fr/vad/2704/13123/5577"
+    },
+    {
+     "salle": "P0120",
+     "debut": "2026-10-13T16:30:00",
+     "version": "VF",
+     "sme": false,
+     "avant_premiere": false,
+     "billetterie": "https://www.katorza.fr/vad/2704/13230/5604"
+    }
+   ]
+  },
+  {
    "id": 114740,
    "titre": "Maison de poupée",
    "titre_original": "A Doll's House",
@@ -10738,6 +10311,51 @@
    ]
   },
   {
+   "id": 1000045286,
+   "titre": "Un amour d’épouvantail",
+   "titre_original": "The Scarecrows’ Wedding",
+   "affiche": "https://fr.web.img5.acsta.net/img/69/17/6917a9ac903b1fbbc9bfa78aca1d257c.png",
+   "duree_min": 44,
+   "genres": [
+    "Animation"
+   ],
+   "realisateurs": [
+    "Samantha Cutler",
+    "Jeroen Jaspaert"
+   ],
+   "acteurs": [],
+   "pays": [
+    "Grande-Bretagne"
+   ],
+   "annee": 2025,
+   "synopsis": "Betty Delorge et Harry Fortepaille, deux épouvantails très amoureux, rêvent d’un mariage inoubliable. Tout semble prêt pour le grand jour… jusqu’à ce que Harry parte chercher une dernière chose indispensable à la célébration : des fleurs roses.",
+   "resume": "Betty Delorge et Harry Fortepaille, deux épouvantails très amoureux, rêvent d’un mariage inoubliable.",
+   "note_spectateurs": 2.6,
+   "note_presse": null,
+   "sortie": "2026-09-23",
+   "classification": "",
+   "avertissement": "",
+   "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000045286.html",
+   "seances": [
+    {
+     "salle": "P0121",
+     "debut": "2026-10-10T16:00:00",
+     "version": "VF",
+     "sme": false,
+     "avant_premiere": false,
+     "billetterie": "https://eldorado.ticketingcine.com#showsession?id=emsx002700039099&ps=webedia"
+    },
+    {
+     "salle": "P0121",
+     "debut": "2026-10-17T11:00:00",
+     "version": "VF",
+     "sme": false,
+     "avant_premiere": false,
+     "billetterie": "https://eldorado.ticketingcine.com#showsession?id=emsx002700039193&ps=webedia"
+    }
+   ]
+  },
+  {
    "id": 1000023068,
    "titre": "Malfaisante",
    "titre_original": "Other Mommy",
@@ -10831,50 +10449,48 @@
    ]
   },
   {
-   "id": 1000050836,
-   "titre": "Queen Budapest",
-   "titre_original": "Queen Budapest",
-   "affiche": "https://fr.web.img2.acsta.net/img/3d/08/3d08569d1fdf7d73865321da84d9eefd.jpg",
-   "duree_min": 92,
+   "id": 1000047512,
+   "titre": "Petite Casbah",
+   "titre_original": "Petite Casbah",
+   "affiche": "https://fr.web.img2.acsta.net/img/17/54/17541c911a486e7b1a8a08911805be6e.jpg",
+   "duree_min": 84,
    "genres": [
-    "Concert"
+    "Animation",
+    "Famille"
    ],
    "realisateurs": [
-    "János Zsombolyai"
+    "Antoine Colomb"
    ],
-   "acteurs": [
-    "Queen",
-    "Freddie Mercury",
-    "Brian May"
-   ],
+   "acteurs": [],
    "pays": [
-    "U.S.A."
+    "France",
+    "Belgique"
    ],
    "annee": 2026,
-   "synopsis": "Le 27 juillet 1986, Queen a donné le plus grand concert jamais organisé dans un stade en Hongrie, au Népstadion de Budapest, devant 80 000 fans en délire. Ce concert faisait partie de la célèbre tournée Magic Tour, qui fut la dernière de Queen avec son chanteur emblématique Freddie Mercury.",
-   "resume": "Le 27 juillet 1986, Queen a donné le plus grand concert jamais organisé dans un stade en Hongrie, au Népstadion de Budapest, devant 80 000 fans en délire.",
+   "synopsis": "Algérie, juin 1955. Khadidja quitte la Kabylie pour rejoindre son grand frère Malek à Alger. Suite à une altercation au marché, il se fait arrêter par la police et Khadidja se retrouve seule. Heureusement, Lyes, Ahmed et Philippe vont tout mettre en œuvre pour l’aider à retrouver Malek. Depuis les toits de la Casbah, les quatre enfants mènent l’enquête.",
+   "resume": "Algérie, juin 1955. Khadidja quitte la Kabylie pour rejoindre son grand frère Malek à Alger.",
    "note_spectateurs": null,
    "note_presse": null,
-   "sortie": "2026-10-08",
-   "classification": "",
+   "sortie": "2026-10-14",
+   "classification": "Tout public",
    "avertissement": "",
-   "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000050836.html",
+   "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000047512.html",
    "seances": [
     {
-     "salle": "W2101",
-     "debut": "2026-10-08T20:00:00",
-     "version": "VOST",
+     "salle": "P0121",
+     "debut": "2026-10-14T15:10:00",
+     "version": "VF",
      "sme": false,
      "avant_premiere": false,
-     "billetterie": "https://s.pathe.fr/en/V3345S83836/booking?utm_source=allocine&utm_medium=allocine&utm_campaign=partenaire-allocine&partenaire=allocine"
+     "billetterie": "https://eldorado.ticketingcine.com#showsession?id=emsx002700039160&ps=webedia"
     },
     {
-     "salle": "P0771",
-     "debut": "2026-10-08T20:35:00",
-     "version": "VOST",
+     "salle": "P0121",
+     "debut": "2026-10-17T10:00:00",
+     "version": "VF",
      "sme": false,
      "avant_premiere": false,
-     "billetterie": "https://s.pathe.fr/en/V3342S118253/booking?utm_source=allocine&utm_medium=allocine&utm_campaign=partenaire-allocine&partenaire=allocine"
+     "billetterie": "https://eldorado.ticketingcine.com#showsession?id=emsx002700039197&ps=webedia"
     }
    ]
   },
@@ -11213,43 +10829,6 @@
    ]
   },
   {
-   "id": 1000045286,
-   "titre": "Un amour d’épouvantail",
-   "titre_original": "The Scarecrows’ Wedding",
-   "affiche": "https://fr.web.img5.acsta.net/img/69/17/6917a9ac903b1fbbc9bfa78aca1d257c.png",
-   "duree_min": 44,
-   "genres": [
-    "Animation"
-   ],
-   "realisateurs": [
-    "Samantha Cutler",
-    "Jeroen Jaspaert"
-   ],
-   "acteurs": [],
-   "pays": [
-    "Grande-Bretagne"
-   ],
-   "annee": 2025,
-   "synopsis": "Betty Delorge et Harry Fortepaille, deux épouvantails très amoureux, rêvent d’un mariage inoubliable. Tout semble prêt pour le grand jour… jusqu’à ce que Harry parte chercher une dernière chose indispensable à la célébration : des fleurs roses.",
-   "resume": "Betty Delorge et Harry Fortepaille, deux épouvantails très amoureux, rêvent d’un mariage inoubliable.",
-   "note_spectateurs": 2.6,
-   "note_presse": null,
-   "sortie": "2026-09-23",
-   "classification": "",
-   "avertissement": "",
-   "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000045286.html",
-   "seances": [
-    {
-     "salle": "P0121",
-     "debut": "2026-10-10T16:00:00",
-     "version": "VF",
-     "sme": false,
-     "avant_premiere": false,
-     "billetterie": "https://eldorado.ticketingcine.com#showsession?id=emsx002700039099&ps=webedia"
-    }
-   ]
-  },
-  {
    "id": 1000049428,
    "titre": "Always Lalisa",
    "titre_original": "Always Lalisa",
@@ -11285,6 +10864,46 @@
      "sme": false,
      "avant_premiere": false,
      "billetterie": "https://s.pathe.fr/en/V3342S118689/booking?utm_source=allocine&utm_medium=allocine&utm_campaign=partenaire-allocine&partenaire=allocine"
+    }
+   ]
+  },
+  {
+   "id": 1000043020,
+   "titre": "Macbeth (Metropolitan Opera)",
+   "titre_original": "The Metropolitan Opera: Macbeth (2026)",
+   "affiche": "https://fr.web.img6.acsta.net/img/6e/46/6e46e68da541e3354de5e2d856e998d2.jpg",
+   "duree_min": 209,
+   "genres": [
+    "Opéra"
+   ],
+   "realisateurs": [
+    "Louisa Proske"
+   ],
+   "acteurs": [
+    "Lise Davidsen",
+    "Freddie De Tommaso",
+    "Quinn Kelsey"
+   ],
+   "pays": [
+    "U.S.A."
+   ],
+   "annee": 2026,
+   "synopsis": "En Écosse, le général Macbeth reçoit la prophétie de trois sorcières : il deviendra roi. Poussé par l'ambition dévorante de Lady Macbeth, il assassine le roi Duncan pour s'emparer du trône. Mais la culpabilité et la paranoïa s'emparent du couple maudit, les entraînant dans une spirale de violence et de folie dont ils ne sortiront pas indemnes.",
+   "resume": "En Écosse, le général Macbeth reçoit la prophétie de trois sorcières : il deviendra roi. Poussé par l'ambition dévorante de Lady Macbeth, il assassine le roi Duncan pour s'emparer du trône.",
+   "note_spectateurs": null,
+   "note_presse": null,
+   "sortie": "2026-10-17",
+   "classification": "",
+   "avertissement": "",
+   "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000043020.html",
+   "seances": [
+    {
+     "salle": "W2101",
+     "debut": "2026-10-17T18:55:00",
+     "version": "VOST",
+     "sme": false,
+     "avant_premiere": false,
+     "billetterie": "https://s.pathe.fr/en/V3345S75875/booking?utm_source=allocine&utm_medium=allocine&utm_campaign=partenaire-allocine&partenaire=allocine"
     }
    ]
   },
@@ -11326,44 +10945,6 @@
      "sme": false,
      "avant_premiere": true,
      "billetterie": "https://s.pathe.fr/en/V3345S84799/booking?utm_source=allocine&utm_medium=allocine&utm_campaign=partenaire-allocine&partenaire=allocine"
-    }
-   ]
-  },
-  {
-   "id": 1000047512,
-   "titre": "Petite Casbah",
-   "titre_original": "Petite Casbah",
-   "affiche": "https://fr.web.img2.acsta.net/img/17/54/17541c911a486e7b1a8a08911805be6e.jpg",
-   "duree_min": 84,
-   "genres": [
-    "Animation",
-    "Famille"
-   ],
-   "realisateurs": [
-    "Antoine Colomb"
-   ],
-   "acteurs": [],
-   "pays": [
-    "France",
-    "Belgique"
-   ],
-   "annee": 2026,
-   "synopsis": "Algérie, juin 1955. Khadidja quitte la Kabylie pour rejoindre son grand frère Malek à Alger. Suite à une altercation au marché, il se fait arrêter par la police et Khadidja se retrouve seule. Heureusement, Lyes, Ahmed et Philippe vont tout mettre en œuvre pour l’aider à retrouver Malek. Depuis les toits de la Casbah, les quatre enfants mènent l’enquête.",
-   "resume": "Algérie, juin 1955. Khadidja quitte la Kabylie pour rejoindre son grand frère Malek à Alger.",
-   "note_spectateurs": null,
-   "note_presse": null,
-   "sortie": "2026-10-14",
-   "classification": "Tout public",
-   "avertissement": "",
-   "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000047512.html",
-   "seances": [
-    {
-     "salle": "P0121",
-     "debut": "2026-10-14T15:10:00",
-     "version": "VF",
-     "sme": false,
-     "avant_premiere": false,
-     "billetterie": "https://eldorado.ticketingcine.com#showsession?id=emsx002700039160&ps=webedia"
     }
    ]
   },
