@@ -1,5 +1,5 @@
 {
- "genere_le": "2026-10-12T22:30:57+00:00",
+ "genere_le": "2026-10-13T12:38:53+00:00",
  "source": "AlloCiné",
  "ville": "Dijon et agglomération",
  "jours": [
@@ -46,7 +46,7 @@
    "ville": "Dijon",
    "adresse": "10 avenue Albert 1er, 21000 Dijon",
    "type": "multiplexe",
-   "seances_trouvees": 339,
+   "seances_trouvees": 337,
    "jours_couverts": [
     "2026-10-13",
     "2026-10-14",
@@ -69,7 +69,7 @@
    "ville": "Quetigny",
    "adresse": "ZA des Charrières, 21800 Quetigny",
    "type": "multiplexe",
-   "seances_trouvees": 458,
+   "seances_trouvees": 457,
    "jours_couverts": [
     "2026-10-13",
     "2026-10-14",
@@ -177,14 +177,6 @@
    "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000031247.html",
    "seances": [
     {
-     "salle": "W2101",
-     "debut": "2026-10-13T13:30:00",
-     "version": "VF",
-     "sme": false,
-     "avant_premiere": false,
-     "billetterie": "https://s.pathe.fr/en/V3345S85935/booking?utm_source=allocine&utm_medium=allocine&utm_campaign=partenaire-allocine&partenaire=allocine"
-    },
-    {
      "salle": "P0771",
      "debut": "2026-10-13T13:50:00",
      "version": "VF",
@@ -198,7 +190,7 @@
      "version": "VF",
      "sme": false,
      "avant_premiere": false,
-     "billetterie": "https://dijon.cineville.fr/vad/2714/26451/11980"
+     "billetterie": null
     },
     {
      "salle": "W2101",
@@ -1043,7 +1035,7 @@
    "synopsis": "Libéré après 19 ans de bagne pour le vol d’un pain, Jean Valjean décide de changer de vie et de faire le bien autour de lui. Sous une fausse identité, il devient avec le temps un notable respecté de tous. Mais son passé le rattrape...",
    "resume": "Libéré après 19 ans de bagne pour le vol d’un pain, Jean Valjean décide de changer de vie et de faire le bien autour de lui.",
    "note_spectateurs": null,
-   "note_presse": null,
+   "note_presse": 3.3,
    "sortie": "2026-10-14",
    "classification": "Tout public",
    "avertissement": "",
@@ -3158,7 +3150,7 @@
    "resume": "Après un terrible crash d’avion, James Belmont, ancien des forces spéciales, se retrouve perdu au cœur de l’Alaska avec son chien Odin, depuis toujours à ses côtés.",
    "note_spectateurs": 3.8,
    "note_presse": 2.9,
-   "sortie": "2026-09-23",
+   "sortie": "2027-02-04",
    "classification": "Tout public",
    "avertissement": "",
    "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000000085.html",
@@ -3177,7 +3169,7 @@
      "version": "VF",
      "sme": false,
      "avant_premiere": false,
-     "billetterie": "https://dijon.cineville.fr/vad/2714/26472/12053"
+     "billetterie": null
     },
     {
      "salle": "P2788",
@@ -3822,21 +3814,13 @@
    "annee": 2026,
    "synopsis": "C’est Halloween, et Ducobu revient pour une aventure pleine de rires et de mystères ! Le professeur Latouche et Mademoiselle Rateau emménagent dans une maison… hantée par le ​ fantôme d'Anatole, le plus grand cancre de l’histoire de l’école Saint-Potache.",
    "resume": "C’est Halloween, et Ducobu revient pour une aventure pleine de rires et de mystères !",
-   "note_spectateurs": 2.7,
+   "note_spectateurs": 2.6,
    "note_presse": 2.5,
    "sortie": "2026-10-07",
    "classification": "Tout public",
    "avertissement": "",
    "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000019249.html",
    "seances": [
-    {
-     "salle": "W2101",
-     "debut": "2026-10-13T13:20:00",
-     "version": "VF",
-     "sme": false,
-     "avant_premiere": false,
-     "billetterie": "https://s.pathe.fr/en/V3345S85933/booking?utm_source=allocine&utm_medium=allocine&utm_campaign=partenaire-allocine&partenaire=allocine"
-    },
     {
      "salle": "P0771",
      "debut": "2026-10-13T13:40:00",
@@ -5112,14 +5096,6 @@
    "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000015739.html",
    "seances": [
     {
-     "salle": "W2101",
-     "debut": "2026-10-13T13:30:00",
-     "version": "VF",
-     "sme": false,
-     "avant_premiere": false,
-     "billetterie": "https://s.pathe.fr/en/V3345S85934/booking?utm_source=allocine&utm_medium=allocine&utm_campaign=partenaire-allocine&partenaire=allocine"
-    },
-    {
      "salle": "P0771",
      "debut": "2026-10-13T13:40:00",
      "version": "VF",
@@ -5133,7 +5109,7 @@
      "version": "VF",
      "sme": false,
      "avant_premiere": false,
-     "billetterie": "https://dijon.cineville.fr/vad/2714/26467/12060"
+     "billetterie": null
     },
     {
      "salle": "P2788",
@@ -5688,7 +5664,7 @@
      "version": "VF",
      "sme": false,
      "avant_premiere": false,
-     "billetterie": "https://dijon.cineville.fr/vad/2714/26476/11989"
+     "billetterie": null
     },
     {
      "salle": "P0771",
@@ -6225,7 +6201,7 @@
    "synopsis": "Dans une ferme au cœur de la Beauce, Christophe, 11 ans, règle ses pas sur ceux de son père. Mais à l’école, à la maison, sur le tracteur, Christophe penche... et tombe. Il est obligé de porter un corset pour filer droit.",
    "resume": "Dans une ferme au cœur de la Beauce, Christophe, 11 ans, règle ses pas sur ceux de son père.",
    "note_spectateurs": null,
-   "note_presse": null,
+   "note_presse": 4.3,
    "sortie": "2026-10-14",
    "classification": "Tout public",
    "avertissement": "",
@@ -6799,7 +6775,7 @@
      "version": "VF",
      "sme": false,
      "avant_premiere": false,
-     "billetterie": "https://dijon.cineville.fr/vad/2714/26464/12055"
+     "billetterie": null
     },
     {
      "salle": "P0121",
@@ -7295,7 +7271,7 @@
      "version": "VF",
      "sme": false,
      "avant_premiere": false,
-     "billetterie": "https://www.katorza.fr/vad/2704/13203/5606"
+     "billetterie": null
     },
     {
      "salle": "W2101",
@@ -7696,7 +7672,7 @@
    "synopsis": "Mochy est un jeune chien au grand cœur… mais il n’a pas un physique facile… Ça ne l’empêche pas d’avoir un rêve : participer au concours du plus beau chien.",
    "resume": "Mochy est un jeune chien au grand cœur… mais il n’a pas un physique facile… Ça ne l’empêche pas d’avoir un rêve : participer au concours du plus beau chien.",
    "note_spectateurs": null,
-   "note_presse": null,
+   "note_presse": 2.8,
    "sortie": "2026-10-14",
    "classification": "Tout public",
    "avertissement": "",
@@ -8057,7 +8033,7 @@
    "synopsis": "Russie, 2022. Gleb, chef d’entreprise prospère, vit avec sa femme Galina et leur fils dans une ville de province. Il se retrouve confronté à des problèmes professionnels croissants, dans un monde de plus en plus instable.",
    "resume": "Russie, 2022. Gleb, chef d’entreprise prospère, vit avec sa femme Galina et leur fils dans une ville de province.",
    "note_spectateurs": null,
-   "note_presse": null,
+   "note_presse": 4.2,
    "sortie": "2026-10-14",
    "classification": "Tout public",
    "avertissement": "",
@@ -8734,7 +8710,7 @@
      "version": "VF",
      "sme": false,
      "avant_premiere": false,
-     "billetterie": "https://dijon.cineville.fr/vad/2714/26455/12048"
+     "billetterie": null
     },
     {
      "salle": "W2101",
@@ -9791,7 +9767,7 @@
    "annee": 2025,
    "synopsis": "Lors de son ultime concert à Paris, un chef d’orchestre de renom est confronté à un admirateur insistant. Sous ses apparences de « Monsieur tout le monde », le « Fan » perturbe la soirée et force un face à face inattendu avec le chef d’orchestre.",
    "resume": "Lors de son ultime concert à Paris, un chef d’orchestre de renom est confronté à un admirateur insistant.",
-   "note_spectateurs": 2.7,
+   "note_spectateurs": 2.8,
    "note_presse": 2.4,
    "sortie": "2026-10-07",
    "classification": "Tout public",
@@ -9799,20 +9775,12 @@
    "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000030290.html",
    "seances": [
     {
-     "salle": "P0771",
-     "debut": "2026-10-13T13:30:00",
-     "version": "VF",
-     "sme": false,
-     "avant_premiere": false,
-     "billetterie": "https://s.pathe.fr/en/V3342S120540/booking?utm_source=allocine&utm_medium=allocine&utm_campaign=partenaire-allocine&partenaire=allocine"
-    },
-    {
      "salle": "P2788",
      "debut": "2026-10-13T13:45:00",
      "version": "VF",
      "sme": false,
      "avant_premiere": false,
-     "billetterie": "https://dijon.cineville.fr/vad/2714/26458/12056"
+     "billetterie": null
     },
     {
      "salle": "P0771",
@@ -10014,7 +9982,7 @@
      "version": "VF",
      "sme": false,
      "avant_premiere": false,
-     "billetterie": "https://dijon.cineville.fr/vad/2714/26481/12061"
+     "billetterie": null
     },
     {
      "salle": "P0771",
@@ -10816,7 +10784,7 @@
    "synopsis": "Alors qu’elle est au sommet de sa carrière musicale, Maja vacille et voit ses ambitions s’interrompre brutalement. Elle se réfugie chez sa mère, enseignante à Oslo, qui lui décroche un poste de surveillante dans son lycée. Loin de la scène, Maja commence lentement à retrouver goût à la vie.",
    "resume": "Alors qu’elle est au sommet de sa carrière musicale, Maja vacille et voit ses ambitions s’interrompre brutalement.",
    "note_spectateurs": null,
-   "note_presse": null,
+   "note_presse": 3.3,
    "sortie": "2026-10-14",
    "classification": "Tout public",
    "avertissement": "",
@@ -11104,7 +11072,7 @@
    "annee": 2026,
    "synopsis": "De retour au Costa Rica après des études en Europe, Elsa retrouve sa petite sœur Amalia, seule dans la maison familiale. De plus en plus insaisissable, celle-ci semble enfermée dans des croyances ésotériques. Elsa essaie d’alerter leurs parents.",
    "resume": "De retour au Costa Rica après des études en Europe, Elsa retrouve sa petite sœur Amalia, seule dans la maison familiale.",
-   "note_spectateurs": 2.5,
+   "note_spectateurs": 2.6,
    "note_presse": 3.3,
    "sortie": "2026-10-07",
    "classification": "Tout public",
@@ -11514,7 +11482,7 @@
      "version": "VF",
      "sme": false,
      "avant_premiere": false,
-     "billetterie": "https://www.katorza.fr/vad/2704/13216/5605"
+     "billetterie": null
     },
     {
      "salle": "P0771",
@@ -12303,7 +12271,7 @@
      "version": "VF",
      "sme": false,
      "avant_premiere": false,
-     "billetterie": "https://www.katorza.fr/vad/2704/13229/5588"
+     "billetterie": null
     },
     {
      "salle": "P0120",
@@ -12369,7 +12337,7 @@
    "annee": 2026,
    "synopsis": "Pendant les vacances scolaires, Ilze, neuf ans, rejoint sa famille dans la forêt tropicale où ils vivent avec la tribu Pemón, près de la montagne du Diable. Lorsqu'à la suite d'un accident, maman doit emmener papa à l'hôpital, Ilze se porte volontaire pour s'occuper de son frère Alex, âgé de trois ans. Cependant, au lieu de faire attention à son frère, Ilze a le nez plongé dans un livre. Lorsqu'Ilze lève enfin les yeux, elle découvre qu'Alex a disparu. Tout indique qu'il s'est égaré dans la jungle. Ilze doit le ramener à la maison avant le retour de leurs parents...",
    "resume": "Pendant les vacances scolaires, Ilze, neuf ans, rejoint sa famille dans la forêt tropicale où ils vivent avec la tribu Pemón, près de la montagne du Diable.",
-   "note_spectateurs": 2.7,
+   "note_spectateurs": 2.9,
    "note_presse": 3.4,
    "sortie": "2026-10-07",
    "classification": "Tout public",
@@ -12536,7 +12504,7 @@
    "resume": "C’est un tout nouveau jour pour Peter Parker Dans un monde qui ne se souvient plus de lui, il poursuit sans relâche sa lutte contre la criminalité.",
    "note_spectateurs": 4.1,
    "note_presse": 3.2,
-   "sortie": "2026-11-26",
+   "sortie": "2026-12-09",
    "classification": "Tout public",
    "avertissement": "",
    "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=276608.html",
@@ -12608,7 +12576,7 @@
    "annee": 2026,
    "synopsis": "En France, rire des puissants est devenu un sport à risque. En trente ans, les humoristes les plus libres de la télévision et de la radio ont été méthodiquement neutralisés, marginalisés, censurés, voire virés. Ce documentaire retrace la mécanique d'une mise au silence.",
    "resume": "En France, rire des puissants est devenu un sport à risque.",
-   "note_spectateurs": 4.2,
+   "note_spectateurs": 4.3,
    "note_presse": 2.7,
    "sortie": "2026-09-23",
    "classification": "Tout public",
@@ -12805,7 +12773,7 @@
    "resume": "Tad et Sara sont désormais les heureux parents d’Oli, une adorable et intrépide petite fille de deux ans.",
    "note_spectateurs": 3.3,
    "note_presse": 3.2,
-   "sortie": "2026-08-26",
+   "sortie": "2027-01-06",
    "classification": "Tout public",
    "avertissement": "",
    "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=257425.html",
@@ -13009,7 +12977,7 @@
      "version": "VF",
      "sme": false,
      "avant_premiere": false,
-     "billetterie": "https://dijon.cineville.fr/vad/2714/26485/12062"
+     "billetterie": null
     },
     {
      "salle": "P0771",
@@ -13259,6 +13227,54 @@
    ]
   },
   {
+   "id": 1000051082,
+   "titre": "NAZA",
+   "titre_original": "NAZA",
+   "affiche": "https://fr.web.img2.acsta.net/img/ca/4d/ca4dc44acd2f28c16b0a489e59ce334e.jpg",
+   "duree_min": 77,
+   "genres": [
+    "Documentaire"
+   ],
+   "realisateurs": [
+    "Yuval Abraham",
+    "Rachel Szor"
+   ],
+   "acteurs": [
+    "Yuval Abraham"
+   ],
+   "pays": [
+    "Grande-Bretagne",
+    "U.S.A."
+   ],
+   "annee": 2026,
+   "synopsis": "Filmé de nuit sur les toits de Tel Aviv, le film décrit en détail les systèmes derrière le massacre de civils palestiniens à Gaza par Israël.",
+   "resume": "Filmé de nuit sur les toits de Tel Aviv, le film décrit en détail les systèmes derrière le massacre de civils palestiniens à Gaza par Israël.",
+   "note_spectateurs": 4.2,
+   "note_presse": 4.1,
+   "sortie": "2026-10-12",
+   "classification": "Tout public avec avertissement",
+   "avertissement": "En raison de certains témoignages et de brèves images d’archives, ce film peut choquer un public jeune ou sensible.",
+   "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000051082.html",
+   "seances": [
+    {
+     "salle": "P0121",
+     "debut": "2026-10-13T20:00:00",
+     "version": "VOST",
+     "sme": false,
+     "avant_premiere": false,
+     "billetterie": "https://eldorado.ticketingcine.com#showsession?id=emsx002700039137&ps=webedia"
+    },
+    {
+     "salle": "P0121",
+     "debut": "2026-10-13T21:10:00",
+     "version": "VOST",
+     "sme": false,
+     "avant_premiere": false,
+     "billetterie": "https://eldorado.ticketingcine.com#showsession?id=emsx002700039388&ps=webedia"
+    }
+   ]
+  },
+  {
    "id": 200088,
    "titre": "Hunger Games - La Révolte : Partie 1",
    "titre_original": "The Hunger Games - Mockingjay: Part 1",
@@ -13309,54 +13325,6 @@
    ]
   },
   {
-   "id": 1000051082,
-   "titre": "NAZA",
-   "titre_original": "NAZA",
-   "affiche": "https://fr.web.img2.acsta.net/img/ca/4d/ca4dc44acd2f28c16b0a489e59ce334e.jpg",
-   "duree_min": 77,
-   "genres": [
-    "Documentaire"
-   ],
-   "realisateurs": [
-    "Yuval Abraham",
-    "Rachel Szor"
-   ],
-   "acteurs": [
-    "Yuval Abraham"
-   ],
-   "pays": [
-    "Grande-Bretagne",
-    "U.S.A."
-   ],
-   "annee": 2026,
-   "synopsis": "Filmé de nuit sur les toits de Tel Aviv, le film décrit en détail les systèmes derrière le massacre de civils palestiniens à Gaza par Israël.",
-   "resume": "Filmé de nuit sur les toits de Tel Aviv, le film décrit en détail les systèmes derrière le massacre de civils palestiniens à Gaza par Israël.",
-   "note_spectateurs": 3.2,
-   "note_presse": 4,
-   "sortie": "2026-10-12",
-   "classification": "Tout public avec avertissement",
-   "avertissement": "En raison de certains témoignages et de brèves images d’archives, ce film peut choquer un public jeune ou sensible.",
-   "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000051082.html",
-   "seances": [
-    {
-     "salle": "P0121",
-     "debut": "2026-10-13T20:00:00",
-     "version": "VOST",
-     "sme": false,
-     "avant_premiere": false,
-     "billetterie": "https://eldorado.ticketingcine.com#showsession?id=emsx002700039137&ps=webedia"
-    },
-    {
-     "salle": "P0121",
-     "debut": "2026-10-13T21:10:00",
-     "version": "VOST",
-     "sme": false,
-     "avant_premiere": false,
-     "billetterie": "https://eldorado.ticketingcine.com#showsession?id=emsx002700039388&ps=webedia"
-    }
-   ]
-  },
-  {
    "id": 1000045286,
    "titre": "Un amour d’épouvantail",
    "titre_original": "The Scarecrows’ Wedding",
@@ -13398,6 +13366,54 @@
      "sme": false,
      "avant_premiere": false,
      "billetterie": "https://eldorado.ticketingcine.com#showsession?id=emsx002700039209&ps=webedia"
+    }
+   ]
+  },
+  {
+   "id": 1000039483,
+   "titre": "Il faut brûler Maman",
+   "titre_original": "Il faut brûler Maman",
+   "affiche": "https://fr.web.img6.acsta.net/img/b7/22/b722617d1263956a4b556c739a49afc3.jpg",
+   "duree_min": null,
+   "genres": [
+    "Comédie"
+   ],
+   "realisateurs": [
+    "Albert Dupontel"
+   ],
+   "acteurs": [
+    "Louise Coldefy",
+    "Julia Piaton",
+    "Artus"
+   ],
+   "pays": [
+    "France"
+   ],
+   "annee": 2026,
+   "synopsis": "Dans une famille de croque-morts, deux sœurs et un frère se retrouvent pour les funérailles de leur mère. Le personnel étant en grève, ils doivent accomplir le protocole funéraire par eux-mêmes. Comment s’accorder pour brûler Maman ?",
+   "resume": "Dans une famille de croque-morts, deux sœurs et un frère se retrouvent pour les funérailles de leur mère.",
+   "note_spectateurs": null,
+   "note_presse": null,
+   "sortie": "2026-11-11",
+   "classification": "",
+   "avertissement": "",
+   "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000039483.html",
+   "seances": [
+    {
+     "salle": "W2101",
+     "debut": "2026-10-21T19:30:00",
+     "version": "VF",
+     "sme": false,
+     "avant_premiere": true,
+     "billetterie": "https://s.pathe.fr/en/V3345S86402/booking?utm_source=allocine&utm_medium=allocine&utm_campaign=partenaire-allocine&partenaire=allocine"
+    },
+    {
+     "salle": "W2101",
+     "debut": "2026-10-21T20:00:00",
+     "version": "VF",
+     "sme": false,
+     "avant_premiere": true,
+     "billetterie": "https://s.pathe.fr/en/V3345S85649/booking?utm_source=allocine&utm_medium=allocine&utm_campaign=partenaire-allocine&partenaire=allocine"
     }
    ]
   },
@@ -13688,7 +13704,7 @@
      "version": "VO",
      "sme": false,
      "avant_premiere": false,
-     "billetterie": "https://www.katorza.fr/vad/2704/13228/5585"
+     "billetterie": null
     }
    ]
   },
@@ -13892,46 +13908,6 @@
      "sme": false,
      "avant_premiere": false,
      "billetterie": "https://www.katorza.fr/vad/2704/12834/5477"
-    }
-   ]
-  },
-  {
-   "id": 1000039483,
-   "titre": "Il faut brûler Maman",
-   "titre_original": "Il faut brûler Maman",
-   "affiche": "https://fr.web.img6.acsta.net/img/b7/22/b722617d1263956a4b556c739a49afc3.jpg",
-   "duree_min": null,
-   "genres": [
-    "Comédie"
-   ],
-   "realisateurs": [
-    "Albert Dupontel"
-   ],
-   "acteurs": [
-    "Louise Coldefy",
-    "Julia Piaton",
-    "Artus"
-   ],
-   "pays": [
-    "France"
-   ],
-   "annee": 2026,
-   "synopsis": "Dans une famille de croque-morts, deux sœurs et un frère se retrouvent pour les funérailles de leur mère. Le personnel étant en grève, ils doivent accomplir le protocole funéraire par eux-mêmes. Comment s’accorder pour brûler Maman ?",
-   "resume": "Dans une famille de croque-morts, deux sœurs et un frère se retrouvent pour les funérailles de leur mère.",
-   "note_spectateurs": null,
-   "note_presse": null,
-   "sortie": "2026-11-11",
-   "classification": "",
-   "avertissement": "",
-   "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000039483.html",
-   "seances": [
-    {
-     "salle": "W2101",
-     "debut": "2026-10-21T20:00:00",
-     "version": "VF",
-     "sme": false,
-     "avant_premiere": true,
-     "billetterie": "https://s.pathe.fr/en/V3345S85649/booking?utm_source=allocine&utm_medium=allocine&utm_campaign=partenaire-allocine&partenaire=allocine"
     }
    ]
   },
