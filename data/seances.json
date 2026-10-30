@@ -1,5 +1,5 @@
 {
- "genere_le": "2026-10-30T11:20:17+00:00",
+ "genere_le": "2026-10-30T19:56:30+00:00",
  "source": "AlloCiné",
  "ville": "Dijon et agglomération",
  "jours": [
@@ -44,7 +44,7 @@
    "ville": "Dijon",
    "adresse": "10 avenue Albert 1er, 21000 Dijon",
    "type": "multiplexe",
-   "seances_trouvees": 194,
+   "seances_trouvees": 203,
    "jours_couverts": [
     "2026-10-30",
     "2026-10-31",
@@ -64,7 +64,7 @@
    "ville": "Quetigny",
    "adresse": "ZA des Charrières, 21800 Quetigny",
    "type": "multiplexe",
-   "seances_trouvees": 278,
+   "seances_trouvees": 293,
    "jours_couverts": [
     "2026-10-30",
     "2026-10-31",
@@ -162,7 +162,7 @@
    "annee": 2026,
    "synopsis": "Dans le Paris d'aujourd'hui, Anastasia, jeune danseuse, intègre le prestigieux Opéra de Paris. Alors qu’elle répète l'Orpheus, un opéra maudit qui aurait été composé par le Fantôme de l'Opéra, elle tombe amoureuse d'un mystérieux pianiste.",
    "resume": "Dans le Paris d'aujourd'hui, Anastasia, jeune danseuse, intègre le prestigieux Opéra de Paris.",
-   "note_spectateurs": 2.9,
+   "note_spectateurs": 3.0,
    "note_presse": 1.5,
    "sortie": "2026-10-28",
    "classification": "Tout public",
@@ -178,6 +178,14 @@
      "billetterie": null
     },
     {
+     "salle": "W2101",
+     "debut": "2026-10-30T11:00:00",
+     "version": "VF",
+     "sme": false,
+     "avant_premiere": false,
+     "billetterie": "https://s.pathe.fr/en/V3345S87289/booking?utm_source=allocine&utm_medium=allocine&utm_campaign=partenaire-allocine&partenaire=allocine"
+    },
+    {
      "salle": "P0771",
      "debut": "2026-10-30T13:40:00",
      "version": "VF",
@@ -191,7 +199,7 @@
      "version": "VF",
      "sme": false,
      "avant_premiere": false,
-     "billetterie": "https://dijon.cineville.fr/vad/2714/27505/12555"
+     "billetterie": null
     },
     {
      "salle": "W2101",
@@ -215,7 +223,7 @@
      "version": "VF",
      "sme": false,
      "avant_premiere": false,
-     "billetterie": "https://dijon.cineville.fr/vad/2714/27507/12555"
+     "billetterie": null
     },
     {
      "salle": "P0771",
@@ -239,7 +247,7 @@
      "version": "VF",
      "sme": false,
      "avant_premiere": false,
-     "billetterie": "https://dijon.cineville.fr/vad/2714/27506/12645"
+     "billetterie": null
     },
     {
      "salle": "P0771",
@@ -699,6 +707,14 @@
    "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000018384.html",
    "seances": [
     {
+     "salle": "W2101",
+     "debut": "2026-10-30T10:45:00",
+     "version": "VF",
+     "sme": false,
+     "avant_premiere": false,
+     "billetterie": "https://s.pathe.fr/en/V3345S87284/booking?utm_source=allocine&utm_medium=allocine&utm_campaign=partenaire-allocine&partenaire=allocine"
+    },
+    {
      "salle": "P2788",
      "debut": "2026-10-30T11:00:00",
      "version": "VF",
@@ -720,7 +736,7 @@
      "version": "VF",
      "sme": false,
      "avant_premiere": false,
-     "billetterie": "https://dijon.cineville.fr/vad/2714/27514/12712"
+     "billetterie": null
     },
     {
      "salle": "W2101",
@@ -752,7 +768,7 @@
      "version": "VF",
      "sme": false,
      "avant_premiere": false,
-     "billetterie": "https://dijon.cineville.fr/vad/2714/27515/12552"
+     "billetterie": null
     },
     {
      "salle": "W2101",
@@ -1203,13 +1219,21 @@
    "annee": 2026,
    "synopsis": "Sarcelles, 1995. Erika élève seule ses deux enfants. Sa fille Abigaëlle se persuade que son père, qu’elle n’a jamais connu, l’aime en silence quelque part. Lorsqu’elle se met en tête de le retrouver, Erika se sent obligée de l’aider, tout en cherchant à la protéger. En grandissant, la quête d’Abigaëlle se transforme en obsession, entraînant avec elle sa mère, sa meilleure amie, et tous ceux qui comptent.",
    "resume": "Sarcelles, 1995. Erika élève seule ses deux enfants. Sa fille Abigaëlle se persuade que son père, qu’elle n’a jamais connu, l’aime en silence quelque part.",
-   "note_spectateurs": 4.0,
+   "note_spectateurs": 4.1,
    "note_presse": 3.8,
    "sortie": "2026-10-28",
    "classification": "Tout public",
    "avertissement": "",
    "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000036515.html",
    "seances": [
+    {
+     "salle": "W2101",
+     "debut": "2026-10-30T10:45:00",
+     "version": "VF",
+     "sme": false,
+     "avant_premiere": false,
+     "billetterie": "https://s.pathe.fr/en/V3345S87285/booking?utm_source=allocine&utm_medium=allocine&utm_campaign=partenaire-allocine&partenaire=allocine"
+    },
     {
      "salle": "W2101",
      "debut": "2026-10-30T13:15:00",
@@ -1224,7 +1248,7 @@
      "version": "VF",
      "sme": false,
      "avant_premiere": false,
-     "billetterie": "https://www.katorza.fr/vad/2704/13677/5812"
+     "billetterie": null
     },
     {
      "salle": "P0121",
@@ -1240,7 +1264,7 @@
      "version": "VF",
      "sme": false,
      "avant_premiere": false,
-     "billetterie": "https://www.katorza.fr/vad/2704/13678/5812"
+     "billetterie": null
     },
     {
      "salle": "W2101",
@@ -1660,6 +1684,14 @@
    "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000020311.html",
    "seances": [
     {
+     "salle": "W2101",
+     "debut": "2026-10-30T11:00:00",
+     "version": "VF",
+     "sme": false,
+     "avant_premiere": false,
+     "billetterie": "https://s.pathe.fr/en/V3345S87290/booking?utm_source=allocine&utm_medium=allocine&utm_campaign=partenaire-allocine&partenaire=allocine"
+    },
+    {
      "salle": "P0771",
      "debut": "2026-10-30T13:40:00",
      "version": "VF",
@@ -1673,7 +1705,7 @@
      "version": "VF",
      "sme": false,
      "avant_premiere": false,
-     "billetterie": "https://www.katorza.fr/vad/2704/13670/5809"
+     "billetterie": null
     },
     {
      "salle": "W2101",
@@ -1697,7 +1729,7 @@
      "version": "VF",
      "sme": false,
      "avant_premiere": false,
-     "billetterie": "https://www.katorza.fr/vad/2704/13671/5809"
+     "billetterie": null
     },
     {
      "salle": "W2101",
@@ -1721,7 +1753,7 @@
      "version": "VF",
      "sme": false,
      "avant_premiere": false,
-     "billetterie": "https://www.katorza.fr/vad/2704/13672/5809"
+     "billetterie": null
     },
     {
      "salle": "W2101",
@@ -2138,7 +2170,7 @@
      "version": "VF",
      "sme": false,
      "avant_premiere": false,
-     "billetterie": "https://dijon.cineville.fr/vad/2714/27520/12551"
+     "billetterie": null
     },
     {
      "salle": "P2788",
@@ -2146,7 +2178,7 @@
      "version": "VF",
      "sme": false,
      "avant_premiere": false,
-     "billetterie": "https://dijon.cineville.fr/vad/2714/27518/12554"
+     "billetterie": null
     },
     {
      "salle": "W2101",
@@ -2170,7 +2202,7 @@
      "version": "VF",
      "sme": false,
      "avant_premiere": false,
-     "billetterie": "https://dijon.cineville.fr/vad/2714/27519/12554"
+     "billetterie": null
     },
     {
      "salle": "W2101",
@@ -2495,6 +2527,386 @@
    ]
   },
   {
+   "id": 296642,
+   "titre": "L'île des souvenirs",
+   "titre_original": "Forgotten Island",
+   "affiche": "https://fr.web.img6.acsta.net/img/56/7e/567e74d867a1c88b20897c5d7f92d4dd.jpg",
+   "duree_min": 108,
+   "genres": [
+    "Animation",
+    "Comédie",
+    "Aventure",
+    "Famille"
+   ],
+   "realisateurs": [
+    "Joel Crawford",
+    "Januel P. Mercado"
+   ],
+   "acteurs": [
+    "Manon Bresch",
+    "Anaïde Rozam",
+    "Xavier Lacaille"
+   ],
+   "pays": [
+    "U.S.A."
+   ],
+   "annee": 2026,
+   "synopsis": "Tandis qu’elles fêtent leur dernière soirée ensemble, deux meilleures amies tombent sur un portail mystérieux qui les emmène sur l’île fantastique de Nakali, peuplée de créatures féeriques et mythologiques, tout droit sorties des contes philippins de leur enfance.",
+   "resume": "Tandis qu’elles fêtent leur dernière soirée ensemble, deux meilleures amies tombent sur un portail mystérieux qui les emmène sur l’île fantastique de Nakali, peuplée de créatures féeriques…",
+   "note_spectateurs": 3.9,
+   "note_presse": 3.5,
+   "sortie": "2026-10-21",
+   "classification": "Tout public avec avertissement",
+   "avertissement": "La bande sonore de ce film, ainsi qu'un personnage effrayant, peuvent impressionner un jeune public.",
+   "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=296642.html",
+   "seances": [
+    {
+     "salle": "P2788",
+     "debut": "2026-10-30T10:45:00",
+     "version": "VF",
+     "sme": false,
+     "avant_premiere": false,
+     "billetterie": null
+    },
+    {
+     "salle": "W2101",
+     "debut": "2026-10-30T10:50:00",
+     "version": "VF",
+     "sme": false,
+     "avant_premiere": false,
+     "billetterie": "https://s.pathe.fr/en/V3345S87286/booking?utm_source=allocine&utm_medium=allocine&utm_campaign=partenaire-allocine&partenaire=allocine"
+    },
+    {
+     "salle": "P0771",
+     "debut": "2026-10-30T11:05:00",
+     "version": "VF",
+     "sme": false,
+     "avant_premiere": false,
+     "billetterie": "https://s.pathe.fr/en/V3342S121865/booking?utm_source=allocine&utm_medium=allocine&utm_campaign=partenaire-allocine&partenaire=allocine"
+    },
+    {
+     "salle": "W2101",
+     "debut": "2026-10-30T13:45:00",
+     "version": "VF",
+     "sme": false,
+     "avant_premiere": false,
+     "billetterie": "https://s.pathe.fr/en/V3345S87296/booking?utm_source=allocine&utm_medium=allocine&utm_campaign=partenaire-allocine&partenaire=allocine"
+    },
+    {
+     "salle": "P2788",
+     "debut": "2026-10-30T14:00:00",
+     "version": "VF",
+     "sme": false,
+     "avant_premiere": false,
+     "billetterie": null
+    },
+    {
+     "salle": "P0771",
+     "debut": "2026-10-30T14:00:00",
+     "version": "VF",
+     "sme": false,
+     "avant_premiere": false,
+     "billetterie": "https://s.pathe.fr/en/V3342S121879/booking?utm_source=allocine&utm_medium=allocine&utm_campaign=partenaire-allocine&partenaire=allocine"
+    },
+    {
+     "salle": "W2101",
+     "debut": "2026-10-30T15:25:00",
+     "version": "VF",
+     "sme": false,
+     "avant_premiere": false,
+     "billetterie": "https://s.pathe.fr/en/V3345S87303/booking?utm_source=allocine&utm_medium=allocine&utm_campaign=partenaire-allocine&partenaire=allocine"
+    },
+    {
+     "salle": "P2788",
+     "debut": "2026-10-30T16:30:00",
+     "version": "VF",
+     "sme": false,
+     "avant_premiere": false,
+     "billetterie": null
+    },
+    {
+     "salle": "P0771",
+     "debut": "2026-10-30T16:30:00",
+     "version": "VF",
+     "sme": false,
+     "avant_premiere": false,
+     "billetterie": "https://s.pathe.fr/en/V3342S121888/booking?utm_source=allocine&utm_medium=allocine&utm_campaign=partenaire-allocine&partenaire=allocine"
+    },
+    {
+     "salle": "P2788",
+     "debut": "2026-10-30T18:15:00",
+     "version": "VF",
+     "sme": false,
+     "avant_premiere": false,
+     "billetterie": null
+    },
+    {
+     "salle": "P0771",
+     "debut": "2026-10-30T19:05:00",
+     "version": "VF",
+     "sme": false,
+     "avant_premiere": false,
+     "billetterie": "https://s.pathe.fr/en/V3342S121899/booking?utm_source=allocine&utm_medium=allocine&utm_campaign=partenaire-allocine&partenaire=allocine"
+    },
+    {
+     "salle": "P2788",
+     "debut": "2026-10-31T10:45:00",
+     "version": "VF",
+     "sme": false,
+     "avant_premiere": false,
+     "billetterie": "https://dijon.cineville.fr/vad/2714/27574/12669"
+    },
+    {
+     "salle": "W2101",
+     "debut": "2026-10-31T10:50:00",
+     "version": "VF",
+     "sme": false,
+     "avant_premiere": false,
+     "billetterie": "https://s.pathe.fr/en/V3345S87240/booking?utm_source=allocine&utm_medium=allocine&utm_campaign=partenaire-allocine&partenaire=allocine"
+    },
+    {
+     "salle": "P0771",
+     "debut": "2026-10-31T11:05:00",
+     "version": "VF",
+     "sme": false,
+     "avant_premiere": false,
+     "billetterie": "https://s.pathe.fr/en/V3342S121928/booking?utm_source=allocine&utm_medium=allocine&utm_campaign=partenaire-allocine&partenaire=allocine"
+    },
+    {
+     "salle": "W2101",
+     "debut": "2026-10-31T13:45:00",
+     "version": "VF",
+     "sme": false,
+     "avant_premiere": false,
+     "billetterie": "https://s.pathe.fr/en/V3345S87250/booking?utm_source=allocine&utm_medium=allocine&utm_campaign=partenaire-allocine&partenaire=allocine"
+    },
+    {
+     "salle": "P0771",
+     "debut": "2026-10-31T13:55:00",
+     "version": "VF",
+     "sme": false,
+     "avant_premiere": false,
+     "billetterie": "https://s.pathe.fr/en/V3342S121940/booking?utm_source=allocine&utm_medium=allocine&utm_campaign=partenaire-allocine&partenaire=allocine"
+    },
+    {
+     "salle": "P2788",
+     "debut": "2026-10-31T14:15:00",
+     "version": "VF",
+     "sme": false,
+     "avant_premiere": false,
+     "billetterie": "https://dijon.cineville.fr/vad/2714/27575/12669"
+    },
+    {
+     "salle": "W2101",
+     "debut": "2026-10-31T15:25:00",
+     "version": "VF",
+     "sme": false,
+     "avant_premiere": false,
+     "billetterie": "https://s.pathe.fr/en/V3345S87257/booking?utm_source=allocine&utm_medium=allocine&utm_campaign=partenaire-allocine&partenaire=allocine"
+    },
+    {
+     "salle": "P2788",
+     "debut": "2026-10-31T16:30:00",
+     "version": "VF",
+     "sme": false,
+     "avant_premiere": false,
+     "billetterie": "https://dijon.cineville.fr/vad/2714/27576/12669"
+    },
+    {
+     "salle": "P0771",
+     "debut": "2026-10-31T16:30:00",
+     "version": "VF",
+     "sme": false,
+     "avant_premiere": false,
+     "billetterie": "https://s.pathe.fr/en/V3342S121948/booking?utm_source=allocine&utm_medium=allocine&utm_campaign=partenaire-allocine&partenaire=allocine"
+    },
+    {
+     "salle": "P2788",
+     "debut": "2026-10-31T18:15:00",
+     "version": "VF",
+     "sme": false,
+     "avant_premiere": false,
+     "billetterie": "https://dijon.cineville.fr/vad/2714/27577/12556"
+    },
+    {
+     "salle": "P0771",
+     "debut": "2026-10-31T19:05:00",
+     "version": "VF",
+     "sme": false,
+     "avant_premiere": false,
+     "billetterie": "https://s.pathe.fr/en/V3342S121959/booking?utm_source=allocine&utm_medium=allocine&utm_campaign=partenaire-allocine&partenaire=allocine"
+    },
+    {
+     "salle": "W2101",
+     "debut": "2026-11-01T10:50:00",
+     "version": "VF",
+     "sme": false,
+     "avant_premiere": false,
+     "billetterie": "https://s.pathe.fr/en/V3345S87330/booking?utm_source=allocine&utm_medium=allocine&utm_campaign=partenaire-allocine&partenaire=allocine"
+    },
+    {
+     "salle": "P0771",
+     "debut": "2026-11-01T11:05:00",
+     "version": "VF",
+     "sme": false,
+     "avant_premiere": false,
+     "billetterie": "https://s.pathe.fr/en/V3342S121990/booking?utm_source=allocine&utm_medium=allocine&utm_campaign=partenaire-allocine&partenaire=allocine"
+    },
+    {
+     "salle": "P2788",
+     "debut": "2026-11-01T13:45:00",
+     "version": "VF",
+     "sme": false,
+     "avant_premiere": false,
+     "billetterie": "https://dijon.cineville.fr/vad/2714/27629/12715"
+    },
+    {
+     "salle": "W2101",
+     "debut": "2026-11-01T13:45:00",
+     "version": "VF",
+     "sme": false,
+     "avant_premiere": false,
+     "billetterie": "https://s.pathe.fr/en/V3345S87340/booking?utm_source=allocine&utm_medium=allocine&utm_campaign=partenaire-allocine&partenaire=allocine"
+    },
+    {
+     "salle": "P0771",
+     "debut": "2026-11-01T13:55:00",
+     "version": "VF",
+     "sme": false,
+     "avant_premiere": false,
+     "billetterie": "https://s.pathe.fr/en/V3342S122002/booking?utm_source=allocine&utm_medium=allocine&utm_campaign=partenaire-allocine&partenaire=allocine"
+    },
+    {
+     "salle": "W2101",
+     "debut": "2026-11-01T15:25:00",
+     "version": "VF",
+     "sme": false,
+     "avant_premiere": false,
+     "billetterie": "https://s.pathe.fr/en/V3345S87347/booking?utm_source=allocine&utm_medium=allocine&utm_campaign=partenaire-allocine&partenaire=allocine"
+    },
+    {
+     "salle": "P2788",
+     "debut": "2026-11-01T16:00:00",
+     "version": "VF",
+     "sme": false,
+     "avant_premiere": false,
+     "billetterie": "https://dijon.cineville.fr/vad/2714/27630/12715"
+    },
+    {
+     "salle": "P0771",
+     "debut": "2026-11-01T16:30:00",
+     "version": "VF",
+     "sme": false,
+     "avant_premiere": false,
+     "billetterie": "https://s.pathe.fr/en/V3342S122013/booking?utm_source=allocine&utm_medium=allocine&utm_campaign=partenaire-allocine&partenaire=allocine"
+    },
+    {
+     "salle": "P2788",
+     "debut": "2026-11-01T18:30:00",
+     "version": "VF",
+     "sme": false,
+     "avant_premiere": false,
+     "billetterie": "https://dijon.cineville.fr/vad/2714/27631/12556"
+    },
+    {
+     "salle": "P0771",
+     "debut": "2026-11-01T19:05:00",
+     "version": "VF",
+     "sme": false,
+     "avant_premiere": false,
+     "billetterie": "https://s.pathe.fr/en/V3342S122025/booking?utm_source=allocine&utm_medium=allocine&utm_campaign=partenaire-allocine&partenaire=allocine"
+    },
+    {
+     "salle": "P2788",
+     "debut": "2026-11-02T13:45:00",
+     "version": "VF",
+     "sme": false,
+     "avant_premiere": false,
+     "billetterie": "https://dijon.cineville.fr/vad/2714/27674/12556"
+    },
+    {
+     "salle": "W2101",
+     "debut": "2026-11-02T13:45:00",
+     "version": "VF",
+     "sme": false,
+     "avant_premiere": false,
+     "billetterie": "https://s.pathe.fr/en/V3345S87384/booking?utm_source=allocine&utm_medium=allocine&utm_campaign=partenaire-allocine&partenaire=allocine"
+    },
+    {
+     "salle": "P0771",
+     "debut": "2026-11-02T14:20:00",
+     "version": "VF",
+     "sme": false,
+     "avant_premiere": false,
+     "billetterie": "https://s.pathe.fr/en/V3342S122052/booking?utm_source=allocine&utm_medium=allocine&utm_campaign=partenaire-allocine&partenaire=allocine"
+    },
+    {
+     "salle": "W2101",
+     "debut": "2026-11-02T15:05:00",
+     "version": "VF",
+     "sme": false,
+     "avant_premiere": false,
+     "billetterie": "https://s.pathe.fr/en/V3345S87391/booking?utm_source=allocine&utm_medium=allocine&utm_campaign=partenaire-allocine&partenaire=allocine"
+    },
+    {
+     "salle": "P0771",
+     "debut": "2026-11-02T16:55:00",
+     "version": "VF",
+     "sme": false,
+     "avant_premiere": false,
+     "billetterie": "https://s.pathe.fr/en/V3342S122062/booking?utm_source=allocine&utm_medium=allocine&utm_campaign=partenaire-allocine&partenaire=allocine"
+    },
+    {
+     "salle": "P2788",
+     "debut": "2026-11-02T18:30:00",
+     "version": "VF",
+     "sme": false,
+     "avant_premiere": false,
+     "billetterie": "https://dijon.cineville.fr/vad/2714/27676/12556"
+    },
+    {
+     "salle": "W2101",
+     "debut": "2026-11-03T15:25:00",
+     "version": "VF",
+     "sme": false,
+     "avant_premiere": false,
+     "billetterie": "https://s.pathe.fr/en/V3345S87435/booking?utm_source=allocine&utm_medium=allocine&utm_campaign=partenaire-allocine&partenaire=allocine"
+    },
+    {
+     "salle": "P2788",
+     "debut": "2026-11-03T16:00:00",
+     "version": "VF",
+     "sme": false,
+     "avant_premiere": false,
+     "billetterie": "https://dijon.cineville.fr/vad/2714/27723/12688"
+    },
+    {
+     "salle": "P0771",
+     "debut": "2026-11-03T16:30:00",
+     "version": "VF",
+     "sme": true,
+     "avant_premiere": false,
+     "billetterie": "https://s.pathe.fr/en/V3342S122111/booking?utm_source=allocine&utm_medium=allocine&utm_campaign=partenaire-allocine&partenaire=allocine"
+    },
+    {
+     "salle": "P2788",
+     "debut": "2026-11-03T18:30:00",
+     "version": "VF",
+     "sme": false,
+     "avant_premiere": false,
+     "billetterie": "https://dijon.cineville.fr/vad/2714/27724/12556"
+    },
+    {
+     "salle": "P0771",
+     "debut": "2026-11-03T19:05:00",
+     "version": "VF",
+     "sme": false,
+     "avant_premiere": false,
+     "billetterie": "https://s.pathe.fr/en/V3342S122123/booking?utm_source=allocine&utm_medium=allocine&utm_campaign=partenaire-allocine&partenaire=allocine"
+    }
+   ]
+  },
+  {
    "id": 1000016901,
    "titre": "Clayface",
    "titre_original": "Clayface",
@@ -2548,7 +2960,7 @@
      "version": "VF",
      "sme": false,
      "avant_premiere": false,
-     "billetterie": "https://dijon.cineville.fr/vad/2714/27526/12600"
+     "billetterie": null
     },
     {
      "salle": "W2101",
@@ -2564,7 +2976,7 @@
      "version": "VF",
      "sme": false,
      "avant_premiere": false,
-     "billetterie": "https://dijon.cineville.fr/vad/2714/27525/12629"
+     "billetterie": null
     },
     {
      "salle": "P0771",
@@ -2873,378 +3285,6 @@
    ]
   },
   {
-   "id": 296642,
-   "titre": "L'île des souvenirs",
-   "titre_original": "Forgotten Island",
-   "affiche": "https://fr.web.img6.acsta.net/img/56/7e/567e74d867a1c88b20897c5d7f92d4dd.jpg",
-   "duree_min": 108,
-   "genres": [
-    "Animation",
-    "Comédie",
-    "Aventure",
-    "Famille"
-   ],
-   "realisateurs": [
-    "Joel Crawford",
-    "Januel P. Mercado"
-   ],
-   "acteurs": [
-    "Manon Bresch",
-    "Anaïde Rozam",
-    "Xavier Lacaille"
-   ],
-   "pays": [
-    "U.S.A."
-   ],
-   "annee": 2026,
-   "synopsis": "Tandis qu’elles fêtent leur dernière soirée ensemble, deux meilleures amies tombent sur un portail mystérieux qui les emmène sur l’île fantastique de Nakali, peuplée de créatures féeriques et mythologiques, tout droit sorties des contes philippins de leur enfance.",
-   "resume": "Tandis qu’elles fêtent leur dernière soirée ensemble, deux meilleures amies tombent sur un portail mystérieux qui les emmène sur l’île fantastique de Nakali, peuplée de créatures féeriques…",
-   "note_spectateurs": 3.9,
-   "note_presse": 3.5,
-   "sortie": "2026-10-21",
-   "classification": "Tout public avec avertissement",
-   "avertissement": "La bande sonore de ce film, ainsi qu'un personnage effrayant, peuvent impressionner un jeune public.",
-   "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=296642.html",
-   "seances": [
-    {
-     "salle": "P2788",
-     "debut": "2026-10-30T10:45:00",
-     "version": "VF",
-     "sme": false,
-     "avant_premiere": false,
-     "billetterie": null
-    },
-    {
-     "salle": "P0771",
-     "debut": "2026-10-30T11:05:00",
-     "version": "VF",
-     "sme": false,
-     "avant_premiere": false,
-     "billetterie": "https://s.pathe.fr/en/V3342S121865/booking?utm_source=allocine&utm_medium=allocine&utm_campaign=partenaire-allocine&partenaire=allocine"
-    },
-    {
-     "salle": "W2101",
-     "debut": "2026-10-30T13:45:00",
-     "version": "VF",
-     "sme": false,
-     "avant_premiere": false,
-     "billetterie": "https://s.pathe.fr/en/V3345S87296/booking?utm_source=allocine&utm_medium=allocine&utm_campaign=partenaire-allocine&partenaire=allocine"
-    },
-    {
-     "salle": "P2788",
-     "debut": "2026-10-30T14:00:00",
-     "version": "VF",
-     "sme": false,
-     "avant_premiere": false,
-     "billetterie": "https://dijon.cineville.fr/vad/2714/27522/12669"
-    },
-    {
-     "salle": "P0771",
-     "debut": "2026-10-30T14:00:00",
-     "version": "VF",
-     "sme": false,
-     "avant_premiere": false,
-     "billetterie": "https://s.pathe.fr/en/V3342S121879/booking?utm_source=allocine&utm_medium=allocine&utm_campaign=partenaire-allocine&partenaire=allocine"
-    },
-    {
-     "salle": "W2101",
-     "debut": "2026-10-30T15:25:00",
-     "version": "VF",
-     "sme": false,
-     "avant_premiere": false,
-     "billetterie": "https://s.pathe.fr/en/V3345S87303/booking?utm_source=allocine&utm_medium=allocine&utm_campaign=partenaire-allocine&partenaire=allocine"
-    },
-    {
-     "salle": "P2788",
-     "debut": "2026-10-30T16:30:00",
-     "version": "VF",
-     "sme": false,
-     "avant_premiere": false,
-     "billetterie": "https://dijon.cineville.fr/vad/2714/27523/12624"
-    },
-    {
-     "salle": "P0771",
-     "debut": "2026-10-30T16:30:00",
-     "version": "VF",
-     "sme": false,
-     "avant_premiere": false,
-     "billetterie": "https://s.pathe.fr/en/V3342S121888/booking?utm_source=allocine&utm_medium=allocine&utm_campaign=partenaire-allocine&partenaire=allocine"
-    },
-    {
-     "salle": "P2788",
-     "debut": "2026-10-30T18:15:00",
-     "version": "VF",
-     "sme": false,
-     "avant_premiere": false,
-     "billetterie": "https://dijon.cineville.fr/vad/2714/27524/12556"
-    },
-    {
-     "salle": "P0771",
-     "debut": "2026-10-30T19:05:00",
-     "version": "VF",
-     "sme": false,
-     "avant_premiere": false,
-     "billetterie": "https://s.pathe.fr/en/V3342S121899/booking?utm_source=allocine&utm_medium=allocine&utm_campaign=partenaire-allocine&partenaire=allocine"
-    },
-    {
-     "salle": "P2788",
-     "debut": "2026-10-31T10:45:00",
-     "version": "VF",
-     "sme": false,
-     "avant_premiere": false,
-     "billetterie": "https://dijon.cineville.fr/vad/2714/27574/12669"
-    },
-    {
-     "salle": "W2101",
-     "debut": "2026-10-31T10:50:00",
-     "version": "VF",
-     "sme": false,
-     "avant_premiere": false,
-     "billetterie": "https://s.pathe.fr/en/V3345S87240/booking?utm_source=allocine&utm_medium=allocine&utm_campaign=partenaire-allocine&partenaire=allocine"
-    },
-    {
-     "salle": "P0771",
-     "debut": "2026-10-31T11:05:00",
-     "version": "VF",
-     "sme": false,
-     "avant_premiere": false,
-     "billetterie": "https://s.pathe.fr/en/V3342S121928/booking?utm_source=allocine&utm_medium=allocine&utm_campaign=partenaire-allocine&partenaire=allocine"
-    },
-    {
-     "salle": "W2101",
-     "debut": "2026-10-31T13:45:00",
-     "version": "VF",
-     "sme": false,
-     "avant_premiere": false,
-     "billetterie": "https://s.pathe.fr/en/V3345S87250/booking?utm_source=allocine&utm_medium=allocine&utm_campaign=partenaire-allocine&partenaire=allocine"
-    },
-    {
-     "salle": "P0771",
-     "debut": "2026-10-31T13:55:00",
-     "version": "VF",
-     "sme": false,
-     "avant_premiere": false,
-     "billetterie": "https://s.pathe.fr/en/V3342S121940/booking?utm_source=allocine&utm_medium=allocine&utm_campaign=partenaire-allocine&partenaire=allocine"
-    },
-    {
-     "salle": "P2788",
-     "debut": "2026-10-31T14:15:00",
-     "version": "VF",
-     "sme": false,
-     "avant_premiere": false,
-     "billetterie": "https://dijon.cineville.fr/vad/2714/27575/12669"
-    },
-    {
-     "salle": "W2101",
-     "debut": "2026-10-31T15:25:00",
-     "version": "VF",
-     "sme": false,
-     "avant_premiere": false,
-     "billetterie": "https://s.pathe.fr/en/V3345S87257/booking?utm_source=allocine&utm_medium=allocine&utm_campaign=partenaire-allocine&partenaire=allocine"
-    },
-    {
-     "salle": "P2788",
-     "debut": "2026-10-31T16:30:00",
-     "version": "VF",
-     "sme": false,
-     "avant_premiere": false,
-     "billetterie": "https://dijon.cineville.fr/vad/2714/27576/12669"
-    },
-    {
-     "salle": "P0771",
-     "debut": "2026-10-31T16:30:00",
-     "version": "VF",
-     "sme": false,
-     "avant_premiere": false,
-     "billetterie": "https://s.pathe.fr/en/V3342S121948/booking?utm_source=allocine&utm_medium=allocine&utm_campaign=partenaire-allocine&partenaire=allocine"
-    },
-    {
-     "salle": "P2788",
-     "debut": "2026-10-31T18:15:00",
-     "version": "VF",
-     "sme": false,
-     "avant_premiere": false,
-     "billetterie": "https://dijon.cineville.fr/vad/2714/27577/12556"
-    },
-    {
-     "salle": "P0771",
-     "debut": "2026-10-31T19:05:00",
-     "version": "VF",
-     "sme": false,
-     "avant_premiere": false,
-     "billetterie": "https://s.pathe.fr/en/V3342S121959/booking?utm_source=allocine&utm_medium=allocine&utm_campaign=partenaire-allocine&partenaire=allocine"
-    },
-    {
-     "salle": "W2101",
-     "debut": "2026-11-01T10:50:00",
-     "version": "VF",
-     "sme": false,
-     "avant_premiere": false,
-     "billetterie": "https://s.pathe.fr/en/V3345S87330/booking?utm_source=allocine&utm_medium=allocine&utm_campaign=partenaire-allocine&partenaire=allocine"
-    },
-    {
-     "salle": "P0771",
-     "debut": "2026-11-01T11:05:00",
-     "version": "VF",
-     "sme": false,
-     "avant_premiere": false,
-     "billetterie": "https://s.pathe.fr/en/V3342S121990/booking?utm_source=allocine&utm_medium=allocine&utm_campaign=partenaire-allocine&partenaire=allocine"
-    },
-    {
-     "salle": "P2788",
-     "debut": "2026-11-01T13:45:00",
-     "version": "VF",
-     "sme": false,
-     "avant_premiere": false,
-     "billetterie": "https://dijon.cineville.fr/vad/2714/27629/12715"
-    },
-    {
-     "salle": "W2101",
-     "debut": "2026-11-01T13:45:00",
-     "version": "VF",
-     "sme": false,
-     "avant_premiere": false,
-     "billetterie": "https://s.pathe.fr/en/V3345S87340/booking?utm_source=allocine&utm_medium=allocine&utm_campaign=partenaire-allocine&partenaire=allocine"
-    },
-    {
-     "salle": "P0771",
-     "debut": "2026-11-01T13:55:00",
-     "version": "VF",
-     "sme": false,
-     "avant_premiere": false,
-     "billetterie": "https://s.pathe.fr/en/V3342S122002/booking?utm_source=allocine&utm_medium=allocine&utm_campaign=partenaire-allocine&partenaire=allocine"
-    },
-    {
-     "salle": "W2101",
-     "debut": "2026-11-01T15:25:00",
-     "version": "VF",
-     "sme": false,
-     "avant_premiere": false,
-     "billetterie": "https://s.pathe.fr/en/V3345S87347/booking?utm_source=allocine&utm_medium=allocine&utm_campaign=partenaire-allocine&partenaire=allocine"
-    },
-    {
-     "salle": "P2788",
-     "debut": "2026-11-01T16:00:00",
-     "version": "VF",
-     "sme": false,
-     "avant_premiere": false,
-     "billetterie": "https://dijon.cineville.fr/vad/2714/27630/12715"
-    },
-    {
-     "salle": "P0771",
-     "debut": "2026-11-01T16:30:00",
-     "version": "VF",
-     "sme": false,
-     "avant_premiere": false,
-     "billetterie": "https://s.pathe.fr/en/V3342S122013/booking?utm_source=allocine&utm_medium=allocine&utm_campaign=partenaire-allocine&partenaire=allocine"
-    },
-    {
-     "salle": "P2788",
-     "debut": "2026-11-01T18:30:00",
-     "version": "VF",
-     "sme": false,
-     "avant_premiere": false,
-     "billetterie": "https://dijon.cineville.fr/vad/2714/27631/12556"
-    },
-    {
-     "salle": "P0771",
-     "debut": "2026-11-01T19:05:00",
-     "version": "VF",
-     "sme": false,
-     "avant_premiere": false,
-     "billetterie": "https://s.pathe.fr/en/V3342S122025/booking?utm_source=allocine&utm_medium=allocine&utm_campaign=partenaire-allocine&partenaire=allocine"
-    },
-    {
-     "salle": "P2788",
-     "debut": "2026-11-02T13:45:00",
-     "version": "VF",
-     "sme": false,
-     "avant_premiere": false,
-     "billetterie": "https://dijon.cineville.fr/vad/2714/27674/12556"
-    },
-    {
-     "salle": "W2101",
-     "debut": "2026-11-02T13:45:00",
-     "version": "VF",
-     "sme": false,
-     "avant_premiere": false,
-     "billetterie": "https://s.pathe.fr/en/V3345S87384/booking?utm_source=allocine&utm_medium=allocine&utm_campaign=partenaire-allocine&partenaire=allocine"
-    },
-    {
-     "salle": "P0771",
-     "debut": "2026-11-02T14:20:00",
-     "version": "VF",
-     "sme": false,
-     "avant_premiere": false,
-     "billetterie": "https://s.pathe.fr/en/V3342S122052/booking?utm_source=allocine&utm_medium=allocine&utm_campaign=partenaire-allocine&partenaire=allocine"
-    },
-    {
-     "salle": "W2101",
-     "debut": "2026-11-02T15:05:00",
-     "version": "VF",
-     "sme": false,
-     "avant_premiere": false,
-     "billetterie": "https://s.pathe.fr/en/V3345S87391/booking?utm_source=allocine&utm_medium=allocine&utm_campaign=partenaire-allocine&partenaire=allocine"
-    },
-    {
-     "salle": "P0771",
-     "debut": "2026-11-02T16:55:00",
-     "version": "VF",
-     "sme": false,
-     "avant_premiere": false,
-     "billetterie": "https://s.pathe.fr/en/V3342S122062/booking?utm_source=allocine&utm_medium=allocine&utm_campaign=partenaire-allocine&partenaire=allocine"
-    },
-    {
-     "salle": "P2788",
-     "debut": "2026-11-02T18:30:00",
-     "version": "VF",
-     "sme": false,
-     "avant_premiere": false,
-     "billetterie": "https://dijon.cineville.fr/vad/2714/27676/12556"
-    },
-    {
-     "salle": "W2101",
-     "debut": "2026-11-03T15:25:00",
-     "version": "VF",
-     "sme": false,
-     "avant_premiere": false,
-     "billetterie": "https://s.pathe.fr/en/V3345S87435/booking?utm_source=allocine&utm_medium=allocine&utm_campaign=partenaire-allocine&partenaire=allocine"
-    },
-    {
-     "salle": "P2788",
-     "debut": "2026-11-03T16:00:00",
-     "version": "VF",
-     "sme": false,
-     "avant_premiere": false,
-     "billetterie": "https://dijon.cineville.fr/vad/2714/27723/12688"
-    },
-    {
-     "salle": "P0771",
-     "debut": "2026-11-03T16:30:00",
-     "version": "VF",
-     "sme": true,
-     "avant_premiere": false,
-     "billetterie": "https://s.pathe.fr/en/V3342S122111/booking?utm_source=allocine&utm_medium=allocine&utm_campaign=partenaire-allocine&partenaire=allocine"
-    },
-    {
-     "salle": "P2788",
-     "debut": "2026-11-03T18:30:00",
-     "version": "VF",
-     "sme": false,
-     "avant_premiere": false,
-     "billetterie": "https://dijon.cineville.fr/vad/2714/27724/12556"
-    },
-    {
-     "salle": "P0771",
-     "debut": "2026-11-03T19:05:00",
-     "version": "VF",
-     "sme": false,
-     "avant_premiere": false,
-     "billetterie": "https://s.pathe.fr/en/V3342S122123/booking?utm_source=allocine&utm_medium=allocine&utm_campaign=partenaire-allocine&partenaire=allocine"
-    }
-   ]
-  },
-  {
    "id": 1000024131,
    "titre": "Shaun le Mouton : La Bêêête d'Halloween",
    "titre_original": "Shaun The Sheep: The Beast Of Mossy Bottom",
@@ -3275,6 +3315,22 @@
    "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000024131.html",
    "seances": [
     {
+     "salle": "P0771",
+     "debut": "2026-10-30T10:45:00",
+     "version": "VF",
+     "sme": false,
+     "avant_premiere": false,
+     "billetterie": "https://s.pathe.fr/en/V3342S121858/booking?utm_source=allocine&utm_medium=allocine&utm_campaign=partenaire-allocine&partenaire=allocine"
+    },
+    {
+     "salle": "W2101",
+     "debut": "2026-10-30T10:50:00",
+     "version": "VF",
+     "sme": false,
+     "avant_premiere": false,
+     "billetterie": "https://s.pathe.fr/en/V3345S87288/booking?utm_source=allocine&utm_medium=allocine&utm_campaign=partenaire-allocine&partenaire=allocine"
+    },
+    {
      "salle": "W2101",
      "debut": "2026-10-30T12:50:00",
      "version": "VF",
@@ -3296,7 +3352,7 @@
      "version": "VF",
      "sme": false,
      "avant_premiere": false,
-     "billetterie": "https://www.katorza.fr/vad/2704/13687/5851"
+     "billetterie": null
     },
     {
      "salle": "W2101",
@@ -3320,7 +3376,7 @@
      "version": "VF",
      "sme": false,
      "avant_premiere": false,
-     "billetterie": "https://www.katorza.fr/vad/2704/13681/5851"
+     "billetterie": null
     },
     {
      "salle": "W2101",
@@ -3589,6 +3645,312 @@
    ]
   },
   {
+   "id": 1000019249,
+   "titre": "Ducobu et le fantôme de Saint-Potache",
+   "titre_original": "Ducobu et le fantôme de Saint-Potache",
+   "affiche": "https://fr.web.img6.acsta.net/img/54/16/54167f9b523fff67b07b2e80f5f9dd71.jpg",
+   "duree_min": 90,
+   "genres": [
+    "Comédie",
+    "Famille"
+   ],
+   "realisateurs": [
+    "Elie Semoun"
+   ],
+   "acteurs": [
+    "Charlie Garnier Naslin",
+    "Elie Semoun",
+    "Émilie Caen"
+   ],
+   "pays": [
+    "France",
+    "Belgique"
+   ],
+   "annee": 2026,
+   "synopsis": "C’est Halloween, et Ducobu revient pour une aventure pleine de rires et de mystères ! Le professeur Latouche et Mademoiselle Rateau emménagent dans une maison… hantée par le ​ fantôme d'Anatole, le plus grand cancre de l’histoire de l’école Saint-Potache.",
+   "resume": "C’est Halloween, et Ducobu revient pour une aventure pleine de rires et de mystères !",
+   "note_spectateurs": 2.3,
+   "note_presse": 2.5,
+   "sortie": "2026-10-07",
+   "classification": "Tout public",
+   "avertissement": "",
+   "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000019249.html",
+   "seances": [
+    {
+     "salle": "W2101",
+     "debut": "2026-10-30T10:50:00",
+     "version": "VF",
+     "sme": false,
+     "avant_premiere": false,
+     "billetterie": "https://s.pathe.fr/en/V3345S87287/booking?utm_source=allocine&utm_medium=allocine&utm_campaign=partenaire-allocine&partenaire=allocine"
+    },
+    {
+     "salle": "P2788",
+     "debut": "2026-10-30T11:00:00",
+     "version": "VF",
+     "sme": false,
+     "avant_premiere": false,
+     "billetterie": null
+    },
+    {
+     "salle": "P0771",
+     "debut": "2026-10-30T11:00:00",
+     "version": "VF",
+     "sme": false,
+     "avant_premiere": false,
+     "billetterie": "https://s.pathe.fr/en/V3342S121863/booking?utm_source=allocine&utm_medium=allocine&utm_campaign=partenaire-allocine&partenaire=allocine"
+    },
+    {
+     "salle": "W2101",
+     "debut": "2026-10-30T13:20:00",
+     "version": "VF",
+     "sme": false,
+     "avant_premiere": false,
+     "billetterie": "https://s.pathe.fr/en/V3345S87293/booking?utm_source=allocine&utm_medium=allocine&utm_campaign=partenaire-allocine&partenaire=allocine"
+    },
+    {
+     "salle": "P0771",
+     "debut": "2026-10-30T14:10:00",
+     "version": "VF",
+     "sme": false,
+     "avant_premiere": false,
+     "billetterie": "https://s.pathe.fr/en/V3342S121880/booking?utm_source=allocine&utm_medium=allocine&utm_campaign=partenaire-allocine&partenaire=allocine"
+    },
+    {
+     "salle": "P2788",
+     "debut": "2026-10-30T14:15:00",
+     "version": "VF",
+     "sme": false,
+     "avant_premiere": false,
+     "billetterie": null
+    },
+    {
+     "salle": "P2788",
+     "debut": "2026-10-30T16:00:00",
+     "version": "VF",
+     "sme": false,
+     "avant_premiere": false,
+     "billetterie": null
+    },
+    {
+     "salle": "P0771",
+     "debut": "2026-10-30T16:20:00",
+     "version": "VF",
+     "sme": false,
+     "avant_premiere": false,
+     "billetterie": "https://s.pathe.fr/en/V3342S121887/booking?utm_source=allocine&utm_medium=allocine&utm_campaign=partenaire-allocine&partenaire=allocine"
+    },
+    {
+     "salle": "P0771",
+     "debut": "2026-10-30T18:30:00",
+     "version": "VF",
+     "sme": false,
+     "avant_premiere": false,
+     "billetterie": "https://s.pathe.fr/en/V3342S121898/booking?utm_source=allocine&utm_medium=allocine&utm_campaign=partenaire-allocine&partenaire=allocine"
+    },
+    {
+     "salle": "W2101",
+     "debut": "2026-10-31T10:50:00",
+     "version": "VF",
+     "sme": false,
+     "avant_premiere": false,
+     "billetterie": "https://s.pathe.fr/en/V3345S87241/booking?utm_source=allocine&utm_medium=allocine&utm_campaign=partenaire-allocine&partenaire=allocine"
+    },
+    {
+     "salle": "P2788",
+     "debut": "2026-10-31T11:00:00",
+     "version": "VF",
+     "sme": false,
+     "avant_premiere": false,
+     "billetterie": "https://dijon.cineville.fr/vad/2714/27583/12667"
+    },
+    {
+     "salle": "P0771",
+     "debut": "2026-10-31T11:00:00",
+     "version": "VF",
+     "sme": false,
+     "avant_premiere": false,
+     "billetterie": "https://s.pathe.fr/en/V3342S121926/booking?utm_source=allocine&utm_medium=allocine&utm_campaign=partenaire-allocine&partenaire=allocine"
+    },
+    {
+     "salle": "W2101",
+     "debut": "2026-10-31T13:20:00",
+     "version": "VF",
+     "sme": false,
+     "avant_premiere": false,
+     "billetterie": "https://s.pathe.fr/en/V3345S87247/booking?utm_source=allocine&utm_medium=allocine&utm_campaign=partenaire-allocine&partenaire=allocine"
+    },
+    {
+     "salle": "P0771",
+     "debut": "2026-10-31T14:15:00",
+     "version": "VF",
+     "sme": false,
+     "avant_premiere": false,
+     "billetterie": "https://s.pathe.fr/en/V3342S121942/booking?utm_source=allocine&utm_medium=allocine&utm_campaign=partenaire-allocine&partenaire=allocine"
+    },
+    {
+     "salle": "P2788",
+     "debut": "2026-10-31T16:00:00",
+     "version": "VF",
+     "sme": false,
+     "avant_premiere": false,
+     "billetterie": "https://dijon.cineville.fr/vad/2714/27585/12596"
+    },
+    {
+     "salle": "P0771",
+     "debut": "2026-10-31T16:35:00",
+     "version": "VF",
+     "sme": false,
+     "avant_premiere": false,
+     "billetterie": "https://s.pathe.fr/en/V3342S121958/booking?utm_source=allocine&utm_medium=allocine&utm_campaign=partenaire-allocine&partenaire=allocine"
+    },
+    {
+     "salle": "P0771",
+     "debut": "2026-10-31T19:40:00",
+     "version": "VF",
+     "sme": false,
+     "avant_premiere": false,
+     "billetterie": "https://s.pathe.fr/en/V3342S121978/booking?utm_source=allocine&utm_medium=allocine&utm_campaign=partenaire-allocine&partenaire=allocine"
+    },
+    {
+     "salle": "W2101",
+     "debut": "2026-11-01T10:50:00",
+     "version": "VF",
+     "sme": false,
+     "avant_premiere": false,
+     "billetterie": "https://s.pathe.fr/en/V3345S87331/booking?utm_source=allocine&utm_medium=allocine&utm_campaign=partenaire-allocine&partenaire=allocine"
+    },
+    {
+     "salle": "P2788",
+     "debut": "2026-11-01T11:00:00",
+     "version": "VF",
+     "sme": false,
+     "avant_premiere": false,
+     "billetterie": "https://dijon.cineville.fr/vad/2714/27637/12718"
+    },
+    {
+     "salle": "P0771",
+     "debut": "2026-11-01T11:00:00",
+     "version": "VF",
+     "sme": false,
+     "avant_premiere": false,
+     "billetterie": "https://s.pathe.fr/en/V3342S121988/booking?utm_source=allocine&utm_medium=allocine&utm_campaign=partenaire-allocine&partenaire=allocine"
+    },
+    {
+     "salle": "W2101",
+     "debut": "2026-11-01T13:20:00",
+     "version": "VF",
+     "sme": false,
+     "avant_premiere": false,
+     "billetterie": "https://s.pathe.fr/en/V3345S87337/booking?utm_source=allocine&utm_medium=allocine&utm_campaign=partenaire-allocine&partenaire=allocine"
+    },
+    {
+     "salle": "P0771",
+     "debut": "2026-11-01T14:10:00",
+     "version": "VF",
+     "sme": false,
+     "avant_premiere": false,
+     "billetterie": "https://s.pathe.fr/en/V3342S122005/booking?utm_source=allocine&utm_medium=allocine&utm_campaign=partenaire-allocine&partenaire=allocine"
+    },
+    {
+     "salle": "P2788",
+     "debut": "2026-11-01T14:15:00",
+     "version": "VF",
+     "sme": false,
+     "avant_premiere": false,
+     "billetterie": "https://dijon.cineville.fr/vad/2714/27638/12707"
+    },
+    {
+     "salle": "P0771",
+     "debut": "2026-11-01T16:20:00",
+     "version": "VF",
+     "sme": false,
+     "avant_premiere": false,
+     "billetterie": "https://s.pathe.fr/en/V3342S122012/booking?utm_source=allocine&utm_medium=allocine&utm_campaign=partenaire-allocine&partenaire=allocine"
+    },
+    {
+     "salle": "P2788",
+     "debut": "2026-11-01T16:30:00",
+     "version": "VF",
+     "sme": false,
+     "avant_premiere": false,
+     "billetterie": "https://dijon.cineville.fr/vad/2714/27639/12707"
+    },
+    {
+     "salle": "P0771",
+     "debut": "2026-11-01T18:30:00",
+     "version": "VF",
+     "sme": false,
+     "avant_premiere": false,
+     "billetterie": "https://s.pathe.fr/en/V3342S122024/booking?utm_source=allocine&utm_medium=allocine&utm_campaign=partenaire-allocine&partenaire=allocine"
+    },
+    {
+     "salle": "W2101",
+     "debut": "2026-11-02T13:00:00",
+     "version": "VF",
+     "sme": false,
+     "avant_premiere": false,
+     "billetterie": "https://s.pathe.fr/en/V3345S87381/booking?utm_source=allocine&utm_medium=allocine&utm_campaign=partenaire-allocine&partenaire=allocine"
+    },
+    {
+     "salle": "P0771",
+     "debut": "2026-11-02T14:10:00",
+     "version": "VF",
+     "sme": false,
+     "avant_premiere": false,
+     "billetterie": "https://s.pathe.fr/en/V3342S122054/booking?utm_source=allocine&utm_medium=allocine&utm_campaign=partenaire-allocine&partenaire=allocine"
+    },
+    {
+     "salle": "P0771",
+     "debut": "2026-11-02T16:20:00",
+     "version": "VF",
+     "sme": false,
+     "avant_premiere": false,
+     "billetterie": "https://s.pathe.fr/en/V3342S122061/booking?utm_source=allocine&utm_medium=allocine&utm_campaign=partenaire-allocine&partenaire=allocine"
+    },
+    {
+     "salle": "P0771",
+     "debut": "2026-11-02T18:30:00",
+     "version": "VF",
+     "sme": false,
+     "avant_premiere": false,
+     "billetterie": "https://s.pathe.fr/en/V3342S122071/booking?utm_source=allocine&utm_medium=allocine&utm_campaign=partenaire-allocine&partenaire=allocine"
+    },
+    {
+     "salle": "W2101",
+     "debut": "2026-11-03T13:20:00",
+     "version": "VF",
+     "sme": false,
+     "avant_premiere": false,
+     "billetterie": "https://s.pathe.fr/en/V3345S87425/booking?utm_source=allocine&utm_medium=allocine&utm_campaign=partenaire-allocine&partenaire=allocine"
+    },
+    {
+     "salle": "P0771",
+     "debut": "2026-11-03T14:10:00",
+     "version": "VF",
+     "sme": false,
+     "avant_premiere": false,
+     "billetterie": "https://s.pathe.fr/en/V3342S122103/booking?utm_source=allocine&utm_medium=allocine&utm_campaign=partenaire-allocine&partenaire=allocine"
+    },
+    {
+     "salle": "P0771",
+     "debut": "2026-11-03T16:20:00",
+     "version": "VF",
+     "sme": false,
+     "avant_premiere": false,
+     "billetterie": "https://s.pathe.fr/en/V3342S122110/booking?utm_source=allocine&utm_medium=allocine&utm_campaign=partenaire-allocine&partenaire=allocine"
+    },
+    {
+     "salle": "P0771",
+     "debut": "2026-11-03T18:30:00",
+     "version": "VF",
+     "sme": false,
+     "avant_premiere": false,
+     "billetterie": "https://s.pathe.fr/en/V3342S122122/booking?utm_source=allocine&utm_medium=allocine&utm_campaign=partenaire-allocine&partenaire=allocine"
+    }
+   ]
+  },
+  {
    "id": 314882,
    "titre": "Hope",
    "titre_original": "Hopeu",
@@ -3613,7 +3975,7 @@
    "annee": 2026,
    "synopsis": "Au poste de police de Hope, Bum-seok et Sung-ae se démènent pour défendre leur village à la population vieillissante. Pendant ce temps, Sung-ki et ses amis partent à la poursuite de la bête dans la montagne mais se retrouvent eux-mêmes pris pour cible.",
    "resume": "Au poste de police de Hope, Bum-seok et Sung-ae se démènent pour défendre leur village à la population vieillissante.",
-   "note_spectateurs": 3.5,
+   "note_spectateurs": 3.4,
    "note_presse": 4.1,
    "sortie": "2026-10-28",
    "classification": "Interdit - 12 ans avec avertissement",
@@ -3621,12 +3983,20 @@
    "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=314882.html",
    "seances": [
     {
+     "salle": "W2101",
+     "debut": "2026-10-30T11:00:00",
+     "version": "VF",
+     "sme": false,
+     "avant_premiere": false,
+     "billetterie": "https://s.pathe.fr/en/V3345S87291/booking?utm_source=allocine&utm_medium=allocine&utm_campaign=partenaire-allocine&partenaire=allocine"
+    },
+    {
      "salle": "P2788",
      "debut": "2026-10-30T13:45:00",
      "version": "VO",
      "sme": false,
      "avant_premiere": false,
-     "billetterie": "https://dijon.cineville.fr/vad/2714/27752/12692"
+     "billetterie": null
     },
     {
      "salle": "W2101",
@@ -3642,7 +4012,7 @@
      "version": "VF",
      "sme": false,
      "avant_premiere": false,
-     "billetterie": "https://dijon.cineville.fr/vad/2714/27536/12590"
+     "billetterie": null
     },
     {
      "salle": "W2101",
@@ -3658,7 +4028,7 @@
      "version": "VF",
      "sme": false,
      "avant_premiere": false,
-     "billetterie": "https://dijon.cineville.fr/vad/2714/27537/12655"
+     "billetterie": null
     },
     {
      "salle": "W2101",
@@ -3907,12 +4277,20 @@
    "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=321790.html",
    "seances": [
     {
+     "salle": "P0771",
+     "debut": "2026-10-30T10:50:00",
+     "version": "VF",
+     "sme": false,
+     "avant_premiere": false,
+     "billetterie": "https://s.pathe.fr/en/V3342S121859/booking?utm_source=allocine&utm_medium=allocine&utm_campaign=partenaire-allocine&partenaire=allocine"
+    },
+    {
      "salle": "P0120",
      "debut": "2026-10-30T13:45:00",
      "version": "VF",
      "sme": false,
      "avant_premiere": false,
-     "billetterie": "https://www.katorza.fr/vad/2704/13689/5841"
+     "billetterie": null
     },
     {
      "salle": "P0121",
@@ -3936,7 +4314,7 @@
      "version": "VF",
      "sme": false,
      "avant_premiere": false,
-     "billetterie": "https://www.katorza.fr/vad/2704/13688/5841"
+     "billetterie": null
     },
     {
      "salle": "P0120",
@@ -4194,6 +4572,14 @@
     },
     {
      "salle": "P0771",
+     "debut": "2026-10-30T11:00:00",
+     "version": "VF",
+     "sme": false,
+     "avant_premiere": false,
+     "billetterie": "https://s.pathe.fr/en/V3342S121862/booking?utm_source=allocine&utm_medium=allocine&utm_campaign=partenaire-allocine&partenaire=allocine"
+    },
+    {
+     "salle": "P0771",
      "debut": "2026-10-30T13:30:00",
      "version": "VF",
      "sme": false,
@@ -4206,7 +4592,7 @@
      "version": "VF",
      "sme": false,
      "avant_premiere": false,
-     "billetterie": "https://www.katorza.fr/vad/2704/13673/5849"
+     "billetterie": null
     },
     {
      "salle": "P0771",
@@ -4222,7 +4608,7 @@
      "version": "VF",
      "sme": false,
      "avant_premiere": false,
-     "billetterie": "https://www.katorza.fr/vad/2704/13674/5849"
+     "billetterie": null
     },
     {
      "salle": "P0121",
@@ -4470,7 +4856,7 @@
      "version": "VF",
      "sme": false,
      "avant_premiere": false,
-     "billetterie": "https://dijon.cineville.fr/vad/2714/27542/12636"
+     "billetterie": null
     },
     {
      "salle": "W2101",
@@ -4502,7 +4888,7 @@
      "version": "VF",
      "sme": false,
      "avant_premiere": false,
-     "billetterie": "https://dijon.cineville.fr/vad/2714/27543/12613"
+     "billetterie": null
     },
     {
      "salle": "P2788",
@@ -4699,272 +5085,6 @@
    ]
   },
   {
-   "id": 1000019249,
-   "titre": "Ducobu et le fantôme de Saint-Potache",
-   "titre_original": "Ducobu et le fantôme de Saint-Potache",
-   "affiche": "https://fr.web.img6.acsta.net/img/54/16/54167f9b523fff67b07b2e80f5f9dd71.jpg",
-   "duree_min": 90,
-   "genres": [
-    "Comédie",
-    "Famille"
-   ],
-   "realisateurs": [
-    "Elie Semoun"
-   ],
-   "acteurs": [
-    "Charlie Garnier Naslin",
-    "Elie Semoun",
-    "Émilie Caen"
-   ],
-   "pays": [
-    "France",
-    "Belgique"
-   ],
-   "annee": 2026,
-   "synopsis": "C’est Halloween, et Ducobu revient pour une aventure pleine de rires et de mystères ! Le professeur Latouche et Mademoiselle Rateau emménagent dans une maison… hantée par le ​ fantôme d'Anatole, le plus grand cancre de l’histoire de l’école Saint-Potache.",
-   "resume": "C’est Halloween, et Ducobu revient pour une aventure pleine de rires et de mystères !",
-   "note_spectateurs": 2.3,
-   "note_presse": 2.5,
-   "sortie": "2026-10-07",
-   "classification": "Tout public",
-   "avertissement": "",
-   "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000019249.html",
-   "seances": [
-    {
-     "salle": "P2788",
-     "debut": "2026-10-30T11:00:00",
-     "version": "VF",
-     "sme": false,
-     "avant_premiere": false,
-     "billetterie": null
-    },
-    {
-     "salle": "W2101",
-     "debut": "2026-10-30T13:20:00",
-     "version": "VF",
-     "sme": false,
-     "avant_premiere": false,
-     "billetterie": "https://s.pathe.fr/en/V3345S87293/booking?utm_source=allocine&utm_medium=allocine&utm_campaign=partenaire-allocine&partenaire=allocine"
-    },
-    {
-     "salle": "P2788",
-     "debut": "2026-10-30T14:15:00",
-     "version": "VF",
-     "sme": false,
-     "avant_premiere": false,
-     "billetterie": "https://dijon.cineville.fr/vad/2714/27531/12707"
-    },
-    {
-     "salle": "P2788",
-     "debut": "2026-10-30T16:00:00",
-     "version": "VF",
-     "sme": false,
-     "avant_premiere": false,
-     "billetterie": "https://dijon.cineville.fr/vad/2714/27532/12596"
-    },
-    {
-     "salle": "W2101",
-     "debut": "2026-10-31T10:50:00",
-     "version": "VF",
-     "sme": false,
-     "avant_premiere": false,
-     "billetterie": "https://s.pathe.fr/en/V3345S87241/booking?utm_source=allocine&utm_medium=allocine&utm_campaign=partenaire-allocine&partenaire=allocine"
-    },
-    {
-     "salle": "P2788",
-     "debut": "2026-10-31T11:00:00",
-     "version": "VF",
-     "sme": false,
-     "avant_premiere": false,
-     "billetterie": "https://dijon.cineville.fr/vad/2714/27583/12667"
-    },
-    {
-     "salle": "P0771",
-     "debut": "2026-10-31T11:00:00",
-     "version": "VF",
-     "sme": false,
-     "avant_premiere": false,
-     "billetterie": "https://s.pathe.fr/en/V3342S121926/booking?utm_source=allocine&utm_medium=allocine&utm_campaign=partenaire-allocine&partenaire=allocine"
-    },
-    {
-     "salle": "W2101",
-     "debut": "2026-10-31T13:20:00",
-     "version": "VF",
-     "sme": false,
-     "avant_premiere": false,
-     "billetterie": "https://s.pathe.fr/en/V3345S87247/booking?utm_source=allocine&utm_medium=allocine&utm_campaign=partenaire-allocine&partenaire=allocine"
-    },
-    {
-     "salle": "P0771",
-     "debut": "2026-10-31T14:15:00",
-     "version": "VF",
-     "sme": false,
-     "avant_premiere": false,
-     "billetterie": "https://s.pathe.fr/en/V3342S121942/booking?utm_source=allocine&utm_medium=allocine&utm_campaign=partenaire-allocine&partenaire=allocine"
-    },
-    {
-     "salle": "P2788",
-     "debut": "2026-10-31T16:00:00",
-     "version": "VF",
-     "sme": false,
-     "avant_premiere": false,
-     "billetterie": "https://dijon.cineville.fr/vad/2714/27585/12596"
-    },
-    {
-     "salle": "P0771",
-     "debut": "2026-10-31T16:35:00",
-     "version": "VF",
-     "sme": false,
-     "avant_premiere": false,
-     "billetterie": "https://s.pathe.fr/en/V3342S121958/booking?utm_source=allocine&utm_medium=allocine&utm_campaign=partenaire-allocine&partenaire=allocine"
-    },
-    {
-     "salle": "P0771",
-     "debut": "2026-10-31T19:40:00",
-     "version": "VF",
-     "sme": false,
-     "avant_premiere": false,
-     "billetterie": "https://s.pathe.fr/en/V3342S121978/booking?utm_source=allocine&utm_medium=allocine&utm_campaign=partenaire-allocine&partenaire=allocine"
-    },
-    {
-     "salle": "W2101",
-     "debut": "2026-11-01T10:50:00",
-     "version": "VF",
-     "sme": false,
-     "avant_premiere": false,
-     "billetterie": "https://s.pathe.fr/en/V3345S87331/booking?utm_source=allocine&utm_medium=allocine&utm_campaign=partenaire-allocine&partenaire=allocine"
-    },
-    {
-     "salle": "P2788",
-     "debut": "2026-11-01T11:00:00",
-     "version": "VF",
-     "sme": false,
-     "avant_premiere": false,
-     "billetterie": "https://dijon.cineville.fr/vad/2714/27637/12718"
-    },
-    {
-     "salle": "P0771",
-     "debut": "2026-11-01T11:00:00",
-     "version": "VF",
-     "sme": false,
-     "avant_premiere": false,
-     "billetterie": "https://s.pathe.fr/en/V3342S121988/booking?utm_source=allocine&utm_medium=allocine&utm_campaign=partenaire-allocine&partenaire=allocine"
-    },
-    {
-     "salle": "W2101",
-     "debut": "2026-11-01T13:20:00",
-     "version": "VF",
-     "sme": false,
-     "avant_premiere": false,
-     "billetterie": "https://s.pathe.fr/en/V3345S87337/booking?utm_source=allocine&utm_medium=allocine&utm_campaign=partenaire-allocine&partenaire=allocine"
-    },
-    {
-     "salle": "P0771",
-     "debut": "2026-11-01T14:10:00",
-     "version": "VF",
-     "sme": false,
-     "avant_premiere": false,
-     "billetterie": "https://s.pathe.fr/en/V3342S122005/booking?utm_source=allocine&utm_medium=allocine&utm_campaign=partenaire-allocine&partenaire=allocine"
-    },
-    {
-     "salle": "P2788",
-     "debut": "2026-11-01T14:15:00",
-     "version": "VF",
-     "sme": false,
-     "avant_premiere": false,
-     "billetterie": "https://dijon.cineville.fr/vad/2714/27638/12707"
-    },
-    {
-     "salle": "P0771",
-     "debut": "2026-11-01T16:20:00",
-     "version": "VF",
-     "sme": false,
-     "avant_premiere": false,
-     "billetterie": "https://s.pathe.fr/en/V3342S122012/booking?utm_source=allocine&utm_medium=allocine&utm_campaign=partenaire-allocine&partenaire=allocine"
-    },
-    {
-     "salle": "P2788",
-     "debut": "2026-11-01T16:30:00",
-     "version": "VF",
-     "sme": false,
-     "avant_premiere": false,
-     "billetterie": "https://dijon.cineville.fr/vad/2714/27639/12707"
-    },
-    {
-     "salle": "P0771",
-     "debut": "2026-11-01T18:30:00",
-     "version": "VF",
-     "sme": false,
-     "avant_premiere": false,
-     "billetterie": "https://s.pathe.fr/en/V3342S122024/booking?utm_source=allocine&utm_medium=allocine&utm_campaign=partenaire-allocine&partenaire=allocine"
-    },
-    {
-     "salle": "W2101",
-     "debut": "2026-11-02T13:00:00",
-     "version": "VF",
-     "sme": false,
-     "avant_premiere": false,
-     "billetterie": "https://s.pathe.fr/en/V3345S87381/booking?utm_source=allocine&utm_medium=allocine&utm_campaign=partenaire-allocine&partenaire=allocine"
-    },
-    {
-     "salle": "P0771",
-     "debut": "2026-11-02T14:10:00",
-     "version": "VF",
-     "sme": false,
-     "avant_premiere": false,
-     "billetterie": "https://s.pathe.fr/en/V3342S122054/booking?utm_source=allocine&utm_medium=allocine&utm_campaign=partenaire-allocine&partenaire=allocine"
-    },
-    {
-     "salle": "P0771",
-     "debut": "2026-11-02T16:20:00",
-     "version": "VF",
-     "sme": false,
-     "avant_premiere": false,
-     "billetterie": "https://s.pathe.fr/en/V3342S122061/booking?utm_source=allocine&utm_medium=allocine&utm_campaign=partenaire-allocine&partenaire=allocine"
-    },
-    {
-     "salle": "P0771",
-     "debut": "2026-11-02T18:30:00",
-     "version": "VF",
-     "sme": false,
-     "avant_premiere": false,
-     "billetterie": "https://s.pathe.fr/en/V3342S122071/booking?utm_source=allocine&utm_medium=allocine&utm_campaign=partenaire-allocine&partenaire=allocine"
-    },
-    {
-     "salle": "W2101",
-     "debut": "2026-11-03T13:20:00",
-     "version": "VF",
-     "sme": false,
-     "avant_premiere": false,
-     "billetterie": "https://s.pathe.fr/en/V3345S87425/booking?utm_source=allocine&utm_medium=allocine&utm_campaign=partenaire-allocine&partenaire=allocine"
-    },
-    {
-     "salle": "P0771",
-     "debut": "2026-11-03T14:10:00",
-     "version": "VF",
-     "sme": false,
-     "avant_premiere": false,
-     "billetterie": "https://s.pathe.fr/en/V3342S122103/booking?utm_source=allocine&utm_medium=allocine&utm_campaign=partenaire-allocine&partenaire=allocine"
-    },
-    {
-     "salle": "P0771",
-     "debut": "2026-11-03T16:20:00",
-     "version": "VF",
-     "sme": false,
-     "avant_premiere": false,
-     "billetterie": "https://s.pathe.fr/en/V3342S122110/booking?utm_source=allocine&utm_medium=allocine&utm_campaign=partenaire-allocine&partenaire=allocine"
-    },
-    {
-     "salle": "P0771",
-     "debut": "2026-11-03T18:30:00",
-     "version": "VF",
-     "sme": false,
-     "avant_premiere": false,
-     "billetterie": "https://s.pathe.fr/en/V3342S122122/booking?utm_source=allocine&utm_medium=allocine&utm_campaign=partenaire-allocine&partenaire=allocine"
-    }
-   ]
-  },
-  {
    "id": 1000023068,
    "titre": "Malfaisante",
    "titre_original": "Other Mommy",
@@ -5000,7 +5120,7 @@
      "version": "VF",
      "sme": false,
      "avant_premiere": false,
-     "billetterie": "https://dijon.cineville.fr/vad/2714/27546/12611"
+     "billetterie": null
     },
     {
      "salle": "P2788",
@@ -5008,7 +5128,7 @@
      "version": "VF",
      "sme": false,
      "avant_premiere": false,
-     "billetterie": "https://dijon.cineville.fr/vad/2714/27547/12664"
+     "billetterie": null
     },
     {
      "salle": "P0771",
@@ -5221,6 +5341,235 @@
    ]
   },
   {
+   "id": 1000013643,
+   "titre": "Mochy",
+   "titre_original": "Yugly",
+   "affiche": "https://fr.web.img4.acsta.net/img/2e/29/2e292d36aa0d7fc0efb2e1d08578357d.jpg",
+   "duree_min": 85,
+   "genres": [
+    "Animation"
+   ],
+   "realisateurs": [
+    "Jérémie Degruson",
+    "Yanis Belaid"
+   ],
+   "acteurs": [],
+   "pays": [
+    "Belgique"
+   ],
+   "annee": 2026,
+   "synopsis": "Mochy est un jeune chien au grand cœur… mais il n’a pas un physique facile… Ça ne l’empêche pas d’avoir un rêve : participer au concours du plus beau chien.",
+   "resume": "Mochy est un jeune chien au grand cœur… mais il n’a pas un physique facile… Ça ne l’empêche pas d’avoir un rêve : participer au concours du plus beau chien.",
+   "note_spectateurs": 3.1,
+   "note_presse": 3.2,
+   "sortie": "2026-10-14",
+   "classification": "Tout public",
+   "avertissement": "",
+   "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000013643.html",
+   "seances": [
+    {
+     "salle": "P2788",
+     "debut": "2026-10-30T11:00:00",
+     "version": "VF",
+     "sme": false,
+     "avant_premiere": false,
+     "billetterie": null
+    },
+    {
+     "salle": "P0771",
+     "debut": "2026-10-30T11:00:00",
+     "version": "VF",
+     "sme": false,
+     "avant_premiere": false,
+     "billetterie": "https://s.pathe.fr/en/V3342S121864/booking?utm_source=allocine&utm_medium=allocine&utm_campaign=partenaire-allocine&partenaire=allocine"
+    },
+    {
+     "salle": "P2788",
+     "debut": "2026-10-30T14:00:00",
+     "version": "VF",
+     "sme": false,
+     "avant_premiere": false,
+     "billetterie": null
+    },
+    {
+     "salle": "P0771",
+     "debut": "2026-10-30T14:10:00",
+     "version": "VF",
+     "sme": false,
+     "avant_premiere": false,
+     "billetterie": "https://s.pathe.fr/en/V3342S121878/booking?utm_source=allocine&utm_medium=allocine&utm_campaign=partenaire-allocine&partenaire=allocine"
+    },
+    {
+     "salle": "P0771",
+     "debut": "2026-10-30T16:15:00",
+     "version": "VF",
+     "sme": false,
+     "avant_premiere": false,
+     "billetterie": "https://s.pathe.fr/en/V3342S121886/booking?utm_source=allocine&utm_medium=allocine&utm_campaign=partenaire-allocine&partenaire=allocine"
+    },
+    {
+     "salle": "P2788",
+     "debut": "2026-10-30T16:20:00",
+     "version": "VF",
+     "sme": false,
+     "avant_premiere": false,
+     "billetterie": null
+    },
+    {
+     "salle": "P0771",
+     "debut": "2026-10-30T18:20:00",
+     "version": "VF",
+     "sme": false,
+     "avant_premiere": false,
+     "billetterie": "https://s.pathe.fr/en/V3342S121897/booking?utm_source=allocine&utm_medium=allocine&utm_campaign=partenaire-allocine&partenaire=allocine"
+    },
+    {
+     "salle": "P2788",
+     "debut": "2026-10-31T11:00:00",
+     "version": "VF",
+     "sme": false,
+     "avant_premiere": false,
+     "billetterie": "https://dijon.cineville.fr/vad/2714/27591/12672"
+    },
+    {
+     "salle": "P0771",
+     "debut": "2026-10-31T11:00:00",
+     "version": "VF",
+     "sme": false,
+     "avant_premiere": false,
+     "billetterie": "https://s.pathe.fr/en/V3342S121927/booking?utm_source=allocine&utm_medium=allocine&utm_campaign=partenaire-allocine&partenaire=allocine"
+    },
+    {
+     "salle": "P2788",
+     "debut": "2026-10-31T13:45:00",
+     "version": "VF",
+     "sme": false,
+     "avant_premiere": false,
+     "billetterie": "https://dijon.cineville.fr/vad/2714/27592/12654"
+    },
+    {
+     "salle": "P0771",
+     "debut": "2026-10-31T13:55:00",
+     "version": "VF",
+     "sme": false,
+     "avant_premiere": false,
+     "billetterie": "https://s.pathe.fr/en/V3342S121941/booking?utm_source=allocine&utm_medium=allocine&utm_campaign=partenaire-allocine&partenaire=allocine"
+    },
+    {
+     "salle": "P0771",
+     "debut": "2026-10-31T16:05:00",
+     "version": "VF",
+     "sme": false,
+     "avant_premiere": false,
+     "billetterie": "https://s.pathe.fr/en/V3342S121947/booking?utm_source=allocine&utm_medium=allocine&utm_campaign=partenaire-allocine&partenaire=allocine"
+    },
+    {
+     "salle": "P2788",
+     "debut": "2026-10-31T16:20:00",
+     "version": "VF",
+     "sme": false,
+     "avant_premiere": false,
+     "billetterie": "https://dijon.cineville.fr/vad/2714/27593/12663"
+    },
+    {
+     "salle": "P0771",
+     "debut": "2026-10-31T18:15:00",
+     "version": "VF",
+     "sme": false,
+     "avant_premiere": false,
+     "billetterie": "https://s.pathe.fr/en/V3342S121957/booking?utm_source=allocine&utm_medium=allocine&utm_campaign=partenaire-allocine&partenaire=allocine"
+    },
+    {
+     "salle": "P2788",
+     "debut": "2026-11-01T11:00:00",
+     "version": "VF",
+     "sme": false,
+     "avant_premiere": false,
+     "billetterie": "https://dijon.cineville.fr/vad/2714/27646/12577"
+    },
+    {
+     "salle": "P0771",
+     "debut": "2026-11-01T11:00:00",
+     "version": "VF",
+     "sme": false,
+     "avant_premiere": false,
+     "billetterie": "https://s.pathe.fr/en/V3342S121989/booking?utm_source=allocine&utm_medium=allocine&utm_campaign=partenaire-allocine&partenaire=allocine"
+    },
+    {
+     "salle": "P2788",
+     "debut": "2026-11-01T14:00:00",
+     "version": "VF",
+     "sme": false,
+     "avant_premiere": false,
+     "billetterie": "https://dijon.cineville.fr/vad/2714/27647/12577"
+    },
+    {
+     "salle": "P0771",
+     "debut": "2026-11-01T14:05:00",
+     "version": "VF",
+     "sme": false,
+     "avant_premiere": false,
+     "billetterie": "https://s.pathe.fr/en/V3342S122004/booking?utm_source=allocine&utm_medium=allocine&utm_campaign=partenaire-allocine&partenaire=allocine"
+    },
+    {
+     "salle": "P2788",
+     "debut": "2026-11-01T16:00:00",
+     "version": "VF",
+     "sme": false,
+     "avant_premiere": false,
+     "billetterie": "https://dijon.cineville.fr/vad/2714/27648/12577"
+    },
+    {
+     "salle": "P0771",
+     "debut": "2026-11-01T16:10:00",
+     "version": "VF",
+     "sme": false,
+     "avant_premiere": false,
+     "billetterie": "https://s.pathe.fr/en/V3342S122011/booking?utm_source=allocine&utm_medium=allocine&utm_campaign=partenaire-allocine&partenaire=allocine"
+    },
+    {
+     "salle": "P0771",
+     "debut": "2026-11-01T18:15:00",
+     "version": "VF",
+     "sme": false,
+     "avant_premiere": false,
+     "billetterie": "https://s.pathe.fr/en/V3342S122023/booking?utm_source=allocine&utm_medium=allocine&utm_campaign=partenaire-allocine&partenaire=allocine"
+    },
+    {
+     "salle": "P0771",
+     "debut": "2026-11-02T13:55:00",
+     "version": "VF",
+     "sme": false,
+     "avant_premiere": false,
+     "billetterie": "https://s.pathe.fr/en/V3342S122053/booking?utm_source=allocine&utm_medium=allocine&utm_campaign=partenaire-allocine&partenaire=allocine"
+    },
+    {
+     "salle": "P0771",
+     "debut": "2026-11-02T16:00:00",
+     "version": "VF",
+     "sme": false,
+     "avant_premiere": false,
+     "billetterie": "https://s.pathe.fr/en/V3342S122060/booking?utm_source=allocine&utm_medium=allocine&utm_campaign=partenaire-allocine&partenaire=allocine"
+    },
+    {
+     "salle": "P0771",
+     "debut": "2026-11-03T13:40:00",
+     "version": "VF",
+     "sme": false,
+     "avant_premiere": false,
+     "billetterie": "https://s.pathe.fr/en/V3342S122102/booking?utm_source=allocine&utm_medium=allocine&utm_campaign=partenaire-allocine&partenaire=allocine"
+    },
+    {
+     "salle": "P0771",
+     "debut": "2026-11-03T17:55:00",
+     "version": "VF",
+     "sme": false,
+     "avant_premiere": false,
+     "billetterie": "https://s.pathe.fr/en/V3342S122121/booking?utm_source=allocine&utm_medium=allocine&utm_campaign=partenaire-allocine&partenaire=allocine"
+    }
+   ]
+  },
+  {
    "id": 1000031247,
    "titre": "La Maison de nos rêves",
    "titre_original": "La Maison de nos rêves",
@@ -5272,7 +5621,7 @@
      "version": "VF",
      "sme": false,
      "avant_premiere": false,
-     "billetterie": "https://dijon.cineville.fr/vad/2714/27549/12637"
+     "billetterie": null
     },
     {
      "salle": "P0771",
@@ -5487,7 +5836,7 @@
      "version": "VF",
      "sme": false,
      "avant_premiere": false,
-     "billetterie": "https://dijon.cineville.fr/vad/2714/27528/12610"
+     "billetterie": null
     },
     {
      "salle": "P0771",
@@ -5511,7 +5860,7 @@
      "version": "VF",
      "sme": false,
      "avant_premiere": false,
-     "billetterie": "https://dijon.cineville.fr/vad/2714/27529/12638"
+     "billetterie": null
     },
     {
      "salle": "P2788",
@@ -5660,203 +6009,6 @@
    ]
   },
   {
-   "id": 1000013643,
-   "titre": "Mochy",
-   "titre_original": "Yugly",
-   "affiche": "https://fr.web.img4.acsta.net/img/2e/29/2e292d36aa0d7fc0efb2e1d08578357d.jpg",
-   "duree_min": 85,
-   "genres": [
-    "Animation"
-   ],
-   "realisateurs": [
-    "Jérémie Degruson",
-    "Yanis Belaid"
-   ],
-   "acteurs": [],
-   "pays": [
-    "Belgique"
-   ],
-   "annee": 2026,
-   "synopsis": "Mochy est un jeune chien au grand cœur… mais il n’a pas un physique facile… Ça ne l’empêche pas d’avoir un rêve : participer au concours du plus beau chien.",
-   "resume": "Mochy est un jeune chien au grand cœur… mais il n’a pas un physique facile… Ça ne l’empêche pas d’avoir un rêve : participer au concours du plus beau chien.",
-   "note_spectateurs": 3.1,
-   "note_presse": 3.2,
-   "sortie": "2026-10-14",
-   "classification": "Tout public",
-   "avertissement": "",
-   "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000013643.html",
-   "seances": [
-    {
-     "salle": "P2788",
-     "debut": "2026-10-30T11:00:00",
-     "version": "VF",
-     "sme": false,
-     "avant_premiere": false,
-     "billetterie": null
-    },
-    {
-     "salle": "P2788",
-     "debut": "2026-10-30T14:00:00",
-     "version": "VF",
-     "sme": false,
-     "avant_premiere": false,
-     "billetterie": "https://dijon.cineville.fr/vad/2714/27540/12654"
-    },
-    {
-     "salle": "P2788",
-     "debut": "2026-10-30T16:20:00",
-     "version": "VF",
-     "sme": false,
-     "avant_premiere": false,
-     "billetterie": "https://dijon.cineville.fr/vad/2714/27541/12577"
-    },
-    {
-     "salle": "P2788",
-     "debut": "2026-10-31T11:00:00",
-     "version": "VF",
-     "sme": false,
-     "avant_premiere": false,
-     "billetterie": "https://dijon.cineville.fr/vad/2714/27591/12672"
-    },
-    {
-     "salle": "P0771",
-     "debut": "2026-10-31T11:00:00",
-     "version": "VF",
-     "sme": false,
-     "avant_premiere": false,
-     "billetterie": "https://s.pathe.fr/en/V3342S121927/booking?utm_source=allocine&utm_medium=allocine&utm_campaign=partenaire-allocine&partenaire=allocine"
-    },
-    {
-     "salle": "P2788",
-     "debut": "2026-10-31T13:45:00",
-     "version": "VF",
-     "sme": false,
-     "avant_premiere": false,
-     "billetterie": "https://dijon.cineville.fr/vad/2714/27592/12654"
-    },
-    {
-     "salle": "P0771",
-     "debut": "2026-10-31T13:55:00",
-     "version": "VF",
-     "sme": false,
-     "avant_premiere": false,
-     "billetterie": "https://s.pathe.fr/en/V3342S121941/booking?utm_source=allocine&utm_medium=allocine&utm_campaign=partenaire-allocine&partenaire=allocine"
-    },
-    {
-     "salle": "P0771",
-     "debut": "2026-10-31T16:05:00",
-     "version": "VF",
-     "sme": false,
-     "avant_premiere": false,
-     "billetterie": "https://s.pathe.fr/en/V3342S121947/booking?utm_source=allocine&utm_medium=allocine&utm_campaign=partenaire-allocine&partenaire=allocine"
-    },
-    {
-     "salle": "P2788",
-     "debut": "2026-10-31T16:20:00",
-     "version": "VF",
-     "sme": false,
-     "avant_premiere": false,
-     "billetterie": "https://dijon.cineville.fr/vad/2714/27593/12663"
-    },
-    {
-     "salle": "P0771",
-     "debut": "2026-10-31T18:15:00",
-     "version": "VF",
-     "sme": false,
-     "avant_premiere": false,
-     "billetterie": "https://s.pathe.fr/en/V3342S121957/booking?utm_source=allocine&utm_medium=allocine&utm_campaign=partenaire-allocine&partenaire=allocine"
-    },
-    {
-     "salle": "P2788",
-     "debut": "2026-11-01T11:00:00",
-     "version": "VF",
-     "sme": false,
-     "avant_premiere": false,
-     "billetterie": "https://dijon.cineville.fr/vad/2714/27646/12577"
-    },
-    {
-     "salle": "P0771",
-     "debut": "2026-11-01T11:00:00",
-     "version": "VF",
-     "sme": false,
-     "avant_premiere": false,
-     "billetterie": "https://s.pathe.fr/en/V3342S121989/booking?utm_source=allocine&utm_medium=allocine&utm_campaign=partenaire-allocine&partenaire=allocine"
-    },
-    {
-     "salle": "P2788",
-     "debut": "2026-11-01T14:00:00",
-     "version": "VF",
-     "sme": false,
-     "avant_premiere": false,
-     "billetterie": "https://dijon.cineville.fr/vad/2714/27647/12577"
-    },
-    {
-     "salle": "P0771",
-     "debut": "2026-11-01T14:05:00",
-     "version": "VF",
-     "sme": false,
-     "avant_premiere": false,
-     "billetterie": "https://s.pathe.fr/en/V3342S122004/booking?utm_source=allocine&utm_medium=allocine&utm_campaign=partenaire-allocine&partenaire=allocine"
-    },
-    {
-     "salle": "P2788",
-     "debut": "2026-11-01T16:00:00",
-     "version": "VF",
-     "sme": false,
-     "avant_premiere": false,
-     "billetterie": "https://dijon.cineville.fr/vad/2714/27648/12577"
-    },
-    {
-     "salle": "P0771",
-     "debut": "2026-11-01T16:10:00",
-     "version": "VF",
-     "sme": false,
-     "avant_premiere": false,
-     "billetterie": "https://s.pathe.fr/en/V3342S122011/booking?utm_source=allocine&utm_medium=allocine&utm_campaign=partenaire-allocine&partenaire=allocine"
-    },
-    {
-     "salle": "P0771",
-     "debut": "2026-11-01T18:15:00",
-     "version": "VF",
-     "sme": false,
-     "avant_premiere": false,
-     "billetterie": "https://s.pathe.fr/en/V3342S122023/booking?utm_source=allocine&utm_medium=allocine&utm_campaign=partenaire-allocine&partenaire=allocine"
-    },
-    {
-     "salle": "P0771",
-     "debut": "2026-11-02T13:55:00",
-     "version": "VF",
-     "sme": false,
-     "avant_premiere": false,
-     "billetterie": "https://s.pathe.fr/en/V3342S122053/booking?utm_source=allocine&utm_medium=allocine&utm_campaign=partenaire-allocine&partenaire=allocine"
-    },
-    {
-     "salle": "P0771",
-     "debut": "2026-11-02T16:00:00",
-     "version": "VF",
-     "sme": false,
-     "avant_premiere": false,
-     "billetterie": "https://s.pathe.fr/en/V3342S122060/booking?utm_source=allocine&utm_medium=allocine&utm_campaign=partenaire-allocine&partenaire=allocine"
-    },
-    {
-     "salle": "P0771",
-     "debut": "2026-11-03T13:40:00",
-     "version": "VF",
-     "sme": false,
-     "avant_premiere": false,
-     "billetterie": "https://s.pathe.fr/en/V3342S122102/booking?utm_source=allocine&utm_medium=allocine&utm_campaign=partenaire-allocine&partenaire=allocine"
-    },
-    {
-     "salle": "P0771",
-     "debut": "2026-11-03T17:55:00",
-     "version": "VF",
-     "sme": false,
-     "avant_premiere": false,
-     "billetterie": "https://s.pathe.fr/en/V3342S122121/booking?utm_source=allocine&utm_medium=allocine&utm_campaign=partenaire-allocine&partenaire=allocine"
-    }
-   ]
-  },
-  {
    "id": 1000000085,
    "titre": "Heart Of The Beast",
    "titre_original": "Heart Of The Beast",
@@ -5901,7 +6053,7 @@
      "version": "VF",
      "sme": false,
      "avant_premiere": false,
-     "billetterie": "https://dijon.cineville.fr/vad/2714/27512/12618"
+     "billetterie": null
     },
     {
      "salle": "P0771",
@@ -6086,7 +6238,7 @@
      "version": "VO",
      "sme": false,
      "avant_premiere": false,
-     "billetterie": "https://www.katorza.fr/vad/2704/13685/5854"
+     "billetterie": null
     },
     {
      "salle": "P0121",
@@ -6102,7 +6254,7 @@
      "version": "VO",
      "sme": false,
      "avant_premiere": false,
-     "billetterie": "https://www.katorza.fr/vad/2704/13686/5856"
+     "billetterie": null
     },
     {
      "salle": "P0120",
@@ -6258,7 +6410,7 @@
    "annee": 2026,
    "synopsis": "Margot débute son internat aux urgences, où elle peine à s’adapter. Très vite, elle fait face à des patients de son âge aux symptômes inexpliqués. La récurrence de ces cas exceptionnels l’interroge, d’autant qu’elle observe, sur son propre corps, des manifestations de plus en plus inquiétantes…",
    "resume": "Margot débute son internat aux urgences, où elle peine à s’adapter. Très vite, elle fait face à des patients de son âge aux symptômes inexpliqués.",
-   "note_spectateurs": 3.3,
+   "note_spectateurs": 3.2,
    "note_presse": 3.1,
    "sortie": "2026-10-28",
    "classification": "Interdit - 16 ans",
@@ -6271,7 +6423,7 @@
      "version": "VF",
      "sme": false,
      "avant_premiere": false,
-     "billetterie": "https://dijon.cineville.fr/vad/2714/27508/12671"
+     "billetterie": null
     },
     {
      "salle": "P2788",
@@ -6279,7 +6431,7 @@
      "version": "VF",
      "sme": false,
      "avant_premiere": false,
-     "billetterie": "https://dijon.cineville.fr/vad/2714/27509/12634"
+     "billetterie": null
     },
     {
      "salle": "P2788",
@@ -6287,7 +6439,7 @@
      "version": "VF",
      "sme": false,
      "avant_premiere": false,
-     "billetterie": "https://dijon.cineville.fr/vad/2714/27510/12639"
+     "billetterie": null
     },
     {
      "salle": "P2788",
@@ -6437,12 +6589,20 @@
    "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000018854.html",
    "seances": [
     {
+     "salle": "P0771",
+     "debut": "2026-10-30T11:00:00",
+     "version": "VF",
+     "sme": false,
+     "avant_premiere": false,
+     "billetterie": "https://s.pathe.fr/en/V3342S121919/booking?utm_source=allocine&utm_medium=allocine&utm_campaign=partenaire-allocine&partenaire=allocine"
+    },
+    {
      "salle": "P2788",
      "debut": "2026-10-30T18:10:00",
      "version": "VF",
      "sme": false,
      "avant_premiere": false,
-     "billetterie": "https://dijon.cineville.fr/vad/2714/27533/12657"
+     "billetterie": null
     },
     {
      "salle": "P0771",
@@ -7032,7 +7192,7 @@
      "version": "VF",
      "sme": false,
      "avant_premiere": false,
-     "billetterie": "https://dijon.cineville.fr/vad/2714/27767/12709"
+     "billetterie": null
     },
     {
      "salle": "P0771",
@@ -7956,7 +8116,7 @@
      "version": "VF",
      "sme": false,
      "avant_premiere": false,
-     "billetterie": "https://www.katorza.fr/vad/2704/13684/5847"
+     "billetterie": null
     },
     {
      "salle": "P0120",
@@ -8052,7 +8212,7 @@
      "version": "VO",
      "sme": false,
      "avant_premiere": false,
-     "billetterie": "https://www.katorza.fr/vad/2704/13676/5855"
+     "billetterie": null
     },
     {
      "salle": "P0120",
@@ -8060,7 +8220,7 @@
      "version": "VO",
      "sme": false,
      "avant_premiere": false,
-     "billetterie": "https://www.katorza.fr/vad/2704/13675/5866"
+     "billetterie": null
     },
     {
      "salle": "P0120",
@@ -8113,6 +8273,99 @@
    ]
   },
   {
+   "id": 1000045286,
+   "titre": "Un amour d’épouvantail",
+   "titre_original": "The Scarecrows’ Wedding",
+   "affiche": "https://fr.web.img5.acsta.net/img/69/17/6917a9ac903b1fbbc9bfa78aca1d257c.png",
+   "duree_min": 44,
+   "genres": [
+    "Animation"
+   ],
+   "realisateurs": [
+    "Samantha Cutler",
+    "Jeroen Jaspaert"
+   ],
+   "acteurs": [],
+   "pays": [
+    "Grande-Bretagne"
+   ],
+   "annee": 2025,
+   "synopsis": "Betty Delorge et Harry Fortepaille, deux épouvantails très amoureux, rêvent d’un mariage inoubliable. Tout semble prêt pour le grand jour… jusqu’à ce que Harry parte chercher une dernière chose indispensable à la célébration : des fleurs roses.",
+   "resume": "Betty Delorge et Harry Fortepaille, deux épouvantails très amoureux, rêvent d’un mariage inoubliable.",
+   "note_spectateurs": 2.6,
+   "note_presse": null,
+   "sortie": "2026-09-23",
+   "classification": "",
+   "avertissement": "",
+   "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000045286.html",
+   "seances": [
+    {
+     "salle": "P0771",
+     "debut": "2026-10-30T10:35:00",
+     "version": "VF",
+     "sme": false,
+     "avant_premiere": false,
+     "billetterie": "https://s.pathe.fr/en/V3342S122147/booking?utm_source=allocine&utm_medium=allocine&utm_campaign=partenaire-allocine&partenaire=allocine"
+    },
+    {
+     "salle": "W2101",
+     "debut": "2026-10-30T11:00:00",
+     "version": "VF",
+     "sme": false,
+     "avant_premiere": false,
+     "billetterie": "https://s.pathe.fr/en/V3345S87292/booking?utm_source=allocine&utm_medium=allocine&utm_campaign=partenaire-allocine&partenaire=allocine"
+    },
+    {
+     "salle": "P0771",
+     "debut": "2026-10-30T14:00:00",
+     "version": "VF",
+     "sme": false,
+     "avant_premiere": false,
+     "billetterie": "https://s.pathe.fr/en/V3342S122148/booking?utm_source=allocine&utm_medium=allocine&utm_campaign=partenaire-allocine&partenaire=allocine"
+    },
+    {
+     "salle": "P0771",
+     "debut": "2026-10-31T10:40:00",
+     "version": "VF",
+     "sme": false,
+     "avant_premiere": false,
+     "billetterie": "https://s.pathe.fr/en/V3342S122149/booking?utm_source=allocine&utm_medium=allocine&utm_campaign=partenaire-allocine&partenaire=allocine"
+    },
+    {
+     "salle": "W2101",
+     "debut": "2026-10-31T11:00:00",
+     "version": "VF",
+     "sme": false,
+     "avant_premiere": false,
+     "billetterie": "https://s.pathe.fr/en/V3345S87246/booking?utm_source=allocine&utm_medium=allocine&utm_campaign=partenaire-allocine&partenaire=allocine"
+    },
+    {
+     "salle": "P0771",
+     "debut": "2026-11-01T10:35:00",
+     "version": "VF",
+     "sme": false,
+     "avant_premiere": false,
+     "billetterie": "https://s.pathe.fr/en/V3342S122150/booking?utm_source=allocine&utm_medium=allocine&utm_campaign=partenaire-allocine&partenaire=allocine"
+    },
+    {
+     "salle": "W2101",
+     "debut": "2026-11-01T11:00:00",
+     "version": "VF",
+     "sme": false,
+     "avant_premiere": false,
+     "billetterie": "https://s.pathe.fr/en/V3345S87336/booking?utm_source=allocine&utm_medium=allocine&utm_campaign=partenaire-allocine&partenaire=allocine"
+    },
+    {
+     "salle": "P0771",
+     "debut": "2026-11-01T14:05:00",
+     "version": "VF",
+     "sme": false,
+     "avant_premiere": false,
+     "billetterie": "https://s.pathe.fr/en/V3342S122151/booking?utm_source=allocine&utm_medium=allocine&utm_campaign=partenaire-allocine&partenaire=allocine"
+    }
+   ]
+  },
+  {
    "id": 1000043220,
    "titre": "Marie Madeleine",
    "titre_original": "Marie Madeleine",
@@ -8149,7 +8402,7 @@
      "version": "VF",
      "sme": false,
      "avant_premiere": false,
-     "billetterie": "https://www.katorza.fr/vad/2704/13692/5870"
+     "billetterie": null
     },
     {
      "salle": "P0120",
@@ -8241,7 +8494,7 @@
      "version": "VO",
      "sme": false,
      "avant_premiere": false,
-     "billetterie": "https://www.katorza.fr/vad/2704/13690/5853"
+     "billetterie": null
     },
     {
      "salle": "P0120",
@@ -8282,83 +8535,6 @@
      "sme": false,
      "avant_premiere": false,
      "billetterie": "https://www.katorza.fr/vad/2704/13799/5853"
-    }
-   ]
-  },
-  {
-   "id": 1000045286,
-   "titre": "Un amour d’épouvantail",
-   "titre_original": "The Scarecrows’ Wedding",
-   "affiche": "https://fr.web.img5.acsta.net/img/69/17/6917a9ac903b1fbbc9bfa78aca1d257c.png",
-   "duree_min": 44,
-   "genres": [
-    "Animation"
-   ],
-   "realisateurs": [
-    "Samantha Cutler",
-    "Jeroen Jaspaert"
-   ],
-   "acteurs": [],
-   "pays": [
-    "Grande-Bretagne"
-   ],
-   "annee": 2025,
-   "synopsis": "Betty Delorge et Harry Fortepaille, deux épouvantails très amoureux, rêvent d’un mariage inoubliable. Tout semble prêt pour le grand jour… jusqu’à ce que Harry parte chercher une dernière chose indispensable à la célébration : des fleurs roses.",
-   "resume": "Betty Delorge et Harry Fortepaille, deux épouvantails très amoureux, rêvent d’un mariage inoubliable.",
-   "note_spectateurs": 2.6,
-   "note_presse": null,
-   "sortie": "2026-09-23",
-   "classification": "",
-   "avertissement": "",
-   "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000045286.html",
-   "seances": [
-    {
-     "salle": "P0771",
-     "debut": "2026-10-30T14:00:00",
-     "version": "VF",
-     "sme": false,
-     "avant_premiere": false,
-     "billetterie": "https://s.pathe.fr/en/V3342S122148/booking?utm_source=allocine&utm_medium=allocine&utm_campaign=partenaire-allocine&partenaire=allocine"
-    },
-    {
-     "salle": "P0771",
-     "debut": "2026-10-31T10:40:00",
-     "version": "VF",
-     "sme": false,
-     "avant_premiere": false,
-     "billetterie": "https://s.pathe.fr/en/V3342S122149/booking?utm_source=allocine&utm_medium=allocine&utm_campaign=partenaire-allocine&partenaire=allocine"
-    },
-    {
-     "salle": "W2101",
-     "debut": "2026-10-31T11:00:00",
-     "version": "VF",
-     "sme": false,
-     "avant_premiere": false,
-     "billetterie": "https://s.pathe.fr/en/V3345S87246/booking?utm_source=allocine&utm_medium=allocine&utm_campaign=partenaire-allocine&partenaire=allocine"
-    },
-    {
-     "salle": "P0771",
-     "debut": "2026-11-01T10:35:00",
-     "version": "VF",
-     "sme": false,
-     "avant_premiere": false,
-     "billetterie": "https://s.pathe.fr/en/V3342S122150/booking?utm_source=allocine&utm_medium=allocine&utm_campaign=partenaire-allocine&partenaire=allocine"
-    },
-    {
-     "salle": "W2101",
-     "debut": "2026-11-01T11:00:00",
-     "version": "VF",
-     "sme": false,
-     "avant_premiere": false,
-     "billetterie": "https://s.pathe.fr/en/V3345S87336/booking?utm_source=allocine&utm_medium=allocine&utm_campaign=partenaire-allocine&partenaire=allocine"
-    },
-    {
-     "salle": "P0771",
-     "debut": "2026-11-01T14:05:00",
-     "version": "VF",
-     "sme": false,
-     "avant_premiere": false,
-     "billetterie": "https://s.pathe.fr/en/V3342S122151/booking?utm_source=allocine&utm_medium=allocine&utm_campaign=partenaire-allocine&partenaire=allocine"
     }
    ]
   },
@@ -8547,7 +8723,7 @@
      "version": "VO",
      "sme": false,
      "avant_premiere": false,
-     "billetterie": "https://www.katorza.fr/vad/2704/13694/5359"
+     "billetterie": null
     },
     {
      "salle": "P0120",
@@ -8643,6 +8819,65 @@
    ]
   },
   {
+   "id": 276608,
+   "titre": "Spider-Man: Brand New Day",
+   "titre_original": "Spider-Man: Brand New Day",
+   "affiche": "https://fr.web.img5.acsta.net/img/cd/90/cd90255ae37ff659dab73bd1c422c9b5.jpg",
+   "duree_min": 145,
+   "genres": [
+    "Action",
+    "Aventure",
+    "Fantastique",
+    "Science-fiction"
+   ],
+   "realisateurs": [
+    "Destin Daniel Cretton"
+   ],
+   "acteurs": [
+    "Tom Holland",
+    "Zendaya",
+    "Sadie Sink"
+   ],
+   "pays": [
+    "U.S.A."
+   ],
+   "annee": 2026,
+   "synopsis": "C’est un tout nouveau jour pour Peter Parker Dans un monde qui ne se souvient plus de lui, il poursuit sans relâche sa lutte contre la criminalité. Mais le sentiment d’avoir été oublié par ses amis qui avancent désormais sans lui provoque un changement chez Peter qu’il n’est peut-être pas en mesure de contrôler. Et pourtant, c’est cette mutation qui pourrait être sa seule chance de s’opposer à un adversaire terrifiant, capable d’agir sans jamais être repéré et prêt à s’attaquer à la ville et à tous les proches de Spider-Man. Car si le monde ne se souvient plus de Peter Parker, lui ne l’a pas oublié…",
+   "resume": "C’est un tout nouveau jour pour Peter Parker Dans un monde qui ne se souvient plus de lui, il poursuit sans relâche sa lutte contre la criminalité.",
+   "note_spectateurs": 4.1,
+   "note_presse": 3.2,
+   "sortie": "2026-12-09",
+   "classification": "Tout public",
+   "avertissement": "",
+   "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=276608.html",
+   "seances": [
+    {
+     "salle": "P0771",
+     "debut": "2026-10-30T10:55:00",
+     "version": "VF",
+     "sme": false,
+     "avant_premiere": false,
+     "billetterie": "https://s.pathe.fr/en/V3342S121861/booking?utm_source=allocine&utm_medium=allocine&utm_campaign=partenaire-allocine&partenaire=allocine"
+    },
+    {
+     "salle": "P0771",
+     "debut": "2026-10-31T10:55:00",
+     "version": "VF",
+     "sme": false,
+     "avant_premiere": false,
+     "billetterie": "https://s.pathe.fr/en/V3342S121925/booking?utm_source=allocine&utm_medium=allocine&utm_campaign=partenaire-allocine&partenaire=allocine"
+    },
+    {
+     "salle": "P0771",
+     "debut": "2026-11-01T10:55:00",
+     "version": "VF",
+     "sme": false,
+     "avant_premiere": false,
+     "billetterie": "https://s.pathe.fr/en/V3342S121986/booking?utm_source=allocine&utm_medium=allocine&utm_campaign=partenaire-allocine&partenaire=allocine"
+    }
+   ]
+  },
+  {
    "id": 1000026039,
    "titre": "Garance",
    "titre_original": "Garance",
@@ -8696,6 +8931,65 @@
      "sme": false,
      "avant_premiere": false,
      "billetterie": "https://eldorado.ticketingcine.com#showsession?id=emsx002700039978&ps=webedia"
+    }
+   ]
+  },
+  {
+   "id": 55774,
+   "titre": "Cars",
+   "titre_original": "Cars",
+   "affiche": "https://fr.web.img3.acsta.net/img/59/da/59da33b9de0e915a94ce75dcd407df2d.jpg",
+   "duree_min": 117,
+   "genres": [
+    "Animation",
+    "Comédie",
+    "Action",
+    "Fantastique"
+   ],
+   "realisateurs": [
+    "John Lasseter"
+   ],
+   "acteurs": [
+    "Guillaume Canet",
+    "Bernard-Pierre Donnadieu",
+    "Cécile de France"
+   ],
+   "pays": [
+    "U.S.A."
+   ],
+   "annee": 2006,
+   "synopsis": "\"Cars\" a pour héros quelques légendes de la route qui vont faire hurler de rire leur moteur sur la mythique route 66 qui traverse les Etats-Unis d'est en ouest...",
+   "resume": "\"Cars\" a pour héros quelques légendes de la route qui vont faire hurler de rire leur moteur sur la mythique route 66 qui traverse les Etats-Unis d'est en ouest...",
+   "note_spectateurs": 3.9,
+   "note_presse": 4,
+   "sortie": "2026-09-30",
+   "classification": "Tout public",
+   "avertissement": "",
+   "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=55774.html",
+   "seances": [
+    {
+     "salle": "P0771",
+     "debut": "2026-10-30T10:55:00",
+     "version": "VF",
+     "sme": false,
+     "avant_premiere": false,
+     "billetterie": "https://s.pathe.fr/en/V3342S121860/booking?utm_source=allocine&utm_medium=allocine&utm_campaign=partenaire-allocine&partenaire=allocine"
+    },
+    {
+     "salle": "P0771",
+     "debut": "2026-10-31T10:55:00",
+     "version": "VF",
+     "sme": false,
+     "avant_premiere": false,
+     "billetterie": "https://s.pathe.fr/en/V3342S121924/booking?utm_source=allocine&utm_medium=allocine&utm_campaign=partenaire-allocine&partenaire=allocine"
+    },
+    {
+     "salle": "P0771",
+     "debut": "2026-11-01T10:55:00",
+     "version": "VF",
+     "sme": false,
+     "avant_premiere": false,
+     "billetterie": "https://s.pathe.fr/en/V3342S121985/booking?utm_source=allocine&utm_medium=allocine&utm_campaign=partenaire-allocine&partenaire=allocine"
     }
    ]
   },
@@ -8791,7 +9085,7 @@
      "version": "VF",
      "sme": false,
      "avant_premiere": false,
-     "billetterie": "https://dijon.cineville.fr/vad/2714/22854/10446"
+     "billetterie": null
     },
     {
      "salle": "P0771",
@@ -8975,108 +9269,6 @@
      "sme": false,
      "avant_premiere": false,
      "billetterie": "https://eldorado.ticketingcine.com#showsession?id=emsx002700039560&ps=webedia"
-    }
-   ]
-  },
-  {
-   "id": 276608,
-   "titre": "Spider-Man: Brand New Day",
-   "titre_original": "Spider-Man: Brand New Day",
-   "affiche": "https://fr.web.img5.acsta.net/img/cd/90/cd90255ae37ff659dab73bd1c422c9b5.jpg",
-   "duree_min": 145,
-   "genres": [
-    "Action",
-    "Aventure",
-    "Fantastique",
-    "Science-fiction"
-   ],
-   "realisateurs": [
-    "Destin Daniel Cretton"
-   ],
-   "acteurs": [
-    "Tom Holland",
-    "Zendaya",
-    "Sadie Sink"
-   ],
-   "pays": [
-    "U.S.A."
-   ],
-   "annee": 2026,
-   "synopsis": "C’est un tout nouveau jour pour Peter Parker Dans un monde qui ne se souvient plus de lui, il poursuit sans relâche sa lutte contre la criminalité. Mais le sentiment d’avoir été oublié par ses amis qui avancent désormais sans lui provoque un changement chez Peter qu’il n’est peut-être pas en mesure de contrôler. Et pourtant, c’est cette mutation qui pourrait être sa seule chance de s’opposer à un adversaire terrifiant, capable d’agir sans jamais être repéré et prêt à s’attaquer à la ville et à tous les proches de Spider-Man. Car si le monde ne se souvient plus de Peter Parker, lui ne l’a pas oublié…",
-   "resume": "C’est un tout nouveau jour pour Peter Parker Dans un monde qui ne se souvient plus de lui, il poursuit sans relâche sa lutte contre la criminalité.",
-   "note_spectateurs": 4.1,
-   "note_presse": 3.2,
-   "sortie": "2026-12-09",
-   "classification": "Tout public",
-   "avertissement": "",
-   "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=276608.html",
-   "seances": [
-    {
-     "salle": "P0771",
-     "debut": "2026-10-31T10:55:00",
-     "version": "VF",
-     "sme": false,
-     "avant_premiere": false,
-     "billetterie": "https://s.pathe.fr/en/V3342S121925/booking?utm_source=allocine&utm_medium=allocine&utm_campaign=partenaire-allocine&partenaire=allocine"
-    },
-    {
-     "salle": "P0771",
-     "debut": "2026-11-01T10:55:00",
-     "version": "VF",
-     "sme": false,
-     "avant_premiere": false,
-     "billetterie": "https://s.pathe.fr/en/V3342S121986/booking?utm_source=allocine&utm_medium=allocine&utm_campaign=partenaire-allocine&partenaire=allocine"
-    }
-   ]
-  },
-  {
-   "id": 55774,
-   "titre": "Cars",
-   "titre_original": "Cars",
-   "affiche": "https://fr.web.img3.acsta.net/img/59/da/59da33b9de0e915a94ce75dcd407df2d.jpg",
-   "duree_min": 117,
-   "genres": [
-    "Animation",
-    "Comédie",
-    "Action",
-    "Fantastique"
-   ],
-   "realisateurs": [
-    "John Lasseter"
-   ],
-   "acteurs": [
-    "Guillaume Canet",
-    "Bernard-Pierre Donnadieu",
-    "Cécile de France"
-   ],
-   "pays": [
-    "U.S.A."
-   ],
-   "annee": 2006,
-   "synopsis": "\"Cars\" a pour héros quelques légendes de la route qui vont faire hurler de rire leur moteur sur la mythique route 66 qui traverse les Etats-Unis d'est en ouest...",
-   "resume": "\"Cars\" a pour héros quelques légendes de la route qui vont faire hurler de rire leur moteur sur la mythique route 66 qui traverse les Etats-Unis d'est en ouest...",
-   "note_spectateurs": 3.9,
-   "note_presse": 4,
-   "sortie": "2026-09-30",
-   "classification": "Tout public",
-   "avertissement": "",
-   "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=55774.html",
-   "seances": [
-    {
-     "salle": "P0771",
-     "debut": "2026-10-31T10:55:00",
-     "version": "VF",
-     "sme": false,
-     "avant_premiere": false,
-     "billetterie": "https://s.pathe.fr/en/V3342S121924/booking?utm_source=allocine&utm_medium=allocine&utm_campaign=partenaire-allocine&partenaire=allocine"
-    },
-    {
-     "salle": "P0771",
-     "debut": "2026-11-01T10:55:00",
-     "version": "VF",
-     "sme": false,
-     "avant_premiere": false,
-     "billetterie": "https://s.pathe.fr/en/V3342S121985/booking?utm_source=allocine&utm_medium=allocine&utm_campaign=partenaire-allocine&partenaire=allocine"
     }
    ]
   },
@@ -9353,46 +9545,6 @@
    ]
   },
   {
-   "id": 11091,
-   "titre": "Scream",
-   "titre_original": "Scream",
-   "affiche": "https://fr.web.img3.acsta.net/medias/nmedia/18/36/12/88/18454857.jpg",
-   "duree_min": 111,
-   "genres": [
-    "Épouvante-horreur"
-   ],
-   "realisateurs": [
-    "Wes Craven"
-   ],
-   "acteurs": [
-    "Neve Campbell",
-    "Courteney Cox",
-    "David Arquette"
-   ],
-   "pays": [
-    "U.S.A."
-   ],
-   "annee": 1996,
-   "synopsis": "Casey Becker, une belle adolescente, est seule dans la maison familiale. Elle s'apprête à regarder un film d'horreur, mais le téléphone sonne. Au bout du fil, un serial killer la malmène...",
-   "resume": "Casey Becker, une belle adolescente, est seule dans la maison familiale. Elle s'apprête à regarder un film d'horreur, mais le téléphone sonne.",
-   "note_spectateurs": 3.8,
-   "note_presse": 5,
-   "sortie": "2026-10-08",
-   "classification": "Interdit - 12 ans",
-   "avertissement": "",
-   "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=11091.html",
-   "seances": [
-    {
-     "salle": "P0120",
-     "debut": "2026-10-30T20:30:00",
-     "version": "VO",
-     "sme": false,
-     "avant_premiere": false,
-     "billetterie": "https://www.katorza.fr/vad/2704/13243/5619"
-    }
-   ]
-  },
-  {
    "id": 55129,
    "titre": "Wallace et Gromit : le Mystère du lapin-garou",
    "titre_original": "Wallace & Gromit: the Curse of the Were-Rabbit",
@@ -9473,6 +9625,46 @@
      "sme": false,
      "avant_premiere": false,
      "billetterie": "https://dijon.cineville.fr/vad/2714/22855/10447"
+    }
+   ]
+  },
+  {
+   "id": 11091,
+   "titre": "Scream",
+   "titre_original": "Scream",
+   "affiche": "https://fr.web.img3.acsta.net/medias/nmedia/18/36/12/88/18454857.jpg",
+   "duree_min": 111,
+   "genres": [
+    "Épouvante-horreur"
+   ],
+   "realisateurs": [
+    "Wes Craven"
+   ],
+   "acteurs": [
+    "Neve Campbell",
+    "Courteney Cox",
+    "David Arquette"
+   ],
+   "pays": [
+    "U.S.A."
+   ],
+   "annee": 1996,
+   "synopsis": "Casey Becker, une belle adolescente, est seule dans la maison familiale. Elle s'apprête à regarder un film d'horreur, mais le téléphone sonne. Au bout du fil, un serial killer la malmène...",
+   "resume": "Casey Becker, une belle adolescente, est seule dans la maison familiale. Elle s'apprête à regarder un film d'horreur, mais le téléphone sonne.",
+   "note_spectateurs": 3.7,
+   "note_presse": 5,
+   "sortie": "2026-10-08",
+   "classification": "Interdit - 12 ans",
+   "avertissement": "",
+   "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=11091.html",
+   "seances": [
+    {
+     "salle": "P0120",
+     "debut": "2026-10-30T20:30:00",
+     "version": "VO",
+     "sme": false,
+     "avant_premiere": false,
+     "billetterie": null
     }
    ]
   },
@@ -9711,8 +9903,8 @@
    "note_spectateurs": null,
    "note_presse": null,
    "sortie": "2026-11-11",
-   "classification": "Interdit - 12 ans avec avertissement",
-   "avertissement": "L'évocation de violence sexuelles et de tentatives de suicide qui concernent des adolescents peut troubler un jeune public non averti.",
+   "classification": "",
+   "avertissement": "",
    "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000040172.html",
    "seances": [
     {
